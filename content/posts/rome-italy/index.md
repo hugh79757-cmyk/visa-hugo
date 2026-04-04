@@ -122,4 +122,4 @@ Understanding your budget is crucial for planning your trip to Rome. Here’s a 
 
 7. **Train to Other Cities**: If you're planning to explore more of Italy, consider taking high-speed trains to nearby cities like Florence or Venice. They are efficient and a great way to see more of the country.
 
-With its blend of history, culture, and gastronomy, Rome promises an unforgettable experience for American travelers. Whether you're wandering through ancient ruins or savoring a plate of pasta, the magic of the Eternal City is sure to leave a lasting impression. If you're also considering a trip to [Porto, Portugal](/posts/porto-portugal/) or [Seville, Spain](/posts/seville-spain/), check out our guides for more travel inspiration!
+With its blend of history, culture, and gastronomy, Rome promises an unforgettable experience for American travelers. Whether you're wandering through ancient ruins or savoring a plate of pasta, the magic of the Eternal City is sure to leave a lasting impression. If you're also considering a trip to Porto, Portugal or Seville, Spain, check out our guides for more travel inspiration!

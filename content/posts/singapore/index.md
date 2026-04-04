@@ -20,7 +20,7 @@ Photo by [Richard L](https://www.pexels.com/@richard-l-2150581203) on [Pexels](h
 
 Singapore is a vibrant melting pot of cultures, making it an incredibly unique destination for travelers. Known for its stunning skyline, rich history, and diverse culinary scene, this city-state offers a little something for everyone. Whether you're strolling through the lush gardens of Marina Bay or exploring the bustling streets of Chinatown, Singapore seamlessly blends tradition with modernity. The city is also renowned for its cleanliness and safety, making it an ideal destination for families and solo travelers alike.
 
-Moreover, Singapore serves as a gateway to Southeast Asia, with excellent flight connections to neighboring countries. If you're planning to explore more of the region, consider pairing your trip with nearby destinations like [Kuala Lumpur, Malaysia](/posts/kuala-lumpur-malaysia/) or [Hoi An, Vietnam](/posts/hoi-an-vietnam/). With its incredible public transport system and compact size, Singapore is easy to navigate, allowing you to make the most of your time here.
+Moreover, Singapore serves as a gateway to Southeast Asia, with excellent flight connections to neighboring countries. If you're planning to explore more of the region, consider pairing your trip with nearby destinations like Kuala Lumpur, Malaysia or Hoi An, Vietnam. With its incredible public transport system and compact size, Singapore is easy to navigate, allowing you to make the most of your time here.
 
 ## Best Time to Visit Singapore
 

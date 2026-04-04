@@ -116,4 +116,4 @@ Understanding the cost of your trip can help you plan accordingly. Here’s a ro
 
 7. **Etiquette**: Familiarize yourself with local customs, such as bowing instead of shaking hands, and remember to remove your shoes when entering someone’s home or certain traditional establishments.
 
-If you’re also considering a trip to [Taipei, Taiwan](/posts/taipei-taiwan/) or [Hong Kong, China](/posts/hong-kong-china/), check out our guides for insights on those vibrant destinations. Enjoy your adventure in Tokyo!
+If you’re also considering a trip to Taipei, Taiwan or Hong Kong, China, check out our guides for insights on those vibrant destinations. Enjoy your adventure in Tokyo!

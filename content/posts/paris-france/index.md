@@ -116,6 +116,6 @@ Understanding your budget is essential for a successful trip to Paris. Here’s 
 
 7. **Plan Ahead**: Popular attractions can have long lines, especially during peak seasons. Consider booking tickets in advance to save time.
 
-If you're also considering a trip to [Copenhagen](/posts/copenhagen-denmark/) or [Venice](/posts/venice-italy/), check out our guides for more travel tips and insights. 
+If you're also considering a trip to Copenhagen or Venice, check out our guides for more travel tips and insights. 
 
 Paris is a city that promises unforgettable moments and lasting memories. With this comprehensive guide, you're well on your way to experiencing the magic of Paris to its fullest.

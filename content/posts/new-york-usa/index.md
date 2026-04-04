@@ -120,4 +120,4 @@ Your daily budget in New York will vary greatly depending on your travel style. 
 
 7. **Dress Comfortably:** New York is a walking city, so wear comfortable shoes and dress in layers, as temperatures can vary throughout the day.
 
-New York City is a destination that promises excitement and adventure at every corner. Whether you’re visiting for the first time or returning for another adventure, these insider tips and travel advice will help you make the most of your trip. If you're also considering a trip to [Havana, Cuba](/posts/havana-cuba/) or [Cancun, Mexico](/posts/cancun-mexico/), check out our guide for more travel inspiration.
+New York City is a destination that promises excitement and adventure at every corner. Whether you’re visiting for the first time or returning for another adventure, these insider tips and travel advice will help you make the most of your trip. If you're also considering a trip to Havana, Cuba or Cancun, Mexico, check out our guide for more travel inspiration.

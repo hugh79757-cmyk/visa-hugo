@@ -137,4 +137,4 @@ Your daily budget in Dubai can vary widely based on your travel style. Here's a 
 
 7. **Cultural Events**: Check local calendars for cultural events and festivals during your visit. They offer a unique insight into Emirati culture and traditions.
 
-Dubai is a city that promises adventure, luxury, and cultural richness. Whether you’re exploring the towering skyscrapers or the charming alleyways of old neighborhoods, the local secrets and hidden gems will surely enhance your travel experience. If you're also considering a trip to [Petra, Jordan](/posts/petra-jordan/), check out our guide to make the most of your travels in the region.
+Dubai is a city that promises adventure, luxury, and cultural richness. Whether you’re exploring the towering skyscrapers or the charming alleyways of old neighborhoods, the local secrets and hidden gems will surely enhance your travel experience. If you're also considering a trip to Petra, Jordan, check out our guide to make the most of your travels in the region.

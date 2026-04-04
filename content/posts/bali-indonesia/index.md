@@ -121,4 +121,4 @@ Bali offers a range of options to suit various budgets. Here’s a rough estimat
 
 7. **Stay Hydrated**: The tropical climate can be hot and humid, so drink plenty of water, especially if you’re engaging in outdoor activities.
 
-With its stunning landscapes, rich culture, and diverse culinary scene, Bali offers a wealth of experiences for travelers. Whether you’re exploring the vibrant neighborhoods, savoring local dishes, or discovering hidden gems off the beaten path, you’ll find that Bali is a destination that truly invites you to embrace life like a local. If you're also considering a trip to [Palawan, Philippines](/posts/palawan-philippines/), check out our guide for more travel tips and insights.
+With its stunning landscapes, rich culture, and diverse culinary scene, Bali offers a wealth of experiences for travelers. Whether you’re exploring the vibrant neighborhoods, savoring local dishes, or discovering hidden gems off the beaten path, you’ll find that Bali is a destination that truly invites you to embrace life like a local. If you're also considering a trip to Palawan, Philippines, check out our guide for more travel tips and insights.

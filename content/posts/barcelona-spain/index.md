@@ -118,6 +118,6 @@ Planning your budget is essential for a smooth trip. Here’s a rough estimate o
 
 6. **Cultural Etiquette**: Embrace the local culture by participating in traditions like the siesta (afternoon nap) and enjoying late dinners, typically starting around 9 PM.
 
-7. **Explore Beyond the City**: If time allows, consider day trips to nearby destinations. For instance, a visit to [Seville, Spain](/posts/seville-spain/) or [Porto, Portugal](/posts/porto-portugal/) adds a unique layer to your Spanish adventure.
+7. **Explore Beyond the City**: If time allows, consider day trips to nearby destinations. For instance, a visit to Seville, Spain or Porto, Portugal adds a unique layer to your Spanish adventure.
 
 Barcelona is a city that invites exploration and discovery. With its rich history, culinary delights, and stunning architecture, your trip to Barcelona is sure to be unforgettable.

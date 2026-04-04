@@ -124,4 +124,4 @@ Keep in mind that prices can fluctuate based on the season, so it’s wise to pl
 
 7. **Currency:** The local currency is the Turkish Lira. It’s advisable to have some cash on hand for small purchases, but credit cards are widely accepted in most places.
 
-Istanbul is a city that promises unforgettable experiences, rich history, and vibrant culture. With this comprehensive guide, you're well-equipped to explore all that this enchanting city has to offer. If you're also considering a trip to [Split, Croatia](/posts/split-croatia/), check out our guide for more travel inspiration!
+Istanbul is a city that promises unforgettable experiences, rich history, and vibrant culture. With this comprehensive guide, you're well-equipped to explore all that this enchanting city has to offer. If you're also considering a trip to Split, Croatia, check out our guide for more travel inspiration!

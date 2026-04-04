@@ -120,4 +120,4 @@ Understanding your budget is crucial for making the most of your week in Bangkok
 
 7. **Bargain at Markets:** Haggling is part of the shopping experience in Bangkok. Don’t be afraid to negotiate prices at markets to get the best deal.
 
-Bangkok is a city that promises a memorable adventure, whether you’re exploring its historic sites, indulging in its culinary delights, or soaking in the vibrant street life. If you're also considering a trip to [Siem Reap, Cambodia](/posts/siem-reap-cambodia/), check out our guide for tips on exploring the ancient temples of Angkor Wat. Enjoy your journey in this incredible city!
+Bangkok is a city that promises a memorable adventure, whether you’re exploring its historic sites, indulging in its culinary delights, or soaking in the vibrant street life. If you're also considering a trip to Siem Reap, Cambodia, check out our guide for tips on exploring the ancient temples of Angkor Wat. Enjoy your journey in this incredible city!

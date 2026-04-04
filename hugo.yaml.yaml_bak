@@ -1,0 +1,108 @@
+baseURL: "https://visa.techpawz.com/"
+languageCode: "en-us"
+title: "TechPawz Visa - Visa Requirements for Every Country"
+theme: "blowfish"
+
+defaultContentLanguage: "en"
+enableRobotsTXT: true
+pagination:
+  pagerSize: 12
+summaryLength: 30
+buildDrafts: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+  highlight:
+    noClasses: false
+
+params:
+  colorScheme: "congo"
+  defaultAppearance: "light"
+  autoSwitchAppearance: true
+
+  header:
+    layout: "basic"
+    showTitle: true
+
+  footer:
+    showCopyright: true
+    showThemeAttribution: false
+    showAppearanceSwitcher: true
+    showScrollToTop: true
+
+  homepage:
+    layout: "profile"
+    homepageImage: ""
+    showRecent: true
+    showRecentItems: 12
+    showMoreLink: true
+    showMoreLinkDest: "/posts"
+    cardView: true
+    cardViewScreenWidth: false
+    layoutBackgroundBlur: true
+
+  article:
+      hotlinkFeatureImage: true
+    showDate: true
+    showViews: false
+    showLikes: false
+    showDateUpdated: true
+    showAuthor: false
+    showBreadcrumbs: true
+    showDraftLabel: true
+    showEdit: false
+    showHeadingAnchors: true
+    showPagination: true
+    showReadingTime: true
+    showTableOfContents: true
+    showTaxonomies: true
+    showWordCount: false
+    sharingLinks:
+      - twitter
+      - facebook
+      - pinterest
+      - reddit
+
+  taxonomy:
+    showTermCount: true
+    showHero: false
+
+  sitemap:
+    excludedKinds:
+      - taxonomy
+      - term
+
+  robots: "index, follow"
+
+  author:
+    name: "TechPawz Visa"
+    headline: "Know Before You Go: Visa Requirements Simplified"
+    bio: "Up-to-date visa requirements for 199 countries. Visa-free access, e-visas, visa on arrival, and application guides."
+
+taxonomies:
+  tag: tags
+  category: categories
+
+menus:
+  main:
+    - name: "All Guides"
+      url: "/posts/"
+      weight: 10
+    - name: "By Passport"
+      url: "/categories/"
+      weight: 20
+    - name: "Tags"
+      url: "/tags/"
+      weight: 30

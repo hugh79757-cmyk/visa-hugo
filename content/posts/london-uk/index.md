@@ -122,4 +122,4 @@ Understanding your budget will help you plan your trip effectively. Here’s a r
 
 7. **Weather Preparedness**: London weather can be unpredictable. Pack layers and an umbrella, even in the summer, to be prepared for sudden rain.
 
-With its rich history, diverse culture, and endless activities, London is a destination that captivates travelers from around the globe. Whether you're exploring the iconic landmarks or immersing yourself in local neighborhoods, this city promises an unforgettable experience. If you’re also considering a trip to [Porto, Portugal](/posts/porto-portugal/) or [Seville, Spain](/posts/seville-spain/), check out our guides for more European adventures!
+With its rich history, diverse culture, and endless activities, London is a destination that captivates travelers from around the globe. Whether you're exploring the iconic landmarks or immersing yourself in local neighborhoods, this city promises an unforgettable experience. If you’re also considering a trip to Porto, Portugal or Seville, Spain, check out our guides for more European adventures!

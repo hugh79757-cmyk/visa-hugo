@@ -54,7 +54,7 @@ params:
     layoutBackgroundBlur: true
 
   article:
-      hotlinkFeatureImage: true
+    hotlinkFeatureImage: true
     showDate: true
     showViews: false
     showLikes: false
