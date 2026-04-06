@@ -14,8 +14,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Isai Matus](https://www.pexels.com/@isai-matus-297239489) on [Pexels](https://www.pexels.com)
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->

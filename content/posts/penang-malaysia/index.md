@@ -14,8 +14,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Richard L](https://www.pexels.com/@richard-l-2150581203) on [Pexels](https://www.pexels.com)
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->

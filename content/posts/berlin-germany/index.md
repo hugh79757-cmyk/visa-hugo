@@ -14,8 +14,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Ismail Abou Khalil](https://www.pexels.com/@ismail-abou-khalil-461417538) on [Pexels](https://www.pexels.com)
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->

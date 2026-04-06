@@ -14,8 +14,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [TBD Tuyên](https://www.pexels.com/@tbd-tuyen-859104985) on [Pexels](https://www.pexels.com)
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->

@@ -14,8 +14,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Efrem  Efre](https://www.pexels.com/@efrem-efre-2786187) on [Pexels](https://www.pexels.com)
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->

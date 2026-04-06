@@ -14,8 +14,6 @@ categories:
 showTableOfContents: true
 ---
 
-Photo by [Hồ Thành](https://www.pexels.com/@h-thanh-131149238) on [Pexels](https://www.pexels.com)
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->

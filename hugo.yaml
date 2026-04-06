@@ -77,7 +77,8 @@ params:
 
   taxonomy:
     showTermCount: true
-    showHero: false
+    showHero: true
+    heroStyle: "big"
 
   sitemap:
     excludedKinds:
