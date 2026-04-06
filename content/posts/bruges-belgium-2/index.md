@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Santiago C.](https://www.pexels.com/@santiago-c-426026072) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ In addition to its historical significance, Bruges is known for its vibrant loca
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 Bruges is a year-round destination, but the best time to visit depends on your preferences for weather, crowds, and pricing. 
 
@@ -157,9 +155,8 @@ Keep in mind that Bruges can be more expensive during peak tourist season, so pl
 Bruges is a city that enchants with its beauty and history, making it a perfect destination for first-time visitors. With its rich culture, delicious food, and picturesque streets, you’re sure to create unforgettable memories in this charming Belgian gem. If you're also considering a trip to [Nice](https://trains.techpawz.com/posts/paris-to-nice/), [France](https://visafree.techpawz.com/posts/france-visa-free/) or Lake Bled, Slovenia, check out our guides for more travel inspiration!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [XT7 Core](https://www.pexels.com/@xt7core) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Beyond its scenic landscapes, Palawan boasts a unique cultural tapestry woven fr
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/palawan-philippines/body_1.jpg)
 *Photo by [XT7 Core](https://www.pexels.com/@xt7core) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ The best time to visit Palawan is during the dry season, which runs from Novembe
 March to May sees a gradual increase in temperatures, with April often being the hottest month. While this is still a great time to visit, be prepared for the warmer weather and slightly larger crowds. The rainy season, from June to October, brings heavy rainfall and occasional typhoons, which can disrupt travel plans. However, if you don’t mind the occasional downpour, you can find lower prices and fewer tourists during this time, especially in locations like Puerto Princesa.
 
 ## Where to Stay in Palawan
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/palawan-philippines/body_2.jpg)
 *Photo by [Kim Villanueva](https://www.pexels.com/@kim-villanueva-1028870460) on [Pexels](https://www.pexels.com)*
@@ -77,7 +73,6 @@ Choosing the right neighborhood can enhance your Palawan experience. Here are so
 - **Remote Getaways:** For those seeking a more secluded experience, consider staying on one of the smaller islands, like Malcapuya or Banana Island. These locations offer a more intimate setting with fewer tourists, perfect for a romantic getaway or a peaceful retreat.
 
 ## Top Things to Do in Palawan
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/palawan-philippines/body_3.jpg)
 *Photo by [Darwin Frivaldo](https://www.pexels.com/@dada) on [Pexels](https://www.pexels.com)*
@@ -118,6 +113,26 @@ Palawan's culinary scene is a delightful mix of flavors and influences. The loca
 
 While street food is widely available and can be an adventure in itself, don't hesitate to try local restaurants for a more authentic dining experience. Many eateries offer a mix of traditional dishes and international cuisine, catering to all palates.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Puerto Princesa Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ee/9f/a2.jpg)](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link)
+
+**[Puerto Princesa Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Palawan
 
 Getting around Palawan can be an adventure in itself. In Puerto Princesa, tricycles are the primary mode of transportation. They are affordable and can take you to most places within the city. For longer distances, such as to the underground river, you can hire a van or join a tour group.
@@ -155,9 +170,8 @@ When planning your trip to Palawan, it’s essential to have a budget in mind. H
 Palawan is a breathtaking destination that offers unforgettable experiences for every type of traveler. Whether you’re exploring its natural wonders or indulging in its culinary delights, you’re sure to create lasting memories in this stunning part of the Philippines. If you're also considering a trip to Hoi An, [Vietnam](https://daytrips.techpawz.com/posts/hanoi-day-trips/), check out our guide for more adventure ideas.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

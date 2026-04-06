@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Isai Matus](https://www.pexels.com/@isai-matus-297239489) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Oaxaca is not just about what you see; it’s about what you feel. The warmth of
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/oaxaca-mexico/body_1.jpg)
 *Photo by [Christian Thöni](https://www.pexels.com/@christian-thoni-45759697) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ Oaxaca experiences a mild climate year-round, but the best time to visit is typi
 Traveling during the rainy season, from May to September, can be a different experience. While the downpours usually occur in the afternoon and evenings, they can lead to lush landscapes and fewer tourists. However, if you don’t mind occasional rain, you can find lower accommodation prices and enjoy a quieter atmosphere. The months of July and August can see a slight increase in visitors due to summer vacations, but the city still retains a charming ambiance.
 
 ## Where to Stay in Oaxaca
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/oaxaca-mexico/body_2.jpg)
 *Photo by [Marcos Alberto García Urrea](https://www.pexels.com/@marcos-alberto-garcia-urrea-768565882) on [Pexels](https://www.pexels.com)*
@@ -75,7 +71,6 @@ If luxury is what you’re after, consider staying in **San Felipe del Agua**, j
 Lastly, for travelers looking for a local experience, the **Xochimilco** neighborhood is a fantastic option. This area is less touristy, allowing you to explore in daily Oaxacan life. You’ll find a mix of affordable guesthouses and boutique accommodations, perfect for those who want to explore the local culture.
 
 ## Top Things to Do in Oaxaca
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/oaxaca-mexico/body_3.jpg)
 *Photo by [Israel Torres](https://www.pexels.com/@israwmx) on [Pexels](https://www.pexels.com)*
@@ -107,6 +102,74 @@ For a sit-down meal, consider trying **barbacoa**, a slow-cooked meat dish typic
 Don’t miss the opportunity to sample **tlayudas**, often referred to as Oaxacan pizza. These large, crispy tortillas are topped with a variety of ingredients, including beans, cheese, and meats, making for a satisfying meal. Whether enjoyed from a street vendor or a local restaurant, they are a worth trying.
 
 For dessert, indulge in **nieves**, a type of sorbet made from fresh fruits and natural flavors. The stalls in the markets often offer a variety of flavors, making it a refreshing treat on a warm day.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Sustainable Mezcal Tour at an Award Winning Family Distillery](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0d/e0/c3.jpg)](https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Sustainable Mezcal Tour at an Award Winning Family Distillery](https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Private and Luxury_
+
+From **$24**
+
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Oaxaca: Monte Alban, Alebrijes, Barro Negro & Cuilapam](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/96/34/30/caption.jpg)](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Monte-Alban-Alebrijes-Barro-Negro-and-Cuilapam/d50491-5621558P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Oaxaca: Monte Alban, Alebrijes, Barro Negro & Cuilapam](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Monte-Alban-Alebrijes-Barro-Negro-and-Cuilapam/d50491-5621558P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Full-day Tours_
+
+From **$38**
+
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Monte-Alban-Alebrijes-Barro-Negro-and-Cuilapam/d50491-5621558P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Oaxaca: Hierve el Agua, Tule, Mitla & Mezcal Full-Day Tour.](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/34/9a/caption.jpg)](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Hierve-el-Agua-Tule-Mitla-and-Mezcal-Full-Day-Tour/d50491-5621558P7?pid=P00295226&mcid=42383&medium=link)
+
+**[Oaxaca: Hierve el Agua, Tule, Mitla & Mezcal Full-Day Tour.](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Hierve-el-Agua-Tule-Mitla-and-Mezcal-Full-Day-Tour/d50491-5621558P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Day Trips_
+
+From **$41**
+
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Hierve-el-Agua-Tule-Mitla-and-Mezcal-Full-Day-Tour/d50491-5621558P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Monte Albán in the Morning](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b5/97/1d/caption.jpg)](https://www.viator.com/tours/Oaxaca-City/Monte-Albn-in-the-Morning/d50491-5554162P13?pid=P00295226&mcid=42383&medium=link)
+
+**[Monte Albán in the Morning](https://www.viator.com/tours/Oaxaca-City/Monte-Albn-in-the-Morning/d50491-5554162P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Archaeology Tours_
+
+From **$30**
+
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Monte-Albn-in-the-Morning/d50491-5554162P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Discovering a Historic Quarter of Oaxaca](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a0/b9/e7/caption.jpg)](https://www.viator.com/tours/Oaxaca-City/Discovering-a-Historic-Quarter-of-Oaxaca/d50491-428209P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Discovering a Historic Quarter of Oaxaca](https://www.viator.com/tours/Oaxaca-City/Discovering-a-Historic-Quarter-of-Oaxaca/d50491-428209P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_City Tours_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Discovering-a-Historic-Quarter-of-Oaxaca/d50491-428209P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Oaxaca
 
@@ -143,9 +206,8 @@ Regardless of your budget, it’s possible to enjoy the richness of Oaxaca witho
 Oaxaca offers a blend of history, culture, and culinary experiences that leave a lasting impression. By immersing yourself in the local way of life and being open to new experiences, you’ll create memories that will stay with you long after your visit.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

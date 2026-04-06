@@ -16,7 +16,6 @@ showTableOfContents: true
 
 ## Why Visit Kyoto?
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -49,8 +48,6 @@ What truly makes [Kyoto](https://michelin.techpawz.com/posts/michelin-restaurant
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kyoto-japan/body_1.jpg)
 *Photo by [Kuan-yu Huang](https://www.pexels.com/@kuan-yu-huang-252427105) on [Pexels](https://www.pexels.com)*
 
@@ -66,7 +63,6 @@ Kyoto experiences four distinct seasons, each offering a unique atmosphere and s
 
 ## Where to Stay in Kyoto
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kyoto-japan/body_2.jpg)
 *Photo by [AXP Photography](https://www.pexels.com/@axp-photography-500641970) on [Pexels](https://www.pexels.com)*
 
@@ -81,7 +77,6 @@ Finding the right neighborhood in Kyoto can enhance your travel experience. Here
 - **Cultural Experience**: For a unique stay, consider a traditional ryokan in the **Arashiyama** area. Here, you can enjoy tatami-matted rooms, kaiseki meals, and beautiful views of the surrounding nature, providing an authentic taste of Japanese hospitality.
 
 ## Top Things to Do in Kyoto
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kyoto-japan/body_3.jpg)
 *Photo by [maxed. RAW](https://www.pexels.com/@maxed-raw-527582413) on [Pexels](https://www.pexels.com)*
@@ -123,6 +118,74 @@ Kyoto is a culinary delight, offering a mix of traditional and modern Japanese c
 - **Yudofu**: A simple yet delicious dish made from tofu simmered in broth. It’s often served with dipping sauces and is a must-try, especially in the colder months.
 
 When dining out, you’ll find a mix of casual eateries and upscale restaurants. Street food is prevalent in areas like Nishiki Market, while restaurants in districts like Gion offer a more formal dining experience.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Hidden Temples in Kyoto a Self-Guided Zen Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/20/41/81.jpg)](https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link)
+
+**[Hidden Temples in Kyoto a Self-Guided Zen Tour](https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+
+_Day Trips_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![T71D Amazing Views of Amanohashidate & Ine Funaya Bus Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/72/5c/3d/caption.jpg)](https://www.viator.com/tours/Kyoto/T71D-Amazing-Views-of-Amanohashidate-and-Ine-Funaya-Bus-Tour/d332-5615577P22?pid=P00295226&mcid=42383&medium=link)
+
+**[T71D Amazing Views of Amanohashidate & Ine Funaya Bus Tour](https://www.viator.com/tours/Kyoto/T71D-Amazing-Views-of-Amanohashidate-and-Ine-Funaya-Bus-Tour/d332-5615577P22?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-55%</span>
+
+_Day Trips_
+
+From **$99**
+
+[Book Now →](https://www.viator.com/tours/Kyoto/T71D-Amazing-Views-of-Amanohashidate-and-Ine-Funaya-Bus-Tour/d332-5615577P22?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Popular Sushi Making Class in Kyoto【Grand Opening】](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/92/6b/54/caption.jpg)](https://www.viator.com/tours/Kyoto/Popular-Sushi-Making-Class-in-KyotoGrand-Opening/d332-445447P20?pid=P00295226&mcid=42383&medium=link)
+
+**[Popular Sushi Making Class in Kyoto【Grand Opening】](https://www.viator.com/tours/Kyoto/Popular-Sushi-Making-Class-in-KyotoGrand-Opening/d332-445447P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Cooking Classes_
+
+From **$42**
+
+[Book Now →](https://www.viator.com/tours/Kyoto/Popular-Sushi-Making-Class-in-KyotoGrand-Opening/d332-445447P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kyoto & Nara Small Group Day Tour from Kyoto](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/2e/47/09.jpg)](https://www.viator.com/tours/Kyoto/Kyoto-and-Nara-Small-Group-Day-Tour-from-Kyoto/d332-5500660P20?pid=P00295226&mcid=42383&medium=link)
+
+**[Kyoto & Nara Small Group Day Tour from Kyoto](https://www.viator.com/tours/Kyoto/Kyoto-and-Nara-Small-Group-Day-Tour-from-Kyoto/d332-5500660P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Day Trips_
+
+From **$100**
+
+[Book Now →](https://www.viator.com/tours/Kyoto/Kyoto-and-Nara-Small-Group-Day-Tour-from-Kyoto/d332-5500660P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kyoto Japanese Gold Repair Kintsugi Workshop in Arashiyama](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c9/93/5a/caption.jpg)](https://www.viator.com/tours/Kyoto/Kyoto-Japanese-Gold-Repair-Kintsugi-Workshop-in-Arashiyama/d332-5523026P53?pid=P00295226&mcid=42383&medium=link)
+
+**[Kyoto Japanese Gold Repair Kintsugi Workshop in Arashiyama](https://www.viator.com/tours/Kyoto/Kyoto-Japanese-Gold-Repair-Kintsugi-Workshop-in-Arashiyama/d332-5523026P53?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Art Classes_
+
+From **$19**
+
+[Book Now →](https://www.viator.com/tours/Kyoto/Kyoto-Japanese-Gold-Repair-Kintsugi-Workshop-in-Arashiyama/d332-5523026P53?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Kyoto
 
@@ -169,9 +232,8 @@ These estimates can vary based on personal preferences, so it’s wise to plan a
 Kyoto is truly a destination that offers something for every traveler. Its blend of history, culture, and natural beauty makes it a worthwhile stop on any Japan itinerary. If you're also considering a trip to [Seoul](https://michelin.techpawz.com/posts/michelin-restaurants-seoul/), [South Korea](https://michelin.techpawz.com/posts/michelin-restaurants-seoul/), check out our guide for more travel inspiration. Happy travels!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

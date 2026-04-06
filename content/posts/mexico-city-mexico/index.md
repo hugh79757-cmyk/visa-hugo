@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Pexels LATAM](https://www.pexels.com/@pexels-latam-478514802) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Moreover, the city is renowned for its artistic spirit, reflected in its numerou
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/mexico-city-mexico/body_1.jpg)
 *Photo by [Axel  García](https://www.pexels.com/@axel-garcia-235375479) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ The best time to visit Mexico City is during the dry season, which runs from Nov
 From May to October, the city experiences its rainy season, with afternoon showers and increased humidity. This period can see larger crowds, especially during summer vacations, but prices for accommodations may be lower. If you’re looking to avoid the tourist rush, consider visiting in late September or early October, when the weather is still nice but the crowds are thinner.
 
 ## Where to Stay in Mexico City
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/mexico-city-mexico/body_2.jpg)
 *Photo by [Karl Solano](https://www.pexels.com/@karlsolano) on [Pexels](https://www.pexels.com)*
@@ -78,7 +74,6 @@ For those looking for a comfortable stay without breaking the bank, Polanco is a
 If you're seeking a luxurious experience, consider staying in Santa Fe. This modern area is filled with high-end hotels and offers a more contemporary feel. With its business district vibe, Santa Fe is ideal for travelers looking for a quieter, upscale environment while still being a short drive from the city center.
 
 ## Top Things to Do in Mexico City
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/mexico-city-mexico/body_3.jpg)
 *Photo by [Los Muertos Crew](https://www.pexels.com/@cristian-rojas) on [Pexels](https://www.pexels.com)*
@@ -112,6 +107,74 @@ Don’t miss **mole**, a rich sauce made from various ingredients, including cho
 For a quick bite, explore the world of **street food**. From quesadillas to tamales, you’ll find an endless variety of delicious options. Be sure to sample **elote** (grilled corn on the cob slathered in mayonnaise, cheese, and chili powder) from a street vendor.
 
 For a sit-down experience, look for restaurants that offer traditional Mexican fare with a modern twist. Many places also have a great selection of tequila and mezcal, perfect for toasting to your adventures in the city.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Private Electric Transfer Hotel Airport 3 Passengers](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/45/bd/caption.jpg)](https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Electric Transfer Hotel Airport 3 Passengers](https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Airport & Hotel Transfers_
+
+From **$34**
+
+[Book Now →](https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Cdmx Teotihuacan Express personal experience family and friends](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/7d/67/b2/caption.jpg)](https://www.viator.com/tours/Mexico-City/Cdmx-Teotihuacan-Express-personal-experience-family-and-friends/d628-5627438P7?pid=P00295226&mcid=42383&medium=link)
+
+**[Cdmx Teotihuacan Express personal experience family and friends](https://www.viator.com/tours/Mexico-City/Cdmx-Teotihuacan-Express-personal-experience-family-and-friends/d628-5627438P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Private Drivers_
+
+From **$96**
+
+[Book Now →](https://www.viator.com/tours/Mexico-City/Cdmx-Teotihuacan-Express-personal-experience-family-and-friends/d628-5627438P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Frida Kahlo and Diego Rivera’s love through Art](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c7/9b/e9/caption.jpg)](https://www.viator.com/tours/Mexico-City/Frida-Kahlo-and-Diego-Riveras-love-through-Art/d628-5647454P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Frida Kahlo and Diego Rivera’s love through Art](https://www.viator.com/tours/Mexico-City/Frida-Kahlo-and-Diego-Riveras-love-through-Art/d628-5647454P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Full-day Tours_
+
+From **$115**
+
+[Book Now →](https://www.viator.com/tours/Mexico-City/Frida-Kahlo-and-Diego-Riveras-love-through-Art/d628-5647454P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Tour in Teotihuacan Pyramids with Buffet and Pick Up](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c4/dc/ab/caption.jpg)](https://www.viator.com/tours/Mexico-City/Private-Tour-in-Teotihuacan-Pyramids-with-Buffet-and-Pick-Up/d628-5581881P25?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Tour in Teotihuacan Pyramids with Buffet and Pick Up](https://www.viator.com/tours/Mexico-City/Private-Tour-in-Teotihuacan-Pyramids-with-Buffet-and-Pick-Up/d628-5581881P25?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$124**
+
+[Book Now →](https://www.viator.com/tours/Mexico-City/Private-Tour-in-Teotihuacan-Pyramids-with-Buffet-and-Pick-Up/d628-5581881P25?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Luxury Executive Transfers in Mexico City](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/96/07/76/caption.jpg)](https://www.viator.com/tours/Mexico-City/Luxury-Executive-Transfers-in-Mexico-City/d628-5641368P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Luxury Executive Transfers in Mexico City](https://www.viator.com/tours/Mexico-City/Luxury-Executive-Transfers-in-Mexico-City/d628-5641368P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Airport & Hotel Transfers_
+
+From **$226**
+
+[Book Now →](https://www.viator.com/tours/Mexico-City/Luxury-Executive-Transfers-in-Mexico-City/d628-5641368P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Mexico City
 
@@ -150,9 +213,8 @@ When planning your trip to Mexico City, it’s helpful to have a rough budget in
 With these insights, you’re well-prepared to explore the dynamic and enchanting city of Mexico City. Whether you're wandering through its historic streets or savoring its culinary delights, your adventure awaits! If you're also considering a trip to [New York](https://michelin.techpawz.com/posts/michelin-restaurants-new-york/), [United States](https://esim.techpawz.com/posts/esim-united-states/), check out our guide for more travel inspiration.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

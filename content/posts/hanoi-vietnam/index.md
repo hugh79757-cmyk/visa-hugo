@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [HONG SON](https://www.pexels.com/@hson) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Another reason to visit [Hanoi](https://daytrips.techpawz.com/posts/hanoi-day-tr
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/hanoi-vietnam/body_1.jpg)
 *Photo by [Thuan Pham](https://www.pexels.com/@thuan) on [Pexels](https://www.pexels.com)*
 
@@ -68,7 +65,6 @@ Hanoi experiences four distinct seasons, each offering a unique atmosphere.
 
 ## Where to Stay in Hanoi
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/hanoi-vietnam/body_2.jpg)
 *Photo by [HONG SON](https://www.pexels.com/@hson) on [Pexels](https://www.pexels.com)*
 
@@ -83,7 +79,6 @@ Finding the perfect neighborhood to stay in Hanoi can enhance your travel experi
 **Tranquil Retreat**: If you prefer a quieter atmosphere, consider staying near the West Lake. This area offers beautiful views and a more laid-back vibe, with a range of accommodations from boutique hotels to luxury resorts. It’s also a great spot for leisurely walks alongside the lake.
 
 ## Top Things to Do in Hanoi
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/hanoi-vietnam/body_3.jpg)
 *Photo by [tu nguyen](https://www.pexels.com/@tu-nguyen-477344610) on [Pexels](https://www.pexels.com)*
@@ -120,6 +115,74 @@ Hanoi is a paradise for food lovers, offering a wide array of delicious dishes t
 5. **Egg Coffee**: A unique Hanoi specialty, this creamy coffee drink is made with egg yolks and sweetened condensed milk, offering a rich and indulgent treat.
 
 **Street Food vs. Restaurants**: You’ll find fantastic street food vendors scattered throughout the city, offering fresh and authentic local cuisine at affordable prices. However, if you’re looking for a sit-down experience, there are plenty of restaurants that serve traditional dishes with a modern twist. Be sure to try both to get the full Hanoi food experience!
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Private Hanoi Street Food Tour with a Local Student Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ad/ba/f3/caption.jpg)](https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Hanoi Street Food Tour with a Local Student Guide](https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-80%</span>
+
+_Street Food Tours_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Hanoi Cooking Class and Market Tour with Chef Tien](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/57/34/b5.jpg)](https://www.viator.com/tours/Hanoi/Hanoi-Cooking-Class-and-Market-Tour-with-Chef-Tien/d351-75533P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Hanoi Cooking Class and Market Tour with Chef Tien](https://www.viator.com/tours/Hanoi/Hanoi-Cooking-Class-and-Market-Tour-with-Chef-Tien/d351-75533P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Cooking Classes_
+
+From **$38**
+
+[Book Now →](https://www.viator.com/tours/Hanoi/Hanoi-Cooking-Class-and-Market-Tour-with-Chef-Tien/d351-75533P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Car and Tour Guide Exploring Northern Vietnam](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/b7/eb/77.jpg)](https://www.viator.com/tours/Hanoi/Private-Car-and-Tour-Guide-Exploring-Northern-Vietnam/d351-177359P14?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Car and Tour Guide Exploring Northern Vietnam](https://www.viator.com/tours/Hanoi/Private-Car-and-Tour-Guide-Exploring-Northern-Vietnam/d351-177359P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Multi-day Tours_
+
+From **$48**
+
+[Book Now →](https://www.viator.com/tours/Hanoi/Private-Car-and-Tour-Guide-Exploring-Northern-Vietnam/d351-177359P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Ha Long Bay Cruise from Hanoi Kayaking and Cave Island Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/46/38/e8.jpg)](https://www.viator.com/tours/Hanoi/Ha-Long-Bay-Cruise-from-Hanoi-Kayaking-and-Cave-Island-Adventure/d351-5495292P115?pid=P00295226&mcid=42383&medium=link)
+
+**[Ha Long Bay Cruise from Hanoi Kayaking and Cave Island Adventure](https://www.viator.com/tours/Hanoi/Ha-Long-Bay-Cruise-from-Hanoi-Kayaking-and-Cave-Island-Adventure/d351-5495292P115?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$60**
+
+[Book Now →](https://www.viator.com/tours/Hanoi/Ha-Long-Bay-Cruise-from-Hanoi-Kayaking-and-Cave-Island-Adventure/d351-5495292P115?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Top Luxury 5-Star Day Cruise: Discover Halong Bay from Hanoi](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/41/42/f1.jpg)](https://www.viator.com/tours/Hanoi/Top-Luxury-5-Star-Day-Cruise-Discover-Halong-Bay-from-Hanoi/d351-5494982P98?pid=P00295226&mcid=42383&medium=link)
+
+**[Top Luxury 5-Star Day Cruise: Discover Halong Bay from Hanoi](https://www.viator.com/tours/Hanoi/Top-Luxury-5-Star-Day-Cruise-Discover-Halong-Bay-from-Hanoi/d351-5494982P98?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$87**
+
+[Book Now →](https://www.viator.com/tours/Hanoi/Top-Luxury-5-Star-Day-Cruise-Discover-Halong-Bay-from-Hanoi/d351-5494982P98?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Hanoi
 
@@ -164,9 +227,8 @@ No matter your budget, Hanoi offers a wide range of options to ensure a memorabl
 Hanoi is a city full of life, culture, and culinary delights. With this guide, you’re well on your way to planning an unforgettable trip to this enchanting destination!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

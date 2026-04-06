@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Ahmed Bates](https://www.pexels.com/@meddybates) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ One of the most enchanting aspects of Zanzibar is its historical significance. S
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/zanzibar-tanzania/body_1.jpg)
 *Photo by [Keegan Checks](https://www.pexels.com/@keeganjchecks) on [Pexels](https://www.pexels.com)*
 
@@ -68,7 +65,6 @@ Zanzibar enjoys a tropical climate, making it a year-round destination. However,
 
 ## Where to Stay in Zanzibar
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/zanzibar-tanzania/body_2.jpg)
 *Photo by [Mashauri Lumbas](https://www.pexels.com/@mashauri-lumbas-2147951045) on [Pexels](https://www.pexels.com)*
 
@@ -83,7 +79,6 @@ Zanzibar offers a variety of accommodations to suit different budgets and prefer
 - **Paje (Mid-Range/Budget)**: This laid-back beach village on the southeast coast is popular among kite surfers. Here, you'll find a range of accommodations, from budget hostels to charming mid-range hotels, all close to the beach and local eateries.
 
 ## Top Things to Do in Zanzibar
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/zanzibar-tanzania/body_3.jpg)
 *Photo by [I am Alex](https://www.pexels.com/@droneafrica) on [Pexels](https://www.pexels.com)*
@@ -165,9 +160,8 @@ Understanding the costs associated with traveling in Zanzibar can help you plan 
 Zanzibar is a destination that promises both relaxation and adventure. With its stunning landscapes, rich culture, and warm hospitality, it’s definitely worth a visit. If you're also considering a trip to Cape Town, South Africa or [Marrakech](https://foodtour.techpawz.com/posts/marrakech-food-tours/), [Morocco](https://adventure.techpawz.com/posts/marrakech-adventure/), you’ll find that each location offers its own unique charm and experiences.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Enzo Sebastian](https://www.pexels.com/@enzosebastian) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Beyond its culinary delights, Lima offers a wealth of historical landmarks and c
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lima-peru/body_1.jpg)
 *Photo by [Joshuan Barboza](https://www.pexels.com/@jbarbozameca) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ When planning your trip to Lima, consider the city's climate and tourist seasons
 If you prefer fewer crowds and lower prices, consider visiting during the shoulder seasons of April to June or September to November. During these months, the weather is still pleasant, although cooler and often overcast, particularly from June to September. Rain is rare, but the coastal fog can linger, especially in winter.
 
 ## Where to Stay in Lima
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lima-peru/body_2.jpg)
 *Photo by [Joshuan Barboza](https://www.pexels.com/@jbarbozameca) on [Pexels](https://www.pexels.com)*
@@ -77,7 +73,6 @@ Finding the right neighborhood to stay in can enhance your Lima experience. Here
 - **Hidden Gems:** For a unique experience, consider staying in the historic center of Lima. While options may be limited, you can find charming accommodations that allow you to step back in time and explore the rich history right outside your door.
 
 ## Top Things to Do in Lima
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lima-peru/body_3.jpg)
 *Photo by [Joshuan Barboza](https://www.pexels.com/@jbarbozameca) on [Pexels](https://www.pexels.com)*
@@ -118,6 +113,74 @@ Lima's culinary scene is a major draw for visitors, showcasing a fusion of indig
 
 For street food enthusiasts, Lima offers countless stalls and markets where you can sample local delights. Be sure to visit local markets like Mercado de Surquillo or Mercado Central for an authentic experience.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Excursion to the historic center and catacombs with Pickup to your Hotel](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/09/82/ce.jpg)](https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link)
+
+**[Excursion to the historic center and catacombs with Pickup to your Hotel](https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-34%</span>
+
+_Private and Luxury_
+
+From **$40**
+
+[Book Now →](https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Excursion to the Sanctuary of Pachacámac + Museum with Hotel Pickup](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/86/91/13/caption.jpg)](https://www.viator.com/tours/Lima/Excursion-to-the-Sanctuary-of-Pachacmac-Museum-with-Hotel-Pickup/d928-5489318P10?pid=P00295226&mcid=42383&medium=link)
+
+**[Excursion to the Sanctuary of Pachacámac + Museum with Hotel Pickup](https://www.viator.com/tours/Lima/Excursion-to-the-Sanctuary-of-Pachacmac-Museum-with-Hotel-Pickup/d928-5489318P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-33%</span>
+
+_Archaeology Tours_
+
+From **$40**
+
+[Book Now →](https://www.viator.com/tours/Lima/Excursion-to-the-Sanctuary-of-Pachacmac-Museum-with-Hotel-Pickup/d928-5489318P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Miraflores Guided Walking Tour and Surquillo Market Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a8/55/cb/caption.jpg)](https://www.viator.com/tours/Lima/Miraflores-Guided-Walking-Tour-and-Surquillo-Market-Experience/d928-5621697P10?pid=P00295226&mcid=42383&medium=link)
+
+**[Miraflores Guided Walking Tour and Surquillo Market Experience](https://www.viator.com/tours/Lima/Miraflores-Guided-Walking-Tour-and-Surquillo-Market-Experience/d928-5621697P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Coffee & Tea Tours_
+
+From **$4**
+
+[Book Now →](https://www.viator.com/tours/Lima/Miraflores-Guided-Walking-Tour-and-Surquillo-Market-Experience/d928-5621697P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![City Tour of the historic center with hotel pickup included](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c4/c5/b4/caption.jpg)](https://www.viator.com/tours/Lima/City-Tour-of-the-historic-center-with-hotel-pickup-included/d928-5489318P2?pid=P00295226&mcid=42383&medium=link)
+
+**[City Tour of the historic center with hotel pickup included](https://www.viator.com/tours/Lima/City-Tour-of-the-historic-center-with-hotel-pickup-included/d928-5489318P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Private and Luxury_
+
+From **$38**
+
+[Book Now →](https://www.viator.com/tours/Lima/City-Tour-of-the-historic-center-with-hotel-pickup-included/d928-5489318P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Evening Lima Walking Tour Historic Center and Pisco Sour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/9c/39/b2.jpg)](https://www.viator.com/tours/Lima/Evening-Lima-Walking-Tour-Historic-Center-and-Pisco-Sour/d928-243736P8?pid=P00295226&mcid=42383&medium=link)
+
+**[Evening Lima Walking Tour Historic Center and Pisco Sour](https://www.viator.com/tours/Lima/Evening-Lima-Walking-Tour-Historic-Center-and-Pisco-Sour/d928-243736P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_City Tours_
+
+From **$31**
+
+[Book Now →](https://www.viator.com/tours/Lima/Evening-Lima-Walking-Tour-Historic-Center-and-Pisco-Sour/d928-243736P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Lima
 
 Navigating Lima is relatively straightforward, thanks to its public transportation options. The Metropolitano bus system is efficient and affordable, connecting various districts throughout the city. It's a good choice for travelers looking to save on transportation costs.
@@ -157,9 +220,8 @@ Regardless of your budget, Lima offers a variety of experiences that cater to al
 If you're also considering a trip to Bogota, [Colombia](https://esim.techpawz.com/posts/esim-colombia/) or Cartagena, Colombia, check out our guide for travel tips and highlights in those cities. Lima can serve as an excellent starting point for exploring South America, so get ready for an unforgettable adventure!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

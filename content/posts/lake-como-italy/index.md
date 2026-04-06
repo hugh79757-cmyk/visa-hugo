@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Wolfgang Weiser](https://www.pexels.com/@wolfgang-weiser-467045605) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Beyond its stunning landscapes, Lake Como offers a unique glimpse into Italian l
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lake-como-italy/body_1.jpg)
 *Photo by [Kelly](https://www.pexels.com/@kelly) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ When planning your trip, consider the seasonal changes that define Lake Como’s
 As **autumn** rolls in, particularly from September to November, the landscape transforms with lively fall colors. The weather remains pleasant, and the crowds thin out, allowing for a more relaxed experience. This is also a great time for wine enthusiasts, as local vineyards celebrate the grape harvest. **Winter** offers a different charm, especially around the holidays when towns are adorned with festive lights. While some activities may be limited due to colder temperatures, the serene beauty of the lake surrounded by snow-capped mountains is a sight to behold. Prices for accommodations typically drop during the off-peak months of late fall and winter, making it a good time for budget-conscious travelers.
 
 ## Where to Stay in Lake Como
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lake-como-italy/body_2.jpg)
 *Photo by [Mike Norris](https://www.pexels.com/@mike-norris-2149008874) on [Pexels](https://www.pexels.com)*
@@ -73,7 +69,6 @@ For those seeking a **mid-range option**, **Varenna** is a delightful choice. Th
 If you're traveling on a **budget**, consider **Menaggio**. This town offers more affordable lodging while still providing stunning lake views and a friendly atmosphere. With its accessible ferry services and pleasant lakeside promenade, Menaggio is perfect for those who want to enjoy the beauty of Lake Como without overspending.
 
 ## Top Things to Do in Lake Como
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lake-como-italy/body_3.jpg)
 *Photo by [alex ohan](https://www.pexels.com/@alex-ohan-204757441) on [Pexels](https://www.pexels.com)*
@@ -133,9 +128,8 @@ For those considering a broader European adventure, you might want to combine yo
 With its breathtaking landscapes, rich history, and delightful cuisine, Lake Como invites travelers to explore and enjoy its many treasures. Whether you’re seeking relaxation or adventure, this enchanting destination will leave a lasting impression.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

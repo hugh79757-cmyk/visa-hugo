@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Kent Kan](https://www.pexels.com/@kent-kan-442663) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ Beyond its natural beauty, Queenstown offers a vibrant atmosphere filled with ch
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 Queenstown’s climate varies significantly throughout the year, making it important to choose the right season for your visit. 
 
@@ -113,6 +111,50 @@ Queenstown’s culinary scene is as diverse as its landscape, offering everythin
 
 - **Street Food vs. Restaurants:** Queenstown has a variety of food trucks and casual eateries offering delicious street food. For a more upscale experience, look for restaurants that feature local ingredients and offer stunning views of the lake and mountains.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![E-Bike Adventures Through the Wineries in Gibbston](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/7a/32/b3.jpg)](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link)
+
+**[E-Bike Adventures Through the Wineries in Gibbston](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Mountain Bike Tours_
+
+From **$59**
+
+[Book Now →](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Queenstown Classic Wine Tour: 3 Winery Visits, Cave Tour & Cheese](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0e/69/bc.jpg)](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Queenstown Classic Wine Tour: 3 Winery Visits, Cave Tour & Cheese](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Private and Luxury_
+
+From **$126**
+
+[Book Now →](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Mount Cook Scenic Tour for 6 with Car Included](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9a/28/cc/caption.jpg)](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Mount Cook Scenic Tour for 6 with Car Included](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+
+_Day Trips_
+
+From **$889**
+
+[Book Now →](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Queenstown
 
 Navigating Queenstown is relatively easy, whether you prefer public transportation, taxis, or renting a car.
@@ -154,9 +196,8 @@ Understanding the costs involved in your trip can help you plan your budget more
 With its stunning landscapes, thrilling activities, and rich culture, Queenstown is a destination that promises to leave a lasting impression. Whether you're seeking adventure or relaxation, this charming town offers an experience unlike any other.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

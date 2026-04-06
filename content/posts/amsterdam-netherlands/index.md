@@ -16,7 +16,6 @@ showTableOfContents: true
 
 ## Why Visit Amsterdam?
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -49,8 +48,6 @@ What truly sets Amsterdam apart is its welcoming atmosphere. The Dutch are known
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/amsterdam-netherlands/body_1.jpg)
 *Photo by [Samuel Isaacs](https://unsplash.com/@sisacreative) on [Unsplash](https://unsplash.com)*
 
@@ -59,7 +56,6 @@ Choosing the right time to visit Amsterdam can greatly enhance your experience. 
 Summer, from July to August, attracts the largest crowds, with temperatures occasionally reaching the mid-80s°F. While you’ll enjoy long days filled with sunshine, be prepared for higher accommodation prices and busy attractions. Fall, particularly September to October, is another excellent time to visit, with fewer tourists and beautiful autumn foliage. If you’re looking for budget-friendly options, visiting in winter, especially from November to March, can be a great choice. While temperatures can dip into the 30s°F, the city’s holiday decorations and festive markets create a cozy atmosphere.
 
 ## Where to Stay in Amsterdam
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/amsterdam-netherlands/body_2.jpg)
 *Photo by [PJ Soans](https://unsplash.com/@pjsoans) on [Unsplash](https://unsplash.com)*
@@ -79,7 +75,6 @@ For those looking to indulge, the Canal Ring is the place to be. This historic a
 For a different vibe, consider staying in Amsterdam North, just a short ferry ride from Central Station. This up-and-coming area boasts a creative atmosphere with modern hotels and unique accommodations. Prices vary widely, but you can find options suitable for different budgets while enjoying a less touristy experience.
 
 ## Top Things to Do in Amsterdam
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/amsterdam-netherlands/body_3.jpg)
 *Photo by [Mike van den Bos](https://unsplash.com/@mike_van_den_bos) on [Unsplash](https://unsplash.com)*
@@ -120,6 +115,74 @@ Amsterdam’s culinary scene is as diverse as its population, offering a delight
 
 For dining options, you’ll find everything from cozy cafes to Michelin-starred restaurants. Street food is a great way to experience local flavors without breaking the bank, while restaurants can range from casual to fine dining, catering to various budgets.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Amsterdam off the Beaten Path: A Self Guided Expedition](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/67/2b/97.jpg)](https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Amsterdam off the Beaten Path: A Self Guided Expedition](https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-68%</span>
+
+_Audio Guides_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Amsterdam: Volendam Tour with Cheese, Clogs & Historic Harbour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/11/d7/30.jpg)](https://www.viator.com/tours/Amsterdam/Amsterdam-Volendam-Tour-with-Cheese-Clogs-and-Historic-Harbour/d525-332919P33?pid=P00295226&mcid=42383&medium=link)
+
+**[Amsterdam: Volendam Tour with Cheese, Clogs & Historic Harbour](https://www.viator.com/tours/Amsterdam/Amsterdam-Volendam-Tour-with-Cheese-Clogs-and-Historic-Harbour/d525-332919P33?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Day Trips_
+
+From **$21**
+
+[Book Now →](https://www.viator.com/tours/Amsterdam/Amsterdam-Volendam-Tour-with-Cheese-Clogs-and-Historic-Harbour/d525-332919P33?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![AMAZE Immersive Audiovisual Experience Amsterdam](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b6/ef/10.jpg)](https://www.viator.com/tours/Amsterdam/AMAZE-Immersive-Audiovisual-Experience-Amsterdam/d525-5504564P4?pid=P00295226&mcid=42383&medium=link)
+
+**[AMAZE Immersive Audiovisual Experience Amsterdam](https://www.viator.com/tours/Amsterdam/AMAZE-Immersive-Audiovisual-Experience-Amsterdam/d525-5504564P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-26%</span>
+
+_Attractions & Museums_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Amsterdam/AMAZE-Immersive-Audiovisual-Experience-Amsterdam/d525-5504564P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self-Guided Canals of Amsterdam Photography Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/e0/6d/55.jpg)](https://www.viator.com/tours/Amsterdam/Self-Guided-Canals-of-Amsterdam-Photography-Tour/d525-30066P12?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided Canals of Amsterdam Photography Tour](https://www.viator.com/tours/Amsterdam/Self-Guided-Canals-of-Amsterdam-Photography-Tour/d525-30066P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_City Tours_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Amsterdam/Self-Guided-Canals-of-Amsterdam-Photography-Tour/d525-30066P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self-Guided Red Light District Amsterdam Photography Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/e0/6d/5e.jpg)](https://www.viator.com/tours/Amsterdam/Self-Guided-Red-Light-District-Amsterdam-Photography-Tour/d525-30066P13?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided Red Light District Amsterdam Photography Tour](https://www.viator.com/tours/Amsterdam/Self-Guided-Red-Light-District-Amsterdam-Photography-Tour/d525-30066P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_City Tours_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Amsterdam/Self-Guided-Red-Light-District-Amsterdam-Photography-Tour/d525-30066P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Amsterdam
 
 Amsterdam is a compact city, making it easy to navigate. One of the best ways to explore is by bike, as the city is known for its extensive cycling paths. Many locals use bicycles as their primary mode of transport, and you can rent one from various shops throughout the city.
@@ -157,9 +220,8 @@ Understanding your budget can help you plan a more enjoyable trip. Here’s a ro
 If you're also considering a trip to Istanbul, Turkey, check out our guide for more travel inspiration. Amsterdam is a city that will leave you with unforgettable memories, and with this guide, you’re well on your way to experiencing all that it has to offer.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

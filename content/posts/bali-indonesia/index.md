@@ -16,7 +16,6 @@ showTableOfContents: true
 
 ## Why Visit Bali?
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -49,8 +48,6 @@ One of the most captivating aspects of Bali is its spirituality, evident in the 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bali-indonesia/body_1.jpg)
 *Photo by [Tina P.](https://www.pexels.com/@tina-p-891488179) on [Pexels](https://www.pexels.com)*
 
@@ -59,7 +56,6 @@ Bali can be visited year-round, but the best time depends on your preferences fo
 The wet season, from November to March, brings heavy rainfall and increased humidity. While the rain can be intense, it typically falls in short bursts, leaving plenty of time for exploration. This is also the time when prices drop, making it a good option for budget travelers. However, be prepared for potential disruptions due to weather and consider sticking to indoor activities or short excursions during this period.
 
 ## Where to Stay in Bali
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bali-indonesia/body_2.jpg)
 *Photo by [Reza Tavakoli](https://www.pexels.com/@rezatavakoli) on [Pexels](https://www.pexels.com)*
@@ -79,7 +75,6 @@ For those seeking a more upscale experience, Seminyak offers luxurious resorts, 
 If you're looking for a quieter, more laid-back vibe, consider Amed. Located on the eastern coast, this fishing village is known for its stunning snorkeling and diving spots, as well as its breathtaking views of Mount Agung. Accommodations here range from budget bungalows to charming boutique hotels, providing a peaceful retreat away from the crowds.
 
 ## Top Things to Do in Bali
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bali-indonesia/body_3.jpg)
 *Photo by [Reza Tavakoli](https://www.pexels.com/@rezatavakoli) on [Pexels](https://www.pexels.com)*
@@ -121,6 +116,38 @@ Bali’s culinary scene is a delightful fusion of flavors, influenced by traditi
 5. **Lawar**: A traditional salad made from chopped vegetables, coconut, and minced meat or fish, lawar is a staple in Balinese cuisine and comes in various regional variations.
 
 When it comes to dining, you’ll find a mix of street food vendors and upscale restaurants. For an authentic experience, try local warungs (small eateries) where you can enjoy delicious meals at reasonable prices. Don’t forget to sample some street food while exploring the markets, as it’s often fresh and bursting with flavor.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Explore South Coast Rethymno - mini van safari with Pic-Nic](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b6/ca/b7/caption.jpg)](https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link)
+
+**[Explore South Coast Rethymno - mini van safari with Pic-Nic](https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Day Trips_
+
+From **$93**
+
+[Book Now →](https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![From Rethymno: Elafonisi Private Tour & Pic-Nic](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b6/d5/28/caption.jpg)](https://www.viator.com/tours/Bali/From-Rethymno-Elafonisi-Private-Tour-and-Pic-Nic/d50944-5579172P11?pid=P00295226&mcid=42383&medium=link)
+
+**[From Rethymno: Elafonisi Private Tour & Pic-Nic](https://www.viator.com/tours/Bali/From-Rethymno-Elafonisi-Private-Tour-and-Pic-Nic/d50944-5579172P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Day Trips_
+
+From **$550**
+
+[Book Now →](https://www.viator.com/tours/Bali/From-Rethymno-Elafonisi-Private-Tour-and-Pic-Nic/d50944-5579172P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Bali
 
@@ -165,9 +192,8 @@ Your daily budget in Bali will vary based on your travel style. Here’s a rough
 With its breathtaking landscapes, rich culture, and delicious cuisine, Bali is a destination that truly captivates the heart. By exploring the island like a local, you’ll discover hidden gems and create unforgettable memories. Whether you’re lounging on a beach, hiking a volcano, or savoring traditional dishes, Bali promises an adventure that will leave you longing for more.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

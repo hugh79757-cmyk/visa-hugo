@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Diego F. Parra](https://www.pexels.com/@diego-f-parra-33199) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Beyond its picturesque landscapes and historical significance, [Dubrovnik](https
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/dubrovnik-croatia/body_1.jpg)
 *Photo by [Diego F. Parra](https://www.pexels.com/@diego-f-parra-33199) on [Pexels](https://www.pexels.com)*
 
@@ -68,7 +65,6 @@ The ideal time to visit Dubrovnik largely depends on your preferences for weathe
 
 ## Where to Stay in Dubrovnik
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/dubrovnik-croatia/body_2.jpg)
 *Photo by [Diego F. Parra](https://www.pexels.com/@diego-f-parra-33199) on [Pexels](https://www.pexels.com)*
 
@@ -83,7 +79,6 @@ Choosing the right neighborhood can enhance your Dubrovnik experience, catering 
 - **Babin Kuk**: Located a bit further from the city center, Babin Kuk is an excellent choice for travelers seeking a quieter stay. The area boasts beautiful beaches and lush greenery, with a mix of budget and mid-range hotels. It's ideal for families or anyone looking to relax away from the tourist crowds.
 
 ## Top Things to Do in Dubrovnik
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/dubrovnik-croatia/body_3.jpg)
 *Photo by [Diego F. Parra](https://www.pexels.com/@diego-f-parra-33199) on [Pexels](https://www.pexels.com)*
@@ -125,6 +120,74 @@ Dubrovnik's culinary scene is a delightful mix of Mediterranean flavors, fresh s
 - **Wine**: [Croatia](https://cruise.techpawz.com/posts/dubrovnik_shore-excursions/) is home to some excellent wines, particularly from the Dalmatian region. Be sure to sample local varieties like Plavac Mali or Pošip while dining in Dubrovnik.
 
 When dining out, you’ll find a range of options from casual street food stalls to upscale restaurants. For a more local experience, consider enjoying a meal at a konoba, a traditional Croatian tavern.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Dubrovnik Sunset Tour By Boat With Local](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/8c/8c/d8.jpg)](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link)
+
+**[Dubrovnik Sunset Tour By Boat With Local](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Jet Boat Rentals_
+
+From **$239**
+
+[Book Now →](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Authentic Family Lunch at Family Home From Dubrovnik](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/4a/02/79.jpg)](https://www.viator.com/tours/Dubrovnik/Private-Authentic-Family-Lunch-at-Family-Home-From-Dubrovnik/d904-64364P31?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Authentic Family Lunch at Family Home From Dubrovnik](https://www.viator.com/tours/Dubrovnik/Private-Authentic-Family-Lunch-at-Family-Home-From-Dubrovnik/d904-64364P31?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$460**
+
+[Book Now →](https://www.viator.com/tours/Dubrovnik/Private-Authentic-Family-Lunch-at-Family-Home-From-Dubrovnik/d904-64364P31?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Dubrovnik: Medjugorje, Ston, and Kravice Waterfalls](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/76/e9/6c/caption.jpg)](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Medjugorje-Ston-and-Kravice-Waterfalls/d904-403969P12?pid=P00295226&mcid=42383&medium=link)
+
+**[Dubrovnik: Medjugorje, Ston, and Kravice Waterfalls](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Medjugorje-Ston-and-Kravice-Waterfalls/d904-403969P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$546**
+
+[Book Now →](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Medjugorje-Ston-and-Kravice-Waterfalls/d904-403969P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Three Countries Day Trip Trebinje, Perast and Kotor](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/77/25/b6/caption.jpg)](https://www.viator.com/tours/Dubrovnik/Three-Countries-Day-Trip-Trebinje-Perast-and-Kotor/d904-403969P14?pid=P00295226&mcid=42383&medium=link)
+
+**[Three Countries Day Trip Trebinje, Perast and Kotor](https://www.viator.com/tours/Dubrovnik/Three-Countries-Day-Trip-Trebinje-Perast-and-Kotor/d904-403969P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$546**
+
+[Book Now →](https://www.viator.com/tours/Dubrovnik/Three-Countries-Day-Trip-Trebinje-Perast-and-Kotor/d904-403969P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Day Trip from Dubrovnik Ston Mostar and Kravice](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/76/ea/47/caption.jpg)](https://www.viator.com/tours/Dubrovnik/Private-Day-Trip-from-Dubrovnik-Ston-Mostar-and-Kravice/d904-403969P20?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Day Trip from Dubrovnik Ston Mostar and Kravice](https://www.viator.com/tours/Dubrovnik/Private-Day-Trip-from-Dubrovnik-Ston-Mostar-and-Kravice/d904-403969P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$546**
+
+[Book Now →](https://www.viator.com/tours/Dubrovnik/Private-Day-Trip-from-Dubrovnik-Ston-Mostar-and-Kravice/d904-403969P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Dubrovnik
 
@@ -169,9 +232,8 @@ Keep in mind that prices can fluctuate based on the season, so it's wise to plan
 Dubrovnik is a destination that offers something for everyone. With its rich history, stunning scenery, and vibrant culture, your visit is sure to be unforgettable. Whether you’re strolling the ancient walls, savoring local cuisine, or relaxing on a beach, you’ll find that Dubrovnik is a place that captures the heart.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Jérémy Glineur](https://www.pexels.com/@pixels-elements) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ What truly sets [Porto](https://tours.techpawz.com/posts/best-tours-porto/) apar
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 The best time to visit Porto largely depends on your preferences for weather, crowds, and pricing. 
 
@@ -110,6 +108,74 @@ Porto’s culinary scene is a delightful blend of traditional Portuguese flavors
 
 - **Street Food vs. Restaurants**: For a more casual experience, try street food at local markets or food stalls. You can find delicious offerings like bifanas (pork sandwiches) and chouriço (smoked sausage). For a sit-down meal, look for traditional tascas (small restaurants) that serve authentic Portuguese dishes at reasonable prices.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Porto's Old Town Tour & Ribeira](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/48/b8/44.jpg)](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Porto's Old Town Tour & Ribeira](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-75%</span>
+
+_Walking Tours_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Tour of Vila Nova de Gaia](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/48/c1/a8.jpg)](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Tour of Vila Nova de Gaia](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-75%</span>
+
+_Walking Tours_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self-Guided Tour Adventure Discovering Porto](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/e7/8a/fe.jpg)](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided Tour Adventure Discovering Porto](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+
+_Audio Guides_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Fado Show in Porto and Guided Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/bb/92/c5.jpg)](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Fado Show in Porto and Guided Tour](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Historical Tours_
+
+From **$21**
+
+[Book Now →](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Porto Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link)
+
+**[Porto Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Porto
 
 Porto is a compact city, making it easy to explore on foot. However, there are several transportation options available to help you navigate the city:
@@ -151,9 +217,8 @@ Understanding the cost of your trip can help you plan your budget effectively. H
 Porto is a city that enchants visitors with its rich history, stunning architecture, and delightful cuisine. Whether you're sipping port wine in a riverside cafe or wandering through its charming streets, there’s something for everyone in this vibrant destination.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

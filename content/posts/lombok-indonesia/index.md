@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Wictor Sparrow](https://www.pexels.com/@wictor-sparrow-2158142269) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ What sets Lombok apart is its harmonious balance of relaxation and adventure. Wh
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lombok-indonesia/body_1.jpg)
 *Photo by [Matthew Yeung](https://www.pexels.com/@matthew-yeung-229755742) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ Lombok enjoys a tropical climate, characterized by a wet and dry season. The bes
 The wet season, from November to March, brings higher humidity and occasional rain showers. While this period may deter some travelers, it can also be a time to enjoy a quieter Lombok, with fewer crowds and lower prices. If you don’t mind a bit of rain, visiting during the shoulder months of April and November can provide a balance of decent weather and fewer tourists, allowing for a more relaxed experience.
 
 ## Where to Stay in Lombok
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lombok-indonesia/body_2.jpg)
 *Photo by [kevin yung](https://www.pexels.com/@kevin-yung-2152346613) on [Pexels](https://www.pexels.com)*
@@ -73,7 +69,6 @@ For those seeking a mid-range experience, the Kuta area is worth considering. Kn
 If luxury is what you’re after, the northern part of Lombok, particularly around the Gili Islands, offers upscale resorts and private villas that provide stunning ocean views and top-notch amenities. Prices in this tier often start at $150 and can go well above $300 per night, ensuring a pampered stay with beautiful surroundings.
 
 ## Top Things to Do in Lombok
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lombok-indonesia/body_3.jpg)
 *Photo by [Jihan N](https://www.pexels.com/@jihan-n-2156415111) on [Pexels](https://www.pexels.com)*
@@ -137,9 +132,8 @@ For those seeking a luxury experience, daily expenses can range from $200 to $40
 With its stunning landscapes, rich culture, and warm hospitality, Lombok is a destination that offers a refreshing escape for American travelers. Whether you’re seeking adventure or relaxation, this Indonesian island has something for everyone.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

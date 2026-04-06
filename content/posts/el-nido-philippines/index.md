@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [XT7 Core](https://www.pexels.com/@xt7core) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ El Nido is not just about picturesque views; it also boasts a lively local cultu
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/el-nido-philippines/body_1.jpg)
 *Photo by [Nothing Ahead](https://www.pexels.com/@ian-panelo) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ The ideal time to visit El Nido is during the dry season, which typically runs f
 In contrast, the wet season, from June to October, brings heavier rainfall and the potential for typhoons. While this may deter some travelers, visiting during the off-peak months can provide a more tranquil experience and potentially lower prices for accommodations and activities. However, it's essential to keep an eye on the weather forecasts if you choose to travel during this time, as some tours may be canceled due to unsafe conditions.
 
 ## Where to Stay in El Nido
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/el-nido-philippines/body_2.jpg)
 *Photo by [Julius M](https://www.pexels.com/@jhuleuse) on [Pexels](https://www.pexels.com)*
@@ -73,7 +69,6 @@ For those seeking a mid-range experience, consider areas slightly further from t
 If luxury is what you desire, El Nido has several upscale resorts that provide stunning ocean views and premium services. These resorts often include private beaches, spa services, and gourmet dining options, with prices starting at around $150 per night and going up significantly for high-end experiences.
 
 ## Top Things to Do in El Nido
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/el-nido-philippines/body_3.jpg)
 *Photo by [Amaia Garcia](https://www.pexels.com/@amaiagarcia) on [Pexels](https://www.pexels.com)*
@@ -131,9 +126,8 @@ Luxury travelers can expect to spend upwards of $200 per day. This budget accomm
 El Nido is a destination that promises stunning landscapes and a genuine connection to nature. With a bit of planning and an open heart, your trip to this beautiful part of the Philippines can be both enjoyable and enriching.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

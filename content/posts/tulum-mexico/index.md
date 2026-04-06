@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Ali  Alcántara](https://www.pexels.com/@alialcantara) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Tulum’s charm lies not only in its picturesque landscapes but also in its comm
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/tulum-mexico/body_1.jpg)
 *Photo by [Carlos Bedoy](https://www.pexels.com/@carlos-bedoy-2147967950) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ Tulum enjoys a tropical climate, characterized by warm temperatures year-round. 
 If you prefer fewer crowds and lower prices, consider visiting during the shoulder seasons of late April to June and September to October. While you may encounter some rain, these months often feature sunny days interspersed with brief showers. Accommodations and activities may be more affordable, allowing you to stretch your travel budget further. The summer months, particularly July and August, can be hot and humid, with the potential for tropical storms, making this a less desirable time for some travelers.
 
 ## Where to Stay in Tulum
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/tulum-mexico/body_2.jpg)
 *Photo by [FranDany](https://www.pexels.com/@frandany-227885104) on [Pexels](https://www.pexels.com)*
@@ -73,7 +69,6 @@ If you're looking for something a bit more upscale, the mid-range options includ
 For those seeking luxury, the beachfront resorts in Tulum are exceptional. These upscale accommodations often feature private bungalows, stunning ocean views, and top-quality amenities. Staying in these areas allows you to indulge in the beauty of Tulum while enjoying top-notch service and comfort. 
 
 ## Top Things to Do in Tulum
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/tulum-mexico/body_3.jpg)
 *Photo by [Jorge Acre](https://www.pexels.com/@jorge-acre-239933086) on [Pexels](https://www.pexels.com)*
@@ -107,6 +102,62 @@ If you're in the mood for something more substantial, **cochinita pibil** is a t
 For a unique dining experience, consider visiting one of the many beach clubs that offer a blend of food, drinks, and relaxation. Many of these establishments serve fresh seafood and innovative cocktails, allowing you to enjoy a leisurely meal with ocean views.
 
 Tulum also boasts a growing scene of health-conscious eateries that serve organic and locally sourced ingredients. Smoothie bowls and fresh salads are often on the menu, catering to those seeking lighter dining options. Many places also feature vegan and vegetarian choices, ensuring everyone can find something to enjoy.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Private Cancun Airport (CUN) Transportation to/from Tulum](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/5f/17/46.jpg)](https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Cancun Airport (CUN) Transportation to/from Tulum](https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-28%</span>
+
+_Airport & Hotel Transfers_
+
+From **$78**
+
+[Book Now →](https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Transportation to/from Tulum Airport (TQO)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ad/61/e2.jpg)](https://www.viator.com/tours/Tulum/Private-Transportation-tofrom-Tulum-Airport-TQO/d23012-279586P126?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Transportation to/from Tulum Airport (TQO)](https://www.viator.com/tours/Tulum/Private-Transportation-tofrom-Tulum-Airport-TQO/d23012-279586P126?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-23%</span>
+
+_Airport & Hotel Transfers_
+
+From **$69**
+
+[Book Now →](https://www.viator.com/tours/Tulum/Private-Transportation-tofrom-Tulum-Airport-TQO/d23012-279586P126?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Cancun Airport: Shuttle to/from Tulum Hotels](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/16/e4/22.jpg)](https://www.viator.com/tours/Tulum/Cancun-Airport-Shuttle-tofrom-Tulum-Hotels/d23012-279586P122?pid=P00295226&mcid=42383&medium=link)
+
+**[Cancun Airport: Shuttle to/from Tulum Hotels](https://www.viator.com/tours/Tulum/Cancun-Airport-Shuttle-tofrom-Tulum-Hotels/d23012-279586P122?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-11%</span>
+
+_Airport & Hotel Transfers_
+
+From **$69**
+
+[Book Now →](https://www.viator.com/tours/Tulum/Cancun-Airport-Shuttle-tofrom-Tulum-Hotels/d23012-279586P122?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Tulum Ruins Tour (Private, Half Day)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/f2/60/b0.jpg)](https://www.viator.com/tours/Tulum/Tulum-Ruins-Tour-Private-Half-Day/d23012-91808P9?pid=P00295226&mcid=42383&medium=link)
+
+**[Tulum Ruins Tour (Private, Half Day)](https://www.viator.com/tours/Tulum/Tulum-Ruins-Tour-Private-Half-Day/d23012-91808P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Private and Luxury_
+
+From **$152**
+
+[Book Now →](https://www.viator.com/tours/Tulum/Tulum-Ruins-Tour-Private-Half-Day/d23012-91808P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Tulum
 
@@ -147,9 +198,8 @@ Luxury travelers can anticipate a budget of $300 and up per day. This includes s
 Tulum offers a blend of natural beauty, long history, and a friendly atmosphere that makes it an ideal destination for American travelers. With careful planning and an open mind, your week in Tulum can be a rewarding and enjoyable experience.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

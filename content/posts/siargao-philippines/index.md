@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Sesinando](https://www.pexels.com/@sesinando-1265215) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ The island's reputation as a surfing hotspot, particularly at **Cloud 9**, draws
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/siargao-philippines/body_1.jpg)
 *Photo by [Bryan](https://www.pexels.com/@bryan-1203776) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ Siargao experiences a tropical climate, characterized by a wet season and a dry 
 The wet season, from **December to February**, brings occasional rain and typhoons, especially in December. However, this period can also be a great time to visit for those seeking fewer crowds and lower prices. While the weather might be less predictable, the island's lush scenery is particularly beautiful during this time, and there are still plenty of sunny days to enjoy. If you're looking for a more tranquil experience, consider visiting in the shoulder months of **February and early March** when the weather is still pleasant, and the crowds are thinner.
 
 ## Where to Stay in Siargao
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/siargao-philippines/body_2.jpg)
 *Photo by [Eking Talampas](https://www.pexels.com/@eking-talampas-210747730) on [Pexels](https://www.pexels.com)*
@@ -73,7 +69,6 @@ If you're seeking a mid-range experience, consider staying in **Malinao** or **C
 For those looking for a touch of luxury, **Bucas Grande** or **Pacifico** may be the perfect fit. These areas feature upscale resorts and private villas with stunning ocean views and top-notch amenities. Prices here typically start around $200 per night, making it an ideal choice for travelers wanting a more indulgent stay. 
 
 ## Top Things to Do in Siargao
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/siargao-philippines/body_3.jpg)
 *Photo by [XT7 Core](https://www.pexels.com/@xt7core) on [Pexels](https://www.pexels.com)*
@@ -143,9 +138,8 @@ For luxury travelers, a budget of $250 and up per day will afford you upscale ac
 Siargao is a destination that captures the heart, offering a mix of adventure, relaxation, and cultural richness. With careful planning and an open mind, you're sure to create lasting memories on this beautiful island.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

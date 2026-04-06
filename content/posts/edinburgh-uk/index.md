@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Abdus Samad Mahkri](https://www.pexels.com/@abdus-samad-mahkri-1624305361) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Beyond the stunning landmarks, [Edinburgh](https://trains.techpawz.com/posts/edi
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/edinburgh-uk/body_1.jpg)
 *Photo by [Rob Wingate](https://unsplash.com/@robwingate) on [Unsplash](https://unsplash.com)*
 
@@ -61,7 +58,6 @@ Edinburgh experiences a temperate maritime climate, characterized by mild summer
 If you prefer fewer tourists and more budget-friendly options, consider visiting in the **shoulder seasons** of **April and September**. During these months, the weather is still pleasant, and you can enjoy many attractions without the summer rush. **Winter**, particularly around December, offers a magical atmosphere with holiday markets and festive decorations, although temperatures can dip into the 30s°F. Just be sure to pack warm clothing if you choose to explore during this time.
 
 ## Where to Stay in Edinburgh
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/edinburgh-uk/body_2.jpg)
 *Photo by [Intrepid](https://unsplash.com/@intrepidfilm) on [Unsplash](https://unsplash.com)*
@@ -73,7 +69,6 @@ For those seeking mid-range options, **Stockbridge** is a delightful neighborhoo
 If luxury is what you seek, look no further than the **New Town**. This elegant district features stunning Georgian architecture and upscale dining options. Staying here places you within walking distance of major attractions like **Princes Street Gardens** and the **Scott Monument**, making it a prime location for exploring the city with a touch of sophistication.
 
 ## Top Things to Do in Edinburgh
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/edinburgh-uk/body_3.jpg)
 *Photo by [Dave H](https://www.pexels.com/@dave-h-1484184665) on [Pexels](https://www.pexels.com)*
@@ -105,6 +100,74 @@ Street food is also gaining popularity in Edinburgh, particularly at the **Stree
 For a more formal dining experience, seek out restaurants that focus on seasonal and locally-sourced ingredients. The city’s dining scene showcases a commitment to sustainability, with many chefs crafting menus that highlight Scotland’s natural bounty. From fresh seafood caught off the coast to locally-raised meats, the flavors of Scotland are on full display.
 
 If you’re in the mood for something unique, try a **whisky tasting** at one of the many whisky bars in the city. Here, you can sample a variety of Scotch whiskies, learning about the different regions and distillation processes that make each one distinct. Pairing whisky with traditional Scottish cheeses can elevate the tasting experience even further.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Self Guided The Edinburgh Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/eb/64/25.jpg)](https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link)
+
+**[Self Guided The Edinburgh Syndicate City Escape Game](https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Edinburgh Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/e7/1b/a7.jpg)](https://www.viator.com/tours/Edinburgh/Edinburgh-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d739-30066P286?pid=P00295226&mcid=42383&medium=link)
+
+**[Edinburgh Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Edinburgh/Edinburgh-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d739-30066P286?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Edinburgh/Edinburgh-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d739-30066P286?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Secrets of Edinburgh Self Guided Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/78/94/2a.jpg)](https://www.viator.com/tours/Edinburgh/Secrets-of-Edinburgh-Self-Guided-Exploration-Game/d739-30066P564?pid=P00295226&mcid=42383&medium=link)
+
+**[Secrets of Edinburgh Self Guided Exploration Game](https://www.viator.com/tours/Edinburgh/Secrets-of-Edinburgh-Self-Guided-Exploration-Game/d739-30066P564?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Edinburgh/Secrets-of-Edinburgh-Self-Guided-Exploration-Game/d739-30066P564?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Coastal Kingdoms Day Tour Lindisfarne and Bamburgh Castle](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/7b/3a/ea/caption.jpg)](https://www.viator.com/tours/Edinburgh/Coastal-Kingdoms-Day-Tour-Lindisfarne-and-Bamburgh-Castle/d739-5638360P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Coastal Kingdoms Day Tour Lindisfarne and Bamburgh Castle](https://www.viator.com/tours/Edinburgh/Coastal-Kingdoms-Day-Tour-Lindisfarne-and-Bamburgh-Castle/d739-5638360P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Day Trips_
+
+From **$81**
+
+[Book Now →](https://www.viator.com/tours/Edinburgh/Coastal-Kingdoms-Day-Tour-Lindisfarne-and-Bamburgh-Castle/d739-5638360P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Highland Gems Dunkeld The Hermitage and Blair Atholl Castle](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/7b/39/ae/caption.jpg)](https://www.viator.com/tours/Edinburgh/Highland-Gems-Dunkeld-The-Hermitage-and-Blair-Atholl-Castle/d739-5638360P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Highland Gems Dunkeld The Hermitage and Blair Atholl Castle](https://www.viator.com/tours/Edinburgh/Highland-Gems-Dunkeld-The-Hermitage-and-Blair-Atholl-Castle/d739-5638360P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Day Trips_
+
+From **$81**
+
+[Book Now →](https://www.viator.com/tours/Edinburgh/Highland-Gems-Dunkeld-The-Hermitage-and-Blair-Atholl-Castle/d739-5638360P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Edinburgh
 
@@ -143,9 +206,8 @@ If you're also considering a trip to Dublin, [Ireland](https://esim.techpawz.com
 With its captivating history, diverse culinary scene, and welcoming locals, Edinburgh offers an experience that will stay with you long after you leave.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

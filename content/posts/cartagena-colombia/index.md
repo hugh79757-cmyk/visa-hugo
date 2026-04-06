@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Kelly](https://www.pexels.com/@kelly) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ What truly sets Cartagena apart is its warm and welcoming atmosphere. The city's
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/cartagena-colombia/body_1.jpg)
 *Photo by [pierre matile](https://www.pexels.com/@open-borders) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ The best time to visit Cartagena is during the dry season, which spans from Dece
 From May to November, Cartagena experiences a rainy season, characterized by higher humidity and occasional tropical downpours. However, this period also offers fewer crowds and lower prices, making it an attractive option for budget travelers. If you're looking to avoid the heaviest rains, consider visiting during the shoulder months of May and November, when you can still enjoy pleasant weather while avoiding the tourist rush.
 
 ## Where to Stay in Cartagena
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/cartagena-colombia/body_2.jpg)
 *Photo by [Kelly](https://www.pexels.com/@kelly) on [Pexels](https://www.pexels.com)*
@@ -75,7 +71,6 @@ Cartagena offers a range of neighborhoods that cater to different budgets and pr
 - **Luxury**: If you're looking for a lavish experience, the Bocagrande area offers upscale hotels with ocean views and luxurious amenities. This neighborhood features high-end dining, shopping, and a beautiful beachfront, perfect for those who want to indulge in a little pampering during their stay.
 
 ## Top Things to Do in Cartagena
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/cartagena-colombia/body_3.jpg)
 *Photo by [Kelly](https://www.pexels.com/@kelly) on [Pexels](https://www.pexels.com)*
@@ -115,6 +110,62 @@ Cartagena's culinary scene is a delightful fusion of flavors influenced by its c
 - **Street Food**: Don't miss the chance to explore Cartagena's street food scene. Try snacks like empanadas, arequipe (a caramel-like spread), and fresh fruit from local vendors for a taste of the city's everyday life.
 
 When dining out, you'll find a mix of casual eateries and upscale restaurants. For a truly local experience, seek out family-run establishments where you can savor home-cooked meals.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Cartagena : Private transfer Airport Hotel (Round trip or One Way)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/fc/c2/c7.jpg)](https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link)
+
+**[Cartagena : Private transfer Airport Hotel (Round trip or One Way)](https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Port Transfers_
+
+From **$30**
+
+[Book Now →](https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Photo session in Cartagena. with a professional photographer](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ab/5e/9d/caption.jpg)](https://www.viator.com/tours/Cartagena/Photo-session-in-Cartagena-with-a-professional-photographer/d4498-5644135P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Photo session in Cartagena. with a professional photographer](https://www.viator.com/tours/Cartagena/Photo-session-in-Cartagena-with-a-professional-photographer/d4498-5644135P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Honeymoon Packages_
+
+From **$160**
+
+[Book Now →](https://www.viator.com/tours/Cartagena/Photo-session-in-Cartagena-with-a-professional-photographer/d4498-5644135P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Route Mud volcano el totumo + Typical beach and lunch club](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/57/d8/83.jpg)](https://www.viator.com/tours/Cartagena/Route-Mud-volcano-el-totumo-Typical-beach-and-lunch-club/d4498-204292P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Route Mud volcano el totumo + Typical beach and lunch club](https://www.viator.com/tours/Cartagena/Route-Mud-volcano-el-totumo-Typical-beach-and-lunch-club/d4498-204292P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Day Trips_
+
+From **$40**
+
+[Book Now →](https://www.viator.com/tours/Cartagena/Route-Mud-volcano-el-totumo-Typical-beach-and-lunch-club/d4498-204292P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Playa Blanca Barú Tour with Lunch and hotel pick up](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/5c/a0/c1.jpg)](https://www.viator.com/tours/Caribbean-Coast/Playa-Blanca-Bar-Tour-with-Lunch-and-hotel-pick-up/d25190-175402P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Playa Blanca Barú Tour with Lunch and hotel pick up](https://www.viator.com/tours/Caribbean-Coast/Playa-Blanca-Bar-Tour-with-Lunch-and-hotel-pick-up/d25190-175402P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-6%</span>
+
+_Audio Guides_
+
+From **$14**
+
+[Book Now →](https://www.viator.com/tours/Caribbean-Coast/Playa-Blanca-Bar-Tour-with-Lunch-and-hotel-pick-up/d25190-175402P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Cartagena
 
@@ -161,9 +212,8 @@ Overall, Cartagena offers a range of options that cater to different budgets, ma
 With its rich history, vibrant culture, and stunning landscapes, Cartagena promises an unforgettable adventure for American travelers. Embrace the warmth of its people, savor its culinary delights, and immerse yourself in the rhythm of this enchanting city. If you're also considering a trip to Medellin, Colombia or [Cusco](https://daytrips.techpawz.com/posts/cusco-day-trips/), [Peru](https://daytrips.techpawz.com/posts/cusco-day-trips/), be sure to check out our guides for more travel inspiration!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Richard L](https://www.pexels.com/@richard-l-2150581203) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ Beyond its historical significance, Penang is also famous for its stunning beach
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 The best time to visit Penang largely depends on your preferences for weather and crowd levels. The island has a tropical climate, characterized by high humidity and temperatures ranging from 75°F to 90°F year-round. 
 
@@ -155,9 +153,8 @@ No matter your budget, Penang offers plenty of options to enjoy its beauty and c
 With its captivating blend of culture, history, and culinary delights, Penang is a destination that promises to leave a lasting impression. Whether you're wandering the streets of George Town, savoring the local cuisine, or soaking up the sun on stunning beaches, your trip to Penang will undoubtedly be unforgettable. If you're also considering a trip to Kuala Lumpur, Malaysia, check out our guide for more insights on exploring this vibrant city!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

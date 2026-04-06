@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Donovan Kelly](https://www.pexels.com/@donovan-kelly-110228397) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ One of the city's most enchanting aspects is its ability to seamlessly weave the
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/dublin-ireland/body_1.jpg)
 *Photo by [Donovan Kelly](https://www.pexels.com/@donovan-kelly-110228397) on [Pexels](https://www.pexels.com)*
 
@@ -68,7 +65,6 @@ Dublin's climate is characterized by mild temperatures and frequent rain, making
 
 ## Where to Stay in Dublin
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/dublin-ireland/body_2.jpg)
 *Photo by [atelierbyvineeth . . .](https://www.pexels.com/@atelierbyvineeth) on [Pexels](https://www.pexels.com)*
 
@@ -81,7 +77,6 @@ Choosing the right neighborhood in Dublin can greatly enhance your travel experi
 - **Luxury**: For a more upscale experience, head to the Georgian Quarter or the Dublin Docklands. These areas feature elegant hotels with stunning views and proximity to attractions like Dublin Castle and the National Gallery. You'll find a perfect blend of comfort and convenience here.
 
 ## Top Things to Do in Dublin
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/dublin-ireland/body_3.jpg)
 *Photo by [atelierbyvineeth . . .](https://www.pexels.com/@atelierbyvineeth) on [Pexels](https://www.pexels.com)*
@@ -121,6 +116,74 @@ Dublin's culinary scene is a delightful mix of traditional Irish dishes and mode
 - **Street Food**: Dublin's street food scene is thriving, with food trucks and stalls offering everything from gourmet sandwiches to artisanal pastries. Explore markets like the Dublin Flea Market or the Temple Bar Food Market for a taste of local flavors.
 
 For dining, consider a mix of casual eateries and fine dining spots. Pubs often serve excellent food alongside their drinks, while restaurants may offer more refined experiences. Don't hesitate to ask locals for their favorite spots!
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Ireland Through the Eyes of the Artist](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c8/6a/5c/caption.jpg)](https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Ireland Through the Eyes of the Artist](https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Art Tours_
+
+From **$207**
+
+[Book Now →](https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![4 Hour Private Dublin City Sightseeing Tour ( 1-7 People)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/26/23/06.jpg)](https://www.viator.com/tours/Dublin/4-Hour-Private-Dublin-City-Sightseeing-Tour-1-7-People/d503-317794P2?pid=P00295226&mcid=42383&medium=link)
+
+**[4 Hour Private Dublin City Sightseeing Tour ( 1-7 People)](https://www.viator.com/tours/Dublin/4-Hour-Private-Dublin-City-Sightseeing-Tour-1-7-People/d503-317794P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Ports of Call Tours_
+
+From **$375**
+
+[Book Now →](https://www.viator.com/tours/Dublin/4-Hour-Private-Dublin-City-Sightseeing-Tour-1-7-People/d503-317794P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Tour of Glendalough and Powerscourt Gardens, (1-7 ppl)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/29/6f/3d.jpg)](https://www.viator.com/tours/Dublin/Private-Tour-of-Glendalough-and-Powerscourt-Gardens-1-7-ppl/d503-317794P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Tour of Glendalough and Powerscourt Gardens, (1-7 ppl)](https://www.viator.com/tours/Dublin/Private-Tour-of-Glendalough-and-Powerscourt-Gardens-1-7-ppl/d503-317794P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$658**
+
+[Book Now →](https://www.viator.com/tours/Dublin/Private-Tour-of-Glendalough-and-Powerscourt-Gardens-1-7-ppl/d503-317794P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Tour of Howth & Malahide Villages](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/6e/cd/6b.jpg)](https://www.viator.com/tours/Dublin/Private-Tour-of-Howth-and-Malahide-Villages/d503-317794P6?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Tour of Howth & Malahide Villages](https://www.viator.com/tours/Dublin/Private-Tour-of-Howth-and-Malahide-Villages/d503-317794P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$658**
+
+[Book Now →](https://www.viator.com/tours/Dublin/Private-Tour-of-Howth-and-Malahide-Villages/d503-317794P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Newgrange Passage Tomb and Ancient Irish Sites Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/8e/e1/f9.jpg)](https://www.viator.com/tours/Dublin/Newgrange-Passage-Tomb-and-Ancient-Irish-Sites-Tour/d503-317794P8?pid=P00295226&mcid=42383&medium=link)
+
+**[Newgrange Passage Tomb and Ancient Irish Sites Tour](https://www.viator.com/tours/Dublin/Newgrange-Passage-Tomb-and-Ancient-Irish-Sites-Tour/d503-317794P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$658**
+
+[Book Now →](https://www.viator.com/tours/Dublin/Newgrange-Passage-Tomb-and-Ancient-Irish-Sites-Tour/d503-317794P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Dublin
 
@@ -163,9 +226,8 @@ Understanding your budget is key to making the most of your trip. Here’s a gen
 For more European adventures, consider exploring [Budapest](https://trains.techpawz.com/posts/vienna-to-budapest/), Hungary, Florence, [Italy](https://tours.techpawz.com/posts/best-tours-rome/), or [Berlin](https://eurail.techpawz.com/posts/kedzierzyn-kozle-to-berlin-train/), Germany. Each city offers its own unique charm and experiences waiting to be discovered.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

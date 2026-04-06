@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Thilina Alagiyawanna](https://www.pexels.com/@thilina-alagiyawanna-3266092) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ In addition to its historical significance, Colombo is also a gateway to the stu
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 The best time to visit Colombo largely depends on the weather and your travel preferences. The city experiences two main monsoon seasons: the Southwest Monsoon from May to September and the Northeast Monsoon from December to February. The ideal months for visiting are typically from December to March, when the weather is dry, sunny, and pleasantly warm, with average temperatures ranging from the mid-70s to low 90s°F.
 
@@ -106,6 +104,74 @@ Colombo’s culinary scene is a delightful mix of flavors, influenced by its div
 
 For a true taste of local life, sample street food at bustling markets or dine at small local eateries, known as "hotels." These establishments often serve delicious, authentic meals at budget-friendly prices.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Colombo Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ef/42/ea.jpg)](https://www.viator.com/tours/Colombo/Colombo-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4619-30066P322?pid=P00295226&mcid=42383&medium=link)
+
+**[Colombo Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Colombo/Colombo-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4619-30066P322?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Colombo/Colombo-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4619-30066P322?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Sri Lanka Car and Driver Hire - Private Driver and Chauffeur](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b8/55/12.jpg)](https://www.viator.com/tours/Colombo/Sri-Lanka-Car-and-Driver-Hire-Private-Driver-and-Chauffeur/d4619-154877P19?pid=P00295226&mcid=42383&medium=link)
+
+**[Sri Lanka Car and Driver Hire - Private Driver and Chauffeur](https://www.viator.com/tours/Colombo/Sri-Lanka-Car-and-Driver-Hire-Private-Driver-and-Chauffeur/d4619-154877P19?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Airport & Hotel Transfers_
+
+From **$30**
+
+[Book Now →](https://www.viator.com/tours/Colombo/Sri-Lanka-Car-and-Driver-Hire-Private-Driver-and-Chauffeur/d4619-154877P19?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Colombo City Tour by Car or Van – Private & All-Inclusive](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/88/9a/32/caption.jpg)](https://www.viator.com/tours/Colombo/Colombo-City-Tour-by-Car-or-Van-Private-and-All-Inclusive/d4619-180602P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Colombo City Tour by Car or Van – Private & All-Inclusive](https://www.viator.com/tours/Colombo/Colombo-City-Tour-by-Car-or-Van-Private-and-All-Inclusive/d4619-180602P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-21%</span>
+
+_Half-day Tours_
+
+From **$55**
+
+[Book Now →](https://www.viator.com/tours/Colombo/Colombo-City-Tour-by-Car-or-Van-Private-and-All-Inclusive/d4619-180602P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Colombo City Tour Tuk Tuk Safari](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/85/65/47/caption.jpg)](https://www.viator.com/tours/Colombo/Colombo-City-Tour-Tuk-Tuk-Safari/d4619-5556081P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Colombo City Tour Tuk Tuk Safari](https://www.viator.com/tours/Colombo/Colombo-City-Tour-Tuk-Tuk-Safari/d4619-5556081P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_City Tours_
+
+From **$14**
+
+[Book Now →](https://www.viator.com/tours/Colombo/Colombo-City-Tour-Tuk-Tuk-Safari/d4619-5556081P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Colombo Airport to Kandy Drop (Shared Transportation)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/17/c4/fc.jpg)](https://www.viator.com/tours/Colombo/Colombo-Airport-to-Kandy-Drop-Shared-Transportation/d4619-51560P75?pid=P00295226&mcid=42383&medium=link)
+
+**[Colombo Airport to Kandy Drop (Shared Transportation)](https://www.viator.com/tours/Colombo/Colombo-Airport-to-Kandy-Drop-Shared-Transportation/d4619-51560P75?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Airport & Hotel Transfers_
+
+From **$14**
+
+[Book Now →](https://www.viator.com/tours/Colombo/Colombo-Airport-to-Kandy-Drop-Shared-Transportation/d4619-51560P75?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Colombo
 
 Getting around Colombo is relatively easy, thanks to its well-connected transportation system. Here are some options:
@@ -147,9 +213,8 @@ Understanding your budget is key to enjoying your week in Colombo. Here’s a ro
 With this comprehensive guide, you're ready to spend an unforgettable week in Colombo, immersing yourself in its culture, history, and delicious cuisine. Whether you're exploring the bustling markets or relaxing by the beach, you'll find that Colombo is a city that captures the heart of every traveler. If you're also considering a trip to Penang, Malaysia or Palawan, Philippines, check out our guides for more travel inspiration!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

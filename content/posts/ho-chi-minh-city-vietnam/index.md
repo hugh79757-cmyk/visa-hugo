@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Tuan Vy](https://www.pexels.com/@tuan-vy-903011268) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ One of the most striking aspects of Ho Chi Minh City is its food scene, which is
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 Ho Chi Minh City enjoys a tropical climate, which means it’s warm and humid year-round. However, the best time to visit is during the dry season from December to April. During these months, the weather is relatively cooler, with temperatures ranging from the mid-70s to mid-90s Fahrenheit, making it ideal for exploring the city without the interruption of rain.
 
@@ -106,6 +104,74 @@ Vietnamese cuisine is renowned for its fresh ingredients and bold flavors, and H
 
 While street food is an essential part of the Ho Chi Minh experience, don't miss out on the city's burgeoning restaurant scene. From traditional Vietnamese to modern fusion, you'll find a diverse range of dining options that cater to all tastes.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Escape from the city-center, private street food and sight-seeing tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/9f/bb/31.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/Escape-from-the-city-center-private-street-food-and-sight-seeing-tour/d352-187976P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Escape from the city-center, private street food and sight-seeing tour](https://www.viator.com/tours/Ho-Chi-Minh-City/Escape-from-the-city-center-private-street-food-and-sight-seeing-tour/d352-187976P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Dining Experiences_
+
+From **$47**
+
+[Book Now →](https://www.viator.com/tours/Ho-Chi-Minh-City/Escape-from-the-city-center-private-street-food-and-sight-seeing-tour/d352-187976P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Mekong Delta 2-Day Tour: Floating Markets & Cultural Explore](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0e/7d/56.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/Mekong-Delta-2-Day-Tour-Floating-Markets-and-Cultural-Explore/d352-32652P88?pid=P00295226&mcid=42383&medium=link)
+
+**[Mekong Delta 2-Day Tour: Floating Markets & Cultural Explore](https://www.viator.com/tours/Ho-Chi-Minh-City/Mekong-Delta-2-Day-Tour-Floating-Markets-and-Cultural-Explore/d352-32652P88?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Multi-day Tours_
+
+From **$88**
+
+[Book Now →](https://www.viator.com/tours/Ho-Chi-Minh-City/Mekong-Delta-2-Day-Tour-Floating-Markets-and-Cultural-Explore/d352-32652P88?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![“Two wheels. One river. Four days of pure adventure.”](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/e2/cc/81.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-wheels-One-river-Four-days-of-pure-adventure/d352-24110P13?pid=P00295226&mcid=42383&medium=link)
+
+**[“Two wheels. One river. Four days of pure adventure.”](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-wheels-One-river-Four-days-of-pure-adventure/d352-24110P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Multi-day Tours_
+
+From **$608**
+
+[Book Now →](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-wheels-One-river-Four-days-of-pure-adventure/d352-24110P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Two Days Off the Beaten Path the Mekong by Bike and Boat.](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0d/c4/36/c6.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-Days-Off-the-Beaten-Path-the-Mekong-by-Bike-and-Boat/d352-24110P20?pid=P00295226&mcid=42383&medium=link)
+
+**[Two Days Off the Beaten Path the Mekong by Bike and Boat.](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-Days-Off-the-Beaten-Path-the-Mekong-by-Bike-and-Boat/d352-24110P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+
+_Multi-day Tours_
+
+From **$221**
+
+[Book Now →](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-Days-Off-the-Beaten-Path-the-Mekong-by-Bike-and-Boat/d352-24110P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![3 days, 2 wheels, 1 Epic Delta adventures Awaits.](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/e2/ee/a6.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/3-days-2-wheels-1-Epic-Delta-adventures-Awaits/d352-24110P16?pid=P00295226&mcid=42383&medium=link)
+
+**[3 days, 2 wheels, 1 Epic Delta adventures Awaits.](https://www.viator.com/tours/Ho-Chi-Minh-City/3-days-2-wheels-1-Epic-Delta-adventures-Awaits/d352-24110P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+
+_Mountain Bike Tours_
+
+From **$408**
+
+[Book Now →](https://www.viator.com/tours/Ho-Chi-Minh-City/3-days-2-wheels-1-Epic-Delta-adventures-Awaits/d352-24110P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Ho Chi Minh City
 
 Navigating Ho Chi Minh City can be an adventure in itself, but with a few tips, you'll find it manageable:
@@ -151,9 +217,8 @@ No matter your budget, Ho Chi Minh City offers plenty of opportunities for memor
 With its rich culture, delicious food, and welcoming atmosphere, Ho Chi Minh City is a destination that promises to leave a lasting impression. Whether you're exploring historical landmarks or indulging in culinary delights, this vibrant city offers something for every traveler. If you're also considering a trip to Luang Prabang, Laos or Jaipur, [India](https://multiday.techpawz.com/posts/new-delhi-multiday-tours/), check out our guides for more travel inspiration!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

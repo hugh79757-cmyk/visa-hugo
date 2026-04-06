@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Volker Meyer](https://www.pexels.com/@vome) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ One of the most remarkable aspects of Kathmandu is its diverse cultural tapestry
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kathmandu-nepal/body_1.jpg)
 *Photo by [Roman Saienko](https://www.pexels.com/@roman-saienko-1867764487) on [Pexels](https://www.pexels.com)*
 
@@ -68,7 +65,6 @@ The best time to visit Kathmandu is during the dry seasons, which fall between S
 
 ## Where to Stay in Kathmandu
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kathmandu-nepal/body_2.jpg)
 *Photo by [Masum Saieed](https://www.pexels.com/@masum-saieed-2148002798) on [Pexels](https://www.pexels.com)*
 
@@ -83,7 +79,6 @@ When it comes to accommodation, Kathmandu offers a variety of neighborhoods cate
 - **Kopan (Budget to Mid-Range)**: Located a bit further from the hustle and bustle, Kopan is known for its monastery and peaceful environment. It’s a great place for those looking to escape the chaos of the city while still being close enough to explore. Accommodations in this area range from budget hostels to mid-range guesthouses.
 
 ## Top Things to Do in Kathmandu
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kathmandu-nepal/body_3.jpg)
 *Photo by [Vishnu  Panday](https://www.pexels.com/@vishnu-panday-94089132) on [Pexels](https://www.pexels.com)*
@@ -123,6 +118,74 @@ Nepalese cuisine is a delightful blend of flavors and influences, and Kathmandu 
 - **Chiya (Nepali Tea)**: Don’t miss out on tasting this sweet, spiced tea made with milk and black tea. It’s a favorite among locals and perfect for warming up after a day of sightseeing.
 
 For dining, you can choose between street food stalls, local eateries, and more upscale restaurants. Street food is often the most authentic experience, but ensure you choose vendors with good hygiene practices.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Kathmandu: UNESCO Heritage Cultural Sites Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/90/2a/b1.jpg)](https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Kathmandu: UNESCO Heritage Cultural Sites Tour](https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Private and Luxury_
+
+From **$24**
+
+[Book Now →](https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kathmandu to Pokhara Premium sofa bus ticket](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/8e/91/52.jpg)](https://www.viator.com/tours/Kathmandu/Kathmandu-to-Pokhara-Premium-sofa-bus-ticket/d5109-165552P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Kathmandu to Pokhara Premium sofa bus ticket](https://www.viator.com/tours/Kathmandu/Kathmandu-to-Pokhara-Premium-sofa-bus-ticket/d5109-165552P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Bus Services_
+
+From **$9**
+
+[Book Now →](https://www.viator.com/tours/Kathmandu/Kathmandu-to-Pokhara-Premium-sofa-bus-ticket/d5109-165552P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Discover Kathmandu Valley: History, Temples & Living Traditions](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/8e/3a/d5/caption.jpg)](https://www.viator.com/tours/Kathmandu/Discover-Kathmandu-Valley-History-Temples-and-Living-Traditions/d5109-5628144P7?pid=P00295226&mcid=42383&medium=link)
+
+**[Discover Kathmandu Valley: History, Temples & Living Traditions](https://www.viator.com/tours/Kathmandu/Discover-Kathmandu-Valley-History-Temples-and-Living-Traditions/d5109-5628144P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Multi-day Tours_
+
+From **$328**
+
+[Book Now →](https://www.viator.com/tours/Kathmandu/Discover-Kathmandu-Valley-History-Temples-and-Living-Traditions/d5109-5628144P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Best of Nepal: Kathmandu Heritage & Pokhara Lakeside Escape](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/8e/91/56/caption.jpg)](https://www.viator.com/tours/Kathmandu/Best-of-Nepal-Kathmandu-Heritage-and-Pokhara-Lakeside-Escape/d5109-5628144P8?pid=P00295226&mcid=42383&medium=link)
+
+**[Best of Nepal: Kathmandu Heritage & Pokhara Lakeside Escape](https://www.viator.com/tours/Kathmandu/Best-of-Nepal-Kathmandu-Heritage-and-Pokhara-Lakeside-Escape/d5109-5628144P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Multi-day Tours_
+
+From **$424**
+
+[Book Now →](https://www.viator.com/tours/Kathmandu/Best-of-Nepal-Kathmandu-Heritage-and-Pokhara-Lakeside-Escape/d5109-5628144P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Nepal Buddhist Pilgrimage Tour: Lumbini & Kathmandu](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/92/31/f8/caption.jpg)](https://www.viator.com/tours/Kathmandu/Nepal-Buddhist-Pilgrimage-Tour-Lumbini-and-Kathmandu/d5109-5628144P9?pid=P00295226&mcid=42383&medium=link)
+
+**[Nepal Buddhist Pilgrimage Tour: Lumbini & Kathmandu](https://www.viator.com/tours/Kathmandu/Nepal-Buddhist-Pilgrimage-Tour-Lumbini-and-Kathmandu/d5109-5628144P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Multi-day Tours_
+
+From **$428**
+
+[Book Now →](https://www.viator.com/tours/Kathmandu/Nepal-Buddhist-Pilgrimage-Tour-Lumbini-and-Kathmandu/d5109-5628144P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Kathmandu
 
@@ -167,9 +230,8 @@ When planning your trip, it's essential to have a daily budget in mind. Here’s
 If you're also considering a trip to Luang Prabang, Laos, check out our guide for more travel inspiration. Kathmandu is a city that promises adventure, culture, and unforgettable experiences, making it a destination worth exploring.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

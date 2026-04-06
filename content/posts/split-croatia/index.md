@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [DeLuca G](https://www.pexels.com/@deluca-g-412104326) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ Beyond its historical significance, [Split](https://ferry.techpawz.com/posts/hva
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 The best time to visit Split largely depends on what you’re looking for in your travel experience. The peak season runs from June to August when the weather is hot and sunny, with average temperatures ranging from the mid-80s to low 90s°F. While this is the ideal time for beachgoers, it also means larger crowds and higher prices. If you prefer a bustling atmosphere filled with festivals and events, this is the time to go.
 
@@ -108,6 +106,74 @@ Split’s culinary scene is a delicious blend of Mediterranean flavors and local
 
 When dining out, you’ll find a variety of options, from casual konobas (taverns) serving traditional fare to upscale restaurants offering gourmet experiences. Don’t hesitate to ask locals for their recommendations or to try something new!
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Split Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/e7/0b/84.jpg)](https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link)
+
+**[Split Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Transfer From or To the Split Airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/54/38/0a.jpg)](https://www.viator.com/tours/Split/Private-Transfer-From-or-To-the-Split-Airport/d4185-346719P11?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Transfer From or To the Split Airport](https://www.viator.com/tours/Split/Private-Transfer-From-or-To-the-Split-Airport/d4185-346719P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Airport & Hotel Transfers_
+
+From **$94**
+
+[Book Now →](https://www.viator.com/tours/Split/Private-Transfer-From-or-To-the-Split-Airport/d4185-346719P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Transfer from Split to Dubrovnik with stop options](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/4e/d0/91.jpg)](https://www.viator.com/tours/Split/Private-Transfer-from-Split-to-Dubrovnik-with-stop-options/d4185-346719P8?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Transfer from Split to Dubrovnik with stop options](https://www.viator.com/tours/Split/Private-Transfer-from-Split-to-Dubrovnik-with-stop-options/d4185-346719P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Shore Excursions_
+
+From **$518**
+
+[Book Now →](https://www.viator.com/tours/Split/Private-Transfer-from-Split-to-Dubrovnik-with-stop-options/d4185-346719P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Luxury private transfer: Split airport to Split](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/61/7f/d4.jpg)](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-airport-to-Split/d4185-68396P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Luxury private transfer: Split airport to Split](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-airport-to-Split/d4185-68396P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Airport & Hotel Transfers_
+
+From **$41**
+
+[Book Now →](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-airport-to-Split/d4185-68396P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Luxury private transfer: Split Town to Split airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/61/7f/93.jpg)](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-Town-to-Split-airport/d4185-68396P8?pid=P00295226&mcid=42383&medium=link)
+
+**[Luxury private transfer: Split Town to Split airport](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-Town-to-Split-airport/d4185-68396P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Airport & Hotel Transfers_
+
+From **$41**
+
+[Book Now →](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-Town-to-Split-airport/d4185-68396P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Split
 
 Navigating Split is relatively easy, thanks to its compact size and pedestrian-friendly layout. Here are some options for getting around:
@@ -151,9 +217,8 @@ When planning your trip to Split, it’s essential to consider your budget. Here
 For those also considering a trip to the [Amalfi](https://ferry.techpawz.com/posts/amalfi-to-capri-ferry/) Coast, [Italy](https://tours.techpawz.com/posts/best-tours-rome/) or exploring the charming streets of [Porto](https://tours.techpawz.com/posts/best-tours-porto/), [Portugal](https://foodtour.techpawz.com/posts/lisboa-food-tours/), Split serves as a fantastic addition to your European itinerary. With its rich history, stunning landscapes, and delectable cuisine, Split promises an unforgettable travel experience.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

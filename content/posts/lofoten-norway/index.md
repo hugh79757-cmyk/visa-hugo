@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Raul Kozenevski](https://www.pexels.com/@raulling) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Beyond its stunning vistas, Lofoten offers a glimpse into traditional Norwegian 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lofoten-norway/body_1.jpg)
 *Photo by [Qi Xin](https://unsplash.com/@adrianxin) on [Unsplash](https://unsplash.com)*
 
@@ -64,7 +61,6 @@ Spring, particularly April and May, is another lovely time to visit. As the snow
 
 ## Where to Stay in Lofoten
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lofoten-norway/body_2.jpg)
 *Photo by [Benoît Deschasaux](https://unsplash.com/@benowa) on [Unsplash](https://unsplash.com)*
 
@@ -75,7 +71,6 @@ Mid-range options can be found in Svolvær and Å, where charming hotels and cab
 For those seeking a luxurious experience, consider accommodations in Henningsvær or near the beaches of Ramberg. Here, upscale lodges and boutique hotels provide stunning views and high-end amenities, with costs generally ranging from $250 and up per night. Many of these properties focus on sustainability and offer unique experiences, such as guided tours or gourmet dining options.
 
 ## Top Things to Do in Lofoten
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lofoten-norway/body_3.jpg)
 *Photo by [Georg Höller](https://unsplash.com/@geggi632) on [Unsplash](https://unsplash.com)*
@@ -141,9 +136,8 @@ Luxury travelers should budget at least $300 or more per day. Upscale accommodat
 **Engage with Locals** to learn more about Lofoten’s culture and traditions. Many locals are eager to share their stories and recommendations, providing a deeper understanding of the area that goes beyond guidebooks.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

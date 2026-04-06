@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Juan Felipe Ramírez](https://www.pexels.com/@juan-felipe-ramirez-312591454) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ What makes Bogota truly special is its warmth and resilience. After decades of c
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bogota-colombia/body_1.jpg)
 *Photo by [Juan Felipe Ramírez](https://www.pexels.com/@juan-felipe-ramirez-312591454) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ Bogota experiences a cool, temperate climate due to its high altitude, with aver
 The best time to visit is during the dry season, from December to March and July to August. During these months, you can expect pleasant weather with less rain and plenty of opportunities for exploration. However, keep in mind that December and January can be quite busy due to holiday festivities, so crowds may be larger, and prices for accommodations may rise. If you're looking for a more budget-friendly experience, consider visiting during the shoulder months of February or September when prices and crowds are more manageable.
 
 ## Where to Stay in Bogota
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bogota-colombia/body_2.jpg)
 *Photo by [Alexander  Camargo](https://www.pexels.com/@alexander-camargo) on [Pexels](https://www.pexels.com)*
@@ -77,7 +73,6 @@ Choosing the right neighborhood in Bogota can enhance your travel experience. He
 - **Local Experience:** Usaquén is a charming district known for its weekend flea market and beautiful park. It offers a more relaxed vibe, with a blend of local culture and modern amenities. Accommodations here range from cozy guesthouses to comfortable boutique hotels, providing a unique experience away from the city center hustle.
 
 ## Top Things to Do in Bogota
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bogota-colombia/body_3.jpg)
 *Photo by [Luisa Fernanda Hernandez Perez](https://www.pexels.com/@luisa-fernanda-hernandez-perez-530122333) on [Pexels](https://www.pexels.com)*
@@ -117,6 +112,26 @@ Colombian cuisine is rich and diverse, reflecting the country’s varied regions
 5. **Postobón:** While not a dish, this popular Colombian soda comes in various flavors and is a refreshing treat to accompany your meals.
 
 When dining out, you can choose between street food stalls for budget-friendly meals or sit-down restaurants for a more upscale experience. Local eateries often serve authentic dishes at reasonable prices, while international cuisine can be found in more touristy areas.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Bogota Tour, Monserrate, Museums and Local Art with Transportation](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/4c/d3/ce.jpg)](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Bogota Tour, Monserrate, Museums and Local Art with Transportation](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+
+_City Tours_
+
+From **$76**
+
+[Book Now →](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Bogota
 
@@ -159,9 +174,8 @@ Understanding your budget is essential for a successful trip to Bogota. Here’s
 Bogota is a city that embraces its past while looking toward the future. With its diverse attractions, delicious food, and welcoming atmosphere, it’s a destination that promises unforgettable experiences for every traveler. If you're also considering a trip to Cartagena, Colombia or Medellin, Colombia, you'll find that each city offers its own unique charm and adventure. Enjoy your journey through this captivating capital!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

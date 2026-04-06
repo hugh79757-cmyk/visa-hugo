@@ -16,7 +16,6 @@ showTableOfContents: true
 
 ## Why Visit New York?
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -49,8 +48,6 @@ What makes [New York](https://michelin.techpawz.com/posts/michelin-restaurants-n
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/new-york-usa/body_1.jpg)
 *Photo by [Michal Marek](https://www.pexels.com/@michalmarek) on [Pexels](https://www.pexels.com)*
 
@@ -66,7 +63,6 @@ When planning your trip to New York, timing can make all the difference. The cit
 
 ## Where to Stay in New York
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/new-york-usa/body_2.jpg)
 *Photo by [Ravi Roshan](https://www.pexels.com/@ravi-roshan-2875998) on [Pexels](https://www.pexels.com)*
 
@@ -79,7 +75,6 @@ Choosing the right neighborhood for your stay can significantly enhance your New
 - **Luxury**: For a high-end experience, look to neighborhoods like Midtown or the Upper West Side. These areas are close to iconic attractions and feature upscale hotels with top-notch amenities. Staying here allows you to indulge in the best that New York has to offer, from fine dining to luxury shopping.
 
 ## Top Things to Do in New York
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/new-york-usa/body_3.jpg)
 *Photo by [Ravi Roshan](https://www.pexels.com/@ravi-roshan-2875998) on [Pexels](https://www.pexels.com)*
@@ -119,6 +114,38 @@ New York is a culinary paradise, and you’ll find an incredible range of dining
 - **Street Food**: Don’t miss out on the city’s street food scene. Try hot dogs from vendors or explore food trucks offering diverse options from tacos to falafel.
 
 - **Fine Dining**: For a special night out, consider dining at one of the city’s acclaimed restaurants. Many offer multi-course tasting menus that showcase seasonal ingredients.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![New York Kids Quest: Family Walking Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/c5/df/00.jpg)](https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link)
+
+**[New York Kids Quest: Family Walking Adventure](https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Self-guided Tours_
+
+From **$5**
+
+[Book Now →](https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![New York Murder Mystery: Self-Guided Detective Walk](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/c5/df/01.jpg)](https://www.viator.com/tours/New-York-City/New-York-Murder-Mystery-Self-Guided-Detective-Walk/d687-107194P600?pid=P00295226&mcid=42383&medium=link)
+
+**[New York Murder Mystery: Self-Guided Detective Walk](https://www.viator.com/tours/New-York-City/New-York-Murder-Mystery-Self-Guided-Detective-Walk/d687-107194P600?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Self-guided Tours_
+
+From **$7**
+
+[Book Now →](https://www.viator.com/tours/New-York-City/New-York-Murder-Mystery-Self-Guided-Detective-Walk/d687-107194P600?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around New York
 
@@ -165,9 +192,8 @@ To make the most of your trip, keep these practical tips in mind:
 By keeping these tips in mind and planning your itinerary thoughtfully, you can enjoy all that New York City has to offer, creating memories that will last a lifetime. Safe travels!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [AXP Photography](https://www.pexels.com/@axp-photography-500641970) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ Beyond its picturesque scenery, Havana is a city of contrasts. The opulent Malec
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 The best time to visit Havana is during the dry season, which runs from November to April. During these months, you can expect warm temperatures averaging between 70°F to 80°F, making it perfect for exploring the city’s numerous attractions. This period also coincides with peak tourist season, leading to larger crowds and higher prices, especially around the holidays and during major festivals. If you're looking to avoid the hustle and bustle, consider visiting in late April or early May, when the weather is still pleasant but the crowds begin to thin out.
 
@@ -197,9 +195,8 @@ Havana is a city rich in culture and tradition. Attend local festivals, listen t
 Visiting Havana promises a blend of history, culture, and unforgettable experiences that you won't soon forget. Whether you’re wandering the colorful streets of Old Havana or enjoying the lively music scene, this captivating city will leave you with cherished memories. If you're also considering a trip to Cancun, [Mexico](https://daytrips.techpawz.com/posts/quintana-roo-day-trips/) or Oaxaca, Mexico, check out our guide for more travel inspiration.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

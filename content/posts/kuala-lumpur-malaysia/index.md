@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [jackson tee](https://www.pexels.com/@jackson-tee-1056084) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ What truly sets Kuala Lumpur apart is its unique blend of Eastern and Western in
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 Kuala Lumpur has a tropical rainforest climate, meaning it’s warm and humid throughout the year, with temperatures hovering around 75°F to 90°F. However, the city experiences two main seasons: the dry season and the wet season.
 
@@ -110,6 +108,74 @@ Kuala Lumpur is a food lover’s paradise, offering a diverse array of cuisines 
 
 When it comes to dining, you’ll find a mix of street food stalls, food courts, and upscale restaurants. For an authentic experience, venture into local hawker centers where you can sample a variety of dishes at affordable prices.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Historical Malacca Day Tour With Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/1e/38/a6.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Historical Malacca Day Tour With Lunch](https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-24%</span>
+
+_Day Trips_
+
+From **$77**
+
+[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Half Day Countryside Jewel + Batu Caves (Private Guided Tour)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/89/6a/ef.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Countryside-Jewel-Batu-Caves-Private-Guided-Tour/d335-62272P46?pid=P00295226&mcid=42383&medium=link)
+
+**[Half Day Countryside Jewel + Batu Caves (Private Guided Tour)](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Countryside-Jewel-Batu-Caves-Private-Guided-Tour/d335-62272P46?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Half-day Tours_
+
+From **$100**
+
+[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Countryside-Jewel-Batu-Caves-Private-Guided-Tour/d335-62272P46?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Half Day Glimpse Of Kuala Lumpur, Batu Caves, KLCC, Merdeka 118](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/6f/5d/1e.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Glimpse-Of-Kuala-Lumpur-Batu-Caves-KLCC-Merdeka-118/d335-62272P47?pid=P00295226&mcid=42383&medium=link)
+
+**[Half Day Glimpse Of Kuala Lumpur, Batu Caves, KLCC, Merdeka 118](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Glimpse-Of-Kuala-Lumpur-Batu-Caves-KLCC-Merdeka-118/d335-62272P47?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Half-day Tours_
+
+From **$100**
+
+[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Glimpse-Of-Kuala-Lumpur-Batu-Caves-KLCC-Merdeka-118/d335-62272P47?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Wonders of Kuala Lumpur City & Countryside + Batu Caves (Private Guided Tour)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/71/ee/c6.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Wonders-of-Kuala-Lumpur-City-and-Countryside-Batu-Caves-Private-Guided-Tour/d335-62272P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Wonders of Kuala Lumpur City & Countryside + Batu Caves (Private Guided Tour)](https://www.viator.com/tours/Kuala-Lumpur/Wonders-of-Kuala-Lumpur-City-and-Countryside-Batu-Caves-Private-Guided-Tour/d335-62272P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$121**
+
+[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Wonders-of-Kuala-Lumpur-City-and-Countryside-Batu-Caves-Private-Guided-Tour/d335-62272P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Fire fly tour from Kuala lumpur](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/d9/04/3e.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Fire-fly-tour-from-Kuala-lumpur/d335-456839P9?pid=P00295226&mcid=42383&medium=link)
+
+**[Fire fly tour from Kuala lumpur](https://www.viator.com/tours/Kuala-Lumpur/Fire-fly-tour-from-Kuala-lumpur/d335-456839P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$240**
+
+[Book Now →](https://www.viator.com/tours/Kuala-Lumpur/Fire-fly-tour-from-Kuala-lumpur/d335-456839P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Kuala Lumpur
 
 Navigating Kuala Lumpur is relatively easy thanks to its efficient public transportation system. Here are your options:
@@ -153,9 +219,8 @@ Your daily budget in Kuala Lumpur will largely depend on your travel style. Here
 If you're also considering a trip to Kathmandu, Nepal or Ho Chi Minh City, [Vietnam](https://daytrips.techpawz.com/posts/hanoi-day-trips/), check out our guides for more travel insights. Enjoy your time in Kuala Lumpur, where every corner has a story waiting to be discovered!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

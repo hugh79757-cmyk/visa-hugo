@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Andrea Piacquadio](https://www.pexels.com/@olly) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ One of the most compelling reasons to visit [Budapest](https://trains.techpawz.c
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/budapest-hungary/body_1.jpg)
 *Photo by [Ozan Tabakoğlu](https://www.pexels.com/@stonesdonotdisappear) on [Pexels](https://www.pexels.com)*
 
@@ -68,7 +65,6 @@ When planning your trip to Budapest, timing can significantly affect your experi
 
 ## Where to Stay in Budapest
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/budapest-hungary/body_2.jpg)
 *Photo by [Anh Tuấn Lê](https://www.pexels.com/@tuankiettd) on [Pexels](https://www.pexels.com)*
 
@@ -83,7 +79,6 @@ Budapest is a city of neighborhoods, each with its unique character. Here are so
 **Trendy**: For a more contemporary vibe, the Erzsébetváros district is great for those who enjoy trendy cafes and art galleries. This area is bustling with life and offers a variety of accommodations from boutique hotels to stylish apartments.
 
 ## Top Things to Do in Budapest
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/budapest-hungary/body_3.jpg)
 *Photo by [Quang Vuong](https://www.pexels.com/@quang-vuong-724225078) on [Pexels](https://www.pexels.com)*
@@ -123,6 +118,74 @@ Hungarian cuisine is a delightful blend of flavors and traditions that reflect t
 - **Dobos Torte**: A traditional Hungarian dessert, this layered sponge cake filled with chocolate buttercream and topped with caramel is a sweet way to end your meal.
 
 When dining out, you’ll find a mix of casual eateries and more upscale restaurants. Street food is a fantastic way to experience local flavors while keeping your budget in check. Be sure to sample dishes from market stalls and cozy bistros for an authentic taste of Budapest.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Budapest Self-Guided Danube Discovery Walk](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/06/ed/a7.jpg)](https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link)
+
+**[Budapest Self-Guided Danube Discovery Walk](https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+
+_Audio Guides_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Budapest Pub Crawl & Ruin Bar Tour – Free Shots & VIP Entry](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/39/0f/de.jpg)](https://www.viator.com/tours/Budapest/Budapest-Pub-Crawl-and-Ruin-Bar-Tour-Free-Shots-and-VIP-Entry/d499-5545940P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Budapest Pub Crawl & Ruin Bar Tour – Free Shots & VIP Entry](https://www.viator.com/tours/Budapest/Budapest-Pub-Crawl-and-Ruin-Bar-Tour-Free-Shots-and-VIP-Entry/d499-5545940P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Nightlife_
+
+From **$13**
+
+[Book Now →](https://www.viator.com/tours/Budapest/Budapest-Pub-Crawl-and-Ruin-Bar-Tour-Free-Shots-and-VIP-Entry/d499-5545940P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![From Budapest: Bratislava and Vienna - Full-Day Guided Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/dc/21/caption.jpg)](https://www.viator.com/tours/Budapest/From-Budapest-Bratislava-and-Vienna-Full-Day-Guided-Tour/d499-5530468P16?pid=P00295226&mcid=42383&medium=link)
+
+**[From Budapest: Bratislava and Vienna - Full-Day Guided Tour](https://www.viator.com/tours/Budapest/From-Budapest-Bratislava-and-Vienna-Full-Day-Guided-Tour/d499-5530468P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Full-day Tours_
+
+From **$125**
+
+[Book Now →](https://www.viator.com/tours/Budapest/From-Budapest-Bratislava-and-Vienna-Full-Day-Guided-Tour/d499-5530468P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Discover the Heart of Budapest A Walking Tour of District V](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/4c/58/89.jpg)](https://www.viator.com/tours/Budapest/Discover-the-Heart-of-Budapest-A-Walking-Tour-of-District-V/d499-7353P16?pid=P00295226&mcid=42383&medium=link)
+
+**[Discover the Heart of Budapest A Walking Tour of District V](https://www.viator.com/tours/Budapest/Discover-the-Heart-of-Budapest-A-Walking-Tour-of-District-V/d499-7353P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Walking Tours_
+
+From **$120**
+
+[Book Now →](https://www.viator.com/tours/Budapest/Discover-the-Heart-of-Budapest-A-Walking-Tour-of-District-V/d499-7353P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Margaret Island Mystery: Self-Guided Puzzle Quest in Budapest](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/1f/c7/c3.jpg)](https://www.viator.com/tours/Budapest/Margaret-Island-Mystery-Self-Guided-Puzzle-Quest-in-Budapest/d499-107194P391?pid=P00295226&mcid=42383&medium=link)
+
+**[Margaret Island Mystery: Self-Guided Puzzle Quest in Budapest](https://www.viator.com/tours/Budapest/Margaret-Island-Mystery-Self-Guided-Puzzle-Quest-in-Budapest/d499-107194P391?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Walking Tours_
+
+From **$6**
+
+[Book Now →](https://www.viator.com/tours/Budapest/Margaret-Island-Mystery-Self-Guided-Puzzle-Quest-in-Budapest/d499-107194P391?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Budapest
 
@@ -165,9 +228,8 @@ Budapest is known for being budget-friendly, making it an attractive destination
 Budapest is a city that promises a memorable experience filled with history, culture, and delicious food. With its affordability and charm, it’s easy to see why so many travelers are drawn to this beautiful destination. Whether you’re wandering the streets, soaking in the thermal baths, or indulging in local cuisine, Budapest is undoubtedly worth visiting.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

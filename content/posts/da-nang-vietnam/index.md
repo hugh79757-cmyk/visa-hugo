@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Ba Uoc Phung](https://www.pexels.com/@ba-uoc-phung-355372) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Da Nang is a city that balances the old and the new. The iconic **Dragon Bridge*
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/da-nang-vietnam/body_1.jpg)
 *Photo by [LUC PH@M](https://www.pexels.com/@peterpham) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ Da Nang experiences a tropical climate, which means it has distinct wet and dry 
 From **September to January**, the city enters its wet season, with heavier rainfall occurring, particularly in October and November. While this time may deter some travelers due to the potential for storms, visiting during the off-peak season can lead to lower prices for accommodation and fewer tourists at popular sites. If you prefer milder temperatures and don't mind occasional rain, consider visiting in December or January, when the weather is cooler yet still pleasant.
 
 ## Where to Stay in Da Nang
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/da-nang-vietnam/body_2.jpg)
 *Photo by [Ba Uoc Phung](https://www.pexels.com/@ba-uoc-phung-355372) on [Pexels](https://www.pexels.com)*
@@ -73,7 +69,6 @@ Mid-range travelers might consider the **Han River area**, which features a rang
 For a more luxurious stay, look towards the **Son Tra Peninsula**. This area boasts upscale resorts and hotels with stunning ocean views and access to pristine beaches. It’s an ideal choice for those seeking a more tranquil environment while still being within reach of the city's attractions. The lush landscapes and serene atmosphere make it a perfect retreat after a day of exploring.
 
 ## Top Things to Do in Da Nang
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/da-nang-vietnam/body_3.jpg)
 *Photo by [Nguyễn Viết Minh Lâm](https://www.pexels.com/@wlamnv) on [Pexels](https://www.pexels.com)*
@@ -105,6 +100,74 @@ For those looking for a more sit-down experience, trying **Bun Cha Ca** is essen
 Another popular dish is **Gio Lua**, a Vietnamese pork sausage that is often served with rice or as part of a banh mi sandwich. The texture and flavor of this dish make it a favorite among both locals and tourists. You can find it in various eateries throughout the city, making it easy to sample.
 
 Finally, don’t miss out on trying **Vietnamese coffee**. The robust flavor and unique brewing method make it a delightful experience. Many cafes offer a range of coffee styles, from traditional drip coffee to iced versions, allowing you to enjoy this local favorite while taking a break from exploring.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Ba Na Hills & Golden Bridge: Private Return Transfer from Da Nang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/07/7e/de/bb.jpg)](https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Ba Na Hills & Golden Bridge: Private Return Transfer from Da Nang](https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Bus Services_
+
+From **$32**
+
+[Book Now →](https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Da Nang Scenic and Sunset Private Journey](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b4/68/6e/caption.jpg)](https://www.viator.com/tours/Da-Nang/Da-Nang-Scenic-and-Sunset-Private-Journey/d4680-5645121P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Da Nang Scenic and Sunset Private Journey](https://www.viator.com/tours/Da-Nang/Da-Nang-Scenic-and-Sunset-Private-Journey/d4680-5645121P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Private Drivers_
+
+From **$37**
+
+[Book Now →](https://www.viator.com/tours/Da-Nang/Da-Nang-Scenic-and-Sunset-Private-Journey/d4680-5645121P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Cham Island Double Snorkeling Adventure from Da Nang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c7/cc/d9/caption.jpg)](https://www.viator.com/tours/Da-Nang/Cham-Island-Double-Snorkeling-Adventure-from-Da-Nang/d4680-470375P27?pid=P00295226&mcid=42383&medium=link)
+
+**[Cham Island Double Snorkeling Adventure from Da Nang](https://www.viator.com/tours/Da-Nang/Cham-Island-Double-Snorkeling-Adventure-from-Da-Nang/d4680-470375P27?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-19%</span>
+
+_Snorkeling_
+
+From **$69**
+
+[Book Now →](https://www.viator.com/tours/Da-Nang/Cham-Island-Double-Snorkeling-Adventure-from-Da-Nang/d4680-470375P27?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Hoi an Coconut Boat & Hoi an Ancient Town(Option Marble Mountain)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/f2/91/f3.jpg)](https://www.viator.com/tours/Da-Nang/Hoi-an-Coconut-Boat-and-Hoi-an-Ancient-TownOption-Marble-Mountain/d4680-428350P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Hoi an Coconut Boat & Hoi an Ancient Town(Option Marble Mountain)](https://www.viator.com/tours/Da-Nang/Hoi-an-Coconut-Boat-and-Hoi-an-Ancient-TownOption-Marble-Mountain/d4680-428350P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+
+_Private and Luxury_
+
+From **$41**
+
+[Book Now →](https://www.viator.com/tours/Da-Nang/Hoi-an-Coconut-Boat-and-Hoi-an-Ancient-TownOption-Marble-Mountain/d4680-428350P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Cham Island Fun Dive Escape from Danang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c8/30/36/caption.jpg)](https://www.viator.com/tours/Da-Nang/Cham-Island-Fun-Dive-Escape-from-Danang/d4680-470375P26?pid=P00295226&mcid=42383&medium=link)
+
+**[Cham Island Fun Dive Escape from Danang](https://www.viator.com/tours/Da-Nang/Cham-Island-Fun-Dive-Escape-from-Danang/d4680-470375P26?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-14%</span>
+
+_Scuba Diving_
+
+From **$90**
+
+[Book Now →](https://www.viator.com/tours/Da-Nang/Cham-Island-Fun-Dive-Escape-from-Danang/d4680-470375P26?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Da Nang
 
@@ -143,9 +206,8 @@ For those also considering exploring other destinations in Southeast Asia, Da Na
 With its stunning scenery, delicious food, and warm hospitality, Da Nang offers a delightful experience for travelers looking to explore Vietnam.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -17,7 +17,6 @@ draft: true
 
 Photo by [Tom Fisk](https://www.pexels.com/@tomfisk) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -52,8 +51,6 @@ Ubud offers a refreshing escape from the more tourist-heavy areas of Bali. Here,
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/ubud-indonesia/body_1.jpg)
 *Photo by [Qeis Ismail](https://www.pexels.com/@trileafu) on [Pexels](https://www.pexels.com)*
 
@@ -62,7 +59,6 @@ Ubud experiences a tropical climate characterized by two distinct seasons: the d
 Conversely, the rainy season spans from October to March, with December and January seeing the heaviest downpours. Although the rain can be intense, it often comes in short bursts, leaving plenty of time for exploration between showers. Visiting during the shoulder months of October and March can be a wise choice, as you’ll find fewer tourists and more budget-friendly options, all while enjoying the lush, green landscapes that the rain brings.
 
 ## Where to Stay in Ubud
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/ubud-indonesia/body_2.jpg)
 *Photo by [Qeis Ismail](https://www.pexels.com/@trileafu) on [Pexels](https://www.pexels.com)*
@@ -76,7 +72,6 @@ If luxury is your goal, consider **Sayan**, located just a short drive from the 
 For a more local vibe, **Campuhan** is a charming neighborhood that offers a mix of budget to mid-range accommodations. Known for its beautiful walking paths along the river and its proximity to the Campuhan Ridge Walk, this area allows visitors to experience Ubud's natural beauty while enjoying a laid-back atmosphere.
 
 ## Top Things to Do in Ubud
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/ubud-indonesia/body_3.jpg)
 *Photo by [ds rexy](https://www.pexels.com/@ds-rexy-2154705051) on [Pexels](https://www.pexels.com)*
@@ -106,6 +101,74 @@ For those looking to indulge in something sweet, **Dadar Gulung** is a delightfu
 Street food is an integral part of the dining experience in Ubud. Strolling through the local markets, you’ll encounter stalls selling **Sate Lilit**, a Balinese twist on satay made from minced meat mixed with coconut and spices, wrapped around bamboo sticks and grilled to perfection. Sampling food from these vendors allows you to taste authentic flavors while mingling with locals.
 
 For a more upscale dining experience, Ubud boasts several restaurants that focus on organic and farm-to-table concepts. Many establishments source their ingredients from local farms, emphasizing fresh produce and sustainable practices. Dining here not only satisfies your palate but also supports the local economy and community.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Mount Batur Sunrise Hike, Breakfast & Hot Spring](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/d3/69/5b.jpg)](https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Mount Batur Sunrise Hike, Breakfast & Hot Spring](https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-41%</span>
+
+_Climbing_
+
+From **$14**
+
+[Book Now →](https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Discover East Bali Lempuyang Temple and Waterfall Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/93/b8/4d/caption.jpg)](https://www.viator.com/tours/Ubud/Discover-East-Bali-Lempuyang-Temple-and-Waterfall-Tour/d5467-389904P20?pid=P00295226&mcid=42383&medium=link)
+
+**[Discover East Bali Lempuyang Temple and Waterfall Tour](https://www.viator.com/tours/Ubud/Discover-East-Bali-Lempuyang-Temple-and-Waterfall-Tour/d5467-389904P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Nature and Wildlife Tours_
+
+From **$24**
+
+[Book Now →](https://www.viator.com/tours/Ubud/Discover-East-Bali-Lempuyang-Temple-and-Waterfall-Tour/d5467-389904P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Ubud Waterfall Circuit: 5 Iconic Jungle Falls](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/8d/e3.jpg)](https://www.viator.com/tours/Ubud/Ubud-Waterfall-Circuit-5-Iconic-Jungle-Falls/d5467-5607287P12?pid=P00295226&mcid=42383&medium=link)
+
+**[Ubud Waterfall Circuit: 5 Iconic Jungle Falls](https://www.viator.com/tours/Ubud/Ubud-Waterfall-Circuit-5-Iconic-Jungle-Falls/d5467-5607287P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Full-day Tours_
+
+From **$48**
+
+[Book Now →](https://www.viator.com/tours/Ubud/Ubud-Waterfall-Circuit-5-Iconic-Jungle-Falls/d5467-5607287P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Bali Highlights Shore Excursion from Celukan Bawang Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/10/63/43.jpg)](https://www.viator.com/tours/Ubud/Bali-Highlights-Shore-Excursion-from-Celukan-Bawang-Port/d5467-5607287P29?pid=P00295226&mcid=42383&medium=link)
+
+**[Bali Highlights Shore Excursion from Celukan Bawang Port](https://www.viator.com/tours/Ubud/Bali-Highlights-Shore-Excursion-from-Celukan-Bawang-Port/d5467-5607287P29?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Full-day Tours_
+
+From **$54**
+
+[Book Now →](https://www.viator.com/tours/Ubud/Bali-Highlights-Shore-Excursion-from-Celukan-Bawang-Port/d5467-5607287P29?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Tanah Lot Temple & Coastal Sunset Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/e5/9f.jpg)](https://www.viator.com/tours/Ubud/Tanah-Lot-Temple-and-Coastal-Sunset-Tour/d5467-5607287P13?pid=P00295226&mcid=42383&medium=link)
+
+**[Tanah Lot Temple & Coastal Sunset Tour](https://www.viator.com/tours/Ubud/Tanah-Lot-Temple-and-Coastal-Sunset-Tour/d5467-5607287P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-36%</span>
+
+_Nature and Wildlife Tours_
+
+From **$54**
+
+[Book Now →](https://www.viator.com/tours/Ubud/Tanah-Lot-Temple-and-Coastal-Sunset-Tour/d5467-5607287P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Ubud
 
@@ -142,9 +205,8 @@ For luxury travelers, daily expenses can range from $200 and up, depending on yo
 By following these tips and embracing the local way of life, you can experience Ubud in a manner that feels authentic and enriching, allowing you to create lasting memories of this enchanting destination. If you're also considering a trip to Colombo, [Sri Lanka](https://esim.techpawz.com/posts/esim-sri-lanka/) or Penang, Malaysia, check out our guides for additional travel inspiration.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

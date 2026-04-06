@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Ali  Alcántara](https://www.pexels.com/@alialcantara) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ What truly sets Playa del Carmen apart is its unique mix of influences. Original
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/playa-del-carmen-mexico/body_1.jpg)
 *Photo by [Israel Torres](https://www.pexels.com/@israwmx) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ The ideal time to experience Playa del Carmen largely depends on your preference
 If you’re looking for a quieter experience, consider visiting during the shoulder months of May and November. The weather remains warm, although you might encounter occasional rain. Prices for accommodations and activities tend to be lower during these times, making it an attractive option for budget-conscious travelers. The rainy season, from June to October, brings higher humidity and the possibility of tropical storms, but it can also be a great time to visit if you don't mind a little wet weather and want to enjoy lower rates.
 
 ## Where to Stay in Playa del Carmen
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/playa-del-carmen-mexico/body_2.jpg)
 *Photo by [Israel Torres](https://www.pexels.com/@israwmx) on [Pexels](https://www.pexels.com)*
@@ -73,7 +69,6 @@ Mid-range travelers might prefer the **Centro** district, which boasts a mix of 
 For those looking for luxury, the **Playacar** area is an excellent choice. This gated community is home to upscale resorts and private villas, offering a more tranquil environment. With beautiful beachfront access and proximity to golf courses, it’s ideal for travelers looking to indulge in a more refined experience.
 
 ## Top Things to Do in Playa del Carmen
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/playa-del-carmen-mexico/body_3.jpg)
 *Photo by [Jesus  Alfonso](https://www.pexels.com/@jesus-alfonso-536420752) on [Pexels](https://www.pexels.com)*
@@ -97,6 +92,74 @@ For something refreshing, consider trying **ceviche**, a dish made from fresh fi
 While street food offers an authentic taste of local life, Playa del Carmen also boasts fantastic restaurants that showcase the region's flavors. Dining at these establishments allows you to experience both traditional and contemporary Mexican cuisine, often prepared with fresh, locally-sourced ingredients. 
 
 For those who wish to explore more international flavors, the town also offers a variety of options, including Italian, Asian, and Mediterranean cuisine. Whether you’re enjoying a casual meal at a beachside eatery or dining at a more upscale restaurant, the culinary experience in Playa del Carmen is sure to satisfy your taste buds.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Private Transportation to/from Playa del Carmen or Riviera Maya](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/2c/33/67.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Transportation to/from Playa del Carmen or Riviera Maya](https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-22%</span>
+
+_Airport & Hotel Transfers_
+
+From **$38**
+
+[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![4X1 Enjoy a tour to Tulum, Coba, Cenote and Playa del Carmen](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/01/76/ed.jpg)](https://www.viator.com/tours/Playa-del-Carmen/4X1-Enjoy-a-tour-to-Tulum-Coba-Cenote-and-Playa-del-Carmen/d5501-242993P7?pid=P00295226&mcid=42383&medium=link)
+
+**[4X1 Enjoy a tour to Tulum, Coba, Cenote and Playa del Carmen](https://www.viator.com/tours/Playa-del-Carmen/4X1-Enjoy-a-tour-to-Tulum-Coba-Cenote-and-Playa-del-Carmen/d5501-242993P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Full-day Tours_
+
+From **$16**
+
+[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/4X1-Enjoy-a-tour-to-Tulum-Coba-Cenote-and-Playa-del-Carmen/d5501-242993P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Cenote and Swimming with Turtles Private Tour in Akumal](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/3a/c0/0d.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Cenote-and-Swimming-with-Turtles-Private-Tour-in-Akumal/d5501-391831P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Cenote and Swimming with Turtles Private Tour in Akumal](https://www.viator.com/tours/Playa-del-Carmen/Cenote-and-Swimming-with-Turtles-Private-Tour-in-Akumal/d5501-391831P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$264**
+
+[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/Cenote-and-Swimming-with-Turtles-Private-Tour-in-Akumal/d5501-391831P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Tour to Tulum, Cenote and Swimming with Turtles](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b0/cf/02/caption.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-to-Tulum-Cenote-and-Swimming-with-Turtles/d5501-391831P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Tour to Tulum, Cenote and Swimming with Turtles](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-to-Tulum-Cenote-and-Swimming-with-Turtles/d5501-391831P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$328**
+
+[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-to-Tulum-Cenote-and-Swimming-with-Turtles/d5501-391831P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Tour: Chichen Itza, Cenote Oxman and Lunch in Valladolid](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/95/1f/f1.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-Chichen-Itza-Cenote-Oxman-and-Lunch-in-Valladolid/d5501-391831P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Tour: Chichen Itza, Cenote Oxman and Lunch in Valladolid](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-Chichen-Itza-Cenote-Oxman-and-Lunch-in-Valladolid/d5501-391831P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Full-day Tours_
+
+From **$360**
+
+[Book Now →](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-Chichen-Itza-Cenote-Oxman-and-Lunch-in-Valladolid/d5501-391831P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Playa del Carmen
 
@@ -127,9 +190,8 @@ Lastly, **respecting local customs** and traditions will enrich your experience.
 If you're also considering a trip to Cancun, [Mexico](https://daytrips.techpawz.com/posts/quintana-roo-day-trips/), check out our guide for more insights on nearby attractions and activities. With its stunning beaches and rich culture, Playa del Carmen offers a unique slice of paradise worth exploring.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

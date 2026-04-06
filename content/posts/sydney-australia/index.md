@@ -16,7 +16,6 @@ showTableOfContents: true
 
 ## Why Visit Sydney?
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -49,8 +48,6 @@ But Sydney is not just about its picturesque scenery; it’s also a cultural mel
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/sydney-australia/body_1.jpg)
 *Photo by [Khanh  Dang](https://www.pexels.com/@khanh-dang-2157569942) on [Pexels](https://www.pexels.com)*
 
@@ -66,7 +63,6 @@ When planning your trip to Sydney, timing is everything. The city enjoys a tempe
 
 ## Where to Stay in Sydney
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/sydney-australia/body_2.jpg)
 *Photo by [Talha Resitoglu](https://www.pexels.com/@talharesitoglu) on [Pexels](https://www.pexels.com)*
 
@@ -81,7 +77,6 @@ Choosing the right neighborhood can enhance your Sydney experience. Here are som
 - **Local Experience**: If you prefer a more residential feel, Bondi Beach offers charming guesthouses and apartments. Staying here allows you to enjoy the beach lifestyle while still being a short bus ride away from the city center.
 
 ## Top Things to Do in Sydney
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/sydney-australia/body_3.jpg)
 *Photo by [猫 鱼](https://www.pexels.com/@2154236762) on [Pexels](https://www.pexels.com)*
@@ -123,6 +118,74 @@ Sydney's food scene is a delicious reflection of its cultural diversity. Here ar
 - **Smashed Avocado**: A trendy brunch item, this dish typically features mashed avocado on toast, often topped with poached eggs and various seasonings. You’ll find it on menus at many cafes.
 
 For a more casual experience, explore Sydney’s vibrant street food scene. The Night Noodle Markets, held annually, showcase a variety of Asian street food vendors. Alternatively, visit local markets like Paddy's Market for fresh produce and ready-to-eat meals.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Sydney Ghost Walking Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/5c/7e/90.jpg)](https://www.viator.com/tours/Sydney/Sydney-Ghost-Walking-Tour/d357-6024SYDNEY?pid=P00295226&mcid=42383&medium=link)
+
+**[Sydney Ghost Walking Tour](https://www.viator.com/tours/Sydney/Sydney-Ghost-Walking-Tour/d357-6024SYDNEY?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_City Tours_
+
+From **$21**
+
+[Book Now →](https://www.viator.com/tours/Sydney/Sydney-Ghost-Walking-Tour/d357-6024SYDNEY?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self-Guided The Sydney Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/eb/64/25.jpg)](https://www.viator.com/tours/Sydney/Self-Guided-The-Sydney-Syndicate-City-Escape-Game/d357-30066P452?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided The Sydney Syndicate City Escape Game](https://www.viator.com/tours/Sydney/Self-Guided-The-Sydney-Syndicate-City-Escape-Game/d357-30066P452?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Sydney/Self-Guided-The-Sydney-Syndicate-City-Escape-Game/d357-30066P452?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self-Guided Secrets of Sydney Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/8f/81/90.jpg)](https://www.viator.com/tours/Sydney/Self-Guided-Secrets-of-Sydney-Exploration-Game/d357-30066P453?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided Secrets of Sydney Exploration Game](https://www.viator.com/tours/Sydney/Self-Guided-Secrets-of-Sydney-Exploration-Game/d357-30066P453?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Sydney/Self-Guided-Secrets-of-Sydney-Exploration-Game/d357-30066P453?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Sydney's Haunted Pub Tour & Cellar visit](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/73/56/1c.jpg)](https://www.viator.com/tours/Sydney/Sydneys-Haunted-Pub-Tour-and-Cellar-visit/d357-6024P23?pid=P00295226&mcid=42383&medium=link)
+
+**[Sydney's Haunted Pub Tour & Cellar visit](https://www.viator.com/tours/Sydney/Sydneys-Haunted-Pub-Tour-and-Cellar-visit/d357-6024P23?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Ghost Tours_
+
+From **$21**
+
+[Book Now →](https://www.viator.com/tours/Sydney/Sydneys-Haunted-Pub-Tour-and-Cellar-visit/d357-6024P23?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Blue Mountains Private Sightseeing Day Tours from Sydney](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/aa/c2/0d/caption.jpg)](https://www.viator.com/tours/Sydney/Blue-Mountains-Private-Sightseeing-Day-Tours-from-Sydney/d357-294441P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Blue Mountains Private Sightseeing Day Tours from Sydney](https://www.viator.com/tours/Sydney/Blue-Mountains-Private-Sightseeing-Day-Tours-from-Sydney/d357-294441P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Private Drivers_
+
+From **$203**
+
+[Book Now →](https://www.viator.com/tours/Sydney/Blue-Mountains-Private-Sightseeing-Day-Tours-from-Sydney/d357-294441P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Sydney
 
@@ -167,9 +230,8 @@ To make the most of your Sydney experience, consider these practical tips:
 With its stunning landscapes, cultural richness, and delicious food, Sydney is a destination that promises a memorable adventure. So pack your bags, and get ready to experience everything this vibrant city has to offer!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

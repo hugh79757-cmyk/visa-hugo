@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Hồ Thành](https://www.pexels.com/@h-thanh-131149238) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ What truly sets [Osaka](https://michelin.techpawz.com/posts/michelin-restaurants
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/osaka-japan/body_1.jpg)
 *Photo by [Nizar Firmansyah](https://www.pexels.com/@rfniza) on [Pexels](https://www.pexels.com)*
 
@@ -68,7 +65,6 @@ Osaka experiences four distinct seasons, each offering its own allure.
 
 ## Where to Stay in Osaka
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/osaka-japan/body_2.jpg)
 *Photo by [Rajeev Bector](https://www.pexels.com/@rajeev-bector-2980503) on [Pexels](https://www.pexels.com)*
 
@@ -83,7 +79,6 @@ Choosing the right neighborhood can enhance your experience in Osaka. Here are s
 - **Local Experience**: If you want a local vibe, consider staying in the Tennoji district. This area is less touristy but rich in culture, with temples and traditional markets. It’s a great way to experience everyday life in Osaka while still being close to the city’s key attractions.
 
 ## Top Things to Do in Osaka
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/osaka-japan/body_3.jpg)
 *Photo by [Leo Liou](https://www.pexels.com/@leo-liou-2150417959) on [Pexels](https://www.pexels.com)*
@@ -121,6 +116,74 @@ Osaka is a food lover’s dream, with a plethora of local dishes that you simply
 - **Yakiniku**: A popular dining choice, yakiniku involves grilling marinated meats at your table. Pair it with rice and side dishes for a hearty meal.
 
 - **Street Food vs. Restaurants**: While Osaka has many fantastic restaurants, don’t miss the chance to explore its street food scene. Small stalls and food markets are where you’ll find some of the best local flavors. Dotonbori and Kuromon Ichiba Market are particularly famous for their street food offerings.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Osaka Cinematic Film experience Video + Photo (ONLY ONE BOOKING)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/32/c7.jpg)](https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Osaka Cinematic Film experience Video + Photo (ONLY ONE BOOKING)](https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-64%</span>
+
+_Photography Tours_
+
+From **$90**
+
+[Book Now →](https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kyoto Tango Sea Train, Amanohashidate and Ine Tour from Osaka](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9c/a1/34/caption.jpg)](https://www.viator.com/tours/Osaka/Kyoto-Tango-Sea-Train-Amanohashidate-and-Ine-Tour-from-Osaka/d333-5616973P18?pid=P00295226&mcid=42383&medium=link)
+
+**[Kyoto Tango Sea Train, Amanohashidate and Ine Tour from Osaka](https://www.viator.com/tours/Osaka/Kyoto-Tango-Sea-Train-Amanohashidate-and-Ine-Tour-from-Osaka/d333-5616973P18?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Day Trips_
+
+From **$52**
+
+[Book Now →](https://www.viator.com/tours/Osaka/Kyoto-Tango-Sea-Train-Amanohashidate-and-Ine-Tour-from-Osaka/d333-5616973P18?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kyoto and Nara Small Group Tour from Osaka](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/79/d0/df.jpg)](https://www.viator.com/tours/Namba/Kyoto-and-Nara-Small-Group-Tour-from-Osaka/d51459-5500660P22?pid=P00295226&mcid=42383&medium=link)
+
+**[Kyoto and Nara Small Group Tour from Osaka](https://www.viator.com/tours/Namba/Kyoto-and-Nara-Small-Group-Tour-from-Osaka/d51459-5500660P22?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Full-day Tours_
+
+From **$100**
+
+[Book Now →](https://www.viator.com/tours/Namba/Kyoto-and-Nara-Small-Group-Tour-from-Osaka/d51459-5500660P22?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Shadows of Osaka: Legends & Folklore Walking Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/14/ac/51.jpg)](https://www.viator.com/tours/Osaka/Shadows-of-Osaka-Legends-and-Folklore-Walking-Tour/d333-5633902P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Shadows of Osaka: Legends & Folklore Walking Tour](https://www.viator.com/tours/Osaka/Shadows-of-Osaka-Legends-and-Folklore-Walking-Tour/d333-5633902P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-48%</span>
+
+_City Tours_
+
+From **$20**
+
+[Book Now →](https://www.viator.com/tours/Osaka/Shadows-of-Osaka-Legends-and-Folklore-Walking-Tour/d333-5633902P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Osaka Dotonbori CHEVAL Nightclub VIP Package for Foreign](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0d/1e/5c.jpg)](https://www.viator.com/tours/Osaka/Osaka-Dotonbori-CHEVAL-Nightclub-VIP-Package-for-Foreign/d333-467011P42?pid=P00295226&mcid=42383&medium=link)
+
+**[Osaka Dotonbori CHEVAL Nightclub VIP Package for Foreign](https://www.viator.com/tours/Osaka/Osaka-Dotonbori-CHEVAL-Nightclub-VIP-Package-for-Foreign/d333-467011P42?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Skip the line Tickets_
+
+From **$154**
+
+[Book Now →](https://www.viator.com/tours/Osaka/Osaka-Dotonbori-CHEVAL-Nightclub-VIP-Package-for-Foreign/d333-467011P42?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Osaka
 
@@ -165,9 +228,8 @@ Understanding your budget before traveling to Osaka can help you plan your week 
 Exploring Osaka is a delightful adventure filled with rich culture, mouthwatering cuisine, and warm hospitality. Whether you’re indulging in street food or soaking in the sights, this city promises an unforgettable experience. If you're also considering a trip to Kyoto, Japan, check out our guide for more tips on exploring this beautiful region!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [TBD Tuyên](https://www.pexels.com/@tbd-tuyen-859104985) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ Beyond its stunning visuals, Hoi An is renowned for its culinary scene. The town
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 The best time to visit Hoi An is during the dry season, which runs from February to April. During these months, you can expect pleasant temperatures averaging between 70°F and 85°F, with minimal rainfall. Crowds are moderate as this is a popular time for tourists, but the town's charm remains intact, allowing for a comfortable experience while exploring the sights.
 
@@ -103,6 +101,74 @@ Hoi An’s culinary scene is a treat for the senses, with a wide array of flavor
 
 - **Street Food vs. Restaurants**: While you can find delicious food at local restaurants, don't overlook the street food scene. Street vendors offer authentic flavors at budget-friendly prices, and it's a great way to immerse yourself in local culture.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![My Son Sanctuary & Hoi An Ancient Town Full-Day Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/6a/ee/d9.jpg)](https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link)
+
+**[My Son Sanctuary & Hoi An Ancient Town Full-Day Experience](https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Private Drivers_
+
+From **$64**
+
+[Book Now →](https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Bana Hills - Golden Bridge Deluxe Small group from Hoian/ Danang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/44/50/e7.jpg)](https://www.viator.com/tours/Hoi-An/Bana-Hills-Golden-Bridge-Deluxe-Small-group-from-Hoian-Danang/d5229-104142P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Bana Hills - Golden Bridge Deluxe Small group from Hoian/ Danang](https://www.viator.com/tours/Hoi-An/Bana-Hills-Golden-Bridge-Deluxe-Small-group-from-Hoian-Danang/d5229-104142P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+
+_Full-day Tours_
+
+From **$20**
+
+[Book Now →](https://www.viator.com/tours/Hoi-An/Bana-Hills-Golden-Bridge-Deluxe-Small-group-from-Hoian-Danang/d5229-104142P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Coconut Jungle Eco & Hoi An City Tour With Boat Ride](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ff/db/aa.jpg)](https://www.viator.com/tours/Hoi-An/Coconut-Jungle-Eco-and-Hoi-An-City-Tour-With-Boat-Ride/d5229-104142P12?pid=P00295226&mcid=42383&medium=link)
+
+**[Coconut Jungle Eco & Hoi An City Tour With Boat Ride](https://www.viator.com/tours/Hoi-An/Coconut-Jungle-Eco-and-Hoi-An-City-Tour-With-Boat-Ride/d5229-104142P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+
+_Water Tours_
+
+From **$40**
+
+[Book Now →](https://www.viator.com/tours/Hoi-An/Coconut-Jungle-Eco-and-Hoi-An-City-Tour-With-Boat-Ride/d5229-104142P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Hoi An Countryside - Buffalo Riding - Basket Boat Rowing](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/99/2b/2e.jpg)](https://www.viator.com/tours/Hoi-An/Hoi-An-Countryside-Buffalo-Riding-Basket-Boat-Rowing/d5229-104142P8?pid=P00295226&mcid=42383&medium=link)
+
+**[Hoi An Countryside - Buffalo Riding - Basket Boat Rowing](https://www.viator.com/tours/Hoi-An/Hoi-An-Countryside-Buffalo-Riding-Basket-Boat-Rowing/d5229-104142P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+
+_Mountain Bike Tours_
+
+From **$37**
+
+[Book Now →](https://www.viator.com/tours/Hoi-An/Hoi-An-Countryside-Buffalo-Riding-Basket-Boat-Rowing/d5229-104142P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Da Nang: Hoi An Ancient Town, Night Market and Basket Boat](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/7c/f8/9b.jpg)](https://www.viator.com/tours/Hoi-An/Da-Nang-Hoi-An-Ancient-Town-Night-Market-and-Basket-Boat/d5229-382376P48?pid=P00295226&mcid=42383&medium=link)
+
+**[Da Nang: Hoi An Ancient Town, Night Market and Basket Boat](https://www.viator.com/tours/Hoi-An/Da-Nang-Hoi-An-Ancient-Town-Night-Market-and-Basket-Boat/d5229-382376P48?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+
+_Full-day Tours_
+
+From **$44**
+
+[Book Now →](https://www.viator.com/tours/Hoi-An/Da-Nang-Hoi-An-Ancient-Town-Night-Market-and-Basket-Boat/d5229-382376P48?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Hoi An
 
 Getting around Hoi An is relatively easy, thanks to its compact size. Here are some options to consider:
@@ -144,9 +210,8 @@ When planning your trip to Hoi An, it’s important to have a budget in mind. He
 If you're also considering a trip to Ho Chi Minh City, Vietnam, check out our guide for more insights on traveling in Vietnam. Hoi An offers a delightful mix of history, culture, and culinary experiences, making it a must-visit destination on your Vietnamese adventure.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

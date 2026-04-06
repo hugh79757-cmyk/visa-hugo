@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [AXP Photography](https://www.pexels.com/@axp-photography-500641970) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ What sets Petra apart is not just its remarkable structures but the immersive ex
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 The best time to visit Petra is during the spring (March to May) and fall (September to November) when temperatures are mild and the weather is generally pleasant. During these months, daytime temperatures typically range from the mid-60s to low 80s Fahrenheit, making it ideal for trekking and exploring the site. Additionally, these shoulder seasons see fewer crowds compared to the peak summer months, allowing for a more intimate experience with the ancient ruins.
 
@@ -107,6 +105,26 @@ Jordanian cuisine is a delightful blend of Mediterranean and Middle Eastern flav
 
 Local dining options range from street food stalls to more formal restaurants in Wadi Musa. While street food can be an adventurous choice, dining in local restaurants offers a chance to experience Jordanian hospitality.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Mallorca Scenic Villages Tour with Traditional Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/3c/a6/ce.jpg)](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Mallorca Scenic Villages Tour with Traditional Lunch](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Full-day Tours_
+
+From **$94**
+
+[Book Now →](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Petra
 
 Getting around Petra is relatively easy, especially if you plan to explore the main archaeological site. Here are some options to consider:
@@ -148,9 +166,8 @@ Understanding the cost of your trip to Petra can help you plan better. Here’s 
 Petra is not just a destination; it's an experience that combines history, culture, and breathtaking landscapes. Whether you're wandering through the ancient ruins or savoring local delicacies, this enchanting city will leave you with memories to cherish for a lifetime. If you're also considering a trip to [Dubai](https://adventure.techpawz.com/posts/dubai-adventure/), [United Arab Emirates](https://adventure.techpawz.com/posts/dubai-adventure/), check out our guide for more travel inspiration!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

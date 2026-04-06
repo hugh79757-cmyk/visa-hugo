@@ -16,7 +16,6 @@ showTableOfContents: true
 
 ## Why Visit Rome?
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -49,8 +48,6 @@ The city is a living museum, boasting iconic landmarks such as the Colosseum, th
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/rome-italy/body_1.jpg)
 *Photo by [Dylan Freedom](https://unsplash.com/@d4rock) on [Unsplash](https://unsplash.com)*
 
@@ -65,7 +62,6 @@ When planning your trip to Rome, timing is key. The city experiences four distin
 **Winter (December to February)**: Winters in Rome can be cool and damp, with temperatures averaging in the 40s°F. However, this is also the least crowded time of year, allowing for a more intimate experience at the city's attractions. Prices are typically at their lowest during winter, making it an attractive option for budget-conscious travelers. The holiday season brings festive decorations and local markets, adding a unique charm to the city.
 
 ## Where to Stay in Rome
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/rome-italy/body_2.jpg)
 *Photo by [Jenya Shportiak](https://unsplash.com/@js99) on [Unsplash](https://unsplash.com)*
@@ -85,7 +81,6 @@ For those seeking a more upscale experience, the area around Vatican City offers
 Testaccio is a lesser-known neighborhood that offers an authentic Roman experience. Known for its food scene, this area is home to traditional markets and local eateries. Accommodations here tend to be more affordable, and you'll enjoy a more laid-back atmosphere away from the tourist crowds.
 
 ## Top Things to Do in Rome
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/rome-italy/body_3.jpg)
 *Photo by [Wyatt Simpson](https://unsplash.com/@wyattsimpson98) on [Unsplash](https://unsplash.com)*
@@ -125,6 +120,74 @@ Italian cuisine is a highlight of any trip to Rome. Be sure to indulge in these 
 5. **Gelato**: No visit to Rome is complete without indulging in gelato. Seek out artisanal gelaterias for a truly authentic experience.
 
 When it comes to dining, you can opt for casual street food or sit-down meals at traditional restaurants. Street food is a great way to sample local flavors without breaking the bank. For a more formal dining experience, look for restaurants that feature seasonal ingredients and regional specialties.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Private Full Day Tour of Sabina Countryside from Rome](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/14/b5/6a.jpg)](https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Full Day Tour of Sabina Countryside from Rome](https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Day Trips_
+
+From **$128**
+
+[Book Now →](https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private daytour medieval castles Umbria and Tuscany](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/7d/06/39.jpg)](https://www.viator.com/tours/Rome/Private-daytour-medieval-castles-Umbria-and-Tuscany/d511-72525P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Private daytour medieval castles Umbria and Tuscany](https://www.viator.com/tours/Rome/Private-daytour-medieval-castles-Umbria-and-Tuscany/d511-72525P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Archaeology Tours_
+
+From **$822**
+
+[Book Now →](https://www.viator.com/tours/Rome/Private-daytour-medieval-castles-Umbria-and-Tuscany/d511-72525P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Vespa Sidecar Tour In Rome with Pickup, Drop-off, Gelato included](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/e7/5a/ba.jpg)](https://www.viator.com/tours/Rome/Vespa-Sidecar-Tour-In-Rome-with-Pickup-Drop-off-Gelato-included/d511-406567P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Vespa Sidecar Tour In Rome with Pickup, Drop-off, Gelato included](https://www.viator.com/tours/Rome/Vespa-Sidecar-Tour-In-Rome-with-Pickup-Drop-off-Gelato-included/d511-406567P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Sidecar Tours_
+
+From **$105**
+
+[Book Now →](https://www.viator.com/tours/Rome/Vespa-Sidecar-Tour-In-Rome-with-Pickup-Drop-off-Gelato-included/d511-406567P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Rome: Pantheon Reserved Entry Ticket](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/33/87/56.jpg)](https://www.viator.com/tours/Rome/Rome-Pantheon-Reserved-Entry-Ticket/d511-155741P30?pid=P00295226&mcid=42383&medium=link)
+
+**[Rome: Pantheon Reserved Entry Ticket](https://www.viator.com/tours/Rome/Rome-Pantheon-Reserved-Entry-Ticket/d511-155741P30?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Attractions & Museums_
+
+From **$5**
+
+[Book Now →](https://www.viator.com/tours/Rome/Rome-Pantheon-Reserved-Entry-Ticket/d511-155741P30?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Shuttle from Hotel in Rome to the Airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/76/c0/85/caption.jpg)](https://www.viator.com/tours/Rome/Shuttle-from-Hotel-in-Rome-to-the-Airport/d511-246081P114?pid=P00295226&mcid=42383&medium=link)
+
+**[Shuttle from Hotel in Rome to the Airport](https://www.viator.com/tours/Rome/Shuttle-from-Hotel-in-Rome-to-the-Airport/d511-246081P114?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Airport & Hotel Transfers_
+
+From **$22**
+
+[Book Now →](https://www.viator.com/tours/Rome/Shuttle-from-Hotel-in-Rome-to-the-Airport/d511-246081P114?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Rome
 
@@ -167,9 +230,8 @@ Understanding your budget is crucial for planning a trip to Rome. Here's a rough
 If you're also considering a trip to [London](https://michelin.techpawz.com/posts/michelin-restaurants-london/), [United Kingdom](https://esim.techpawz.com/posts/esim-united-kingdom/) or [Paris](https://michelin.techpawz.com/posts/michelin-restaurants-paris/), [France](https://visafree.techpawz.com/posts/france-visa-free/), be sure to check out our guides for more travel inspiration!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Salvador Chinchilla](https://www.pexels.com/@salvador-chinchilla-768230) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ The scent of damp earth after a light rain mingles with the fragrance of bloomin
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/nara-japan/body_1.jpg)
 *Photo by [Sarmat Batagov](https://www.pexels.com/@sarmat-batagov-776392502) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ The best time to visit Nara is during the spring and fall months when the weathe
 Autumn, spanning from September to November, offers a different kind of beauty as the leaves change color, painting the landscape with hues of red, orange, and yellow. The temperatures during these months are comfortable, making it an excellent time for outdoor exploration. While summer, particularly June to August, can be hot and humid, it also brings a lively festival atmosphere, though it tends to attract larger crowds and higher prices. Winter, from December to February, can be cold, but it provides a quieter experience, allowing for low-cost accommodations and fewer tourists.
 
 ## Where to Stay in Nara
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/nara-japan/body_2.jpg)
 *Photo by [Guohua Song](https://www.pexels.com/@railgunbreaker) on [Pexels](https://www.pexels.com)*
@@ -73,7 +69,6 @@ If you're looking for a touch of luxury, consider staying in the upscale hotels 
 Regardless of your budget, staying in Nara allows you to enjoy its peaceful atmosphere and easy accessibility to the city's attractions.
 
 ## Top Things to Do in Nara
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/nara-japan/body_3.jpg)
 *Photo by [maxed. RAW](https://www.pexels.com/@maxed-raw-527582413) on [Pexels](https://www.pexels.com)*
@@ -105,6 +100,50 @@ For a more sit-down experience, look for restaurants serving **Nara's soba noodl
 Don’t overlook the opportunity to try **Nara's sake** as well. The city is known for its sake breweries, and many offer tastings. Pairing a glass of sake with local dishes can enhance your dining experience. 
 
 For budget-conscious travelers, convenience stores are abundant and offer a variety of affordable meals, from rice balls to bento boxes. These quick options are perfect for a picnic in the park or a simple meal after a long day of exploring.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Nara: Yakushiji Tour – Toshodaiji or Sutra Copying Option](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/79/d6/c8/caption.jpg)](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link)
+
+**[Nara: Yakushiji Tour – Toshodaiji or Sutra Copying Option](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Private and Luxury_
+
+From **$61**
+
+[Book Now →](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private 3-Hour UNESCO Heritage Sites & Deer Park Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/0e/54/78.jpg)](https://www.viator.com/tours/Nara/Private-3-Hour-UNESCO-Heritage-Sites-and-Deer-Park-Tour/d50510-174545P29?pid=P00295226&mcid=42383&medium=link)
+
+**[Private 3-Hour UNESCO Heritage Sites & Deer Park Tour](https://www.viator.com/tours/Nara/Private-3-Hour-UNESCO-Heritage-Sites-and-Deer-Park-Tour/d50510-174545P29?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-27%</span>
+
+_Private and Luxury_
+
+From **$112**
+
+[Book Now →](https://www.viator.com/tours/Nara/Private-3-Hour-UNESCO-Heritage-Sites-and-Deer-Park-Tour/d50510-174545P29?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Nara: Authentic Onigiri Cooking Class & Meal in a Local Home](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/6a/f0/15/caption.jpg)](https://www.viator.com/tours/Nara/Nara-Authentic-Onigiri-Cooking-Class-and-Meal-in-a-Local-Home/d50510-5611016P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Nara: Authentic Onigiri Cooking Class & Meal in a Local Home](https://www.viator.com/tours/Nara/Nara-Authentic-Onigiri-Cooking-Class-and-Meal-in-a-Local-Home/d50510-5611016P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Cooking Classes_
+
+From **$56**
+
+[Book Now →](https://www.viator.com/tours/Nara/Nara-Authentic-Onigiri-Cooking-Class-and-Meal-in-a-Local-Home/d50510-5611016P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Nara
 
@@ -143,9 +182,8 @@ If you're also considering a trip to Da Nang, [Vietnam](https://daytrips.techpaw
 Nara is a destination that beautifully marries history, nature, and culinary experiences, all while remaining accessible for travelers on a budget. Whether you're feeding deer in the park, exploring ancient temples, or enjoying delicious local dishes, Nara promises a memorable adventure without straining your wallet.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

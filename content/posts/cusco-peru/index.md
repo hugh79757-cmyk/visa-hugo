@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Marcelo Mora](https://www.pexels.com/@marcelo-mora-203572590) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ The moment you step into [Cusco](https://daytrips.techpawz.com/posts/cusco-day-t
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/cusco-peru/body_1.jpg)
 *Photo by [Marcelo Mora](https://www.pexels.com/@marcelo-mora-203572590) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ The best time to visit Cusco largely depends on your interests and tolerance for
 If you prefer fewer tourists and are willing to brave some rain, consider visiting during the shoulder months of April and October. The weather is milder, with occasional showers, but the scenery is lush and green. The rainy season from November to March sees a significant drop in tourists, and while the weather can be unpredictable, it also brings a unique beauty to the region. Prices for accommodations and activities are generally lower during this time, making it an attractive option for budget-conscious travelers.
 
 ## Where to Stay in Cusco
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/cusco-peru/body_2.jpg)
 *Photo by [Marco Luigy](https://www.pexels.com/@marco-luigy-294958724) on [Pexels](https://www.pexels.com)*
@@ -75,7 +71,6 @@ If you prefer a quieter atmosphere away from the hustle and bustle, the **Saqsay
 For those who want to experience the local lifestyle, consider staying in **Cusco’s suburbs**. This area is less touristy, giving you a chance to interact with residents and experience daily life. Budget accommodations are available, making it an economical choice for travelers looking to stretch their dollars.
 
 ## Top Things to Do in Cusco
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/cusco-peru/body_3.jpg)
 *Photo by [Joshuan Barboza](https://www.pexels.com/@jbarbozameca) on [Pexels](https://www.pexels.com)*
@@ -105,6 +100,74 @@ For something heartier, consider trying **Aji de Gallina**, a creamy chicken dis
 Don't forget to explore the street food scene, where you can find local favorites like **Anticuchos**—grilled skewers of marinated beef heart—often served with a spicy sauce. Street vendors offer these tasty bites at affordable prices, making them perfect for a quick snack while exploring.
 
 For dessert, indulge in **Alfajores**, sweet cookies filled with dulce de leche and often coated in powdered sugar. These treats are perfect for satisfying your sweet tooth while enjoying the local café culture.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Cusco City Tour: Four Ruins in Half Day](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/d8/2a/04.jpg)](https://www.viator.com/tours/Cusco/Cusco-City-Tour-Four-Ruins-in-Half-Day/d937-5559062P80?pid=P00295226&mcid=42383&medium=link)
+
+**[Cusco City Tour: Four Ruins in Half Day](https://www.viator.com/tours/Cusco/Cusco-City-Tour-Four-Ruins-in-Half-Day/d937-5559062P80?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Bus Services_
+
+From **$12**
+
+[Book Now →](https://www.viator.com/tours/Cusco/Cusco-City-Tour-Four-Ruins-in-Half-Day/d937-5559062P80?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![3 Day Cusco Adventure with Capsule & Rainbow Mountain](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/23/1b.jpg)](https://www.viator.com/tours/Cusco/3-Day-Cusco-Adventure-with-Capsule-and-Rainbow-Mountain/d937-5601688P14?pid=P00295226&mcid=42383&medium=link)
+
+**[3 Day Cusco Adventure with Capsule & Rainbow Mountain](https://www.viator.com/tours/Cusco/3-Day-Cusco-Adventure-with-Capsule-and-Rainbow-Mountain/d937-5601688P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Multi-day Tours_
+
+From **$403**
+
+[Book Now →](https://www.viator.com/tours/Cusco/3-Day-Cusco-Adventure-with-Capsule-and-Rainbow-Mountain/d937-5601688P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Tour to Rainbow Mountain Full day from Cusco.](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/71/e7/3e.jpg)](https://www.viator.com/tours/Cusco/Private-Tour-to-Rainbow-Mountain-Full-day-from-Cusco/d937-360147P25?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Tour to Rainbow Mountain Full day from Cusco.](https://www.viator.com/tours/Cusco/Private-Tour-to-Rainbow-Mountain-Full-day-from-Cusco/d937-360147P25?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Day Trips_
+
+From **$105**
+
+[Book Now →](https://www.viator.com/tours/Cusco/Private-Tour-to-Rainbow-Mountain-Full-day-from-Cusco/d937-360147P25?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![4 Day Inca Jungle Trail with Capsule & Machu Picchu](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/f8/66/19.jpg)](https://www.viator.com/tours/Cusco/4-Day-Inca-Jungle-Trail-with-Capsule-and-Machu-Picchu/d937-5601688P5?pid=P00295226&mcid=42383&medium=link)
+
+**[4 Day Inca Jungle Trail with Capsule & Machu Picchu](https://www.viator.com/tours/Cusco/4-Day-Inca-Jungle-Trail-with-Capsule-and-Machu-Picchu/d937-5601688P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Multi-day Tours_
+
+From **$525**
+
+[Book Now →](https://www.viator.com/tours/Cusco/4-Day-Inca-Jungle-Trail-with-Capsule-and-Machu-Picchu/d937-5601688P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Full-Day Humantay Lagoon Adventure from Cusco](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/cb/24/80.jpg)](https://www.viator.com/tours/Cusco/Full-Day-Humantay-Lagoon-Adventure-from-Cusco/d937-414208P9?pid=P00295226&mcid=42383&medium=link)
+
+**[Full-Day Humantay Lagoon Adventure from Cusco](https://www.viator.com/tours/Cusco/Full-Day-Humantay-Lagoon-Adventure-from-Cusco/d937-414208P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-28%</span>
+
+_Day Trips_
+
+From **$29**
+
+[Book Now →](https://www.viator.com/tours/Cusco/Full-Day-Humantay-Lagoon-Adventure-from-Cusco/d937-414208P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Cusco
 
@@ -141,9 +204,8 @@ If you're also considering a trip to Buenos Aires, Argentina, you’ll find a di
 With its remarkable history, stunning landscapes, and delicious cuisine, Cusco is a destination that offers a rich and rewarding travel experience. Whether you’re wandering through ancient ruins or savoring local dishes, the city’s charm is sure to leave a lasting impression.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Miguel Cuenca](https://www.pexels.com/@miguel-cuenca-67882473) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Walking through the narrow alleys of the old city, you'll discover the artistry 
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/fez-morocco/body_1.jpg)
 *Photo by [Miguel Cuenca](https://www.pexels.com/@miguel-cuenca-67882473) on [Pexels](https://www.pexels.com)*
 
@@ -61,7 +58,6 @@ The best time to visit Fez is during the spring (March to May) and fall (Septemb
 Summer (June to August) can be quite hot, with temperatures soaring above 100°F (38°C) during the day, which may deter some travelers. However, this is also the peak tourist season, so expect larger crowds and higher prices for accommodations. Winter (December to February) experiences cooler temperatures, often dropping to the 40s°F (4-9°C) at night, but it’s a quieter time to visit if you prefer fewer tourists and lower prices.
 
 ## Where to Stay in Fez
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/fez-morocco/body_2.jpg)
 *Photo by [Abderrahmane Habibi](https://www.pexels.com/@abdoo) on [Pexels](https://www.pexels.com)*
@@ -81,7 +77,6 @@ For luxury travelers, Ville Nouvelle is the modern district of Fez, featuring up
 For a truly unique experience, consider staying in one of the traditional riads within the medina. These beautifully restored homes often offer beautiful courtyards and stunning architecture. Prices can vary widely, but expect to pay anywhere from $80 to over $200 per night. This option allows you to wake up in the heart of the action, with the sights and sounds of Fez right at your doorstep.
 
 ## Top Things to Do in Fez
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/fez-morocco/body_3.jpg)
 *Photo by [Abderrahmane Habibi](https://www.pexels.com/@abdoo) on [Pexels](https://www.pexels.com)*
@@ -121,6 +116,74 @@ Fez is a food lover's paradise, offering a blend of traditional Moroccan dishes 
 5. **Street Food**: Don't miss out on local street food such as grilled meats, fried pastries, and fresh juices. The stalls in the medina are bustling with activity and offer delicious, affordable meals.
 
 For dining, you can choose from casual street food vendors to more upscale restaurants. The medina is filled with small eateries where you can savor authentic Moroccan flavors, while in Ville Nouvelle, international cuisine and fine dining options abound.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Half day Fes Walking Tour in the Medina with a Local Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/eb/72/74.jpg)](https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link)
+
+**[Half day Fes Walking Tour in the Medina with a Local Guide](https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_4WD Tours_
+
+From **$20**
+
+[Book Now →](https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Fez Guided Tour of Artisans and Handicrafts Full-Day Private Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/d7/51/4c.jpg)](https://www.viator.com/tours/Fez/Fez-Guided-Tour-of-Artisans-and-Handicrafts-Full-Day-Private-Tour/d22151-133516P6?pid=P00295226&mcid=42383&medium=link)
+
+**[Fez Guided Tour of Artisans and Handicrafts Full-Day Private Tour](https://www.viator.com/tours/Fez/Fez-Guided-Tour-of-Artisans-and-Handicrafts-Full-Day-Private-Tour/d22151-133516P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-35%</span>
+
+_Art Tours_
+
+From **$27**
+
+[Book Now →](https://www.viator.com/tours/Fez/Fez-Guided-Tour-of-Artisans-and-Handicrafts-Full-Day-Private-Tour/d22151-133516P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Private Fes Ramparts Tour Panoramic Views and City Gates](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/6e/c4/0d.jpg)](https://www.viator.com/tours/Fez/Private-Fes-Ramparts-Tour-Panoramic-Views-and-City-Gates/d22151-133516P45?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Fes Ramparts Tour Panoramic Views and City Gates](https://www.viator.com/tours/Fez/Private-Fes-Ramparts-Tour-Panoramic-Views-and-City-Gates/d22151-133516P45?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_City Tours_
+
+From **$21**
+
+[Book Now →](https://www.viator.com/tours/Fez/Private-Fes-Ramparts-Tour-Panoramic-Views-and-City-Gates/d22151-133516P45?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![FES Half-Day Luxury Private Tour in Fes with a Local Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/e5/c5/1d.jpg)](https://www.viator.com/tours/Fez/FES-Half-Day-Luxury-Private-Tour-in-Fes-with-a-Local-Guide/d22151-133516P27?pid=P00295226&mcid=42383&medium=link)
+
+**[FES Half-Day Luxury Private Tour in Fes with a Local Guide](https://www.viator.com/tours/Fez/FES-Half-Day-Luxury-Private-Tour-in-Fes-with-a-Local-Guide/d22151-133516P27?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_City Tours_
+
+From **$17**
+
+[Book Now →](https://www.viator.com/tours/Fez/FES-Half-Day-Luxury-Private-Tour-in-Fes-with-a-Local-Guide/d22151-133516P27?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Mosaic Workshop & Sightseeing Tour /Car](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/3b/3a/c7.jpg)](https://www.viator.com/tours/Fez/Mosaic-Workshop-and-Sightseeing-Tour-Car/d22151-207313P10?pid=P00295226&mcid=42383&medium=link)
+
+**[Mosaic Workshop & Sightseeing Tour /Car](https://www.viator.com/tours/Fez/Mosaic-Workshop-and-Sightseeing-Tour-Car/d22151-207313P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Ports of Call Tours_
+
+From **$31**
+
+[Book Now →](https://www.viator.com/tours/Fez/Mosaic-Workshop-and-Sightseeing-Tour-Car/d22151-207313P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Fez
 
@@ -163,9 +226,8 @@ Traveling to Fez can be quite affordable, depending on your style of travel. Her
 Fez is a city that invites exploration, with its rich tapestry of history, culture, and gastronomy. Whether wandering through the vibrant souks or savoring a steaming bowl of harira, your time in Fez will undoubtedly be memorable. If you're also considering a trip to [Marrakech](https://foodtour.techpawz.com/posts/marrakech-food-tours/), Morocco or exploring the stunning landscapes of Cape Town, South Africa, Fez offers a perfect complement to your Moroccan adventure.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

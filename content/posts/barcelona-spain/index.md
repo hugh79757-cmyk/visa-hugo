@@ -16,7 +16,6 @@ showTableOfContents: true
 
 ## Why Visit Barcelona?
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -49,8 +48,6 @@ Beyond its architectural wonders, [Barcelona](https://trains.techpawz.com/posts/
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/barcelona-spain/body_1.jpg)
 *Photo by [Pourya Gohari](https://unsplash.com/@_pourya_) on [Unsplash](https://unsplash.com)*
 
@@ -66,7 +63,6 @@ The best time to visit Barcelona largely depends on your preferences for weather
 
 ## Where to Stay in Barcelona
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/barcelona-spain/body_2.jpg)
 *Photo by [Pourya Gohari](https://unsplash.com/@_pourya_) on [Unsplash](https://unsplash.com)*
 
@@ -79,7 +75,6 @@ Choosing the right neighborhood can enhance your Barcelona experience, whether y
 **Luxury**: For a more upscale experience, look at the upscale neighborhoods of Sarrià-Sant Gervasi or the waterfront area of Port Olímpic. These areas offer luxurious hotels with stunning views, high-end dining, and easy access to cultural attractions. Luxury accommodations can range from $200/night and up.
 
 ## Top Things to Do in Barcelona
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/barcelona-spain/body_3.jpg)
 *Photo by [flickch](https://unsplash.com/@flickch) on [Unsplash](https://unsplash.com)*
@@ -115,6 +110,74 @@ Barcelona is a food lover’s paradise, offering an array of culinary delights t
 - **Crema Catalana**: A delightful dessert similar to crème brûlée, with a caramelized sugar topping.
 
 Barcelona’s dining scene is diverse, ranging from street food to upscale restaurants. For an authentic experience, don’t miss the food stalls at La Boqueria market or smaller tapas bars in El Born and Gràcia, where you can enjoy a more local atmosphere.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![2 - in - 1 Barcelona Pass : White Rabbit + House of Candy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/c8/26/0e.jpg)](https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link)
+
+**[2 - in - 1 Barcelona Pass : White Rabbit + House of Candy](https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Attractions & Museums_
+
+From **$22**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Mediterranean Flavors Sitges and Olive Oil Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c9/25/6c/caption.jpg)](https://www.viator.com/tours/Barcelona/Mediterranean-Flavors-Sitges-and-Olive-Oil-Experience/d562-360082P9?pid=P00295226&mcid=42383&medium=link)
+
+**[Mediterranean Flavors Sitges and Olive Oil Experience](https://www.viator.com/tours/Barcelona/Mediterranean-Flavors-Sitges-and-Olive-Oil-Experience/d562-360082P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Art Tours_
+
+From **$866**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Mediterranean-Flavors-Sitges-and-Olive-Oil-Experience/d562-360082P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Transfer Barcelona to Port Airport and hotels](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b2/36/e9/caption.jpg)](https://www.viator.com/tours/Barcelona/Transfer-Barcelona-to-Port-Airport-and-hotels/d562-86408P17?pid=P00295226&mcid=42383&medium=link)
+
+**[Transfer Barcelona to Port Airport and hotels](https://www.viator.com/tours/Barcelona/Transfer-Barcelona-to-Port-Airport-and-hotels/d562-86408P17?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Airport & Hotel Transfers_
+
+From **$24**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Transfer-Barcelona-to-Port-Airport-and-hotels/d562-86408P17?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Montserrat Monastery Private Tour with Hotel Pick up](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/bd/5a/75.jpg)](https://www.viator.com/tours/Barcelona/Montserrat-Monastery-Private-Tour-with-Hotel-Pick-up/d562-10913P52?pid=P00295226&mcid=42383&medium=link)
+
+**[Montserrat Monastery Private Tour with Hotel Pick up](https://www.viator.com/tours/Barcelona/Montserrat-Monastery-Private-Tour-with-Hotel-Pick-up/d562-10913P52?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-18%</span>
+
+_Private and Luxury_
+
+From **$917**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Montserrat-Monastery-Private-Tour-with-Hotel-Pick-up/d562-10913P52?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Teatro Flamenco Barcelona: Historic Venue, Pure Flamenco](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/d8/6d/6f.jpg)](https://www.viator.com/tours/Barcelona/Teatro-Flamenco-Barcelona-Historic-Venue-Pure-Flamenco/d562-5555400P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Teatro Flamenco Barcelona: Historic Venue, Pure Flamenco](https://www.viator.com/tours/Barcelona/Teatro-Flamenco-Barcelona-Historic-Venue-Pure-Flamenco/d562-5555400P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+
+_Flamenco Performance_
+
+From **$25**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Teatro-Flamenco-Barcelona-Historic-Venue-Pure-Flamenco/d562-5555400P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Barcelona
 
@@ -153,9 +216,8 @@ Your daily budget in Barcelona can vary significantly depending on your travel s
 With its captivating history, stunning architecture, and delectable cuisine, Barcelona promises an unforgettable adventure. Whether you’re soaking in the sun on a beach, exploring a hidden gem, or savoring a delicious meal, the city invites you to experience its charm and vibrancy.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

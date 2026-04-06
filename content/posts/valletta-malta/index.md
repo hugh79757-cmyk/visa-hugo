@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Efrem  Efre](https://www.pexels.com/@efrem-efre-2786187) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ The city’s compact size makes it incredibly walkable, allowing visitors to exp
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/valletta-malta/body_1.jpg)
 *Photo by [Efrem  Efre](https://www.pexels.com/@efrem-efre-2786187) on [Pexels](https://www.pexels.com)*
 
@@ -64,7 +61,6 @@ The **fall months of September to November** are another ideal time, as the weat
 
 ## Where to Stay in Valletta
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/valletta-malta/body_2.jpg)
 *Photo by [Efrem  Efre](https://www.pexels.com/@efrem-efre-2786187) on [Pexels](https://www.pexels.com)*
 
@@ -75,7 +71,6 @@ If you're looking for mid-range options, the **Marsamxett Harbor** area is an ex
 For travelers seeking luxury, consider the **Valletta Waterfront**. This upscale area features high-end hotels with stunning views of the harbor. Prices in this category generally start at $200 per night and can go higher, depending on the amenities offered. Staying here not only provides comfort but also places you in the heart of the city’s dining and entertainment scene.
 
 ## Top Things to Do in Valletta
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/valletta-malta/body_3.jpg)
 *Photo by [Artur Roman](https://www.pexels.com/@artur-roman-158558) on [Pexels](https://www.pexels.com)*
@@ -105,6 +100,50 @@ For seafood lovers, **bragioli**, or beef olives, are a must-try. These are thin
 If you’re in the mood for something lighter, the **Maltese salad**, featuring fresh vegetables, olives, and local cheese, is perfect for a warm day. Pair it with a glass of Maltese wine, which has been produced on the island for centuries, to complete your meal. 
 
 Valletta also boasts a growing number of trendy cafes and eateries where you can enjoy modern interpretations of traditional dishes. Exploring these spots will give you a taste of the city’s evolving food scene, where local ingredients are celebrated in innovative ways.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Valletta Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link)
+
+**[Valletta Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self-Guided Secrets of Valletta Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/4f/02/1d.jpg)](https://www.viator.com/tours/Malta/Self-Guided-Secrets-of-Valletta-Exploration-Game/d4141-30066P534?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided Secrets of Valletta Exploration Game](https://www.viator.com/tours/Malta/Self-Guided-Secrets-of-Valletta-Exploration-Game/d4141-30066P534?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Malta/Self-Guided-Secrets-of-Valletta-Exploration-Game/d4141-30066P534?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Valletta Private Minivan Tour Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/93/30/e1/caption.jpg)](https://www.viator.com/tours/Malta/Valletta-Private-Minivan-Tour-Experience/d4141-5639020P7?pid=P00295226&mcid=42383&medium=link)
+
+**[Valletta Private Minivan Tour Experience](https://www.viator.com/tours/Malta/Valletta-Private-Minivan-Tour-Experience/d4141-5639020P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$282**
+
+[Book Now →](https://www.viator.com/tours/Malta/Valletta-Private-Minivan-Tour-Experience/d4141-5639020P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Valletta
 
@@ -141,9 +180,8 @@ If you’re also considering a trip to [Tbilisi](https://daytrips.techpawz.com/p
 By keeping these tips in mind, your visit to Valletta will be enjoyable, allowing you to fully appreciate the beauty and history of this remarkable city.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

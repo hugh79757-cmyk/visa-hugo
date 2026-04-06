@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Daniel Vélez](https://www.pexels.com/@daniel-velez-351059015) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ One of the standout features of Medellin is its pleasant climate, often referred
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 Medellin’s climate is mild and pleasant throughout the year, but there are still some seasonal nuances worth noting. The dry season generally runs from December to March, making it the most popular time for tourists. During these months, you can expect sunny skies and vibrant festivals, such as the Festival of Lights in December. However, this also means larger crowds and higher prices for accommodation.
 
@@ -108,6 +106,74 @@ Medellin's culinary scene is a delightful mix of traditional Colombian flavors a
 
 For dining, explore local restaurants in El Poblado for more upscale options or venture into Laureles for a laid-back atmosphere with a variety of eateries. 
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Pablo Escobar Tour between History and Museum in Medellin](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/c2/a0/68.jpg)](https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Pablo Escobar Tour between History and Museum in Medellin](https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-35%</span>
+
+_Half-day Tours_
+
+From **$24**
+
+[Book Now →](https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Experience comuna 13 Alleys and local gastronomy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/c9/08/64.jpg)](https://www.viator.com/tours/Medelln/Experience-comuna-13-Alleys-and-local-gastronomy/d4563-5581759P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Experience comuna 13 Alleys and local gastronomy](https://www.viator.com/tours/Medelln/Experience-comuna-13-Alleys-and-local-gastronomy/d4563-5581759P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Art Tours_
+
+From **$13**
+
+[Book Now →](https://www.viator.com/tours/Medelln/Experience-comuna-13-Alleys-and-local-gastronomy/d4563-5581759P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Guatapé and Pablo Escobar Mansion and Paint Ball and ATV's and Boat Trip](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/95/c6/ae/caption.jpg)](https://www.viator.com/tours/Medelln/Guatap-and-Pablo-Escobar-Mansion-and-Paint-Ball-and-ATVs-and-Boat-Trip/d4563-246502P14?pid=P00295226&mcid=42383&medium=link)
+
+**[Guatapé and Pablo Escobar Mansion and Paint Ball and ATV's and Boat Trip](https://www.viator.com/tours/Medelln/Guatap-and-Pablo-Escobar-Mansion-and-Paint-Ball-and-ATVs-and-Boat-Trip/d4563-246502P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$293**
+
+[Book Now →](https://www.viator.com/tours/Medelln/Guatap-and-Pablo-Escobar-Mansion-and-Paint-Ball-and-ATVs-and-Boat-Trip/d4563-246502P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Guatapé Coffee Tour Piedra del Peñol Bote](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/95/c3/ed/caption.jpg)](https://www.viator.com/tours/Medelln/Guatap-Coffee-Tour-Piedra-del-Peol-Bote/d4563-246502P12?pid=P00295226&mcid=42383&medium=link)
+
+**[Guatapé Coffee Tour Piedra del Peñol Bote](https://www.viator.com/tours/Medelln/Guatap-Coffee-Tour-Piedra-del-Peol-Bote/d4563-246502P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Day Trips_
+
+From **$360**
+
+[Book Now →](https://www.viator.com/tours/Medelln/Guatap-Coffee-Tour-Piedra-del-Peol-Bote/d4563-246502P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Travel from Medellin to Axis Cafetero](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/95/c7/d1/caption.jpg)](https://www.viator.com/tours/Medelln/Travel-from-Medellin-to-Axis-Cafetero/d4563-246502P16?pid=P00295226&mcid=42383&medium=link)
+
+**[Travel from Medellin to Axis Cafetero](https://www.viator.com/tours/Medelln/Travel-from-Medellin-to-Axis-Cafetero/d4563-246502P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Private Drivers_
+
+From **$360**
+
+[Book Now →](https://www.viator.com/tours/Medelln/Travel-from-Medellin-to-Axis-Cafetero/d4563-246502P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Medellin
 
 Navigating Medellin is quite convenient thanks to its efficient public transit system. The Medellin Metro is clean, safe, and connects major neighborhoods, making it an excellent option for getting around. The Metrocable, an aerial tramway, is not only a mode of transportation but also offers scenic views of the city.
@@ -149,9 +215,8 @@ If you're also considering a trip to [Cusco](https://daytrips.techpawz.com/posts
 With its rich culture, stunning landscapes, and warm people, Medellin is a destination that promises unforgettable memories. Enjoy your week in this remarkable city!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

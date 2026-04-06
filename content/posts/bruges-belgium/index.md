@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Lies](https://www.pexels.com/@lies-3701025) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ What truly sets Bruges apart is its vibrant atmosphere, enhanced by a thriving a
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bruges-belgium/body_1.jpg)
 *Photo by [Cedric Letsch](https://unsplash.com/@cedricletsch) on [Unsplash](https://unsplash.com)*
 
@@ -70,7 +67,6 @@ Overall, the best times to visit Bruges are during the shoulder seasons of sprin
 
 ## Where to Stay in Bruges
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bruges-belgium/body_2.jpg)
 *Photo by [Joris Neyt](https://www.pexels.com/@joris-neyt-512471) on [Pexels](https://www.pexels.com)*
 
@@ -85,7 +81,6 @@ Finding the right neighborhood can enhance your experience in Bruges, whether yo
 No matter where you choose to stay, Bruges is compact enough that you can easily explore the city on foot, making your choice of neighborhood less critical.
 
 ## Top Things to Do in Bruges
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bruges-belgium/body_3.jpg)
 *Photo by [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) on [Pexels](https://www.pexels.com)*
@@ -179,9 +174,8 @@ Bruges is a city that welcomes visitors with open arms, and by following these t
 If you're also considering a trip to Copenhagen, [Denmark](https://visafree.techpawz.com/posts/denmark-visa-free/) or [Dubrovnik](https://cruise.techpawz.com/posts/dubrovnik_shore-excursions/), [Croatia](https://cruise.techpawz.com/posts/dubrovnik_shore-excursions/), check out our guides for more travel inspiration. Whether you’re drawn to the canals of Bruges or the historic streets of Venice, each destination offers its own unique charm. Enjoy your adventure!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

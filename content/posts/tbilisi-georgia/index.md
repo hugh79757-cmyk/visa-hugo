@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Eyup  Sayar](https://www.pexels.com/@eyup-sayar-290427017) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -50,7 +49,6 @@ What truly sets [Tbilisi](https://daytrips.techpawz.com/posts/tbilisi-day-trips/
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
 
 Tbilisi experiences four distinct seasons, each offering a unique perspective on the city. 
 
@@ -112,6 +110,74 @@ Georgian cuisine is a delightful blend of flavors, with an emphasis on fresh ing
 
 For dining, you can choose from casual street food stalls to upscale restaurants. While street food offers an authentic taste of local life, restaurants often provide a more refined experience with a wider variety of dishes. 
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Full-Day Kazbegi Tour: Caucasus Mountains & Gergeti Church](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/1a/1c/8a.jpg)](https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link)
+
+**[Full-Day Kazbegi Tour: Caucasus Mountains & Gergeti Church](https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Day Trips_
+
+From **$15**
+
+[Book Now →](https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Full-Day Kakheti Tour Wine, Food and Sighnaghi City of Love](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/0c/5b/b7.jpg)](https://www.viator.com/tours/Tbilisi/Full-Day-Kakheti-Tour-Wine-Food-and-Sighnaghi-City-of-Love/d22516-409235P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Full-Day Kakheti Tour Wine, Food and Sighnaghi City of Love](https://www.viator.com/tours/Tbilisi/Full-Day-Kakheti-Tour-Wine-Food-and-Sighnaghi-City-of-Love/d22516-409235P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Day Trips_
+
+From **$17**
+
+[Book Now →](https://www.viator.com/tours/Tbilisi/Full-Day-Kakheti-Tour-Wine-Food-and-Sighnaghi-City-of-Love/d22516-409235P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Mtskheta, Gori and Uplistsikhe Caves Historical Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/23/3a/85.jpg)](https://www.viator.com/tours/Tbilisi/Mtskheta-Gori-and-Uplistsikhe-Caves-Historical-Tour/d22516-409235P6?pid=P00295226&mcid=42383&medium=link)
+
+**[Mtskheta, Gori and Uplistsikhe Caves Historical Tour](https://www.viator.com/tours/Tbilisi/Mtskheta-Gori-and-Uplistsikhe-Caves-Historical-Tour/d22516-409235P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-42%</span>
+
+_Day Trips_
+
+From **$21**
+
+[Book Now →](https://www.viator.com/tours/Tbilisi/Mtskheta-Gori-and-Uplistsikhe-Caves-Historical-Tour/d22516-409235P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Day tour to Kakheti wine region Georgia](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/38/21/2e.jpg)](https://www.viator.com/tours/Tbilisi/Day-tour-to-Kakheti-wine-region-Georgia/d22516-38341P5?pid=P00295226&mcid=42383&medium=link)
+
+**[Day tour to Kakheti wine region Georgia](https://www.viator.com/tours/Tbilisi/Day-tour-to-Kakheti-wine-region-Georgia/d22516-38341P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Day Trips_
+
+From **$22**
+
+[Book Now →](https://www.viator.com/tours/Tbilisi/Day-tour-to-Kakheti-wine-region-Georgia/d22516-38341P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Day tour to Vardzia, Borjomi in Georgia](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/03/28/68.jpg)](https://www.viator.com/tours/Tbilisi/Day-tour-to-Vardzia-Borjomi-in-Georgia/d22516-38341P9?pid=P00295226&mcid=42383&medium=link)
+
+**[Day tour to Vardzia, Borjomi in Georgia](https://www.viator.com/tours/Tbilisi/Day-tour-to-Vardzia-Borjomi-in-Georgia/d22516-38341P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Day Trips_
+
+From **$30**
+
+[Book Now →](https://www.viator.com/tours/Tbilisi/Day-tour-to-Vardzia-Borjomi-in-Georgia/d22516-38341P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Tbilisi
 
 Navigating Tbilisi is relatively easy, thanks to its compact size and public transportation options. 
@@ -153,9 +219,8 @@ Understanding the costs associated with your trip can help you plan better. Here
 With its rich history, stunning landscapes, and delicious cuisine, Tbilisi is a destination that promises unforgettable experiences. Whether you're exploring the vibrant streets or indulging in local delicacies, each moment spent in this charming city will leave you with lasting memories. If you're also considering a trip to Lake Bled, Slovenia, check out our guide for more travel inspiration!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

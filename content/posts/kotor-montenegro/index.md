@@ -16,7 +16,6 @@ showTableOfContents: true
 
 Photo by [Muhammed Fatih Beki](https://www.pexels.com/@mfbeki) on [Pexels](https://www.pexels.com)
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -51,8 +50,6 @@ Kotor is not just a beautiful sight; it also offers a wealth of activities for e
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kotor-montenegro/body_1.jpg)
 *Photo by [Muhammed Fatih Beki](https://www.pexels.com/@mfbeki) on [Pexels](https://www.pexels.com)*
 
@@ -62,7 +59,6 @@ Winter (November to March) brings cooler temperatures, typically in the 40s°F, 
 
 ## Where to Stay in Kotor
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kotor-montenegro/body_2.jpg)
 *Photo by [Boris Hamer](https://www.pexels.com/@borishamer) on [Pexels](https://www.pexels.com)*
 
@@ -71,7 +67,6 @@ The Old Town is the heart of Kotor, perfect for those who want to immerse themse
 If luxury is your goal, look towards the waterfront properties along the Bay of Kotor. These accommodations often feature stunning views of the bay and mountains, with high-end services and facilities that cater to a more upscale experience. For those seeking tranquility, consider staying in the nearby village of Perast, where you can enjoy beautiful waterfront views and a quieter pace, just a short drive from Kotor.
 
 ## Top Things to Do in Kotor
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/kotor-montenegro/body_3.jpg)
 *Photo by [Muhammed Fatih Beki](https://www.pexels.com/@mfbeki) on [Pexels](https://www.pexels.com)*
@@ -99,6 +94,74 @@ Street food is also a highlight, with vendors offering **Burek**, a flaky pastry
 For a more sit-down experience, seek out restaurants that serve **Montenegrin Lamb**. Slow-cooked and seasoned with local herbs, this dish encapsulates the flavors of the region and is often accompanied by potatoes or seasonal vegetables. Don't miss out on **Tavče Gravče**, a traditional bean dish that warms the soul and is a staple in Montenegrin households.
 
 For dessert, indulge in **Kotor Cake**, a local specialty that combines layers of chocolate and cream. Enjoy it with a cup of strong Montenegrin coffee while enjoying the ambiance of a cozy café. Dining in Kotor offers a delightful exploration of flavors, whether you're grabbing a quick bite from a vendor or enjoying a leisurely meal at a restaurant.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Private Transfer from Kotor to Tivat airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/46/8a/08.jpg)](https://www.viator.com/tours/Kotor/Private-Transfer-from-Kotor-to-Tivat-airport/d23078-231331P10?pid=P00295226&mcid=42383&medium=link)
+
+**[Private Transfer from Kotor to Tivat airport](https://www.viator.com/tours/Kotor/Private-Transfer-from-Kotor-to-Tivat-airport/d23078-231331P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Airport & Hotel Transfers_
+
+From **$75**
+
+[Book Now →](https://www.viator.com/tours/Kotor/Private-Transfer-from-Kotor-to-Tivat-airport/d23078-231331P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kotor Shore Excursion: Budva, Perast & Our Lady of the Rocks](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/fd/75/a3.jpg)](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Perast-and-Our-Lady-of-the-Rocks/d23078-45486P12?pid=P00295226&mcid=42383&medium=link)
+
+**[Kotor Shore Excursion: Budva, Perast & Our Lady of the Rocks](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Perast-and-Our-Lady-of-the-Rocks/d23078-45486P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Shore Excursions_
+
+From **$236**
+
+[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Perast-and-Our-Lady-of-the-Rocks/d23078-45486P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kotor Shore Excursion: Budva Old Town & Sveti Stefan island](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/89/d2/cc/caption.jpg)](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Old-Town-and-Sveti-Stefan-island/d23078-45486P51?pid=P00295226&mcid=42383&medium=link)
+
+**[Kotor Shore Excursion: Budva Old Town & Sveti Stefan island](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Old-Town-and-Sveti-Stefan-island/d23078-45486P51?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Private and Luxury_
+
+From **$236**
+
+[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Old-Town-and-Sveti-Stefan-island/d23078-45486P51?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Bike & hike tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/85/b1/e3.jpg)](https://www.viator.com/tours/Kotor/Bike-and-hike-tour/d23078-251139P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Bike & hike tour](https://www.viator.com/tours/Kotor/Bike-and-hike-tour/d23078-251139P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+
+_Half-day Tours_
+
+From **$65**
+
+[Book Now →](https://www.viator.com/tours/Kotor/Bike-and-hike-tour/d23078-251139P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kotor Tour to Durmitor - Black Lake & Tara River Bridge](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/95/2f/fe.jpg)](https://www.viator.com/tours/Kotor/Kotor-Tour-to-Durmitor-Black-Lake-and-Tara-River-Bridge/d23078-45486P27?pid=P00295226&mcid=42383&medium=link)
+
+**[Kotor Tour to Durmitor - Black Lake & Tara River Bridge](https://www.viator.com/tours/Kotor/Kotor-Tour-to-Durmitor-Black-Lake-and-Tara-River-Bridge/d23078-45486P27?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+
+_Shore Excursions_
+
+From **$304**
+
+[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Tour-to-Durmitor-Black-Lake-and-Tara-River-Bridge/d23078-45486P27?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Kotor
 
@@ -133,9 +196,8 @@ Regardless of your budget, Kotor offers a variety of options that can enhance yo
 Kotor, with its stunning scenery and welcoming atmosphere, offers an array of experiences that cater to all types of travelers. Whether you're drawn by its history, natural beauty, or culinary offerings, this coastal town in Montenegro is sure to leave a lasting impression.
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 

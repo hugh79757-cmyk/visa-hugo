@@ -16,7 +16,6 @@ showTableOfContents: true
 
 ## Why Visit Tokyo?
 
-
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8772455780561463"
      crossorigin="anonymous"></script>
 <!-- ETAP -->
@@ -49,8 +48,6 @@ The culture in [Tokyo](https://michelin.techpawz.com/posts/michelin-restaurants-
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/tokyo-japan/body_1.jpg)
 *Photo by [Aphriell Art](https://unsplash.com/@yooosh) on [Unsplash](https://unsplash.com)*
 
@@ -66,7 +63,6 @@ Tokyo experiences four distinct seasons, each offering a unique perspective on t
 
 ## Where to Stay in Tokyo
 
-
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/tokyo-japan/body_2.jpg)
 *Photo by [PJH](https://unsplash.com/@dokae) on [Unsplash](https://unsplash.com)*
 
@@ -81,7 +77,6 @@ Choosing the right neighborhood is crucial for experiencing Tokyo to the fullest
 **Local Tip**: Consider staying in a ryokan (traditional inn) for an authentic Japanese experience. Many are located in quieter neighborhoods and offer a glimpse into Japan's hospitality culture.
 
 ## Top Things to Do in Tokyo
-
 
 ![Photo](https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/tokyo-japan/body_3.jpg)
 *Photo by [Ramon Buçard](https://unsplash.com/@ramonbucard) on [Unsplash](https://unsplash.com)*
@@ -121,6 +116,74 @@ Tokyo is a culinary paradise, offering everything from street food to Michelin-s
 - **Street Food**: Don’t miss trying yakitori (grilled chicken skewers) and takoyaki (octopus balls) from street vendors in areas like Shinjuku and Harajuku.
 
 Restaurants in Tokyo range from casual izakayas (Japanese pubs) to fine dining establishments. For an authentic experience, consider visiting local eateries and markets to taste the flavors of Japan.
+
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Self-Guided Tour of Tokyo's Hidden Alleys](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/ca/dc/a8.jpg)](https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided Tour of Tokyo's Hidden Alleys](https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+
+_Day Trips_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Kanda Myojin Guided Tour – Tokyo’s Historic Guardian Shrine](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/55/2f/10.jpg)](https://www.viator.com/tours/Tokyo/Kanda-Myojin-Guided-Tour-Tokyos-Historic-Guardian-Shrine/d334-174545P114?pid=P00295226&mcid=42383&medium=link)
+
+**[Kanda Myojin Guided Tour – Tokyo’s Historic Guardian Shrine](https://www.viator.com/tours/Tokyo/Kanda-Myojin-Guided-Tour-Tokyos-Historic-Guardian-Shrine/d334-174545P114?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Private and Luxury_
+
+From **$44**
+
+[Book Now →](https://www.viator.com/tours/Tokyo/Kanda-Myojin-Guided-Tour-Tokyos-Historic-Guardian-Shrine/d334-174545P114?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Tokyo Handmade Chopsticks Workshop in Shibuya](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/d3/21/e8/caption.jpg)](https://www.viator.com/tours/Tokyo/Tokyo-Handmade-Chopsticks-Workshop-in-Shibuya/d334-5645102P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Tokyo Handmade Chopsticks Workshop in Shibuya](https://www.viator.com/tours/Tokyo/Tokyo-Handmade-Chopsticks-Workshop-in-Shibuya/d334-5645102P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Art Classes_
+
+From **$12**
+
+[Book Now →](https://www.viator.com/tours/Tokyo/Tokyo-Handmade-Chopsticks-Workshop-in-Shibuya/d334-5645102P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Shinjuku Bar Hopping Tour – Kabukicho & Golden Gai Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ca/10/8c/caption.jpg)](https://www.viator.com/tours/Tokyo/Shinjuku-Bar-Hopping-Tour-Kabukicho-and-Golden-Gai-Experience/d334-174545P120?pid=P00295226&mcid=42383&medium=link)
+
+**[Shinjuku Bar Hopping Tour – Kabukicho & Golden Gai Experience](https://www.viator.com/tours/Tokyo/Shinjuku-Bar-Hopping-Tour-Kabukicho-and-Golden-Gai-Experience/d334-174545P120?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Street Food Tours_
+
+From **$60**
+
+[Book Now →](https://www.viator.com/tours/Tokyo/Shinjuku-Bar-Hopping-Tour-Kabukicho-and-Golden-Gai-Experience/d334-174545P120?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Small Group Tour Mount Fuji and Lake Kawaguchi from Tokyo](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/2b/05/37.jpg)](https://www.viator.com/tours/Tokyo/Small-Group-Tour-Mount-Fuji-and-Lake-Kawaguchi-from-Tokyo/d334-5500660P19?pid=P00295226&mcid=42383&medium=link)
+
+**[Small Group Tour Mount Fuji and Lake Kawaguchi from Tokyo](https://www.viator.com/tours/Tokyo/Small-Group-Tour-Mount-Fuji-and-Lake-Kawaguchi-from-Tokyo/d334-5500660P19?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+
+_Day Trips_
+
+From **$100**
+
+[Book Now →](https://www.viator.com/tours/Tokyo/Small-Group-Tour-Mount-Fuji-and-Lake-Kawaguchi-from-Tokyo/d334-5500660P19?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
 
 ## Getting Around Tokyo
 
@@ -165,9 +228,8 @@ Keep in mind that prices can fluctuate based on the season and specific activiti
 Tokyo is a city that invites exploration, and with this guide, you're well on your way to experiencing all that this incredible destination has to offer. Enjoy your adventure!
 <div class="etap-disclaimer-card">
 
-> **📌 정보 안내 (Information Notice)**
+> **📌 Disclaimer**
 > 
-> 이 페이지의 가격, 일정, 투어 내용, 항공 노선, 비자 요건 및 기타 모든 정보는 **작성 시점**의 데이터를 기반으로 합니다. 실제 이용 시점에 따라 요금, 운항 여부, 정책 등이 변경될 수 있습니다. 예약 전 반드시 공식 사이트에서 최신 정보를 확인하시기 바랍니다.
 > 
 > Prices, schedules, tour details, flight routes, visa requirements, and all other information on this page are based on data **at the time of writing**. Fares, availability, and policies may change. Please verify current details on the official website before booking.
 
