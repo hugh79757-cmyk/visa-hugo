@@ -139,6 +139,18 @@ For countries that require a traditional visa, the application process typically
 
 6. **Await Processing**: Processing times can vary, so apply well in advance of your intended travel dates.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+Looking for tours and activities in **Visa Dominica Passport**? Browse hundreds of experiences — from city walks and food tours to day trips and adventure sports.
+
+[🎟️ See All Visa Dominica Passport Tours on Viator →](https://www.viator.com/searchResults/all?text=Visa%20Dominica%20Passport&pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+</div>
+
 ## Tips for Dominica Passport Holders
 
 Traveling with a Dominica passport can be a rewarding experience. Here are some practical tips to enhance your travel experience:

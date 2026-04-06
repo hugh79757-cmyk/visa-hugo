@@ -93,6 +93,18 @@ For a quick bite, street food stalls offer tasty options such as **fish balls** 
 
 For those who prefer a sit-down meal, several restaurants in El Nido serve a variety of international cuisines, ensuring there's something for everyone. Many establishments pride themselves on sourcing fresh ingredients, resulting in dishes that highlight the flavors of the region.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+Looking for tours and activities in **El Nido**? Browse hundreds of experiences — from city walks and food tours to day trips and adventure sports.
+
+[🎟️ See All El Nido Tours on Viator →](https://www.viator.com/searchResults/all?text=El%20Nido&pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+</div>
+
 ## Getting Around El Nido
 
 Getting around El Nido is relatively straightforward, with several options available to suit different preferences. The town itself is small enough to explore on foot, allowing you to take in the local atmosphere while discovering shops, cafés, and attractions along the way. However, if you prefer a more convenient mode of transport, tricycles are widely available and can take you to various destinations within and around El Nido.

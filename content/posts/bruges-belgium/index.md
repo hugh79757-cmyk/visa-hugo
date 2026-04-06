@@ -125,6 +125,74 @@ No visit to Bruges is complete without indulging in its culinary delights. The c
 
 For dining options, you can choose between casual street food vendors offering quick bites or sit-down restaurants for a more formal meal. Many eateries around the Markt and Burg squares provide a variety of options, from traditional Belgian cuisine to international fare.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Coffee Crawl in Barcelona](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b3/d4/84.jpg)](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link)
+
+**[Coffee Crawl in Barcelona](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+
+_Coffee & Tea Tours_
+
+From **$8**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Coffee-Crawl-in-Barcelona/d562-368686P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Shared Sunset Cruise with Unlimited Cava](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c1/f4/79/caption.jpg)](https://www.viator.com/tours/Barcelona/Shared-Sunset-Cruise-with-Unlimited-Cava/d562-5557269P3?pid=P00295226&mcid=42383&medium=link)
+
+**[Shared Sunset Cruise with Unlimited Cava](https://www.viator.com/tours/Barcelona/Shared-Sunset-Cruise-with-Unlimited-Cava/d562-5557269P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+
+_Sailing_
+
+From **$40**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Shared-Sunset-Cruise-with-Unlimited-Cava/d562-5557269P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Timeless Barcelona: Roman Ruins, Gothic, Jewish and Born Quarter](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/a3/3e/03.jpg)](https://www.viator.com/tours/Barcelona/Timeless-Barcelona-Roman-Ruins-Gothic-Jewish-and-Born-Quarter/d562-327443P1?pid=P00295226&mcid=42383&medium=link)
+
+**[Timeless Barcelona: Roman Ruins, Gothic, Jewish and Born Quarter](https://www.viator.com/tours/Barcelona/Timeless-Barcelona-Roman-Ruins-Gothic-Jewish-and-Born-Quarter/d562-327443P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Private and Luxury_
+
+From **$19**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Timeless-Barcelona-Roman-Ruins-Gothic-Jewish-and-Born-Quarter/d562-327443P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Barcelona Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/e7/6a/11.jpg)](https://www.viator.com/tours/Barcelona/Barcelona-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d562-30066P442?pid=P00295226&mcid=42383&medium=link)
+
+**[Barcelona Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Barcelona/Barcelona-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d562-30066P442?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Barcelona-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d562-30066P442?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self Guided Private Exploration Game in Barcelona](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ec/49/86.jpg)](https://www.viator.com/tours/Barcelona/Self-Guided-Private-Exploration-Game-in-Barcelona/d562-30066P506?pid=P00295226&mcid=42383&medium=link)
+
+**[Self Guided Private Exploration Game in Barcelona](https://www.viator.com/tours/Barcelona/Self-Guided-Private-Exploration-Game-in-Barcelona/d562-30066P506?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Barcelona/Self-Guided-Private-Exploration-Game-in-Barcelona/d562-30066P506?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Bruges
 
 Bruges is a compact city that’s best explored on foot. Most of the major attractions are within walking distance of one another, making it easy to navigate. However, here are some additional options for getting around:

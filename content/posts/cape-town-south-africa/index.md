@@ -104,6 +104,74 @@ Cape Town’s culinary scene is a delightful mix of local flavors and internatio
 
 In terms of dining, you can find everything from upscale restaurants to affordable eateries. Local markets, like the Old Biscuit Mill in Woodstock, offer an array of food stalls where you can taste multiple dishes without overspending.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Puglia Adventure: Self-Guided Treasures of Southern Italy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/d8/17/c7.jpg)](https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link)
+
+**[Puglia Adventure: Self-Guided Treasures of Southern Italy](https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+
+_Day Trips_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Sherlock Holmes Murder Mystery Game in Bari, Italy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Bari/Sherlock-Holmes-Murder-Mystery-Game-in-Bari-Italy/d4226-30066P157?pid=P00295226&mcid=42383&medium=link)
+
+**[Sherlock Holmes Murder Mystery Game in Bari, Italy](https://www.viator.com/tours/Bari/Sherlock-Holmes-Murder-Mystery-Game-in-Bari-Italy/d4226-30066P157?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Bari/Sherlock-Holmes-Murder-Mystery-Game-in-Bari-Italy/d4226-30066P157?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Culinary tour and walk in the alleys of Barivecchia](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c4/7d/b2/caption.jpg)](https://www.viator.com/tours/Bari/Culinary-tour-and-walk-in-the-alleys-of-Barivecchia/d4226-5646853P4?pid=P00295226&mcid=42383&medium=link)
+
+**[Culinary tour and walk in the alleys of Barivecchia](https://www.viator.com/tours/Bari/Culinary-tour-and-walk-in-the-alleys-of-Barivecchia/d4226-5646853P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Street Food Tours_
+
+From **$38**
+
+[Book Now →](https://www.viator.com/tours/Bari/Culinary-tour-and-walk-in-the-alleys-of-Barivecchia/d4226-5646853P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Bari Old Town Ghost & Legends Tour with Tastings](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a3/59/2f/caption.jpg)](https://www.viator.com/tours/Bari/Bari-Old-Town-Ghost-and-Legends-Tour-with-Tastings/d4226-326991P61?pid=P00295226&mcid=42383&medium=link)
+
+**[Bari Old Town Ghost & Legends Tour with Tastings](https://www.viator.com/tours/Bari/Bari-Old-Town-Ghost-and-Legends-Tour-with-Tastings/d4226-326991P61?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Ghost Tours_
+
+From **$46**
+
+[Book Now →](https://www.viator.com/tours/Bari/Bari-Old-Town-Ghost-and-Legends-Tour-with-Tastings/d4226-326991P61?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Mérida Walking Tour 2h40 and 18 audio reviews](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/4e/19/caption.jpg)](https://www.viator.com/tours/Merida/Mrida-Walking-Tour-2h40-and-18-audio-reviews/d51211-5577016P207?pid=P00295226&mcid=42383&medium=link)
+
+**[Mérida Walking Tour 2h40 and 18 audio reviews](https://www.viator.com/tours/Merida/Mrida-Walking-Tour-2h40-and-18-audio-reviews/d51211-5577016P207?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_City Tours_
+
+From **$6**
+
+[Book Now →](https://www.viator.com/tours/Merida/Mrida-Walking-Tour-2h40-and-18-audio-reviews/d51211-5577016P207?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Cape Town
 
 Navigating Cape Town is relatively easy, and there are several options to suit different budgets:

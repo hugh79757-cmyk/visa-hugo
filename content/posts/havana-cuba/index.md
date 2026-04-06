@@ -123,6 +123,50 @@ Slow-roasted pork is a must-try in Cuba. Marinated with a blend of spices, lech�
 **Street Food vs. Restaurants**  
 While Havana boasts several fantastic restaurants, don’t overlook the street food scene. Street vendors offer delicious snacks like empanadas and churros at budget-friendly prices. Eating at local paladares (privately owned restaurants) can also provide a more authentic experience, often featuring home-cooked meals in a cozy setting.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Valladolid Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link)
+
+**[Valladolid Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Malpensa Airport To Zermatt (Tasch) One Way Private Transfer](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/4d/b7/bb.jpg)](https://www.viator.com/tours/Ferno/Malpensa-Airport-To-Zermatt-Tasch-One-Way-Private-Transfer/d50509-320547P1066?pid=P00295226&mcid=42383&medium=link)
+
+**[Malpensa Airport To Zermatt (Tasch) One Way Private Transfer](https://www.viator.com/tours/Ferno/Malpensa-Airport-To-Zermatt-Tasch-One-Way-Private-Transfer/d50509-320547P1066?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+
+_Airport & Hotel Transfers_
+
+From **$561**
+
+[Book Now →](https://www.viator.com/tours/Ferno/Malpensa-Airport-To-Zermatt-Tasch-One-Way-Private-Transfer/d50509-320547P1066?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Save! Salamanca Zamora Tour and Ham Tasting from Valladolid](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/db/d5/23.jpg)](https://www.viator.com/tours/Valladolid/Salamanca-Zamora-Tour-and-Ham-Tasting-from-Valladolid/d36285-6877P155?pid=P00295226&mcid=42383&medium=link)
+
+**[Save! Salamanca Zamora Tour and Ham Tasting from Valladolid](https://www.viator.com/tours/Valladolid/Salamanca-Zamora-Tour-and-Ham-Tasting-from-Valladolid/d36285-6877P155?pid=P00295226&mcid=42383&medium=link)**
+
+_Day Trips_
+
+From **$81**
+
+[Book Now →](https://www.viator.com/tours/Valladolid/Salamanca-Zamora-Tour-and-Ham-Tasting-from-Valladolid/d36285-6877P155?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Havana
 
 Getting around Havana can be an adventure in itself. Here are some options to help you navigate the city:

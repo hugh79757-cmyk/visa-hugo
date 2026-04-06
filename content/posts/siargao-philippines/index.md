@@ -103,6 +103,74 @@ When it comes to dining options, Siargao has plenty to offer. Street food stalls
 
 Whether you're enjoying a casual meal at a roadside eatery or dining at a beachfront restaurant, the food in Siargao reflects the island's laid-back vibe and commitment to fresh, local ingredients.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Discover San Diego: Self-Guided Walking Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/85/89/58/caption.jpg)](https://www.viator.com/tours/San-Diego/Discover-San-Diego-Self-Guided-Walking-Tour/d736-5520738P37?pid=P00295226&mcid=42383&medium=link)
+
+**[Discover San Diego: Self-Guided Walking Tour](https://www.viator.com/tours/San-Diego/Discover-San-Diego-Self-Guided-Walking-Tour/d736-5520738P37?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-86%</span>
+
+_Day Trips_
+
+From **$1**
+
+[Book Now →](https://www.viator.com/tours/San-Diego/Discover-San-Diego-Self-Guided-Walking-Tour/d736-5520738P37?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self-Guided The San Diego Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/eb/64/25.jpg)](https://www.viator.com/tours/San-Diego/Self-Guided-The-San-Diego-Syndicate-City-Escape-Game/d736-30066P449?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided The San Diego Syndicate City Escape Game](https://www.viator.com/tours/San-Diego/Self-Guided-The-San-Diego-Syndicate-City-Escape-Game/d736-30066P449?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/San-Diego/Self-Guided-The-San-Diego-Syndicate-City-Escape-Game/d736-30066P449?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Self-Guided Secrets of San Diego Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ec/49/86.jpg)](https://www.viator.com/tours/San-Diego/Self-Guided-Secrets-of-San-Diego-Exploration-Game/d736-30066P450?pid=P00295226&mcid=42383&medium=link)
+
+**[Self-Guided Secrets of San Diego Exploration Game](https://www.viator.com/tours/San-Diego/Self-Guided-Secrets-of-San-Diego-Exploration-Game/d736-30066P450?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/San-Diego/Self-Guided-Secrets-of-San-Diego-Exploration-Game/d736-30066P450?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Gaslamp Secrets: Self-Guided Puzzle Walk in San Diego](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/89/41/ed.jpg)](https://www.viator.com/tours/San-Diego/Gaslamp-Secrets-Self-Guided-Puzzle-Walk-in-San-Diego/d736-107194P232?pid=P00295226&mcid=42383&medium=link)
+
+**[Gaslamp Secrets: Self-Guided Puzzle Walk in San Diego](https://www.viator.com/tours/San-Diego/Gaslamp-Secrets-Self-Guided-Puzzle-Walk-in-San-Diego/d736-107194P232?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Self-guided Tours_
+
+From **$6**
+
+[Book Now →](https://www.viator.com/tours/San-Diego/Gaslamp-Secrets-Self-Guided-Puzzle-Walk-in-San-Diego/d736-107194P232?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![San Diego: Balboa Park Botanical Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/37/ab/b5.jpg)](https://www.viator.com/tours/San-Diego/San-Diego-Balboa-Park-Botanical-Exploration-Game/d736-107194P300?pid=P00295226&mcid=42383&medium=link)
+
+**[San Diego: Balboa Park Botanical Exploration Game](https://www.viator.com/tours/San-Diego/San-Diego-Balboa-Park-Botanical-Exploration-Game/d736-107194P300?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+
+_Self-guided Tours_
+
+From **$6**
+
+[Book Now →](https://www.viator.com/tours/San-Diego/San-Diego-Balboa-Park-Botanical-Exploration-Game/d736-107194P300?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Siargao
 
 Navigating Siargao is relatively straightforward, with several options available to suit different preferences. Many travelers opt for **motorbike rentals**, which are widely available and allow for flexibility in exploring the island. Riding a motorbike gives you the freedom to visit remote beaches and hidden spots at your own pace. Just ensure you have a valid motorcycle license and wear a helmet for safety.

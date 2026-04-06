@@ -119,6 +119,18 @@ Zanzibar’s culinary scene is a delightful reflection of its cultural diversity
 
 For dining experiences, you have the option of savoring street food for a budget-friendly meal or enjoying a sit-down dinner at local restaurants that offer a more traditional ambiance.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+Looking for tours and activities in **Zanzibar Tanzania**? Browse hundreds of experiences — from city walks and food tours to day trips and adventure sports.
+
+[🎟️ See All Zanzibar Tanzania Tours on Viator →](https://www.viator.com/searchResults/all?text=Zanzibar%20Tanzania&pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+</div>
+
 ## Getting Around Zanzibar
 
 Getting around Zanzibar can be an adventure in itself. Here are the main options:

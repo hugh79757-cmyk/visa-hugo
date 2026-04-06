@@ -103,6 +103,50 @@ Street food is also gaining popularity in Lofoten, with food trucks and small st
 
 If you’re looking for a more refined dining experience, many restaurants in Lofoten focus on farm-to-table principles. Seasonal menus highlight local produce and seafood, allowing you to savor the flavors of the region while enjoying views of the surrounding landscapes. Dining in these establishments often feels like an experience in itself, with many chefs eager to share their passion for Nordic cuisine.
 
+
+
+<div class="etap-product-cards">
+
+## Top Tours & Activities
+
+[![Gijon Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/e0.jpg)](https://www.viator.com/tours/Gijon/Gijon-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4278-30066P111?pid=P00295226&mcid=42383&medium=link)
+
+**[Gijon Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Gijon/Gijon-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4278-30066P111?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+
+_Escape Rooms_
+
+From **$23**
+
+[Book Now →](https://www.viator.com/tours/Gijon/Gijon-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4278-30066P111?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Excursion to Picos de Europa : Bulnes, funicular and cheese Cabrales](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/73/74/f8.jpg)](https://www.viator.com/tours/Gijon/Excursion-to-Picos-de-Europa-Bulnes-funicular-and-cheese-Cabrales/d4278-6877P129?pid=P00295226&mcid=42383&medium=link)
+
+**[Excursion to Picos de Europa : Bulnes, funicular and cheese Cabrales](https://www.viator.com/tours/Gijon/Excursion-to-Picos-de-Europa-Bulnes-funicular-and-cheese-Cabrales/d4278-6877P129?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-6%</span>
+
+_Day Trips_
+
+From **$76**
+
+[Book Now →](https://www.viator.com/tours/Gijon/Excursion-to-Picos-de-Europa-Bulnes-funicular-and-cheese-Cabrales/d4278-6877P129?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+[![Save! Excursion to León, Astorga and Castrillo de los Polvazares](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/02/c1/fc.jpg)](https://www.viator.com/tours/Oviedo/Excursion-to-Len-Astorga-and-Castrillo-de-los-Polvazares/d50357-6877P165?pid=P00295226&mcid=42383&medium=link)
+
+**[Save! Excursion to León, Astorga and Castrillo de los Polvazares](https://www.viator.com/tours/Oviedo/Excursion-to-Len-Astorga-and-Castrillo-de-los-Polvazares/d50357-6877P165?pid=P00295226&mcid=42383&medium=link)**
+
+_Day Trips_
+
+From **$69**
+
+[Book Now →](https://www.viator.com/tours/Oviedo/Excursion-to-Len-Astorga-and-Castrillo-de-los-Polvazares/d50357-6877P165?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+
+---
+
+</div>
+
 ## Getting Around Lofoten
 
 Navigating Lofoten is relatively straightforward, though options may vary depending on your preferences. Renting a car provides the most flexibility, allowing you to explore the islands at your own pace. The scenic drives along the coast are breathtaking, with numerous stopping points to take in the views. Rental services are available at the airport and in major towns, making it easy to pick up a vehicle upon arrival.
