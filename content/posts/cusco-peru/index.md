@@ -103,7 +103,7 @@ For dessert, indulge in **Alfajores**, sweet cookies filled with dulce de leche 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Cusco City Tour: Four Ruins in Half Day](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/d8/2a/04.jpg)](https://www.viator.com/tours/Cusco/Cusco-City-Tour-Four-Ruins-in-Half-Day/d937-5559062P80?pid=P00295226&mcid=42383&medium=link)
 
@@ -113,7 +113,7 @@ _Bus Services_
 
 From **$12**
 
-[Book Now →](https://www.viator.com/tours/Cusco/Cusco-City-Tour-Four-Ruins-in-Half-Day/d937-5559062P80?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Cusco/Cusco-City-Tour-Four-Ruins-in-Half-Day/d937-5559062P80?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -125,7 +125,7 @@ _Multi-day Tours_
 
 From **$403**
 
-[Book Now →](https://www.viator.com/tours/Cusco/3-Day-Cusco-Adventure-with-Capsule-and-Rainbow-Mountain/d937-5601688P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Cusco/3-Day-Cusco-Adventure-with-Capsule-and-Rainbow-Mountain/d937-5601688P14?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +137,7 @@ _Day Trips_
 
 From **$105**
 
-[Book Now →](https://www.viator.com/tours/Cusco/Private-Tour-to-Rainbow-Mountain-Full-day-from-Cusco/d937-360147P25?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Cusco/Private-Tour-to-Rainbow-Mountain-Full-day-from-Cusco/d937-360147P25?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +149,7 @@ _Multi-day Tours_
 
 From **$525**
 
-[Book Now →](https://www.viator.com/tours/Cusco/4-Day-Inca-Jungle-Trail-with-Capsule-and-Machu-Picchu/d937-5601688P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Cusco/4-Day-Inca-Jungle-Trail-with-Capsule-and-Machu-Picchu/d937-5601688P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +161,7 @@ _Day Trips_
 
 From **$29**
 
-[Book Now →](https://www.viator.com/tours/Cusco/Full-Day-Humantay-Lagoon-Adventure-from-Cusco/d937-414208P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Cusco/Full-Day-Humantay-Lagoon-Adventure-from-Cusco/d937-414208P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

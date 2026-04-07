@@ -131,7 +131,7 @@ For a mix of street food and sit-down dining, head to the city's food stalls or 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![5-Day Laugavegur Trek with Local Guide - Small Group select dates](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/86/9f/1e/caption.jpg)](https://www.viator.com/tours/Reykjavik/5-Day-Laugavegur-Trek-with-Local-Guide-Small-Group-select-dates/d905-5529222P12?pid=P00295226&mcid=42383&medium=link)
 
@@ -141,7 +141,7 @@ _Hiking Tours_
 
 From **$1880**
 
-[Book Now →](https://www.viator.com/tours/Reykjavik/5-Day-Laugavegur-Trek-with-Local-Guide-Small-Group-select-dates/d905-5529222P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Reykjavik/5-Day-Laugavegur-Trek-with-Local-Guide-Small-Group-select-dates/d905-5529222P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +153,7 @@ _Airport & Hotel Transfers_
 
 From **$140**
 
-[Book Now →](https://www.viator.com/tours/Reykjavik/Reykjavik-Iceland-Private-transfer-From-To-KEF-airport/d905-459458P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Reykjavik/Reykjavik-Iceland-Private-transfer-From-To-KEF-airport/d905-459458P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,7 +165,7 @@ _Photography Tours_
 
 From **$110**
 
-[Book Now →](https://www.viator.com/tours/Reykjavik/Northern-Lights-Small-Group-Tour-from-Reykjavik-with-Free-Photos/d905-16698P25?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Reykjavik/Northern-Lights-Small-Group-Tour-from-Reykjavik-with-Free-Photos/d905-16698P25?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -177,7 +177,7 @@ _Shore Excursions_
 
 From **$127**
 
-[Book Now →](https://www.viator.com/tours/Reykjavik/Private-One-Way-Transfer-Reykjavk-Blue-Lagoon/d905-459458P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Reykjavik/Private-One-Way-Transfer-Reykjavk-Blue-Lagoon/d905-459458P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -189,7 +189,7 @@ _Airport & Hotel Transfers_
 
 From **$196**
 
-[Book Now →](https://www.viator.com/tours/Reykjavik/Private-Airport-Transfer-one-way/d905-285731P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Reykjavik/Private-Airport-Transfer-one-way/d905-285731P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

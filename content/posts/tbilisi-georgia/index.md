@@ -112,7 +112,7 @@ For dining, you can choose from casual street food stalls to upscale restaurants
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Full-Day Kazbegi Tour: Caucasus Mountains & Gergeti Church](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/1a/1c/8a.jpg)](https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link)
 
@@ -122,7 +122,7 @@ _Day Trips_
 
 From **$15**
 
-[Book Now →](https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -134,7 +134,7 @@ _Day Trips_
 
 From **$17**
 
-[Book Now →](https://www.viator.com/tours/Tbilisi/Full-Day-Kakheti-Tour-Wine-Food-and-Sighnaghi-City-of-Love/d22516-409235P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tbilisi/Full-Day-Kakheti-Tour-Wine-Food-and-Sighnaghi-City-of-Love/d22516-409235P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -146,7 +146,7 @@ _Day Trips_
 
 From **$21**
 
-[Book Now →](https://www.viator.com/tours/Tbilisi/Mtskheta-Gori-and-Uplistsikhe-Caves-Historical-Tour/d22516-409235P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tbilisi/Mtskheta-Gori-and-Uplistsikhe-Caves-Historical-Tour/d22516-409235P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -158,7 +158,7 @@ _Day Trips_
 
 From **$22**
 
-[Book Now →](https://www.viator.com/tours/Tbilisi/Day-tour-to-Kakheti-wine-region-Georgia/d22516-38341P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tbilisi/Day-tour-to-Kakheti-wine-region-Georgia/d22516-38341P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -170,7 +170,7 @@ _Day Trips_
 
 From **$30**
 
-[Book Now →](https://www.viator.com/tours/Tbilisi/Day-tour-to-Vardzia-Borjomi-in-Georgia/d22516-38341P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tbilisi/Day-tour-to-Vardzia-Borjomi-in-Georgia/d22516-38341P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

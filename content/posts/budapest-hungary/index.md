@@ -121,7 +121,7 @@ When dining out, you’ll find a mix of casual eateries and more upscale restaur
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Budapest Self-Guided Danube Discovery Walk](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/06/ed/a7.jpg)](https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link)
 
@@ -131,7 +131,7 @@ _Audio Guides_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +143,7 @@ _Nightlife_
 
 From **$13**
 
-[Book Now →](https://www.viator.com/tours/Budapest/Budapest-Pub-Crawl-and-Ruin-Bar-Tour-Free-Shots-and-VIP-Entry/d499-5545940P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Budapest/Budapest-Pub-Crawl-and-Ruin-Bar-Tour-Free-Shots-and-VIP-Entry/d499-5545940P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +155,7 @@ _Full-day Tours_
 
 From **$125**
 
-[Book Now →](https://www.viator.com/tours/Budapest/From-Budapest-Bratislava-and-Vienna-Full-Day-Guided-Tour/d499-5530468P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Budapest/From-Budapest-Bratislava-and-Vienna-Full-Day-Guided-Tour/d499-5530468P16?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -167,7 +167,7 @@ _Walking Tours_
 
 From **$120**
 
-[Book Now →](https://www.viator.com/tours/Budapest/Discover-the-Heart-of-Budapest-A-Walking-Tour-of-District-V/d499-7353P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Budapest/Discover-the-Heart-of-Budapest-A-Walking-Tour-of-District-V/d499-7353P16?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -179,7 +179,7 @@ _Walking Tours_
 
 From **$6**
 
-[Book Now →](https://www.viator.com/tours/Budapest/Margaret-Island-Mystery-Self-Guided-Puzzle-Quest-in-Budapest/d499-107194P391?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Budapest/Margaret-Island-Mystery-Self-Guided-Puzzle-Quest-in-Budapest/d499-107194P391?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

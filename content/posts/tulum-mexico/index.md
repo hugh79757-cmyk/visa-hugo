@@ -105,7 +105,7 @@ Tulum also boasts a growing scene of health-conscious eateries that serve organi
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Private Cancun Airport (CUN) Transportation to/from Tulum](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/5f/17/46.jpg)](https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link)
 
@@ -115,7 +115,7 @@ _Airport & Hotel Transfers_
 
 From **$78**
 
-[Book Now →](https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -127,7 +127,7 @@ _Airport & Hotel Transfers_
 
 From **$69**
 
-[Book Now →](https://www.viator.com/tours/Tulum/Private-Transportation-tofrom-Tulum-Airport-TQO/d23012-279586P126?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tulum/Private-Transportation-tofrom-Tulum-Airport-TQO/d23012-279586P126?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -139,7 +139,7 @@ _Airport & Hotel Transfers_
 
 From **$69**
 
-[Book Now →](https://www.viator.com/tours/Tulum/Cancun-Airport-Shuttle-tofrom-Tulum-Hotels/d23012-279586P122?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tulum/Cancun-Airport-Shuttle-tofrom-Tulum-Hotels/d23012-279586P122?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -151,7 +151,7 @@ _Private and Luxury_
 
 From **$152**
 
-[Book Now →](https://www.viator.com/tours/Tulum/Tulum-Ruins-Tour-Private-Half-Day/d23012-91808P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tulum/Tulum-Ruins-Tour-Private-Half-Day/d23012-91808P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

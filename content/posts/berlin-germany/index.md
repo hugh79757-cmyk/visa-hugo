@@ -118,7 +118,7 @@ For dining, you can choose from casual street food stalls, cozy cafes, or upscal
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Berlin Hosted Drag Show Evening with Guaranteed Entry](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9c/f8/8f/caption.jpg)](https://www.viator.com/tours/Berlin/Berlin-Hosted-Drag-Show-Evening-with-Guaranteed-Entry/d488-167074P43?pid=P00295226&mcid=42383&medium=link)
 
@@ -128,7 +128,7 @@ _Cabaret_
 
 From **$58**
 
-[Book Now →](https://www.viator.com/tours/Berlin/Berlin-Hosted-Drag-Show-Evening-with-Guaranteed-Entry/d488-167074P43?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Berlin/Berlin-Hosted-Drag-Show-Evening-with-Guaranteed-Entry/d488-167074P43?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -140,7 +140,7 @@ _Audio Guides_
 
 From **$2**
 
-[Book Now →](https://www.viator.com/tours/Berlin/Berlins-Hidden-Chronicles-A-Self-Guided-Journey/d488-5520738P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Berlin/Berlins-Hidden-Chronicles-A-Self-Guided-Journey/d488-5520738P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -152,7 +152,7 @@ _Family-friendly Shows_
 
 From **$14**
 
-[Book Now →](https://www.viator.com/tours/Berlin/English-Comedy-Show-with-Pizza-and-Shots-in-Central-Berlin/d488-34080P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Berlin/English-Comedy-Show-with-Pizza-and-Shots-in-Central-Berlin/d488-34080P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -164,7 +164,7 @@ _Private and Luxury_
 
 From **$18**
 
-[Book Now →](https://www.viator.com/tours/Berlin/Explore-Berlin-See-All-The-Iconic-Sights-and-Some-Hidden-Gems/d488-5560HIGHLIGHTS?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Berlin/Explore-Berlin-See-All-The-Iconic-Sights-and-Some-Hidden-Gems/d488-5560HIGHLIGHTS?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -176,7 +176,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Berlin/Self-Guided-Berlin-Syndicate-City-Escape-Game/d488-30066P374?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Berlin/Self-Guided-Berlin-Syndicate-City-Escape-Game/d488-30066P374?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -127,7 +127,7 @@ For dining, consider enjoying a meal at local bistros and cafes rather than tour
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Excursion to the Grande Corniche Natural Park from Nice](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9f/9e/f4/caption.jpg)](https://www.viator.com/tours/Nice/Excursion-to-the-Grande-Corniche-Natural-Park-from-Nice/d478-64914P12?pid=P00295226&mcid=42383&medium=link)
 
@@ -137,7 +137,7 @@ _Private and Luxury_
 
 From **$46**
 
-[Book Now →](https://www.viator.com/tours/Nice/Excursion-to-the-Grande-Corniche-Natural-Park-from-Nice/d478-64914P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Nice/Excursion-to-the-Grande-Corniche-Natural-Park-from-Nice/d478-64914P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +149,7 @@ _City Tours_
 
 From **$115**
 
-[Book Now →](https://www.viator.com/tours/Nice/Best-of-the-French-Riviera-citys-with-your-local-Guide/d478-5573688P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Nice/Best-of-the-French-Riviera-citys-with-your-local-Guide/d478-5573688P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +161,7 @@ _Airport & Hotel Transfers_
 
 From **$132**
 
-[Book Now →](https://www.viator.com/tours/Nice/One-way-Private-Airport-Transfer-Nice-Cte-dAzur-Airport-to-Hotel-in-Nice/d478-320547P43?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Nice/One-way-Private-Airport-Transfer-Nice-Cte-dAzur-Airport-to-Hotel-in-Nice/d478-320547P43?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -173,7 +173,7 @@ _Airport & Hotel Transfers_
 
 From **$132**
 
-[Book Now →](https://www.viator.com/tours/Nice/One-way-Private-Transfer-Nice-Hotel-to-Nice-Cte-dAzur-Airport/d478-320547P44?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Nice/One-way-Private-Transfer-Nice-Hotel-to-Nice-Cte-dAzur-Airport/d478-320547P44?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -185,7 +185,7 @@ _Day Trips_
 
 From **$235**
 
-[Book Now →](https://www.viator.com/tours/Nice/Verdon-Gorge-and-Provence-Private-Scenic-Sightseeing-Tour/d478-5585237P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Nice/Verdon-Gorge-and-Provence-Private-Scenic-Sightseeing-Tour/d478-5585237P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

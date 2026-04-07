@@ -125,7 +125,7 @@ While Havana boasts several fantastic restaurants, don’t overlook the street f
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Valladolid Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link)
 
@@ -135,7 +135,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +147,7 @@ _Airport & Hotel Transfers_
 
 From **$561**
 
-[Book Now →](https://www.viator.com/tours/Ferno/Malpensa-Airport-To-Zermatt-Tasch-One-Way-Private-Transfer/d50509-320547P1066?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Ferno/Malpensa-Airport-To-Zermatt-Tasch-One-Way-Private-Transfer/d50509-320547P1066?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -159,7 +159,7 @@ _Day Trips_
 
 From **$81**
 
-[Book Now →](https://www.viator.com/tours/Valladolid/Salamanca-Zamora-Tour-and-Ham-Tasting-from-Valladolid/d36285-6877P155?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Valladolid/Salamanca-Zamora-Tour-and-Ham-Tasting-from-Valladolid/d36285-6877P155?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -105,7 +105,7 @@ Whether you're enjoying a casual meal at a roadside eatery or dining at a beachf
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Discover San Diego: Self-Guided Walking Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/85/89/58/caption.jpg)](https://www.viator.com/tours/San-Diego/Discover-San-Diego-Self-Guided-Walking-Tour/d736-5520738P37?pid=P00295226&mcid=42383&medium=link)
 
@@ -115,7 +115,7 @@ _Day Trips_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/San-Diego/Discover-San-Diego-Self-Guided-Walking-Tour/d736-5520738P37?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Diego/Discover-San-Diego-Self-Guided-Walking-Tour/d736-5520738P37?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -127,7 +127,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/San-Diego/Self-Guided-The-San-Diego-Syndicate-City-Escape-Game/d736-30066P449?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Diego/Self-Guided-The-San-Diego-Syndicate-City-Escape-Game/d736-30066P449?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -139,7 +139,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/San-Diego/Self-Guided-Secrets-of-San-Diego-Exploration-Game/d736-30066P450?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Diego/Self-Guided-Secrets-of-San-Diego-Exploration-Game/d736-30066P450?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -151,7 +151,7 @@ _Self-guided Tours_
 
 From **$6**
 
-[Book Now →](https://www.viator.com/tours/San-Diego/Gaslamp-Secrets-Self-Guided-Puzzle-Walk-in-San-Diego/d736-107194P232?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Diego/Gaslamp-Secrets-Self-Guided-Puzzle-Walk-in-San-Diego/d736-107194P232?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -163,7 +163,7 @@ _Self-guided Tours_
 
 From **$6**
 
-[Book Now →](https://www.viator.com/tours/San-Diego/San-Diego-Balboa-Park-Botanical-Exploration-Game/d736-107194P300?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Diego/San-Diego-Balboa-Park-Botanical-Exploration-Game/d736-107194P300?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

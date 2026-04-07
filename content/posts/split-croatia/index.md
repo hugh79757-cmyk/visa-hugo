@@ -108,7 +108,7 @@ When dining out, you’ll find a variety of options, from casual konobas (tavern
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Split Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/e7/0b/84.jpg)](https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link)
 
@@ -118,7 +118,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -130,7 +130,7 @@ _Airport & Hotel Transfers_
 
 From **$94**
 
-[Book Now →](https://www.viator.com/tours/Split/Private-Transfer-From-or-To-the-Split-Airport/d4185-346719P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Split/Private-Transfer-From-or-To-the-Split-Airport/d4185-346719P11?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -142,7 +142,7 @@ _Shore Excursions_
 
 From **$518**
 
-[Book Now →](https://www.viator.com/tours/Split/Private-Transfer-from-Split-to-Dubrovnik-with-stop-options/d4185-346719P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Split/Private-Transfer-from-Split-to-Dubrovnik-with-stop-options/d4185-346719P8?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -154,7 +154,7 @@ _Airport & Hotel Transfers_
 
 From **$41**
 
-[Book Now →](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-airport-to-Split/d4185-68396P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-airport-to-Split/d4185-68396P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -166,7 +166,7 @@ _Airport & Hotel Transfers_
 
 From **$41**
 
-[Book Now →](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-Town-to-Split-airport/d4185-68396P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-Town-to-Split-airport/d4185-68396P8?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

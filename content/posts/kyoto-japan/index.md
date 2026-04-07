@@ -123,7 +123,7 @@ When dining out, you’ll find a mix of casual eateries and upscale restaurants.
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Hidden Temples in Kyoto a Self-Guided Zen Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/20/41/81.jpg)](https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link)
 
@@ -133,7 +133,7 @@ _Day Trips_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -145,7 +145,7 @@ _Day Trips_
 
 From **$99**
 
-[Book Now →](https://www.viator.com/tours/Kyoto/T71D-Amazing-Views-of-Amanohashidate-and-Ine-Funaya-Bus-Tour/d332-5615577P22?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kyoto/T71D-Amazing-Views-of-Amanohashidate-and-Ine-Funaya-Bus-Tour/d332-5615577P22?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -157,7 +157,7 @@ _Cooking Classes_
 
 From **$42**
 
-[Book Now →](https://www.viator.com/tours/Kyoto/Popular-Sushi-Making-Class-in-KyotoGrand-Opening/d332-445447P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kyoto/Popular-Sushi-Making-Class-in-KyotoGrand-Opening/d332-445447P20?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -169,7 +169,7 @@ _Day Trips_
 
 From **$100**
 
-[Book Now →](https://www.viator.com/tours/Kyoto/Kyoto-and-Nara-Small-Group-Day-Tour-from-Kyoto/d332-5500660P20?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kyoto/Kyoto-and-Nara-Small-Group-Day-Tour-from-Kyoto/d332-5500660P20?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -181,7 +181,7 @@ _Art Classes_
 
 From **$19**
 
-[Book Now →](https://www.viator.com/tours/Kyoto/Kyoto-Japanese-Gold-Repair-Kintsugi-Workshop-in-Arashiyama/d332-5523026P53?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kyoto/Kyoto-Japanese-Gold-Repair-Kintsugi-Workshop-in-Arashiyama/d332-5523026P53?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

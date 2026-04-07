@@ -113,7 +113,7 @@ Queenstown’s culinary scene is as diverse as its landscape, offering everythin
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![E-Bike Adventures Through the Wineries in Gibbston](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/7a/32/b3.jpg)](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -123,7 +123,7 @@ _Mountain Bike Tours_
 
 From **$59**
 
-[Book Now →](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +135,7 @@ _Private and Luxury_
 
 From **$126**
 
-[Book Now →](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +147,7 @@ _Day Trips_
 
 From **$889**
 
-[Book Now →](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

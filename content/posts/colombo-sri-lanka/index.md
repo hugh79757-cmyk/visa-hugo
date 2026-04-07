@@ -106,7 +106,7 @@ For a true taste of local life, sample street food at bustling markets or dine a
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Colombo Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ef/42/ea.jpg)](https://www.viator.com/tours/Colombo/Colombo-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4619-30066P322?pid=P00295226&mcid=42383&medium=link)
 
@@ -116,7 +116,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Colombo/Colombo-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4619-30066P322?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Colombo/Colombo-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4619-30066P322?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -128,7 +128,7 @@ _Airport & Hotel Transfers_
 
 From **$30**
 
-[Book Now →](https://www.viator.com/tours/Colombo/Sri-Lanka-Car-and-Driver-Hire-Private-Driver-and-Chauffeur/d4619-154877P19?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Colombo/Sri-Lanka-Car-and-Driver-Hire-Private-Driver-and-Chauffeur/d4619-154877P19?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -140,7 +140,7 @@ _Half-day Tours_
 
 From **$55**
 
-[Book Now →](https://www.viator.com/tours/Colombo/Colombo-City-Tour-by-Car-or-Van-Private-and-All-Inclusive/d4619-180602P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Colombo/Colombo-City-Tour-by-Car-or-Van-Private-and-All-Inclusive/d4619-180602P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -152,7 +152,7 @@ _City Tours_
 
 From **$14**
 
-[Book Now →](https://www.viator.com/tours/Colombo/Colombo-City-Tour-Tuk-Tuk-Safari/d4619-5556081P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Colombo/Colombo-City-Tour-Tuk-Tuk-Safari/d4619-5556081P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -164,7 +164,7 @@ _Airport & Hotel Transfers_
 
 From **$14**
 
-[Book Now →](https://www.viator.com/tours/Colombo/Colombo-Airport-to-Kandy-Drop-Shared-Transportation/d4619-51560P75?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Colombo/Colombo-Airport-to-Kandy-Drop-Shared-Transportation/d4619-51560P75?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

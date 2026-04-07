@@ -119,7 +119,7 @@ New York is a culinary paradise, and you’ll find an incredible range of dining
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![New York Kids Quest: Family Walking Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/c5/df/00.jpg)](https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link)
 
@@ -129,7 +129,7 @@ _Self-guided Tours_
 
 From **$5**
 
-[Book Now →](https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +141,7 @@ _Self-guided Tours_
 
 From **$7**
 
-[Book Now →](https://www.viator.com/tours/New-York-City/New-York-Murder-Mystery-Self-Guided-Detective-Walk/d687-107194P600?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/New-York-City/New-York-Murder-Mystery-Self-Guided-Detective-Walk/d687-107194P600?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

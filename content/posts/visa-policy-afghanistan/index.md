@@ -76,7 +76,7 @@ In addition to obtaining a visa, travelers should stay informed about the curren
 In conclusion, all travelers wishing to enter Afghanistan must secure a visa prior to their arrival. Understanding the visa requirements and preparing the necessary documentation will help facilitate a smoother entry process into the country.
 
 <div class="etap-product-cards">
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Afghanistan eSIM - 1 GB Afghanistan travel eSIM valid for 7 days](https://cdn.airalo.com/images/5a1d0868-2169-4eb5-81b5-a71243767d66.jpg)](https://airalo.pxf.io/c/1209822/1923897/15608?prodsku=7807&u=https%3A%2F%2Fwww.airalo.com%2Fafghanistan-esim%2Fsohbat-mobile-7days-1gb&intsrc=CATF_15506)
 

@@ -110,7 +110,7 @@ Porto’s culinary scene is a delightful blend of traditional Portuguese flavors
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Porto's Old Town Tour & Ribeira](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/48/b8/44.jpg)](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -120,7 +120,7 @@ _Walking Tours_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -132,7 +132,7 @@ _Walking Tours_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -144,7 +144,7 @@ _Audio Guides_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -156,7 +156,7 @@ _Historical Tours_
 
 From **$21**
 
-[Book Now →](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -168,7 +168,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

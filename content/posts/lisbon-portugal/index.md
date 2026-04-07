@@ -119,7 +119,7 @@ When dining, you can choose between inexpensive street food and more upscale res
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![LISBON NIGHT TOUR in a Vintage Jeep with FOOD & DRINK TASTINGS](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b7/bb/87.jpg)](https://www.viator.com/tours/Lisbon/LISBON-NIGHT-TOUR-in-a-Vintage-Jeep-with-FOOD-and-DRINK-TASTINGS/d538-423999P4?pid=P00295226&mcid=42383&medium=link)
 
@@ -129,7 +129,7 @@ _Rail Tours_
 
 From **$62**
 
-[Book Now →](https://www.viator.com/tours/Lisbon/LISBON-NIGHT-TOUR-in-a-Vintage-Jeep-with-FOOD-and-DRINK-TASTINGS/d538-423999P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lisbon/LISBON-NIGHT-TOUR-in-a-Vintage-Jeep-with-FOOD-and-DRINK-TASTINGS/d538-423999P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +141,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Lisbon/Self-Guided-Secrets-of-Lisbon-Exploration-Game/d538-30066P448?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lisbon/Self-Guided-Secrets-of-Lisbon-Exploration-Game/d538-30066P448?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +153,7 @@ _City Tours_
 
 From **$122**
 
-[Book Now →](https://www.viator.com/tours/Lisbon/Lisbon-Golden-Age-Private-Tour-with-Van-and-Local-Guide/d538-33423P35?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lisbon/Lisbon-Golden-Age-Private-Tour-with-Van-and-Local-Guide/d538-33423P35?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,7 +165,7 @@ _Dining Experiences_
 
 From **$89**
 
-[Book Now →](https://www.viator.com/tours/Lisbon/Lisbon-Cooking-Class-in-a-Local-Home-Cook-Eat-and-Taste-Tradition/d538-5525134P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lisbon/Lisbon-Cooking-Class-in-a-Local-Home-Cook-Eat-and-Taste-Tradition/d538-5525134P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -177,7 +177,7 @@ _City Tours_
 
 From **$94**
 
-[Book Now →](https://www.viator.com/tours/Lisbon/Lisbon-TukTuk-Private-Tour/d538-5642432P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lisbon/Lisbon-TukTuk-Private-Tour/d538-5642432P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

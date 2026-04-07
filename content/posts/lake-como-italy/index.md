@@ -97,7 +97,7 @@ Dining along the lake can range from upscale restaurants to cozy trattorias, eac
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Self Guided Walking City Tour in Madrid](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/02/11/2a.jpg)](https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link)
 
@@ -107,7 +107,7 @@ _Audio Guides_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -119,7 +119,7 @@ _Art Tours_
 
 From **$26**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Madrid-Prado-Museum-tour-Private/d566-461351P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Madrid/Madrid-Prado-Museum-tour-Private/d566-461351P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -131,7 +131,7 @@ _Art Tours_
 
 From **$45**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Lights-of-Bohemia-the-night-of-Max-Star-by-Madrid/d566-247547P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Madrid/Lights-of-Bohemia-the-night-of-Max-Star-by-Madrid/d566-247547P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +143,7 @@ _Cooking Classes_
 
 From **$65**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Madrid-Paella-Sangria-and-Churro-Making-Class-in-the-City-Center/d566-12438P49?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Madrid/Madrid-Paella-Sangria-and-Churro-Making-Class-in-the-City-Center/d566-12438P49?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +155,7 @@ _Art Tours_
 
 From **$82**
 
-[Book Now →](https://www.viator.com/tours/Madrid/Learn-Art-Appreciation-Skills-At-Prado-Museum-Private-Tour/d566-5632563P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Madrid/Learn-Art-Appreciation-Skills-At-Prado-Museum-Private-Tour/d566-5632563P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

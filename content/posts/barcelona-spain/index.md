@@ -115,7 +115,7 @@ Barcelona’s dining scene is diverse, ranging from street food to upscale resta
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![2 - in - 1 Barcelona Pass : White Rabbit + House of Candy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/c8/26/0e.jpg)](https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link)
 
@@ -125,7 +125,7 @@ _Attractions & Museums_
 
 From **$22**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +137,7 @@ _Art Tours_
 
 From **$866**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Mediterranean-Flavors-Sitges-and-Olive-Oil-Experience/d562-360082P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Barcelona/Mediterranean-Flavors-Sitges-and-Olive-Oil-Experience/d562-360082P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +149,7 @@ _Airport & Hotel Transfers_
 
 From **$24**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Transfer-Barcelona-to-Port-Airport-and-hotels/d562-86408P17?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Barcelona/Transfer-Barcelona-to-Port-Airport-and-hotels/d562-86408P17?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +161,7 @@ _Private and Luxury_
 
 From **$917**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Montserrat-Monastery-Private-Tour-with-Hotel-Pick-up/d562-10913P52?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Barcelona/Montserrat-Monastery-Private-Tour-with-Hotel-Pick-up/d562-10913P52?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -173,7 +173,7 @@ _Flamenco Performance_
 
 From **$25**
 
-[Book Now →](https://www.viator.com/tours/Barcelona/Teatro-Flamenco-Barcelona-Historic-Venue-Pure-Flamenco/d562-5555400P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Barcelona/Teatro-Flamenco-Barcelona-Historic-Venue-Pure-Flamenco/d562-5555400P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

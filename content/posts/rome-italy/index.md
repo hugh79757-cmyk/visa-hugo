@@ -125,7 +125,7 @@ When it comes to dining, you can opt for casual street food or sit-down meals at
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Private Full Day Tour of Sabina Countryside from Rome](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/14/b5/6a.jpg)](https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -135,7 +135,7 @@ _Day Trips_
 
 From **$128**
 
-[Book Now →](https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +147,7 @@ _Archaeology Tours_
 
 From **$822**
 
-[Book Now →](https://www.viator.com/tours/Rome/Private-daytour-medieval-castles-Umbria-and-Tuscany/d511-72525P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Rome/Private-daytour-medieval-castles-Umbria-and-Tuscany/d511-72525P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -159,7 +159,7 @@ _Sidecar Tours_
 
 From **$105**
 
-[Book Now →](https://www.viator.com/tours/Rome/Vespa-Sidecar-Tour-In-Rome-with-Pickup-Drop-off-Gelato-included/d511-406567P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Rome/Vespa-Sidecar-Tour-In-Rome-with-Pickup-Drop-off-Gelato-included/d511-406567P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -171,7 +171,7 @@ _Attractions & Museums_
 
 From **$5**
 
-[Book Now →](https://www.viator.com/tours/Rome/Rome-Pantheon-Reserved-Entry-Ticket/d511-155741P30?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Rome/Rome-Pantheon-Reserved-Entry-Ticket/d511-155741P30?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -183,7 +183,7 @@ _Airport & Hotel Transfers_
 
 From **$22**
 
-[Book Now →](https://www.viator.com/tours/Rome/Shuttle-from-Hotel-in-Rome-to-the-Airport/d511-246081P114?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Rome/Shuttle-from-Hotel-in-Rome-to-the-Airport/d511-246081P114?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

@@ -113,7 +113,7 @@ When dining out, you'll find a mix of casual eateries and upscale restaurants. F
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Cartagena : Private transfer Airport Hotel (Round trip or One Way)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/fc/c2/c7.jpg)](https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link)
 
@@ -123,7 +123,7 @@ _Port Transfers_
 
 From **$30**
 
-[Book Now →](https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +135,7 @@ _Honeymoon Packages_
 
 From **$160**
 
-[Book Now →](https://www.viator.com/tours/Cartagena/Photo-session-in-Cartagena-with-a-professional-photographer/d4498-5644135P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Cartagena/Photo-session-in-Cartagena-with-a-professional-photographer/d4498-5644135P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +147,7 @@ _Day Trips_
 
 From **$40**
 
-[Book Now →](https://www.viator.com/tours/Cartagena/Route-Mud-volcano-el-totumo-Typical-beach-and-lunch-club/d4498-204292P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Cartagena/Route-Mud-volcano-el-totumo-Typical-beach-and-lunch-club/d4498-204292P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -159,7 +159,7 @@ _Audio Guides_
 
 From **$14**
 
-[Book Now →](https://www.viator.com/tours/Caribbean-Coast/Playa-Blanca-Bar-Tour-with-Lunch-and-hotel-pick-up/d25190-175402P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Caribbean-Coast/Playa-Blanca-Bar-Tour-with-Lunch-and-hotel-pick-up/d25190-175402P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

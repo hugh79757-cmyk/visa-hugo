@@ -103,7 +103,7 @@ Hoi An’s culinary scene is a treat for the senses, with a wide array of flavor
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![My Son Sanctuary & Hoi An Ancient Town Full-Day Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/6a/ee/d9.jpg)](https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -113,7 +113,7 @@ _Private Drivers_
 
 From **$64**
 
-[Book Now →](https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -125,7 +125,7 @@ _Full-day Tours_
 
 From **$20**
 
-[Book Now →](https://www.viator.com/tours/Hoi-An/Bana-Hills-Golden-Bridge-Deluxe-Small-group-from-Hoian-Danang/d5229-104142P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hoi-An/Bana-Hills-Golden-Bridge-Deluxe-Small-group-from-Hoian-Danang/d5229-104142P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +137,7 @@ _Water Tours_
 
 From **$40**
 
-[Book Now →](https://www.viator.com/tours/Hoi-An/Coconut-Jungle-Eco-and-Hoi-An-City-Tour-With-Boat-Ride/d5229-104142P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hoi-An/Coconut-Jungle-Eco-and-Hoi-An-City-Tour-With-Boat-Ride/d5229-104142P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +149,7 @@ _Mountain Bike Tours_
 
 From **$37**
 
-[Book Now →](https://www.viator.com/tours/Hoi-An/Hoi-An-Countryside-Buffalo-Riding-Basket-Boat-Rowing/d5229-104142P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hoi-An/Hoi-An-Countryside-Buffalo-Riding-Basket-Boat-Rowing/d5229-104142P8?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +161,7 @@ _Full-day Tours_
 
 From **$44**
 
-[Book Now →](https://www.viator.com/tours/Hoi-An/Da-Nang-Hoi-An-Ancient-Town-Night-Market-and-Basket-Boat/d5229-382376P48?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hoi-An/Da-Nang-Hoi-An-Ancient-Town-Night-Market-and-Basket-Boat/d5229-382376P48?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

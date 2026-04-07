@@ -106,7 +106,7 @@ In terms of dining, you can find everything from upscale restaurants to affordab
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Puglia Adventure: Self-Guided Treasures of Southern Italy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/d8/17/c7.jpg)](https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link)
 
@@ -116,7 +116,7 @@ _Day Trips_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -128,7 +128,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Bari/Sherlock-Holmes-Murder-Mystery-Game-in-Bari-Italy/d4226-30066P157?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bari/Sherlock-Holmes-Murder-Mystery-Game-in-Bari-Italy/d4226-30066P157?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -140,7 +140,7 @@ _Street Food Tours_
 
 From **$38**
 
-[Book Now →](https://www.viator.com/tours/Bari/Culinary-tour-and-walk-in-the-alleys-of-Barivecchia/d4226-5646853P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bari/Culinary-tour-and-walk-in-the-alleys-of-Barivecchia/d4226-5646853P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -152,7 +152,7 @@ _Ghost Tours_
 
 From **$46**
 
-[Book Now →](https://www.viator.com/tours/Bari/Bari-Old-Town-Ghost-and-Legends-Tour-with-Tastings/d4226-326991P61?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bari/Bari-Old-Town-Ghost-and-Legends-Tour-with-Tastings/d4226-326991P61?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -164,7 +164,7 @@ _City Tours_
 
 From **$6**
 
-[Book Now →](https://www.viator.com/tours/Merida/Mrida-Walking-Tour-2h40-and-18-audio-reviews/d51211-5577016P207?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Merida/Mrida-Walking-Tour-2h40-and-18-audio-reviews/d51211-5577016P207?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

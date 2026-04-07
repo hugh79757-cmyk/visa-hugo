@@ -121,11 +121,11 @@ For dining experiences, you have the option of savoring street food for a budget
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 Looking for tours and activities in **Zanzibar Tanzania**? Browse hundreds of experiences — from city walks and food tours to day trips and adventure sports.
 
-[🎟️ See All Zanzibar Tanzania Tours on Viator →](https://www.viator.com/searchResults/all?text=Zanzibar%20Tanzania&pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[🎟️ See All Zanzibar Tanzania Tours on Viator →](https://www.viator.com/searchResults/all?text=Zanzibar%20Tanzania&pid=P00295226&mcid=42383&medium=link)
 
 </div>
 

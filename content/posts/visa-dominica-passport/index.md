@@ -142,11 +142,11 @@ For countries that require a traditional visa, the application process typically
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 Looking for tours and activities in **Visa Dominica Passport**? Browse hundreds of experiences — from city walks and food tours to day trips and adventure sports.
 
-[🎟️ See All Visa Dominica Passport Tours on Viator →](https://www.viator.com/searchResults/all?text=Visa%20Dominica%20Passport&pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[🎟️ See All Visa Dominica Passport Tours on Viator →](https://www.viator.com/searchResults/all?text=Visa%20Dominica%20Passport&pid=P00295226&mcid=42383&medium=link)
 
 </div>
 

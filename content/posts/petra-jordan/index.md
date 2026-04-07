@@ -107,7 +107,7 @@ Local dining options range from street food stalls to more formal restaurants in
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Mallorca Scenic Villages Tour with Traditional Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/3c/a6/ce.jpg)](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link)
 
@@ -117,7 +117,7 @@ _Full-day Tours_
 
 From **$94**
 
-[Book Now →](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

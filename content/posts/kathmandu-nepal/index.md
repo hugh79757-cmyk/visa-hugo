@@ -121,7 +121,7 @@ For dining, you can choose between street food stalls, local eateries, and more 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Kathmandu: UNESCO Heritage Cultural Sites Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/90/2a/b1.jpg)](https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -131,7 +131,7 @@ _Private and Luxury_
 
 From **$24**
 
-[Book Now →](https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +143,7 @@ _Bus Services_
 
 From **$9**
 
-[Book Now →](https://www.viator.com/tours/Kathmandu/Kathmandu-to-Pokhara-Premium-sofa-bus-ticket/d5109-165552P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kathmandu/Kathmandu-to-Pokhara-Premium-sofa-bus-ticket/d5109-165552P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +155,7 @@ _Multi-day Tours_
 
 From **$328**
 
-[Book Now →](https://www.viator.com/tours/Kathmandu/Discover-Kathmandu-Valley-History-Temples-and-Living-Traditions/d5109-5628144P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kathmandu/Discover-Kathmandu-Valley-History-Temples-and-Living-Traditions/d5109-5628144P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -167,7 +167,7 @@ _Multi-day Tours_
 
 From **$424**
 
-[Book Now →](https://www.viator.com/tours/Kathmandu/Best-of-Nepal-Kathmandu-Heritage-and-Pokhara-Lakeside-Escape/d5109-5628144P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kathmandu/Best-of-Nepal-Kathmandu-Heritage-and-Pokhara-Lakeside-Escape/d5109-5628144P8?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -179,7 +179,7 @@ _Multi-day Tours_
 
 From **$428**
 
-[Book Now →](https://www.viator.com/tours/Kathmandu/Nepal-Buddhist-Pilgrimage-Tour-Lumbini-and-Kathmandu/d5109-5628144P9?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kathmandu/Nepal-Buddhist-Pilgrimage-Tour-Lumbini-and-Kathmandu/d5109-5628144P9?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

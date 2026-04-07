@@ -121,7 +121,7 @@ Restaurants in Tokyo range from casual izakayas (Japanese pubs) to fine dining e
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Self-Guided Tour of Tokyo's Hidden Alleys](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/ca/dc/a8.jpg)](https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link)
 
@@ -131,7 +131,7 @@ _Day Trips_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +143,7 @@ _Private and Luxury_
 
 From **$44**
 
-[Book Now →](https://www.viator.com/tours/Tokyo/Kanda-Myojin-Guided-Tour-Tokyos-Historic-Guardian-Shrine/d334-174545P114?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tokyo/Kanda-Myojin-Guided-Tour-Tokyos-Historic-Guardian-Shrine/d334-174545P114?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +155,7 @@ _Art Classes_
 
 From **$12**
 
-[Book Now →](https://www.viator.com/tours/Tokyo/Tokyo-Handmade-Chopsticks-Workshop-in-Shibuya/d334-5645102P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tokyo/Tokyo-Handmade-Chopsticks-Workshop-in-Shibuya/d334-5645102P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -167,7 +167,7 @@ _Street Food Tours_
 
 From **$60**
 
-[Book Now →](https://www.viator.com/tours/Tokyo/Shinjuku-Bar-Hopping-Tour-Kabukicho-and-Golden-Gai-Experience/d334-174545P120?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tokyo/Shinjuku-Bar-Hopping-Tour-Kabukicho-and-Golden-Gai-Experience/d334-174545P120?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -179,7 +179,7 @@ _Day Trips_
 
 From **$100**
 
-[Book Now →](https://www.viator.com/tours/Tokyo/Small-Group-Tour-Mount-Fuji-and-Lake-Kawaguchi-from-Tokyo/d334-5500660P19?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Tokyo/Small-Group-Tour-Mount-Fuji-and-Lake-Kawaguchi-from-Tokyo/d334-5500660P19?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

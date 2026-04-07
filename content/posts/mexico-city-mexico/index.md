@@ -110,7 +110,7 @@ For a sit-down experience, look for restaurants that offer traditional Mexican f
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Private Electric Transfer Hotel Airport 3 Passengers](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/45/bd/caption.jpg)](https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -120,7 +120,7 @@ _Airport & Hotel Transfers_
 
 From **$34**
 
-[Book Now →](https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -132,7 +132,7 @@ _Private Drivers_
 
 From **$96**
 
-[Book Now →](https://www.viator.com/tours/Mexico-City/Cdmx-Teotihuacan-Express-personal-experience-family-and-friends/d628-5627438P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Mexico-City/Cdmx-Teotihuacan-Express-personal-experience-family-and-friends/d628-5627438P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -144,7 +144,7 @@ _Full-day Tours_
 
 From **$115**
 
-[Book Now →](https://www.viator.com/tours/Mexico-City/Frida-Kahlo-and-Diego-Riveras-love-through-Art/d628-5647454P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Mexico-City/Frida-Kahlo-and-Diego-Riveras-love-through-Art/d628-5647454P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -156,7 +156,7 @@ _Day Trips_
 
 From **$124**
 
-[Book Now →](https://www.viator.com/tours/Mexico-City/Private-Tour-in-Teotihuacan-Pyramids-with-Buffet-and-Pick-Up/d628-5581881P25?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Mexico-City/Private-Tour-in-Teotihuacan-Pyramids-with-Buffet-and-Pick-Up/d628-5581881P25?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -168,7 +168,7 @@ _Airport & Hotel Transfers_
 
 From **$226**
 
-[Book Now →](https://www.viator.com/tours/Mexico-City/Luxury-Executive-Transfers-in-Mexico-City/d628-5641368P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Mexico-City/Luxury-Executive-Transfers-in-Mexico-City/d628-5641368P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

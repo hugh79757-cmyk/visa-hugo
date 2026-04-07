@@ -103,7 +103,7 @@ Valletta also boasts a growing number of trendy cafes and eateries where you can
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Valletta Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link)
 
@@ -113,7 +113,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -125,7 +125,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Malta/Self-Guided-Secrets-of-Valletta-Exploration-Game/d4141-30066P534?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Malta/Self-Guided-Secrets-of-Valletta-Exploration-Game/d4141-30066P534?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +137,7 @@ _Day Trips_
 
 From **$282**
 
-[Book Now →](https://www.viator.com/tours/Malta/Valletta-Private-Minivan-Tour-Experience/d4141-5639020P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Malta/Valletta-Private-Minivan-Tour-Experience/d4141-5639020P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

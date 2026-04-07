@@ -117,7 +117,7 @@ London’s culinary scene is as diverse as its population, offering everything f
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Thames River Uber Boat Trip](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/14/7d/c5.jpg)](https://www.viator.com/tours/London/Thames-River-Uber-Boat-Trip/d737-5616374P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -127,7 +127,7 @@ _Light & Sound Shows_
 
 From **$25**
 
-[Book Now →](https://www.viator.com/tours/London/Thames-River-Uber-Boat-Trip/d737-5616374P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/London/Thames-River-Uber-Boat-Trip/d737-5616374P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -139,7 +139,7 @@ _Attractions & Museums_
 
 From **$70**
 
-[Book Now →](https://www.viator.com/tours/London/London-Eye-and-Madame-Tussauds-Combo-Pass/d737-5623388P60?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/London/London-Eye-and-Madame-Tussauds-Combo-Pass/d737-5623388P60?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -151,7 +151,7 @@ _Attractions & Museums_
 
 From **$76**
 
-[Book Now →](https://www.viator.com/tours/London/London-Eye-and-The-London-Dungeon-Combo/d737-5623388P58?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/London/London-Eye-and-The-London-Dungeon-Combo/d737-5623388P58?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -163,7 +163,7 @@ _Attractions & Museums_
 
 From **$83**
 
-[Book Now →](https://www.viator.com/tours/London/London-Eye-Madame-Tussauds-and-SEA-LIFE-Aquarium/d737-5623388P57?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/London/London-Eye-Madame-Tussauds-and-SEA-LIFE-Aquarium/d737-5623388P57?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -175,7 +175,7 @@ _Airport & Hotel Transfers_
 
 From **$198**
 
-[Book Now →](https://www.viator.com/tours/London/Private-Transfer-One-Way-London-City-to-Heathrow-Airport/d737-320547P54?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/London/Private-Transfer-One-Way-London-City-to-Heathrow-Airport/d737-320547P54?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

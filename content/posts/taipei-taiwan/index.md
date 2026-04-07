@@ -123,7 +123,7 @@ When it comes to dining, you have a choice between street food and restaurants. 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Taipei : Must-See Attractions Walking Tour With A Guide (Private)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/5f/7d/dc.jpg)](https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link)
 
@@ -133,7 +133,7 @@ _Walking Tours_
 
 From **$69**
 
-[Book Now →](https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

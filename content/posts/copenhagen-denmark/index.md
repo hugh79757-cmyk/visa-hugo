@@ -114,7 +114,7 @@ Copenhagen's street food scene is thriving, with markets like Reffen and Torveha
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Copenhagen Self Guided Sherlock Holmes Murder Mystery](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/de/0e/e5.jpg)](https://www.viator.com/tours/Copenhagen/Copenhagen-Self-Guided-Sherlock-Holmes-Murder-Mystery/d463-30066P226?pid=P00295226&mcid=42383&medium=link)
 
@@ -124,7 +124,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Copenhagen/Copenhagen-Self-Guided-Sherlock-Holmes-Murder-Mystery/d463-30066P226?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Copenhagen/Copenhagen-Self-Guided-Sherlock-Holmes-Murder-Mystery/d463-30066P226?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -136,7 +136,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Copenhagen/Self-Guided-Secrets-of-Copenhagen-Exploration-Game/d463-30066P467?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Copenhagen/Self-Guided-Secrets-of-Copenhagen-Exploration-Game/d463-30066P467?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -148,7 +148,7 @@ _Walking Tours_
 
 From **$6**
 
-[Book Now →](https://www.viator.com/tours/Copenhagen/Copenhagen-Christiania-Hidden-Stories-Self-Guided-Adventure/d463-107194P204?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Copenhagen/Copenhagen-Christiania-Hidden-Stories-Self-Guided-Adventure/d463-107194P204?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -160,7 +160,7 @@ _Half-day Tours_
 
 From **$225**
 
-[Book Now →](https://www.viator.com/tours/Copenhagen/Copenhagen-Private-Guided-tour-by-Car-with-Tailorable-Itinerary/d463-13975P42?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Copenhagen/Copenhagen-Private-Guided-tour-by-Car-with-Tailorable-Itinerary/d463-13975P42?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -172,7 +172,7 @@ _Private and Luxury_
 
 From **$475**
 
-[Book Now →](https://www.viator.com/tours/Copenhagen/Copenhagen-Private-VIP-Tour-to-Frederiksborg-Castle-snack-incl/d463-13975P54?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Copenhagen/Copenhagen-Private-VIP-Tour-to-Frederiksborg-Castle-snack-incl/d463-13975P54?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

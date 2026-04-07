@@ -134,7 +134,7 @@ Dining options range from local street food stalls to upscale restaurants, so yo
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Private Pickup from SAI International Airport to Siem Reap Town](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/18/d6/75.jpg)](https://www.viator.com/tours/Siem-Reap/Private-Pickup-from-SAI-International-Airport-to-Siem-Reap-Town/d5480-159968P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -144,7 +144,7 @@ _City Tours_
 
 From **$52**
 
-[Book Now →](https://www.viator.com/tours/Siem-Reap/Private-Pickup-from-SAI-International-Airport-to-Siem-Reap-Town/d5480-159968P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Siem-Reap/Private-Pickup-from-SAI-International-Airport-to-Siem-Reap-Town/d5480-159968P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -156,7 +156,7 @@ _Private and Luxury_
 
 From **$119**
 
-[Book Now →](https://www.viator.com/tours/Siem-Reap/Private-Banteay-Chhmar-Temple-Full-Day-Tour-from-Siem-Reap/d5480-67476P56?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Siem-Reap/Private-Banteay-Chhmar-Temple-Full-Day-Tour-from-Siem-Reap/d5480-67476P56?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -168,7 +168,7 @@ _Nature and Wildlife Tours_
 
 From **$45**
 
-[Book Now →](https://www.viator.com/tours/Siem-Reap/Phnom-Kulen-Awakening-Meditation-and-Sacred-Sound-Ritual-Siem-Reap/d5480-67476P51?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Siem-Reap/Phnom-Kulen-Awakening-Meditation-and-Sacred-Sound-Ritual-Siem-Reap/d5480-67476P51?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -180,7 +180,7 @@ _Full-day Tours_
 
 From **$43**
 
-[Book Now →](https://www.viator.com/tours/Siem-Reap/Angkor-Wat-Sunrise-and-Highlight-The-Most-Iconic-Temple/d5480-109953P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Siem-Reap/Angkor-Wat-Sunrise-and-Highlight-The-Most-Iconic-Temple/d5480-109953P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -192,7 +192,7 @@ _Private and Luxury_
 
 From **$62**
 
-[Book Now →](https://www.viator.com/tours/Siem-Reap/Private-Kulen-Mountain-Banteay-Srei-and-Kampong-Phluk-Village/d5480-67476P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Siem-Reap/Private-Kulen-Mountain-Banteay-Srei-and-Kampong-Phluk-Village/d5480-67476P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

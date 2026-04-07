@@ -117,7 +117,7 @@ For street food, head to Myeongdong or Gwangjang Market, where you can find ever
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![K-Culture Adventure in Seoul Self-Guided Walking Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/30/ba/95.jpg)](https://www.viator.com/tours/Seoul/K-Culture-Adventure-in-Seoul-Self-Guided-Walking-Tour/d973-5520738P29?pid=P00295226&mcid=42383&medium=link)
 
@@ -127,7 +127,7 @@ _Audio Guides_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Seoul/K-Culture-Adventure-in-Seoul-Self-Guided-Walking-Tour/d973-5520738P29?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Seoul/K-Culture-Adventure-in-Seoul-Self-Guided-Walking-Tour/d973-5520738P29?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -139,7 +139,7 @@ _Private and Luxury_
 
 From **$55**
 
-[Book Now →](https://www.viator.com/tours/Seoul/Tradition-Meets-Trendy-Seoul-Palace-Ikseondong-and-Han-River-Tour/d973-5619838P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Seoul/Tradition-Meets-Trendy-Seoul-Palace-Ikseondong-and-Han-River-Tour/d973-5619838P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -151,7 +151,7 @@ _Half-day Tours_
 
 From **$29**
 
-[Book Now →](https://www.viator.com/tours/Seoul/Seoul-Palace-Morning-Tour/d973-6780P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Seoul/Seoul-Palace-Morning-Tour/d973-6780P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -163,7 +163,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Seoul/Seoul-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d973-30066P318?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Seoul/Seoul-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d973-30066P318?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -175,7 +175,7 @@ _Nightlife_
 
 From **$61**
 
-[Book Now →](https://www.viator.com/tours/Seoul/Seoul-Itaewon-Premium-Pub-Crawl-with-VIP-Bottle-Service/d973-485847P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Seoul/Seoul-Itaewon-Premium-Pub-Crawl-with-VIP-Bottle-Service/d973-485847P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

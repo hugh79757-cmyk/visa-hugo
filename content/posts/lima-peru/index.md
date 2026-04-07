@@ -115,7 +115,7 @@ For street food enthusiasts, Lima offers countless stalls and markets where you 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Excursion to the historic center and catacombs with Pickup to your Hotel](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/09/82/ce.jpg)](https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link)
 
@@ -125,7 +125,7 @@ _Private and Luxury_
 
 From **$40**
 
-[Book Now →](https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +137,7 @@ _Archaeology Tours_
 
 From **$40**
 
-[Book Now →](https://www.viator.com/tours/Lima/Excursion-to-the-Sanctuary-of-Pachacmac-Museum-with-Hotel-Pickup/d928-5489318P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lima/Excursion-to-the-Sanctuary-of-Pachacmac-Museum-with-Hotel-Pickup/d928-5489318P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -149,7 +149,7 @@ _Coffee & Tea Tours_
 
 From **$4**
 
-[Book Now →](https://www.viator.com/tours/Lima/Miraflores-Guided-Walking-Tour-and-Surquillo-Market-Experience/d928-5621697P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lima/Miraflores-Guided-Walking-Tour-and-Surquillo-Market-Experience/d928-5621697P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -161,7 +161,7 @@ _Private and Luxury_
 
 From **$38**
 
-[Book Now →](https://www.viator.com/tours/Lima/City-Tour-of-the-historic-center-with-hotel-pickup-included/d928-5489318P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lima/City-Tour-of-the-historic-center-with-hotel-pickup-included/d928-5489318P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -173,7 +173,7 @@ _City Tours_
 
 From **$31**
 
-[Book Now →](https://www.viator.com/tours/Lima/Evening-Lima-Walking-Tour-Historic-Center-and-Pisco-Sour/d928-243736P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Lima/Evening-Lima-Walking-Tour-Historic-Center-and-Pisco-Sour/d928-243736P8?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

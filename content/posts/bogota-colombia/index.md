@@ -115,7 +115,7 @@ When dining out, you can choose between street food stalls for budget-friendly m
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Bogota Tour, Monserrate, Museums and Local Art with Transportation](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/4c/d3/ce.jpg)](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -125,7 +125,7 @@ _City Tours_
 
 From **$76**
 
-[Book Now →](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bogot/Bogota-Tour-Monserrate-Museums-and-Local-Art-with-Transportation/d4560-5553710P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

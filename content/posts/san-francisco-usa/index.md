@@ -113,7 +113,7 @@ For street food, check out the food trucks in the SOMA neighborhood or visit the
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Muir Woods and Sausalito Small Group Tour From San Francisco](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/15/3c/1b.jpg)](https://www.viator.com/tours/San-Francisco/Muir-Woods-and-Sausalito-Small-Group-Tour-From-San-Francisco/d651-36001P16?pid=P00295226&mcid=42383&medium=link)
 
@@ -123,7 +123,7 @@ _Day Trips_
 
 From **$108**
 
-[Book Now →](https://www.viator.com/tours/San-Francisco/Muir-Woods-and-Sausalito-Small-Group-Tour-From-San-Francisco/d651-36001P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Francisco/Muir-Woods-and-Sausalito-Small-Group-Tour-From-San-Francisco/d651-36001P16?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +135,7 @@ _Airport & Hotel Transfers_
 
 From **$128**
 
-[Book Now →](https://www.viator.com/tours/San-Francisco/Airport-Transfer-San-Francisco-to-Airport-SFO-by-Luxury-SUV/d651-85439P816?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Francisco/Airport-Transfer-San-Francisco-to-Airport-SFO-by-Luxury-SUV/d651-85439P816?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +147,7 @@ _Airport & Hotel Transfers_
 
 From **$173**
 
-[Book Now →](https://www.viator.com/tours/San-Francisco/Departure-Private-Transfer-San-Francisco-to-Airport-SFO-in-Luxury-Car/d651-85439P822?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Francisco/Departure-Private-Transfer-San-Francisco-to-Airport-SFO-in-Luxury-Car/d651-85439P822?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -159,7 +159,7 @@ _Day Trips_
 
 From **$175**
 
-[Book Now →](https://www.viator.com/tours/San-Francisco/Monterey-Pebble-Beach-and-Carmel-Tour-With-Optional-Aquarium/d651-36001P15?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Francisco/Monterey-Pebble-Beach-and-Carmel-Tour-With-Optional-Aquarium/d651-36001P15?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -171,7 +171,7 @@ _Day Trips_
 
 From **$183**
 
-[Book Now →](https://www.viator.com/tours/San-Francisco/Big-Sur-Monterey-and-Carmel-Tour-From-San-Francisco/d651-36001P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/San-Francisco/Big-Sur-Monterey-and-Carmel-Tour-From-San-Francisco/d651-36001P14?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

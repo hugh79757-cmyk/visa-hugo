@@ -108,7 +108,7 @@ For dining, explore local restaurants in El Poblado for more upscale options or 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Pablo Escobar Tour between History and Museum in Medellin](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/c2/a0/68.jpg)](https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -118,7 +118,7 @@ _Half-day Tours_
 
 From **$24**
 
-[Book Now →](https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -130,7 +130,7 @@ _Art Tours_
 
 From **$13**
 
-[Book Now →](https://www.viator.com/tours/Medelln/Experience-comuna-13-Alleys-and-local-gastronomy/d4563-5581759P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Medelln/Experience-comuna-13-Alleys-and-local-gastronomy/d4563-5581759P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -142,7 +142,7 @@ _Day Trips_
 
 From **$293**
 
-[Book Now →](https://www.viator.com/tours/Medelln/Guatap-and-Pablo-Escobar-Mansion-and-Paint-Ball-and-ATVs-and-Boat-Trip/d4563-246502P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Medelln/Guatap-and-Pablo-Escobar-Mansion-and-Paint-Ball-and-ATVs-and-Boat-Trip/d4563-246502P14?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -154,7 +154,7 @@ _Day Trips_
 
 From **$360**
 
-[Book Now →](https://www.viator.com/tours/Medelln/Guatap-Coffee-Tour-Piedra-del-Peol-Bote/d4563-246502P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Medelln/Guatap-Coffee-Tour-Piedra-del-Peol-Bote/d4563-246502P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -166,7 +166,7 @@ _Private Drivers_
 
 From **$360**
 
-[Book Now →](https://www.viator.com/tours/Medelln/Travel-from-Medellin-to-Axis-Cafetero/d4563-246502P16?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Medelln/Travel-from-Medellin-to-Axis-Cafetero/d4563-246502P16?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

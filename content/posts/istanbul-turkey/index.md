@@ -113,7 +113,7 @@ For dining, you have a choice between street food and restaurants. Street vendor
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Moonlight Relief Artwork Workshop in Istanbul](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/be/6f/12/caption.jpg)](https://www.viator.com/tours/Istanbul/Moonlight-Relief-Artwork-Workshop-in-Istanbul/d585-5645971P3?pid=P00295226&mcid=42383&medium=link)
 
@@ -123,7 +123,7 @@ _Art Classes_
 
 From **$24**
 
-[Book Now →](https://www.viator.com/tours/Istanbul/Moonlight-Relief-Artwork-Workshop-in-Istanbul/d585-5645971P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Istanbul/Moonlight-Relief-Artwork-Workshop-in-Istanbul/d585-5645971P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +135,7 @@ _Water Tours_
 
 From **$47**
 
-[Book Now →](https://www.viator.com/tours/Istanbul/Istanbul-Dinner-Cruise-with-Dinner-and-Entertaintment-Private-Tables/d585-26620P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Istanbul/Istanbul-Dinner-Cruise-with-Dinner-and-Entertaintment-Private-Tables/d585-26620P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -145,7 +145,7 @@ From **$47**
 
 From **$33**
 
-[Book Now →](https://www.viator.com/tours/Istanbul/Istanbul-Hodjapasha-Rhythm-of-The-Dance-Show/d585-9503P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Istanbul/Istanbul-Hodjapasha-Rhythm-of-The-Dance-Show/d585-9503P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -157,7 +157,7 @@ _Skip the line Tickets_
 
 From **$33**
 
-[Book Now →](https://www.viator.com/tours/Istanbul/Istanbul-Whirling-Dervish-Ceremony-A-Mystical-Sufi-Experience/d585-9398P501?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Istanbul/Istanbul-Whirling-Dervish-Ceremony-A-Mystical-Sufi-Experience/d585-9398P501?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -169,7 +169,7 @@ _Shore Excursions_
 
 From **$79**
 
-[Book Now →](https://www.viator.com/tours/Istanbul/Private-and-Mini-Group-7-8-Hours-Guided-Istanbul-Tour-Cruise-Port/d585-75148P8?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Istanbul/Private-and-Mini-Group-7-8-Hours-Guided-Istanbul-Tour-Cruise-Port/d585-75148P8?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

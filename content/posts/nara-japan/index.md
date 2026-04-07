@@ -103,7 +103,7 @@ For budget-conscious travelers, convenience stores are abundant and offer a vari
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Nara: Yakushiji Tour – Toshodaiji or Sutra Copying Option](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/79/d6/c8/caption.jpg)](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link)
 
@@ -113,7 +113,7 @@ _Private and Luxury_
 
 From **$61**
 
-[Book Now →](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Nara/Nara-Yakushiji-Tour-Toshodaiji-or-Sutra-Copying-Option/d50510-174545P557?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -125,7 +125,7 @@ _Private and Luxury_
 
 From **$112**
 
-[Book Now →](https://www.viator.com/tours/Nara/Private-3-Hour-UNESCO-Heritage-Sites-and-Deer-Park-Tour/d50510-174545P29?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Nara/Private-3-Hour-UNESCO-Heritage-Sites-and-Deer-Park-Tour/d50510-174545P29?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -137,7 +137,7 @@ _Cooking Classes_
 
 From **$56**
 
-[Book Now →](https://www.viator.com/tours/Nara/Nara-Authentic-Onigiri-Cooking-Class-and-Meal-in-a-Local-Home/d50510-5611016P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Nara/Nara-Authentic-Onigiri-Cooking-Class-and-Meal-in-a-Local-Home/d50510-5611016P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

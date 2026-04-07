@@ -121,7 +121,7 @@ For dining, you can enjoy a mix of local and international cuisine. Street food 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Disney's TARZAN Musical](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/73/ad/02.jpg)](https://www.viator.com/tours/Prague/Disneys-TARZAN-Musical/d462-367402P1?pid=P00295226&mcid=42383&medium=link)
 
@@ -131,7 +131,7 @@ _Family-friendly Shows_
 
 From **$47**
 
-[Book Now →](https://www.viator.com/tours/Prague/Disneys-TARZAN-Musical/d462-367402P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Prague/Disneys-TARZAN-Musical/d462-367402P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +143,7 @@ _Ballet Tickets_
 
 From **$52**
 
-[Book Now →](https://www.viator.com/tours/Prague/Classic-Ballet-Gala-at-Hybernia-Theatre/d462-367402P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Prague/Classic-Ballet-Gala-at-Hybernia-Theatre/d462-367402P11?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +155,7 @@ _Hiking Tours_
 
 From **$151**
 
-[Book Now →](https://www.viator.com/tours/Prague/Full-Day-Semi-Private-Hike-in-Czechia-and-Saxon-Switzerland/d462-343736P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Prague/Full-Day-Semi-Private-Hike-in-Czechia-and-Saxon-Switzerland/d462-343736P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -167,7 +167,7 @@ _Attractions & Museums_
 
 From **$11**
 
-[Book Now →](https://www.viator.com/tours/Prague/Spiritual-Prague-An-Exhibition/d462-367402P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Prague/Spiritual-Prague-An-Exhibition/d462-367402P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -179,7 +179,7 @@ _Day Trips_
 
 From **$255**
 
-[Book Now →](https://www.viator.com/tours/Prague/Prague-to-Munich-Private-Trip-with-2-hours-of-Sightseeing/d462-5634599P14?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Prague/Prague-to-Munich-Private-Trip-with-2-hours-of-Sightseeing/d462-5634599P14?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

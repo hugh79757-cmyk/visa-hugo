@@ -119,7 +119,7 @@ For street food, head to the markets where you can grab a quick bite while mingl
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Salzburg Uncovered: Your Self Guided Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b9/87/47.jpg)](https://www.viator.com/tours/Salzburg/Salzburg-Uncovered-Your-Self-Guided-Adventure/d451-5520738P153?pid=P00295226&mcid=42383&medium=link)
 
@@ -129,7 +129,7 @@ _Audio Guides_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-Uncovered-Your-Self-Guided-Adventure/d451-5520738P153?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-Uncovered-Your-Self-Guided-Adventure/d451-5520738P153?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -141,7 +141,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d451-30066P244?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d451-30066P244?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -153,7 +153,7 @@ _Day Trips_
 
 From **$3**
 
-[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-City-Self-Guided-Audio-Tour-With-100-Captivating-Stories/d451-445714P37?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-City-Self-Guided-Audio-Tour-With-100-Captivating-Stories/d451-445714P37?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -165,7 +165,7 @@ _City Tours_
 
 From **$6**
 
-[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-Audio-Guided-Walking-Tour-1h45-and-24-reviews/d451-5577016P218?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-Audio-Guided-Walking-Tour-1h45-and-24-reviews/d451-5577016P218?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -177,7 +177,7 @@ _Movie Tours_
 
 From **$6**
 
-[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-The-Last-Song-Quest-Self-Guided-Escape-Game/d451-107194P39?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Salzburg/Salzburg-The-Last-Song-Quest-Self-Guided-Escape-Game/d451-107194P39?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

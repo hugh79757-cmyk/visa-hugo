@@ -115,7 +115,7 @@ While street food is widely available and can be an adventure in itself, don't h
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Puerto Princesa Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ee/9f/a2.jpg)](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link)
 
@@ -125,7 +125,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Palawan/Puerto-Princesa-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d25945-30066P326?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

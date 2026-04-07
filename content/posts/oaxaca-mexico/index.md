@@ -105,7 +105,7 @@ For dessert, indulge in **nieves**, a type of sorbet made from fresh fruits and 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Sustainable Mezcal Tour at an Award Winning Family Distillery](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0d/e0/c3.jpg)](https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link)
 
@@ -115,7 +115,7 @@ _Private and Luxury_
 
 From **$24**
 
-[Book Now →](https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -127,7 +127,7 @@ _Full-day Tours_
 
 From **$38**
 
-[Book Now →](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Monte-Alban-Alebrijes-Barro-Negro-and-Cuilapam/d50491-5621558P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Monte-Alban-Alebrijes-Barro-Negro-and-Cuilapam/d50491-5621558P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -139,7 +139,7 @@ _Day Trips_
 
 From **$41**
 
-[Book Now →](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Hierve-el-Agua-Tule-Mitla-and-Mezcal-Full-Day-Tour/d50491-5621558P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Hierve-el-Agua-Tule-Mitla-and-Mezcal-Full-Day-Tour/d50491-5621558P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -151,7 +151,7 @@ _Archaeology Tours_
 
 From **$30**
 
-[Book Now →](https://www.viator.com/tours/Oaxaca-City/Monte-Albn-in-the-Morning/d50491-5554162P13?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Monte-Albn-in-the-Morning/d50491-5554162P13?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -163,7 +163,7 @@ _City Tours_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Oaxaca-City/Discovering-a-Historic-Quarter-of-Oaxaca/d50491-428209P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Oaxaca-City/Discovering-a-Historic-Quarter-of-Oaxaca/d50491-428209P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

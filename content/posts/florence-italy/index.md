@@ -120,7 +120,7 @@ When dining out, consider exploring local trattorias and osterias for authentic 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Exclusive 3-Day Barolo Wine Experience from Florence](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b0/93/ed/caption.jpg)](https://www.viator.com/tours/Florence/Exclusive-3-Day-Barolo-Wine-Experience-from-Florence/d519-121337P19?pid=P00295226&mcid=42383&medium=link)
 
@@ -130,7 +130,7 @@ _Multi-day Tours_
 
 From **$3099**
 
-[Book Now →](https://www.viator.com/tours/Florence/Exclusive-3-Day-Barolo-Wine-Experience-from-Florence/d519-121337P19?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Florence/Exclusive-3-Day-Barolo-Wine-Experience-from-Florence/d519-121337P19?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -142,7 +142,7 @@ _Attractions & Museums_
 
 From **$121**
 
-[Book Now →](https://www.viator.com/tours/Florence/Florence-Museums-5-Days-Ticket-Pass-with-David/d519-62794P89?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Florence/Florence-Museums-5-Days-Ticket-Pass-with-David/d519-62794P89?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -154,7 +154,7 @@ _Multi-day Tours_
 
 From **$3198**
 
-[Book Now →](https://www.viator.com/tours/Florence/3-Days-Valpolicella-Wine-Experience-from-Florence/d519-121337P39?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Florence/3-Days-Valpolicella-Wine-Experience-from-Florence/d519-121337P39?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -166,7 +166,7 @@ _Attractions & Museums_
 
 From **$40**
 
-[Book Now →](https://www.viator.com/tours/Florence/Easy-Accademia-Gallery-Experience-with-David/d519-62794P90?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Florence/Easy-Accademia-Gallery-Experience-with-David/d519-62794P90?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -178,7 +178,7 @@ _Private and Luxury_
 
 From **$38**
 
-[Book Now →](https://www.viator.com/tours/Florence/Accademia-Gallery-Skip-the-line-Tickets-with-Audio-Guide/d519-428951P1?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Florence/Accademia-Gallery-Skip-the-line-Tickets-with-Audio-Guide/d519-428951P1?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

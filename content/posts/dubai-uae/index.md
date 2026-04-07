@@ -121,7 +121,7 @@ For street food, head to the Al Dhiyafah Road area or the food stalls at Global 
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![VIP Morning Desert Safari Dune Bashing Sandboarding & Camel Ride](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/02/80/ec.jpg)](https://www.viator.com/tours/Dubai/VIP-Morning-Desert-Safari-Dune-Bashing-Sandboarding-and-Camel-Ride/d828-5581583P11?pid=P00295226&mcid=42383&medium=link)
 
@@ -131,7 +131,7 @@ _Audio Guides_
 
 From **$38**
 
-[Book Now →](https://www.viator.com/tours/Dubai/VIP-Morning-Desert-Safari-Dune-Bashing-Sandboarding-and-Camel-Ride/d828-5581583P11?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Dubai/VIP-Morning-Desert-Safari-Dune-Bashing-Sandboarding-and-Camel-Ride/d828-5581583P11?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +143,7 @@ _Mountain Bike Tours_
 
 From **$46**
 
-[Book Now →](https://www.viator.com/tours/Dubai/Dubai-Morning-Tour-with-4x4-PickDrop-Red-Dunes-Camel-Sandboard/d828-5550312P6?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Dubai/Dubai-Morning-Tour-with-4x4-PickDrop-Red-Dunes-Camel-Sandboard/d828-5550312P6?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +155,7 @@ _Boat Rentals_
 
 From **$53**
 
-[Book Now →](https://www.viator.com/tours/Dubai/30-Minutes-Jet-Ski/d828-5517776P2?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Dubai/30-Minutes-Jet-Ski/d828-5517776P2?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -167,7 +167,7 @@ _Audio Guides_
 
 From **$31**
 
-[Book Now →](https://www.viator.com/tours/Dubai/Dubai-VIP-Evening-Desert-Safari-Quad-Camel-and-Dinner/d828-457042P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Dubai/Dubai-VIP-Evening-Desert-Safari-Quad-Camel-and-Dinner/d828-457042P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -179,7 +179,7 @@ _Day Trips_
 
 From **$34**
 
-[Book Now →](https://www.viator.com/tours/Dubai/Abu-Dhabi-Tour-Grand-Mosque-Heritage-Village-Emirates-Palace/d828-323794P5?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Dubai/Abu-Dhabi-Tour-Grand-Mosque-Heritage-Village-Emirates-Palace/d828-323794P5?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

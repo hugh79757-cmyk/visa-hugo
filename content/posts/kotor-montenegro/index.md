@@ -97,7 +97,7 @@ For dessert, indulge in **Kotor Cake**, a local specialty that combines layers o
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Private Transfer from Kotor to Tivat airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/46/8a/08.jpg)](https://www.viator.com/tours/Kotor/Private-Transfer-from-Kotor-to-Tivat-airport/d23078-231331P10?pid=P00295226&mcid=42383&medium=link)
 
@@ -107,7 +107,7 @@ _Airport & Hotel Transfers_
 
 From **$75**
 
-[Book Now →](https://www.viator.com/tours/Kotor/Private-Transfer-from-Kotor-to-Tivat-airport/d23078-231331P10?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kotor/Private-Transfer-from-Kotor-to-Tivat-airport/d23078-231331P10?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -119,7 +119,7 @@ _Shore Excursions_
 
 From **$236**
 
-[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Perast-and-Our-Lady-of-the-Rocks/d23078-45486P12?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Perast-and-Our-Lady-of-the-Rocks/d23078-45486P12?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -131,7 +131,7 @@ _Private and Luxury_
 
 From **$236**
 
-[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Old-Town-and-Sveti-Stefan-island/d23078-45486P51?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Shore-Excursion-Budva-Old-Town-and-Sveti-Stefan-island/d23078-45486P51?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -143,7 +143,7 @@ _Half-day Tours_
 
 From **$65**
 
-[Book Now →](https://www.viator.com/tours/Kotor/Bike-and-hike-tour/d23078-251139P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kotor/Bike-and-hike-tour/d23078-251139P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -155,7 +155,7 @@ _Shore Excursions_
 
 From **$304**
 
-[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Tour-to-Durmitor-Black-Lake-and-Tara-River-Bridge/d23078-45486P27?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Kotor/Kotor-Tour-to-Durmitor-Black-Lake-and-Tara-River-Bridge/d23078-45486P27?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

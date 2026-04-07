@@ -107,7 +107,7 @@ Dining in Santorini often comes with a view, especially in Oia, where many resta
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Santorini Hire Private Car and Driver at Your Disposal](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ab/f0/a7/caption.jpg)](https://www.viator.com/tours/Santorini/Santorini-Hire-Private-Car-and-Driver-at-Your-Disposal/d959-427354P7?pid=P00295226&mcid=42383&medium=link)
 
@@ -117,7 +117,7 @@ _City Tours_
 
 From **$103**
 
-[Book Now →](https://www.viator.com/tours/Santorini/Santorini-Hire-Private-Car-and-Driver-at-Your-Disposal/d959-427354P7?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Santorini/Santorini-Hire-Private-Car-and-Driver-at-Your-Disposal/d959-427354P7?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

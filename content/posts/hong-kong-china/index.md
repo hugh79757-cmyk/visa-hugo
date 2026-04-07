@@ -108,7 +108,7 @@ For dining, you have options ranging from street food stalls to upscale restaura
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Discover Hong Kong: Private Half-Day or Full-Day Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/b4/aa/ec.jpg)](https://www.viator.com/tours/Hong-Kong-SAR/Discover-Hong-Kong-Private-Half-Day-or-Full-Day-Tour/d35959-117866P483?pid=P00295226&mcid=42383&medium=link)
 
@@ -118,7 +118,7 @@ _City Tours_
 
 From **$78**
 
-[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Discover-Hong-Kong-Private-Half-Day-or-Full-Day-Tour/d35959-117866P483?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Discover-Hong-Kong-Private-Half-Day-or-Full-Day-Tour/d35959-117866P483?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -130,7 +130,7 @@ _Street Food Tours_
 
 From **$87**
 
-[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Best-Street-Food-Tour-With-a-Local-Guide-in-Hong-Kong/d35959-104357P279?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Best-Street-Food-Tour-With-a-Local-Guide-in-Hong-Kong/d35959-104357P279?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -142,7 +142,7 @@ _Full-day Tours_
 
 From **$283**
 
-[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Private-Full-Day-Sightseeing-Tour-of-Kowloon-in-Hong-Kong/d35959-34682P21?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Private-Full-Day-Sightseeing-Tour-of-Kowloon-in-Hong-Kong/d35959-34682P21?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -154,7 +154,7 @@ _Photography Tours_
 
 From **$283**
 
-[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Private-Full-Day-Kowloon-District-Sightseeing-Tour/d35959-87908P26?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Private-Full-Day-Kowloon-District-Sightseeing-Tour/d35959-87908P26?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -166,7 +166,7 @@ _Honeymoon Packages_
 
 From **$288**
 
-[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Private-Tour-Full-Day-Highlights-Tour-of-Hong-Kong-Island/d35959-34682P19?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Hong-Kong-SAR/Private-Tour-Full-Day-Highlights-Tour-of-Hong-Kong-Island/d35959-34682P19?pid=P00295226&mcid=42383&medium=link)
 
 ---
 

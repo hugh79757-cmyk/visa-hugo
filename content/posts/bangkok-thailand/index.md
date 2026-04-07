@@ -113,7 +113,7 @@ For a more upscale dining experience, Bangkok offers a plethora of restaurants r
 
 <div class="etap-product-cards">
 
-## Top Tours & Activities
+<h2 class="etap-card-title">Top Tours &amp; Activities</h2>
 
 [![Bangkok Hidden Treasures: A Self-Guided Urban Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/33/4a/fc.jpg)](https://www.viator.com/tours/Bangkok/Bangkok-Hidden-Treasures-A-Self-Guided-Urban-Adventure/d343-5520738P4?pid=P00295226&mcid=42383&medium=link)
 
@@ -123,7 +123,7 @@ _Audio Guides_
 
 From **$2**
 
-[Book Now →](https://www.viator.com/tours/Bangkok/Bangkok-Hidden-Treasures-A-Self-Guided-Urban-Adventure/d343-5520738P4?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bangkok/Bangkok-Hidden-Treasures-A-Self-Guided-Urban-Adventure/d343-5520738P4?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -135,7 +135,7 @@ _Fashion Shows_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Bangkok/Gems-Gallery-Bangkok-with-Round-Trip-Hotel-Transfers/d343-5521242P121?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bangkok/Gems-Gallery-Bangkok-with-Round-Trip-Hotel-Transfers/d343-5521242P121?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -147,7 +147,7 @@ _Fashion Shows_
 
 From **$1**
 
-[Book Now →](https://www.viator.com/tours/Bangkok/Gems-Gallery-Phuket-with-Round-Trip-Hotel-Transfers/d343-5521242P122?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bangkok/Gems-Gallery-Phuket-with-Round-Trip-Hotel-Transfers/d343-5521242P122?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -159,7 +159,7 @@ _Water Tours_
 
 From **$99**
 
-[Book Now →](https://www.viator.com/tours/Bangkok/Bangkok-up-to-you-with-private-friendly-tour-guide/d343-487956P3?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bangkok/Bangkok-up-to-you-with-private-friendly-tour-guide/d343-487956P3?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
@@ -171,7 +171,7 @@ _Escape Rooms_
 
 From **$23**
 
-[Book Now →](https://www.viator.com/tours/Bangkok/Self-Guided-The-Bangkok-Syndicate-City-Escape-Game/d343-30066P459?pid=P00295226&mcid=42383&medium=link){rel="sponsored"}
+[Book Now →](https://www.viator.com/tours/Bangkok/Self-Guided-The-Bangkok-Syndicate-City-Escape-Game/d343-30066P459?pid=P00295226&mcid=42383&medium=link)
 
 ---
 
