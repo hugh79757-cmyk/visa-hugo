@@ -1,0 +1,25 @@
+enableSearch = true
+
+[article]
+  showReadingTime = false
+  showWordCount = false
+  showDate = true
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+  showTaxonomies = true
+  showHero = true
+  heroStyle = "basic"
+
+[footer]
+  showThemeAttribution = false
+  showScrollToTop = true
+
+[homepage]
+  layout = "card"
+  showRecent = true
+  showRecentItems = 12
+
+[list]
+  showCards = true
+  showSummary = true

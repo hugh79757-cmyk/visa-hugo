@@ -1,0 +1,19 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 2
+
+[[main]]
+  name = "Categories"
+  pageRef = "/categories"
+  weight = 3
+
+[[main]]
+  name = "Tags"
+  pageRef = "/tags"
+  weight = 4
