@@ -117,7 +117,7 @@ Queenstown’s culinary scene is as diverse as its landscape, offering everythin
 
 [![E-Bike Adventures Through the Wineries in Gibbston](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/7a/32/b3.jpg)](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link)
 
-**[E-Bike Adventures Through the Wineries in Gibbston](https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Queenstown/E-Bike-Adventures-Through-the-Wineries-in-Gibbston/d407-445162P1?pid=P00295226&mcid=42383&medium=link">E-Bike Adventures Through the Wineries in Gibbston</a>** <span class="badge">-25%</span>
 
 _Mountain Bike Tours_
 
@@ -129,7 +129,7 @@ From **$59**
 
 [![Queenstown Classic Wine Tour: 3 Winery Visits, Cave Tour & Cheese](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0e/69/bc.jpg)](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Queenstown Classic Wine Tour: 3 Winery Visits, Cave Tour & Cheese](https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Queenstown/Queenstown-Classic-Wine-Tour-3-Winery-Visits-Cave-Tour-and-Cheese/d407-3663P5?pid=P00295226&mcid=42383&medium=link">Queenstown Classic Wine Tour: 3 Winery Visits, Cave Tour & Cheese</a>** <span class="badge">-10%</span>
 
 _Private and Luxury_
 
@@ -141,7 +141,7 @@ From **$126**
 
 [![Mount Cook Scenic Tour for 6 with Car Included](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9a/28/cc/caption.jpg)](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Mount Cook Scenic Tour for 6 with Car Included](https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Queenstown/Mount-Cook-Scenic-Tour-for-6-with-Car-Included/d407-5634420P5?pid=P00295226&mcid=42383&medium=link">Mount Cook Scenic Tour for 6 with Car Included</a>** <span class="badge">-5%</span>
 
 _Day Trips_
 

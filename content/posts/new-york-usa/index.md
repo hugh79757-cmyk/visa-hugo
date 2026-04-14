@@ -123,7 +123,7 @@ New York is a culinary paradise, and you’ll find an incredible range of dining
 
 [![New York Kids Quest: Family Walking Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/c5/df/00.jpg)](https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link)
 
-**[New York Kids Quest: Family Walking Adventure](https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/New-York-City/New-York-Kids-Quest-Family-Walking-Adventure/d687-107194P532?pid=P00295226&mcid=42383&medium=link">New York Kids Quest: Family Walking Adventure</a>** <span class="badge">-20%</span>
 
 _Self-guided Tours_
 
@@ -135,7 +135,7 @@ From **$5**
 
 [![New York Murder Mystery: Self-Guided Detective Walk](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/c5/df/01.jpg)](https://www.viator.com/tours/New-York-City/New-York-Murder-Mystery-Self-Guided-Detective-Walk/d687-107194P600?pid=P00295226&mcid=42383&medium=link)
 
-**[New York Murder Mystery: Self-Guided Detective Walk](https://www.viator.com/tours/New-York-City/New-York-Murder-Mystery-Self-Guided-Detective-Walk/d687-107194P600?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/New-York-City/New-York-Murder-Mystery-Self-Guided-Detective-Walk/d687-107194P600?pid=P00295226&mcid=42383&medium=link">New York Murder Mystery: Self-Guided Detective Walk</a>** <span class="badge">-20%</span>
 
 _Self-guided Tours_
 

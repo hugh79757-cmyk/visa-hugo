@@ -117,7 +117,7 @@ For dining, you have a choice between street food and restaurants. Street vendor
 
 [![Moonlight Relief Artwork Workshop in Istanbul](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/be/6f/12/caption.jpg)](https://www.viator.com/tours/Istanbul/Moonlight-Relief-Artwork-Workshop-in-Istanbul/d585-5645971P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Moonlight Relief Artwork Workshop in Istanbul](https://www.viator.com/tours/Istanbul/Moonlight-Relief-Artwork-Workshop-in-Istanbul/d585-5645971P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Istanbul/Moonlight-Relief-Artwork-Workshop-in-Istanbul/d585-5645971P3?pid=P00295226&mcid=42383&medium=link">Moonlight Relief Artwork Workshop in Istanbul</a>** <span class="badge">-20%</span>
 
 _Art Classes_
 
@@ -129,7 +129,7 @@ From **$24**
 
 [![Istanbul Dinner Cruise with Dinner & Entertaintment Private Tables](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/bc/35/9b.jpg)](https://www.viator.com/tours/Istanbul/Istanbul-Dinner-Cruise-with-Dinner-and-Entertaintment-Private-Tables/d585-26620P12?pid=P00295226&mcid=42383&medium=link)
 
-**[Istanbul Dinner Cruise with Dinner & Entertaintment Private Tables](https://www.viator.com/tours/Istanbul/Istanbul-Dinner-Cruise-with-Dinner-and-Entertaintment-Private-Tables/d585-26620P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Istanbul/Istanbul-Dinner-Cruise-with-Dinner-and-Entertaintment-Private-Tables/d585-26620P12?pid=P00295226&mcid=42383&medium=link">Istanbul Dinner Cruise with Dinner & Entertaintment Private Tables</a>** <span class="badge">-20%</span>
 
 _Water Tours_
 
@@ -141,7 +141,7 @@ From **$47**
 
 [![Istanbul Hodjapasha Rhythm of The Dance Show](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/75/bd/4e.jpg)](https://www.viator.com/tours/Istanbul/Istanbul-Hodjapasha-Rhythm-of-The-Dance-Show/d585-9503P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Istanbul Hodjapasha Rhythm of The Dance Show](https://www.viator.com/tours/Istanbul/Istanbul-Hodjapasha-Rhythm-of-The-Dance-Show/d585-9503P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Istanbul/Istanbul-Hodjapasha-Rhythm-of-The-Dance-Show/d585-9503P2?pid=P00295226&mcid=42383&medium=link">Istanbul Hodjapasha Rhythm of The Dance Show</a>** <span class="badge">-20%</span>
 
 From **$33**
 
@@ -151,7 +151,7 @@ From **$33**
 
 [![Istanbul Whirling Dervish Ceremony, A Mystical Sufi Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/c9/1a/39.jpg)](https://www.viator.com/tours/Istanbul/Istanbul-Whirling-Dervish-Ceremony-A-Mystical-Sufi-Experience/d585-9398P501?pid=P00295226&mcid=42383&medium=link)
 
-**[Istanbul Whirling Dervish Ceremony, A Mystical Sufi Experience](https://www.viator.com/tours/Istanbul/Istanbul-Whirling-Dervish-Ceremony-A-Mystical-Sufi-Experience/d585-9398P501?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Istanbul/Istanbul-Whirling-Dervish-Ceremony-A-Mystical-Sufi-Experience/d585-9398P501?pid=P00295226&mcid=42383&medium=link">Istanbul Whirling Dervish Ceremony, A Mystical Sufi Experience</a>** <span class="badge">-20%</span>
 
 _Skip the line Tickets_
 
@@ -163,7 +163,7 @@ From **$33**
 
 [![Private & Mini Group 7-8 Hours Guided Istanbul Tour / Cruise Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0d/42/7e/0d.jpg)](https://www.viator.com/tours/Istanbul/Private-and-Mini-Group-7-8-Hours-Guided-Istanbul-Tour-Cruise-Port/d585-75148P8?pid=P00295226&mcid=42383&medium=link)
 
-**[Private & Mini Group 7-8 Hours Guided Istanbul Tour / Cruise Port](https://www.viator.com/tours/Istanbul/Private-and-Mini-Group-7-8-Hours-Guided-Istanbul-Tour-Cruise-Port/d585-75148P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Istanbul/Private-and-Mini-Group-7-8-Hours-Guided-Istanbul-Tour-Cruise-Port/d585-75148P8?pid=P00295226&mcid=42383&medium=link">Private & Mini Group 7-8 Hours Guided Istanbul Tour / Cruise Port</a>** <span class="badge">-20%</span>
 
 _Shore Excursions_
 

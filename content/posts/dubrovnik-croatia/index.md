@@ -127,7 +127,7 @@ When dining out, you’ll find a range of options from casual street food stalls
 
 [![Dubrovnik Sunset Tour By Boat With Local](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/8c/8c/d8.jpg)](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Dubrovnik Sunset Tour By Boat With Local](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dubrovnik/Dubrovnik-Sunset-Tour-By-Boat-With-Local/d904-118286P10?pid=P00295226&mcid=42383&medium=link">Dubrovnik Sunset Tour By Boat With Local</a>** <span class="badge">-20%</span>
 
 _Jet Boat Rentals_
 
@@ -139,7 +139,7 @@ From **$239**
 
 [![Private Authentic Family Lunch at Family Home From Dubrovnik](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/4a/02/79.jpg)](https://www.viator.com/tours/Dubrovnik/Private-Authentic-Family-Lunch-at-Family-Home-From-Dubrovnik/d904-64364P31?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Authentic Family Lunch at Family Home From Dubrovnik](https://www.viator.com/tours/Dubrovnik/Private-Authentic-Family-Lunch-at-Family-Home-From-Dubrovnik/d904-64364P31?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dubrovnik/Private-Authentic-Family-Lunch-at-Family-Home-From-Dubrovnik/d904-64364P31?pid=P00295226&mcid=42383&medium=link">Private Authentic Family Lunch at Family Home From Dubrovnik</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -151,7 +151,7 @@ From **$460**
 
 [![Dubrovnik: Medjugorje, Ston, and Kravice Waterfalls](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/76/e9/6c/caption.jpg)](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Medjugorje-Ston-and-Kravice-Waterfalls/d904-403969P12?pid=P00295226&mcid=42383&medium=link)
 
-**[Dubrovnik: Medjugorje, Ston, and Kravice Waterfalls](https://www.viator.com/tours/Dubrovnik/Dubrovnik-Medjugorje-Ston-and-Kravice-Waterfalls/d904-403969P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dubrovnik/Dubrovnik-Medjugorje-Ston-and-Kravice-Waterfalls/d904-403969P12?pid=P00295226&mcid=42383&medium=link">Dubrovnik: Medjugorje, Ston, and Kravice Waterfalls</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -163,7 +163,7 @@ From **$546**
 
 [![Three Countries Day Trip Trebinje, Perast and Kotor](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/77/25/b6/caption.jpg)](https://www.viator.com/tours/Dubrovnik/Three-Countries-Day-Trip-Trebinje-Perast-and-Kotor/d904-403969P14?pid=P00295226&mcid=42383&medium=link)
 
-**[Three Countries Day Trip Trebinje, Perast and Kotor](https://www.viator.com/tours/Dubrovnik/Three-Countries-Day-Trip-Trebinje-Perast-and-Kotor/d904-403969P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dubrovnik/Three-Countries-Day-Trip-Trebinje-Perast-and-Kotor/d904-403969P14?pid=P00295226&mcid=42383&medium=link">Three Countries Day Trip Trebinje, Perast and Kotor</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -175,7 +175,7 @@ From **$546**
 
 [![Private Day Trip from Dubrovnik Ston Mostar and Kravice](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/76/ea/47/caption.jpg)](https://www.viator.com/tours/Dubrovnik/Private-Day-Trip-from-Dubrovnik-Ston-Mostar-and-Kravice/d904-403969P20?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Day Trip from Dubrovnik Ston Mostar and Kravice](https://www.viator.com/tours/Dubrovnik/Private-Day-Trip-from-Dubrovnik-Ston-Mostar-and-Kravice/d904-403969P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dubrovnik/Private-Day-Trip-from-Dubrovnik-Ston-Mostar-and-Kravice/d904-403969P20?pid=P00295226&mcid=42383&medium=link">Private Day Trip from Dubrovnik Ston Mostar and Kravice</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 

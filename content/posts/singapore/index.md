@@ -119,7 +119,7 @@ When it comes to dining, you’ll find a mix of street food stalls and upscale r
 
 [![A Self Guided Tropical Sojourn of Singapore Hidden Enclaves](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/30/b9/12.jpg)](https://www.viator.com/tours/Singapore/A-Self-Guided-Tropical-Sojourn-of-Singapore-Hidden-Enclaves/d60449-5520738P18?pid=P00295226&mcid=42383&medium=link)
 
-**[A Self Guided Tropical Sojourn of Singapore Hidden Enclaves](https://www.viator.com/tours/Singapore/A-Self-Guided-Tropical-Sojourn-of-Singapore-Hidden-Enclaves/d60449-5520738P18?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-34%</span>
+**<a href="https://www.viator.com/tours/Singapore/A-Self-Guided-Tropical-Sojourn-of-Singapore-Hidden-Enclaves/d60449-5520738P18?pid=P00295226&mcid=42383&medium=link">A Self Guided Tropical Sojourn of Singapore Hidden Enclaves</a>** <span class="badge">-34%</span>
 
 _Day Trips_
 
@@ -131,7 +131,7 @@ From **$2**
 
 [![Self Guided Secrets of Singapore Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/df/b4/b1.jpg)](https://www.viator.com/tours/Singapore/Self-Guided-Secrets-of-Singapore-Exploration-Game/d60449-30066P198?pid=P00295226&mcid=42383&medium=link)
 
-**[Self Guided Secrets of Singapore Exploration Game](https://www.viator.com/tours/Singapore/Self-Guided-Secrets-of-Singapore-Exploration-Game/d60449-30066P198?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Singapore/Self-Guided-Secrets-of-Singapore-Exploration-Game/d60449-30066P198?pid=P00295226&mcid=42383&medium=link">Self Guided Secrets of Singapore Exploration Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -143,7 +143,7 @@ From **$23**
 
 [![Self Guided The Singapore Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ca/89/ff.jpg)](https://www.viator.com/tours/Singapore/Self-Guided-The-Singapore-Syndicate-City-Escape-Game/d60449-30066P213?pid=P00295226&mcid=42383&medium=link)
 
-**[Self Guided The Singapore Syndicate City Escape Game](https://www.viator.com/tours/Singapore/Self-Guided-The-Singapore-Syndicate-City-Escape-Game/d60449-30066P213?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Singapore/Self-Guided-The-Singapore-Syndicate-City-Escape-Game/d60449-30066P213?pid=P00295226&mcid=42383&medium=link">Self Guided The Singapore Syndicate City Escape Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -155,7 +155,7 @@ From **$23**
 
 [![Singapore Chinatown, Kampong Glam, Little India Cultural Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/53/38/1a.jpg)](https://www.viator.com/tours/Singapore/Singapore-Chinatown-Kampong-Glam-Little-India-Cultural-Tour/d60449-202009P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Singapore Chinatown, Kampong Glam, Little India Cultural Tour](https://www.viator.com/tours/Singapore/Singapore-Chinatown-Kampong-Glam-Little-India-Cultural-Tour/d60449-202009P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-21%</span>
+**<a href="https://www.viator.com/tours/Singapore/Singapore-Chinatown-Kampong-Glam-Little-India-Cultural-Tour/d60449-202009P5?pid=P00295226&mcid=42383&medium=link">Singapore Chinatown, Kampong Glam, Little India Cultural Tour</a>** <span class="badge">-21%</span>
 
 _Private and Luxury_
 
@@ -167,7 +167,7 @@ From **$70**
 
 [![Singapore Walking Tour: Self-Guided City Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/2c/4b/ec.jpg)](https://www.viator.com/tours/Singapore/Singapore-Walking-Tour-Self-Guided-City-Game/d60449-107194P192?pid=P00295226&mcid=42383&medium=link)
 
-**[Singapore Walking Tour: Self-Guided City Game](https://www.viator.com/tours/Singapore/Singapore-Walking-Tour-Self-Guided-City-Game/d60449-107194P192?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Singapore/Singapore-Walking-Tour-Self-Guided-City-Game/d60449-107194P192?pid=P00295226&mcid=42383&medium=link">Singapore Walking Tour: Self-Guided City Game</a>** <span class="badge">-20%</span>
 
 _Private and Luxury_
 

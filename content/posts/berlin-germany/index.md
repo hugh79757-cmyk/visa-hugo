@@ -122,7 +122,7 @@ For dining, you can choose from casual street food stalls, cozy cafes, or upscal
 
 [![Berlin Hosted Drag Show Evening with Guaranteed Entry](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9c/f8/8f/caption.jpg)](https://www.viator.com/tours/Berlin/Berlin-Hosted-Drag-Show-Evening-with-Guaranteed-Entry/d488-167074P43?pid=P00295226&mcid=42383&medium=link)
 
-**[Berlin Hosted Drag Show Evening with Guaranteed Entry](https://www.viator.com/tours/Berlin/Berlin-Hosted-Drag-Show-Evening-with-Guaranteed-Entry/d488-167074P43?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-35%</span>
+**<a href="https://www.viator.com/tours/Berlin/Berlin-Hosted-Drag-Show-Evening-with-Guaranteed-Entry/d488-167074P43?pid=P00295226&mcid=42383&medium=link">Berlin Hosted Drag Show Evening with Guaranteed Entry</a>** <span class="badge">-35%</span>
 
 _Cabaret_
 
@@ -134,7 +134,7 @@ From **$58**
 
 [![Berlin’s Hidden Chronicles A Self-Guided Journey](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/56/04/20.jpg)](https://www.viator.com/tours/Berlin/Berlins-Hidden-Chronicles-A-Self-Guided-Journey/d488-5520738P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Berlin’s Hidden Chronicles A Self-Guided Journey](https://www.viator.com/tours/Berlin/Berlins-Hidden-Chronicles-A-Self-Guided-Journey/d488-5520738P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-34%</span>
+**<a href="https://www.viator.com/tours/Berlin/Berlins-Hidden-Chronicles-A-Self-Guided-Journey/d488-5520738P7?pid=P00295226&mcid=42383&medium=link">Berlin’s Hidden Chronicles A Self-Guided Journey</a>** <span class="badge">-34%</span>
 
 _Audio Guides_
 
@@ -146,7 +146,7 @@ From **$2**
 
 [![English Comedy Show with Pizza and Shots in Central Berlin](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/9d/24/37.jpg)](https://www.viator.com/tours/Berlin/English-Comedy-Show-with-Pizza-and-Shots-in-Central-Berlin/d488-34080P1?pid=P00295226&mcid=42383&medium=link)
 
-**[English Comedy Show with Pizza and Shots in Central Berlin](https://www.viator.com/tours/Berlin/English-Comedy-Show-with-Pizza-and-Shots-in-Central-Berlin/d488-34080P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Berlin/English-Comedy-Show-with-Pizza-and-Shots-in-Central-Berlin/d488-34080P1?pid=P00295226&mcid=42383&medium=link">English Comedy Show with Pizza and Shots in Central Berlin</a>** <span class="badge">-30%</span>
 
 _Family-friendly Shows_
 
@@ -158,7 +158,7 @@ From **$14**
 
 [![Explore Berlin: See All The Iconic Sights & Some Hidden Gems](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/c0/68/4c.jpg)](https://www.viator.com/tours/Berlin/Explore-Berlin-See-All-The-Iconic-Sights-and-Some-Hidden-Gems/d488-5560HIGHLIGHTS?pid=P00295226&mcid=42383&medium=link)
 
-**[Explore Berlin: See All The Iconic Sights & Some Hidden Gems](https://www.viator.com/tours/Berlin/Explore-Berlin-See-All-The-Iconic-Sights-and-Some-Hidden-Gems/d488-5560HIGHLIGHTS?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Berlin/Explore-Berlin-See-All-The-Iconic-Sights-and-Some-Hidden-Gems/d488-5560HIGHLIGHTS?pid=P00295226&mcid=42383&medium=link">Explore Berlin: See All The Iconic Sights & Some Hidden Gems</a>** <span class="badge">-25%</span>
 
 _Private and Luxury_
 
@@ -170,7 +170,7 @@ From **$18**
 
 [![Self-Guided Berlin Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/eb/64/25.jpg)](https://www.viator.com/tours/Berlin/Self-Guided-Berlin-Syndicate-City-Escape-Game/d488-30066P374?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Berlin Syndicate City Escape Game](https://www.viator.com/tours/Berlin/Self-Guided-Berlin-Syndicate-City-Escape-Game/d488-30066P374?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Berlin/Self-Guided-Berlin-Syndicate-City-Escape-Game/d488-30066P374?pid=P00295226&mcid=42383&medium=link">Self-Guided Berlin Syndicate City Escape Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 

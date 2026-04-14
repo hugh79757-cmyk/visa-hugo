@@ -110,7 +110,7 @@ When dining out, consider trying a mix of local taverns and modern restaurants t
 
 [![Tangier Luxury Private Guided Day Tour from Seville All Inclusive](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/69/fc/36.jpg)](https://www.viator.com/tours/Seville/Tangier-Luxury-Private-Guided-Day-Tour-from-Seville-All-Inclusive/d556-450081P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Tangier Luxury Private Guided Day Tour from Seville All Inclusive](https://www.viator.com/tours/Seville/Tangier-Luxury-Private-Guided-Day-Tour-from-Seville-All-Inclusive/d556-450081P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-8%</span>
+**<a href="https://www.viator.com/tours/Seville/Tangier-Luxury-Private-Guided-Day-Tour-from-Seville-All-Inclusive/d556-450081P6?pid=P00295226&mcid=42383&medium=link">Tangier Luxury Private Guided Day Tour from Seville All Inclusive</a>** <span class="badge">-8%</span>
 
 _Underground Tours_
 
@@ -122,7 +122,7 @@ From **$595**
 
 [![Authentic Private Tangier Tour from Seville Camel Ride & Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/6a/bc/9c.jpg)](https://www.viator.com/tours/Seville/Authentic-Private-Tangier-Tour-from-Seville-Camel-Ride-and-Lunch/d556-450081P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Authentic Private Tangier Tour from Seville Camel Ride & Lunch](https://www.viator.com/tours/Seville/Authentic-Private-Tangier-Tour-from-Seville-Camel-Ride-and-Lunch/d556-450081P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Seville/Authentic-Private-Tangier-Tour-from-Seville-Camel-Ride-and-Lunch/d556-450081P9?pid=P00295226&mcid=42383&medium=link">Authentic Private Tangier Tour from Seville Camel Ride & Lunch</a>** <span class="badge">-5%</span>
 
 _Underground Tours_
 

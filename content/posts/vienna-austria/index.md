@@ -125,7 +125,7 @@ While there are plenty of casual dining options, don’t hesitate to indulge in 
 
 [![From Vienna Guided Day Trip to Bratislava and Budapest](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0e/31/a7.jpg)](https://www.viator.com/tours/Vienna/From-Vienna-Guided-Day-Trip-to-Bratislava-and-Budapest/d454-5530468P11?pid=P00295226&mcid=42383&medium=link)
 
-**[From Vienna Guided Day Trip to Bratislava and Budapest](https://www.viator.com/tours/Vienna/From-Vienna-Guided-Day-Trip-to-Bratislava-and-Budapest/d454-5530468P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Vienna/From-Vienna-Guided-Day-Trip-to-Bratislava-and-Budapest/d454-5530468P11?pid=P00295226&mcid=42383&medium=link">From Vienna Guided Day Trip to Bratislava and Budapest</a>** <span class="badge">-50%</span>
 
 _Full-day Tours_
 
@@ -137,7 +137,7 @@ From **$100**
 
 [![Prague Full-Day Guided Tour From Vienna](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/22/50/f8.jpg)](https://www.viator.com/tours/Vienna/Prague-Full-Day-Guided-Tour-From-Vienna/d454-5512706P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Prague Full-Day Guided Tour From Vienna](https://www.viator.com/tours/Vienna/Prague-Full-Day-Guided-Tour-From-Vienna/d454-5512706P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Vienna/Prague-Full-Day-Guided-Tour-From-Vienna/d454-5512706P2?pid=P00295226&mcid=42383&medium=link">Prague Full-Day Guided Tour From Vienna</a>** <span class="badge">-30%</span>
 
 _Full-day Tours_
 
@@ -149,7 +149,7 @@ From **$164**
 
 [![Imperial Gala Concert at Palais Auersperg Vienna](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/c0/8a/cb.jpg)](https://www.viator.com/tours/Vienna/Imperial-Gala-Concert-at-Palais-Auersperg-Vienna/d454-5605703P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Imperial Gala Concert at Palais Auersperg Vienna](https://www.viator.com/tours/Vienna/Imperial-Gala-Concert-at-Palais-Auersperg-Vienna/d454-5605703P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Vienna/Imperial-Gala-Concert-at-Palais-Auersperg-Vienna/d454-5605703P2?pid=P00295226&mcid=42383&medium=link">Imperial Gala Concert at Palais Auersperg Vienna</a>** <span class="badge">-25%</span>
 
 _Dinner and Show Tickets_
 
@@ -161,7 +161,7 @@ From **$43**
 
 [![Vienna Spy Mission: Self-Guided Espionage Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/43/2f/50.jpg)](https://www.viator.com/tours/Vienna/Vienna-Spy-Mission-Self-Guided-Espionage-Adventure/d454-107194P59?pid=P00295226&mcid=42383&medium=link)
 
-**[Vienna Spy Mission: Self-Guided Espionage Adventure](https://www.viator.com/tours/Vienna/Vienna-Spy-Mission-Self-Guided-Espionage-Adventure/d454-107194P59?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Vienna/Vienna-Spy-Mission-Self-Guided-Espionage-Adventure/d454-107194P59?pid=P00295226&mcid=42383&medium=link">Vienna Spy Mission: Self-Guided Espionage Adventure</a>** <span class="badge">-20%</span>
 
 _Architecture Tours_
 
@@ -173,7 +173,7 @@ From **$6**
 
 [![Vienna Premium Orchestra – Best of Mozart & Strauss | Vienna/Vienna](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/72/ea/9c.jpg)](https://www.viator.com/tours/Vienna/Vienna-Premium-Orchestra-Best-of-Mozart-and-Strauss-ViennaVienna/d454-5566906P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Vienna Premium Orchestra – Best of Mozart & Strauss | Vienna/Vienna](https://www.viator.com/tours/Vienna/Vienna-Premium-Orchestra-Best-of-Mozart-and-Strauss-ViennaVienna/d454-5566906P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Vienna/Vienna-Premium-Orchestra-Best-of-Mozart-and-Strauss-ViennaVienna/d454-5566906P1?pid=P00295226&mcid=42383&medium=link">Vienna Premium Orchestra – Best of Mozart & Strauss | Vienna/Vienna</a>** <span class="badge">-20%</span>
 
 _Classical Concerts_
 

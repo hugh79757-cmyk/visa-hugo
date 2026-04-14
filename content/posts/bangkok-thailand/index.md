@@ -117,7 +117,7 @@ For a more upscale dining experience, Bangkok offers a plethora of restaurants r
 
 [![Bangkok Hidden Treasures: A Self-Guided Urban Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/33/4a/fc.jpg)](https://www.viator.com/tours/Bangkok/Bangkok-Hidden-Treasures-A-Self-Guided-Urban-Adventure/d343-5520738P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Bangkok Hidden Treasures: A Self-Guided Urban Adventure](https://www.viator.com/tours/Bangkok/Bangkok-Hidden-Treasures-A-Self-Guided-Urban-Adventure/d343-5520738P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-51%</span>
+**<a href="https://www.viator.com/tours/Bangkok/Bangkok-Hidden-Treasures-A-Self-Guided-Urban-Adventure/d343-5520738P4?pid=P00295226&mcid=42383&medium=link">Bangkok Hidden Treasures: A Self-Guided Urban Adventure</a>** <span class="badge">-51%</span>
 
 _Audio Guides_
 
@@ -129,7 +129,7 @@ From **$2**
 
 [![Gems Gallery Bangkok with Round Trip Hotel Transfers](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/13/6d/29.jpg)](https://www.viator.com/tours/Bangkok/Gems-Gallery-Bangkok-with-Round-Trip-Hotel-Transfers/d343-5521242P121?pid=P00295226&mcid=42383&medium=link)
 
-**[Gems Gallery Bangkok with Round Trip Hotel Transfers](https://www.viator.com/tours/Bangkok/Gems-Gallery-Bangkok-with-Round-Trip-Hotel-Transfers/d343-5521242P121?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Bangkok/Gems-Gallery-Bangkok-with-Round-Trip-Hotel-Transfers/d343-5521242P121?pid=P00295226&mcid=42383&medium=link">Gems Gallery Bangkok with Round Trip Hotel Transfers</a>** <span class="badge">-50%</span>
 
 _Fashion Shows_
 
@@ -141,7 +141,7 @@ From **$1**
 
 [![Gems Gallery Phuket with Round Trip Hotel Transfers](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/13/6d/c1.jpg)](https://www.viator.com/tours/Bangkok/Gems-Gallery-Phuket-with-Round-Trip-Hotel-Transfers/d343-5521242P122?pid=P00295226&mcid=42383&medium=link)
 
-**[Gems Gallery Phuket with Round Trip Hotel Transfers](https://www.viator.com/tours/Bangkok/Gems-Gallery-Phuket-with-Round-Trip-Hotel-Transfers/d343-5521242P122?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Bangkok/Gems-Gallery-Phuket-with-Round-Trip-Hotel-Transfers/d343-5521242P122?pid=P00295226&mcid=42383&medium=link">Gems Gallery Phuket with Round Trip Hotel Transfers</a>** <span class="badge">-50%</span>
 
 _Fashion Shows_
 
@@ -153,7 +153,7 @@ From **$1**
 
 [![Bangkok up to you with private friendly tour guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/02/b3/b2.jpg)](https://www.viator.com/tours/Bangkok/Bangkok-up-to-you-with-private-friendly-tour-guide/d343-487956P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Bangkok up to you with private friendly tour guide](https://www.viator.com/tours/Bangkok/Bangkok-up-to-you-with-private-friendly-tour-guide/d343-487956P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Bangkok/Bangkok-up-to-you-with-private-friendly-tour-guide/d343-487956P3?pid=P00295226&mcid=42383&medium=link">Bangkok up to you with private friendly tour guide</a>** <span class="badge">-30%</span>
 
 _Water Tours_
 
@@ -165,7 +165,7 @@ From **$99**
 
 [![Self-Guided The Bangkok Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/eb/64/25.jpg)](https://www.viator.com/tours/Bangkok/Self-Guided-The-Bangkok-Syndicate-City-Escape-Game/d343-30066P459?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided The Bangkok Syndicate City Escape Game](https://www.viator.com/tours/Bangkok/Self-Guided-The-Bangkok-Syndicate-City-Escape-Game/d343-30066P459?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Bangkok/Self-Guided-The-Bangkok-Syndicate-City-Escape-Game/d343-30066P459?pid=P00295226&mcid=42383&medium=link">Self-Guided The Bangkok Syndicate City Escape Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 

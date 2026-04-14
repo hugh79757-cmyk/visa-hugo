@@ -107,7 +107,7 @@ As you explore Bodrum’s culinary scene, don’t forget to sample **baklava**, 
 
 [![Bodrum Stroll Downtown's hidden](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/81/f0/55.jpg)](https://www.viator.com/tours/Bodrum/Bodrum-Stroll-Downtowns-hidden/d4292-392447P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Bodrum Stroll Downtown's hidden](https://www.viator.com/tours/Bodrum/Bodrum-Stroll-Downtowns-hidden/d4292-392447P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Bodrum/Bodrum-Stroll-Downtowns-hidden/d4292-392447P1?pid=P00295226&mcid=42383&medium=link">Bodrum Stroll Downtown's hidden</a>** <span class="badge">-50%</span>
 
 _Archaeology Tours_
 
@@ -119,7 +119,7 @@ From **$37**
 
 [![Bodrum Pirate Partyboat](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b1/93/f8/caption.jpg)](https://www.viator.com/tours/Bodrum/Bodrum-Pirate-Partyboat/d4292-5644712P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Bodrum Pirate Partyboat](https://www.viator.com/tours/Bodrum/Bodrum-Pirate-Partyboat/d4292-5644712P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Bodrum/Bodrum-Pirate-Partyboat/d4292-5644712P2?pid=P00295226&mcid=42383&medium=link">Bodrum Pirate Partyboat</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -131,7 +131,7 @@ From **$34**
 
 [![Carpet Weaving and Shopping From Villager No Middle Man](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/e7/a9/06.jpg)](https://www.viator.com/tours/Bodrum/Carpet-Weaving-and-Shopping-From-Villager-No-Middle-Man/d4292-10865P15?pid=P00295226&mcid=42383&medium=link)
 
-**[Carpet Weaving and Shopping From Villager No Middle Man](https://www.viator.com/tours/Bodrum/Carpet-Weaving-and-Shopping-From-Villager-No-Middle-Man/d4292-10865P15?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Bodrum/Carpet-Weaving-and-Shopping-From-Villager-No-Middle-Man/d4292-10865P15?pid=P00295226&mcid=42383&medium=link">Carpet Weaving and Shopping From Villager No Middle Man</a>** <span class="badge">-20%</span>
 
 _Art Classes_
 
@@ -143,7 +143,7 @@ From **$46**
 
 [![Romantic Private Sunset Yacht Tour with Light Dinner](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a7/e5/af/caption.jpg)](https://www.viator.com/tours/Bodrum/Romantic-Private-Sunset-Yacht-Tour-with-Light-Dinner/d4292-85418P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Romantic Private Sunset Yacht Tour with Light Dinner](https://www.viator.com/tours/Bodrum/Romantic-Private-Sunset-Yacht-Tour-with-Light-Dinner/d4292-85418P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Bodrum/Romantic-Private-Sunset-Yacht-Tour-with-Light-Dinner/d4292-85418P9?pid=P00295226&mcid=42383&medium=link">Romantic Private Sunset Yacht Tour with Light Dinner</a>** <span class="badge">-20%</span>
 
 _Water Tours_
 
@@ -155,7 +155,7 @@ From **$376**
 
 [![Private Bodrum Gulet Cruise with All Inclusive Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b5/00/70/caption.jpg)](https://www.viator.com/tours/Bodrum/Private-Bodrum-Gulet-Cruise-with-All-Inclusive-Lunch/d4292-429521P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Bodrum Gulet Cruise with All Inclusive Lunch](https://www.viator.com/tours/Bodrum/Private-Bodrum-Gulet-Cruise-with-All-Inclusive-Lunch/d4292-429521P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Bodrum/Private-Bodrum-Gulet-Cruise-with-All-Inclusive-Lunch/d4292-429521P9?pid=P00295226&mcid=42383&medium=link">Private Bodrum Gulet Cruise with All Inclusive Lunch</a>** <span class="badge">-20%</span>
 
 _Sailing_
 

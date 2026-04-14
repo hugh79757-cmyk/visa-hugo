@@ -114,7 +114,7 @@ When it comes to dining, you’ll find a mix of street food stalls, food courts,
 
 [![Historical Malacca Day Tour With Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/1e/38/a6.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Historical Malacca Day Tour With Lunch](https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-24%</span>
+**<a href="https://www.viator.com/tours/Kuala-Lumpur/Historical-Malacca-Day-Tour-With-Lunch/d335-192391P3?pid=P00295226&mcid=42383&medium=link">Historical Malacca Day Tour With Lunch</a>** <span class="badge">-24%</span>
 
 _Day Trips_
 
@@ -126,7 +126,7 @@ From **$77**
 
 [![Half Day Countryside Jewel + Batu Caves (Private Guided Tour)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/89/6a/ef.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Countryside-Jewel-Batu-Caves-Private-Guided-Tour/d335-62272P46?pid=P00295226&mcid=42383&medium=link)
 
-**[Half Day Countryside Jewel + Batu Caves (Private Guided Tour)](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Countryside-Jewel-Batu-Caves-Private-Guided-Tour/d335-62272P46?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Countryside-Jewel-Batu-Caves-Private-Guided-Tour/d335-62272P46?pid=P00295226&mcid=42383&medium=link">Half Day Countryside Jewel + Batu Caves (Private Guided Tour)</a>** <span class="badge">-20%</span>
 
 _Half-day Tours_
 
@@ -138,7 +138,7 @@ From **$100**
 
 [![Half Day Glimpse Of Kuala Lumpur, Batu Caves, KLCC, Merdeka 118](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/6f/5d/1e.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Glimpse-Of-Kuala-Lumpur-Batu-Caves-KLCC-Merdeka-118/d335-62272P47?pid=P00295226&mcid=42383&medium=link)
 
-**[Half Day Glimpse Of Kuala Lumpur, Batu Caves, KLCC, Merdeka 118](https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Glimpse-Of-Kuala-Lumpur-Batu-Caves-KLCC-Merdeka-118/d335-62272P47?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kuala-Lumpur/Half-Day-Glimpse-Of-Kuala-Lumpur-Batu-Caves-KLCC-Merdeka-118/d335-62272P47?pid=P00295226&mcid=42383&medium=link">Half Day Glimpse Of Kuala Lumpur, Batu Caves, KLCC, Merdeka 118</a>** <span class="badge">-20%</span>
 
 _Half-day Tours_
 
@@ -150,7 +150,7 @@ From **$100**
 
 [![Wonders of Kuala Lumpur City & Countryside + Batu Caves (Private Guided Tour)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/71/ee/c6.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Wonders-of-Kuala-Lumpur-City-and-Countryside-Batu-Caves-Private-Guided-Tour/d335-62272P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Wonders of Kuala Lumpur City & Countryside + Batu Caves (Private Guided Tour)](https://www.viator.com/tours/Kuala-Lumpur/Wonders-of-Kuala-Lumpur-City-and-Countryside-Batu-Caves-Private-Guided-Tour/d335-62272P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kuala-Lumpur/Wonders-of-Kuala-Lumpur-City-and-Countryside-Batu-Caves-Private-Guided-Tour/d335-62272P2?pid=P00295226&mcid=42383&medium=link">Wonders of Kuala Lumpur City & Countryside + Batu Caves (Private Guided Tour)</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -162,7 +162,7 @@ From **$121**
 
 [![Fire fly tour from Kuala lumpur](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/d9/04/3e.jpg)](https://www.viator.com/tours/Kuala-Lumpur/Fire-fly-tour-from-Kuala-lumpur/d335-456839P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Fire fly tour from Kuala lumpur](https://www.viator.com/tours/Kuala-Lumpur/Fire-fly-tour-from-Kuala-lumpur/d335-456839P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kuala-Lumpur/Fire-fly-tour-from-Kuala-lumpur/d335-456839P9?pid=P00295226&mcid=42383&medium=link">Fire fly tour from Kuala lumpur</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 

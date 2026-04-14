@@ -117,7 +117,7 @@ When dining out, you'll find a mix of casual eateries and upscale restaurants. F
 
 [![Cartagena : Private transfer Airport Hotel (Round trip or One Way)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/fc/c2/c7.jpg)](https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link)
 
-**[Cartagena : Private transfer Airport Hotel (Round trip or One Way)](https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Cartagena/Cartagena-Private-transfer-Airport-Hotel-Round-trip-or-One-Way/d4498-178484P13?pid=P00295226&mcid=42383&medium=link">Cartagena : Private transfer Airport Hotel (Round trip or One Way)</a>** <span class="badge">-25%</span>
 
 _Port Transfers_
 
@@ -129,7 +129,7 @@ From **$30**
 
 [![Photo session in Cartagena. with a professional photographer](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ab/5e/9d/caption.jpg)](https://www.viator.com/tours/Cartagena/Photo-session-in-Cartagena-with-a-professional-photographer/d4498-5644135P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Photo session in Cartagena. with a professional photographer](https://www.viator.com/tours/Cartagena/Photo-session-in-Cartagena-with-a-professional-photographer/d4498-5644135P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Cartagena/Photo-session-in-Cartagena-with-a-professional-photographer/d4498-5644135P1?pid=P00295226&mcid=42383&medium=link">Photo session in Cartagena. with a professional photographer</a>** <span class="badge">-20%</span>
 
 _Honeymoon Packages_
 
@@ -141,7 +141,7 @@ From **$160**
 
 [![Route Mud volcano el totumo + Typical beach and lunch club](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/57/d8/83.jpg)](https://www.viator.com/tours/Cartagena/Route-Mud-volcano-el-totumo-Typical-beach-and-lunch-club/d4498-204292P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Route Mud volcano el totumo + Typical beach and lunch club](https://www.viator.com/tours/Cartagena/Route-Mud-volcano-el-totumo-Typical-beach-and-lunch-club/d4498-204292P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Cartagena/Route-Mud-volcano-el-totumo-Typical-beach-and-lunch-club/d4498-204292P3?pid=P00295226&mcid=42383&medium=link">Route Mud volcano el totumo + Typical beach and lunch club</a>** <span class="badge">-10%</span>
 
 _Day Trips_
 
@@ -153,7 +153,7 @@ From **$40**
 
 [![Playa Blanca Barú Tour with Lunch and hotel pick up](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/5c/a0/c1.jpg)](https://www.viator.com/tours/Caribbean-Coast/Playa-Blanca-Bar-Tour-with-Lunch-and-hotel-pick-up/d25190-175402P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Playa Blanca Barú Tour with Lunch and hotel pick up](https://www.viator.com/tours/Caribbean-Coast/Playa-Blanca-Bar-Tour-with-Lunch-and-hotel-pick-up/d25190-175402P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-6%</span>
+**<a href="https://www.viator.com/tours/Caribbean-Coast/Playa-Blanca-Bar-Tour-with-Lunch-and-hotel-pick-up/d25190-175402P4?pid=P00295226&mcid=42383&medium=link">Playa Blanca Barú Tour with Lunch and hotel pick up</a>** <span class="badge">-6%</span>
 
 _Audio Guides_
 

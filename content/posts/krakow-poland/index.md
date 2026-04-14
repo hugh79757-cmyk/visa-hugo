@@ -127,7 +127,7 @@ For dining, you can choose between street food vendors, casual bistros, and fine
 
 [![Queen Best Hits Candlelight Concert in Krakow at Chopin Gallery](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a6/38/86/caption.jpg)](https://www.viator.com/tours/Krakow/Queen-Best-Hits-Candlelight-Concert-in-Krakow-at-Chopin-Gallery/d529-5602787P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Queen Best Hits Candlelight Concert in Krakow at Chopin Gallery](https://www.viator.com/tours/Krakow/Queen-Best-Hits-Candlelight-Concert-in-Krakow-at-Chopin-Gallery/d529-5602787P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Krakow/Queen-Best-Hits-Candlelight-Concert-in-Krakow-at-Chopin-Gallery/d529-5602787P7?pid=P00295226&mcid=42383&medium=link">Queen Best Hits Candlelight Concert in Krakow at Chopin Gallery</a>** <span class="badge">-20%</span>
 
 _Classical Concerts_
 
@@ -139,7 +139,7 @@ From **$22**
 
 [![Zakopane Horse Riding and Thermal Baths full day from Krakow](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/76/74/e5.jpg)](https://www.viator.com/tours/Krakow/Zakopane-Horse-Riding-and-Thermal-Baths-full-day-from-Krakow/d529-483553P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Zakopane Horse Riding and Thermal Baths full day from Krakow](https://www.viator.com/tours/Krakow/Zakopane-Horse-Riding-and-Thermal-Baths-full-day-from-Krakow/d529-483553P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Krakow/Zakopane-Horse-Riding-and-Thermal-Baths-full-day-from-Krakow/d529-483553P5?pid=P00295226&mcid=42383&medium=link">Zakopane Horse Riding and Thermal Baths full day from Krakow</a>** <span class="badge">-20%</span>
 
 _Nature and Wildlife Tours_
 
@@ -151,7 +151,7 @@ From **$118**
 
 [![From Krakow: Wieliczka Salt Mine Guided Tour with Hotel Transfers](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/6f/08/cd.jpg)](https://www.viator.com/tours/Krakow/From-Krakow-Wieliczka-Salt-Mine-Guided-Tour-with-Hotel-Transfers/d529-312906P4?pid=P00295226&mcid=42383&medium=link)
 
-**[From Krakow: Wieliczka Salt Mine Guided Tour with Hotel Transfers](https://www.viator.com/tours/Krakow/From-Krakow-Wieliczka-Salt-Mine-Guided-Tour-with-Hotel-Transfers/d529-312906P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Krakow/From-Krakow-Wieliczka-Salt-Mine-Guided-Tour-with-Hotel-Transfers/d529-312906P4?pid=P00295226&mcid=42383&medium=link">From Krakow: Wieliczka Salt Mine Guided Tour with Hotel Transfers</a>** <span class="badge">-15%</span>
 
 _Private and Luxury_
 
@@ -163,7 +163,7 @@ From **$72**
 
 [![Auschwitz Birkenau Guided Tour/Skip The Line/PickUp/Guide ENG](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/31/81/4c.jpg)](https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-TourSkip-The-LinePickUpGuide-ENG/d529-68782P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Auschwitz Birkenau Guided Tour/Skip The Line/PickUp/Guide ENG](https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-TourSkip-The-LinePickUpGuide-ENG/d529-68782P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-TourSkip-The-LinePickUpGuide-ENG/d529-68782P1?pid=P00295226&mcid=42383&medium=link">Auschwitz Birkenau Guided Tour/Skip The Line/PickUp/Guide ENG</a>** <span class="badge">-15%</span>
 
 _Day Trips_
 
@@ -175,7 +175,7 @@ From **$31**
 
 [![Auschwitz-Birkenau Guided Shared Tour from Krakow](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0c/06/06/a9.jpg)](https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-Shared-Tour-from-Krakow/d529-52573P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Auschwitz-Birkenau Guided Shared Tour from Krakow](https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-Shared-Tour-from-Krakow/d529-52573P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Krakow/Auschwitz-Birkenau-Guided-Shared-Tour-from-Krakow/d529-52573P10?pid=P00295226&mcid=42383&medium=link">Auschwitz-Birkenau Guided Shared Tour from Krakow</a>** <span class="badge">-10%</span>
 
 _Day Trips_
 

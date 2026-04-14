@@ -119,7 +119,7 @@ Barcelona’s dining scene is diverse, ranging from street food to upscale resta
 
 [![2 - in - 1 Barcelona Pass : White Rabbit + House of Candy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/c8/26/0e.jpg)](https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link)
 
-**[2 - in - 1 Barcelona Pass : White Rabbit + House of Candy](https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Barcelona/2-in-1-Barcelona-Pass-White-Rabbit-House-of-Candy/d562-480481P4?pid=P00295226&mcid=42383&medium=link">2 - in - 1 Barcelona Pass : White Rabbit + House of Candy</a>** <span class="badge">-20%</span>
 
 _Attractions & Museums_
 
@@ -131,7 +131,7 @@ From **$22**
 
 [![Mediterranean Flavors Sitges and Olive Oil Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c9/25/6c/caption.jpg)](https://www.viator.com/tours/Barcelona/Mediterranean-Flavors-Sitges-and-Olive-Oil-Experience/d562-360082P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Mediterranean Flavors Sitges and Olive Oil Experience](https://www.viator.com/tours/Barcelona/Mediterranean-Flavors-Sitges-and-Olive-Oil-Experience/d562-360082P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Barcelona/Mediterranean-Flavors-Sitges-and-Olive-Oil-Experience/d562-360082P9?pid=P00295226&mcid=42383&medium=link">Mediterranean Flavors Sitges and Olive Oil Experience</a>** <span class="badge">-20%</span>
 
 _Art Tours_
 
@@ -143,7 +143,7 @@ From **$866**
 
 [![Transfer Barcelona to Port Airport and hotels](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b2/36/e9/caption.jpg)](https://www.viator.com/tours/Barcelona/Transfer-Barcelona-to-Port-Airport-and-hotels/d562-86408P17?pid=P00295226&mcid=42383&medium=link)
 
-**[Transfer Barcelona to Port Airport and hotels](https://www.viator.com/tours/Barcelona/Transfer-Barcelona-to-Port-Airport-and-hotels/d562-86408P17?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Barcelona/Transfer-Barcelona-to-Port-Airport-and-hotels/d562-86408P17?pid=P00295226&mcid=42383&medium=link">Transfer Barcelona to Port Airport and hotels</a>** <span class="badge">-20%</span>
 
 _Airport & Hotel Transfers_
 
@@ -155,7 +155,7 @@ From **$24**
 
 [![Montserrat Monastery Private Tour with Hotel Pick up](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/bd/5a/75.jpg)](https://www.viator.com/tours/Barcelona/Montserrat-Monastery-Private-Tour-with-Hotel-Pick-up/d562-10913P52?pid=P00295226&mcid=42383&medium=link)
 
-**[Montserrat Monastery Private Tour with Hotel Pick up](https://www.viator.com/tours/Barcelona/Montserrat-Monastery-Private-Tour-with-Hotel-Pick-up/d562-10913P52?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-18%</span>
+**<a href="https://www.viator.com/tours/Barcelona/Montserrat-Monastery-Private-Tour-with-Hotel-Pick-up/d562-10913P52?pid=P00295226&mcid=42383&medium=link">Montserrat Monastery Private Tour with Hotel Pick up</a>** <span class="badge">-18%</span>
 
 _Private and Luxury_
 
@@ -167,7 +167,7 @@ From **$917**
 
 [![Teatro Flamenco Barcelona: Historic Venue, Pure Flamenco](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/d8/6d/6f.jpg)](https://www.viator.com/tours/Barcelona/Teatro-Flamenco-Barcelona-Historic-Venue-Pure-Flamenco/d562-5555400P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Teatro Flamenco Barcelona: Historic Venue, Pure Flamenco](https://www.viator.com/tours/Barcelona/Teatro-Flamenco-Barcelona-Historic-Venue-Pure-Flamenco/d562-5555400P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Barcelona/Teatro-Flamenco-Barcelona-Historic-Venue-Pure-Flamenco/d562-5555400P1?pid=P00295226&mcid=42383&medium=link">Teatro Flamenco Barcelona: Historic Venue, Pure Flamenco</a>** <span class="badge">-15%</span>
 
 _Flamenco Performance_
 

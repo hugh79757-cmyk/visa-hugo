@@ -117,7 +117,7 @@ Restaurants can range from casual trattorias to upscale dining establishments. F
 
 [![Amalfi Private Tour to Ravello and Maiori and Minori DA Amalfi](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/23/7a/b9.jpg)](https://www.viator.com/tours/Amalfi/Amalfi-Private-Tour-to-Ravello-and-Maiori-and-Minori-DA-Amalfi/d33601-337005P16?pid=P00295226&mcid=42383&medium=link)
 
-**[Amalfi Private Tour to Ravello and Maiori and Minori DA Amalfi](https://www.viator.com/tours/Amalfi/Amalfi-Private-Tour-to-Ravello-and-Maiori-and-Minori-DA-Amalfi/d33601-337005P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Amalfi/Amalfi-Private-Tour-to-Ravello-and-Maiori-and-Minori-DA-Amalfi/d33601-337005P16?pid=P00295226&mcid=42383&medium=link">Amalfi Private Tour to Ravello and Maiori and Minori DA Amalfi</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -129,7 +129,7 @@ From **$639**
 
 [![Naples to Amalfi Coast direct transfer (or vice versa)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/73/b8/5f.jpg)](https://www.viator.com/tours/Amalfi/Naples-to-Amalfi-Coast-direct-transfer-or-vice-versa/d33601-137436P39?pid=P00295226&mcid=42383&medium=link)
 
-**[Naples to Amalfi Coast direct transfer (or vice versa)](https://www.viator.com/tours/Amalfi/Naples-to-Amalfi-Coast-direct-transfer-or-vice-versa/d33601-137436P39?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Amalfi/Naples-to-Amalfi-Coast-direct-transfer-or-vice-versa/d33601-137436P39?pid=P00295226&mcid=42383&medium=link">Naples to Amalfi Coast direct transfer (or vice versa)</a>** <span class="badge">-15%</span>
 
 _Port Transfers_
 
@@ -141,7 +141,7 @@ From **$149**
 
 [![Pompeii Small Group Tour from Amalfi Coast with an Archaeologist](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/48/65/48.jpg)](https://www.viator.com/tours/Amalfi/Pompeii-Small-Group-Tour-from-Amalfi-Coast-with-an-Archaeologist/d33601-216970P42?pid=P00295226&mcid=42383&medium=link)
 
-**[Pompeii Small Group Tour from Amalfi Coast with an Archaeologist](https://www.viator.com/tours/Amalfi/Pompeii-Small-Group-Tour-from-Amalfi-Coast-with-an-Archaeologist/d33601-216970P42?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Amalfi/Pompeii-Small-Group-Tour-from-Amalfi-Coast-with-an-Archaeologist/d33601-216970P42?pid=P00295226&mcid=42383&medium=link">Pompeii Small Group Tour from Amalfi Coast with an Archaeologist</a>** <span class="badge">-10%</span>
 
 _Day Trips_
 

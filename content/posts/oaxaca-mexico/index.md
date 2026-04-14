@@ -109,7 +109,7 @@ For dessert, indulge in **nieves**, a type of sorbet made from fresh fruits and 
 
 [![Sustainable Mezcal Tour at an Award Winning Family Distillery](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0d/e0/c3.jpg)](https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Sustainable Mezcal Tour at an Award Winning Family Distillery](https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Oaxaca-City/Sustainable-Mezcal-Tour-at-an-Award-Winning-Family-Distillery/d50491-5621558P2?pid=P00295226&mcid=42383&medium=link">Sustainable Mezcal Tour at an Award Winning Family Distillery</a>** <span class="badge">-40%</span>
 
 _Private and Luxury_
 
@@ -121,7 +121,7 @@ From **$24**
 
 [![Oaxaca: Monte Alban, Alebrijes, Barro Negro & Cuilapam](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/96/34/30/caption.jpg)](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Monte-Alban-Alebrijes-Barro-Negro-and-Cuilapam/d50491-5621558P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Oaxaca: Monte Alban, Alebrijes, Barro Negro & Cuilapam](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Monte-Alban-Alebrijes-Barro-Negro-and-Cuilapam/d50491-5621558P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Oaxaca-City/Oaxaca-Monte-Alban-Alebrijes-Barro-Negro-and-Cuilapam/d50491-5621558P3?pid=P00295226&mcid=42383&medium=link">Oaxaca: Monte Alban, Alebrijes, Barro Negro & Cuilapam</a>** <span class="badge">-40%</span>
 
 _Full-day Tours_
 
@@ -133,7 +133,7 @@ From **$38**
 
 [![Oaxaca: Hierve el Agua, Tule, Mitla & Mezcal Full-Day Tour.](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/34/9a/caption.jpg)](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Hierve-el-Agua-Tule-Mitla-and-Mezcal-Full-Day-Tour/d50491-5621558P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Oaxaca: Hierve el Agua, Tule, Mitla & Mezcal Full-Day Tour.](https://www.viator.com/tours/Oaxaca-City/Oaxaca-Hierve-el-Agua-Tule-Mitla-and-Mezcal-Full-Day-Tour/d50491-5621558P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Oaxaca-City/Oaxaca-Hierve-el-Agua-Tule-Mitla-and-Mezcal-Full-Day-Tour/d50491-5621558P7?pid=P00295226&mcid=42383&medium=link">Oaxaca: Hierve el Agua, Tule, Mitla & Mezcal Full-Day Tour.</a>** <span class="badge">-40%</span>
 
 _Day Trips_
 
@@ -145,7 +145,7 @@ From **$41**
 
 [![Monte Albán in the Morning](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b5/97/1d/caption.jpg)](https://www.viator.com/tours/Oaxaca-City/Monte-Albn-in-the-Morning/d50491-5554162P13?pid=P00295226&mcid=42383&medium=link)
 
-**[Monte Albán in the Morning](https://www.viator.com/tours/Oaxaca-City/Monte-Albn-in-the-Morning/d50491-5554162P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Oaxaca-City/Monte-Albn-in-the-Morning/d50491-5554162P13?pid=P00295226&mcid=42383&medium=link">Monte Albán in the Morning</a>** <span class="badge">-40%</span>
 
 _Archaeology Tours_
 
@@ -157,7 +157,7 @@ From **$30**
 
 [![Discovering a Historic Quarter of Oaxaca](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a0/b9/e7/caption.jpg)](https://www.viator.com/tours/Oaxaca-City/Discovering-a-Historic-Quarter-of-Oaxaca/d50491-428209P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Discovering a Historic Quarter of Oaxaca](https://www.viator.com/tours/Oaxaca-City/Discovering-a-Historic-Quarter-of-Oaxaca/d50491-428209P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Oaxaca-City/Discovering-a-Historic-Quarter-of-Oaxaca/d50491-428209P4?pid=P00295226&mcid=42383&medium=link">Discovering a Historic Quarter of Oaxaca</a>** <span class="badge">-20%</span>
 
 _City Tours_
 

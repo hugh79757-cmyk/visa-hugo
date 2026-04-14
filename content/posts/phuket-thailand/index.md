@@ -114,7 +114,7 @@ When dining, you can choose between casual street food stalls for budget-friendl
 
 [![Similan Islands Snorkeling VIP Tour From Phuket](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0c/05/c3/b0.jpg)](https://www.viator.com/tours/Phuket/Similan-Islands-Snorkeling-VIP-Tour-From-Phuket/d349-110534P225?pid=P00295226&mcid=42383&medium=link)
 
-**[Similan Islands Snorkeling VIP Tour From Phuket](https://www.viator.com/tours/Phuket/Similan-Islands-Snorkeling-VIP-Tour-From-Phuket/d349-110534P225?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Phuket/Similan-Islands-Snorkeling-VIP-Tour-From-Phuket/d349-110534P225?pid=P00295226&mcid=42383&medium=link">Similan Islands Snorkeling VIP Tour From Phuket</a>** <span class="badge">-10%</span>
 
 _Jet Boat Rentals_
 
@@ -126,7 +126,7 @@ From **$105**
 
 [![3 Khai Islands Tour- Snorkel, Swim & Relax (Half or Full Day)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/4c/c1/99.jpg)](https://www.viator.com/tours/Phuket/3-Khai-Islands-Tour-Snorkel-Swim-and-Relax-Half-or-Full-Day/d349-381902P4?pid=P00295226&mcid=42383&medium=link)
 
-**[3 Khai Islands Tour- Snorkel, Swim & Relax (Half or Full Day)](https://www.viator.com/tours/Phuket/3-Khai-Islands-Tour-Snorkel-Swim-and-Relax-Half-or-Full-Day/d349-381902P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Phuket/3-Khai-Islands-Tour-Snorkel-Swim-and-Relax-Half-or-Full-Day/d349-381902P4?pid=P00295226&mcid=42383&medium=link">3 Khai Islands Tour- Snorkel, Swim & Relax (Half or Full Day)</a>** <span class="badge">-5%</span>
 
 _Jet Ski Rentals_
 
@@ -138,7 +138,7 @@ From **$32**
 
 [![Phuket Airport Transfers : Phuket City to Phuket Airport HKT in Luxury Van](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/c6/97/a7.jpg)](https://www.viator.com/tours/Phuket/Phuket-Airport-Transfers-Phuket-City-to-Phuket-Airport-HKT-in-Luxury-Van/d349-85439P1091?pid=P00295226&mcid=42383&medium=link)
 
-**[Phuket Airport Transfers : Phuket City to Phuket Airport HKT in Luxury Van](https://www.viator.com/tours/Phuket/Phuket-Airport-Transfers-Phuket-City-to-Phuket-Airport-HKT-in-Luxury-Van/d349-85439P1091?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Phuket/Phuket-Airport-Transfers-Phuket-City-to-Phuket-Airport-HKT-in-Luxury-Van/d349-85439P1091?pid=P00295226&mcid=42383&medium=link">Phuket Airport Transfers : Phuket City to Phuket Airport HKT in Luxury Van</a>** <span class="badge">-5%</span>
 
 _Airport & Hotel Transfers_
 
@@ -150,7 +150,7 @@ From **$122**
 
 [![Departure Private Transfers from Phuket City to Phuket Airport HKT](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/03/78/1d.jpg)](https://www.viator.com/tours/Phuket/Departure-Private-Transfers-from-Phuket-City-to-Phuket-Airport-HKT/d349-85439P1095?pid=P00295226&mcid=42383&medium=link)
 
-**[Departure Private Transfers from Phuket City to Phuket Airport HKT](https://www.viator.com/tours/Phuket/Departure-Private-Transfers-from-Phuket-City-to-Phuket-Airport-HKT/d349-85439P1095?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Phuket/Departure-Private-Transfers-from-Phuket-City-to-Phuket-Airport-HKT/d349-85439P1095?pid=P00295226&mcid=42383&medium=link">Departure Private Transfers from Phuket City to Phuket Airport HKT</a>** <span class="badge">-5%</span>
 
 _Airport & Hotel Transfers_
 
@@ -162,7 +162,7 @@ From **$122**
 
 [![Airport Transfer: Phuket to Phuket Airport HKT by Business Car](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/c6/92/f9.jpg)](https://www.viator.com/tours/Phuket/Airport-Transfer-Phuket-to-Phuket-Airport-HKT-by-Business-Car/d349-85439P1089?pid=P00295226&mcid=42383&medium=link)
 
-**[Airport Transfer: Phuket to Phuket Airport HKT by Business Car](https://www.viator.com/tours/Phuket/Airport-Transfer-Phuket-to-Phuket-Airport-HKT-by-Business-Car/d349-85439P1089?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Phuket/Airport-Transfer-Phuket-to-Phuket-Airport-HKT-by-Business-Car/d349-85439P1089?pid=P00295226&mcid=42383&medium=link">Airport Transfer: Phuket to Phuket Airport HKT by Business Car</a>** <span class="badge">-5%</span>
 
 _Airport & Hotel Transfers_
 

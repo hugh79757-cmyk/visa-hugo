@@ -135,7 +135,7 @@ For a mix of street food and sit-down dining, head to the city's food stalls or 
 
 [![5-Day Laugavegur Trek with Local Guide - Small Group select dates](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/86/9f/1e/caption.jpg)](https://www.viator.com/tours/Reykjavik/5-Day-Laugavegur-Trek-with-Local-Guide-Small-Group-select-dates/d905-5529222P12?pid=P00295226&mcid=42383&medium=link)
 
-**[5-Day Laugavegur Trek with Local Guide - Small Group select dates](https://www.viator.com/tours/Reykjavik/5-Day-Laugavegur-Trek-with-Local-Guide-Small-Group-select-dates/d905-5529222P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Reykjavik/5-Day-Laugavegur-Trek-with-Local-Guide-Small-Group-select-dates/d905-5529222P12?pid=P00295226&mcid=42383&medium=link">5-Day Laugavegur Trek with Local Guide - Small Group select dates</a>** <span class="badge">-20%</span>
 
 _Hiking Tours_
 
@@ -147,7 +147,7 @@ From **$1880**
 
 [![Reykjavik Iceland : Private transfer From / To KEF airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/cb/6b/dc.jpg)](https://www.viator.com/tours/Reykjavik/Reykjavik-Iceland-Private-transfer-From-To-KEF-airport/d905-459458P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Reykjavik Iceland : Private transfer From / To KEF airport](https://www.viator.com/tours/Reykjavik/Reykjavik-Iceland-Private-transfer-From-To-KEF-airport/d905-459458P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Reykjavik/Reykjavik-Iceland-Private-transfer-From-To-KEF-airport/d905-459458P1?pid=P00295226&mcid=42383&medium=link">Reykjavik Iceland : Private transfer From / To KEF airport</a>** <span class="badge">-15%</span>
 
 _Airport & Hotel Transfers_
 
@@ -159,7 +159,7 @@ From **$140**
 
 [![Northern Lights Small Group Tour from Reykjavik with Free Photos](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/56/1f/36.jpg)](https://www.viator.com/tours/Reykjavik/Northern-Lights-Small-Group-Tour-from-Reykjavik-with-Free-Photos/d905-16698P25?pid=P00295226&mcid=42383&medium=link)
 
-**[Northern Lights Small Group Tour from Reykjavik with Free Photos](https://www.viator.com/tours/Reykjavik/Northern-Lights-Small-Group-Tour-from-Reykjavik-with-Free-Photos/d905-16698P25?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Reykjavik/Northern-Lights-Small-Group-Tour-from-Reykjavik-with-Free-Photos/d905-16698P25?pid=P00295226&mcid=42383&medium=link">Northern Lights Small Group Tour from Reykjavik with Free Photos</a>** <span class="badge">-10%</span>
 
 _Photography Tours_
 
@@ -171,7 +171,7 @@ From **$110**
 
 [![Private One-Way Transfer: Reykjavík ↔ Blue Lagoon](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/9d/99/0e.jpg)](https://www.viator.com/tours/Reykjavik/Private-One-Way-Transfer-Reykjavk-Blue-Lagoon/d905-459458P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Private One-Way Transfer: Reykjavík ↔ Blue Lagoon](https://www.viator.com/tours/Reykjavik/Private-One-Way-Transfer-Reykjavk-Blue-Lagoon/d905-459458P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Reykjavik/Private-One-Way-Transfer-Reykjavk-Blue-Lagoon/d905-459458P2?pid=P00295226&mcid=42383&medium=link">Private One-Way Transfer: Reykjavík ↔ Blue Lagoon</a>** <span class="badge">-10%</span>
 
 _Shore Excursions_
 
@@ -183,7 +183,7 @@ From **$127**
 
 [![Private Airport Transfer (one way)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0c/11/08/0e.jpg)](https://www.viator.com/tours/Reykjavik/Private-Airport-Transfer-one-way/d905-285731P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Airport Transfer (one way)](https://www.viator.com/tours/Reykjavik/Private-Airport-Transfer-one-way/d905-285731P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Reykjavik/Private-Airport-Transfer-one-way/d905-285731P5?pid=P00295226&mcid=42383&medium=link">Private Airport Transfer (one way)</a>** <span class="badge">-10%</span>
 
 _Airport & Hotel Transfers_
 

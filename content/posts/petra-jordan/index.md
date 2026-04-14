@@ -111,7 +111,7 @@ Local dining options range from street food stalls to more formal restaurants in
 
 [![Mallorca Scenic Villages Tour with Traditional Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/3c/a6/ce.jpg)](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Mallorca Scenic Villages Tour with Traditional Lunch](https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Mallorca/Mallorca-Scenic-Villages-Tour-with-Traditional-Lunch/d955-5585541P5?pid=P00295226&mcid=42383&medium=link">Mallorca Scenic Villages Tour with Traditional Lunch</a>** <span class="badge">-10%</span>
 
 _Full-day Tours_
 

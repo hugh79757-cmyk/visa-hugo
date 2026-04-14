@@ -126,7 +126,7 @@ For a taste of local life, don’t miss the street food scene. Try crêpes from 
 
 [![Paris Hidden Gems: Self Guided Secret Spots Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/12/91/4a.jpg)](https://www.viator.com/tours/Paris/Paris-Hidden-Gems-Self-Guided-Secret-Spots-Tour/d479-5520738P40?pid=P00295226&mcid=42383&medium=link)
 
-**[Paris Hidden Gems: Self Guided Secret Spots Tour](https://www.viator.com/tours/Paris/Paris-Hidden-Gems-Self-Guided-Secret-Spots-Tour/d479-5520738P40?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Paris/Paris-Hidden-Gems-Self-Guided-Secret-Spots-Tour/d479-5520738P40?pid=P00295226&mcid=42383&medium=link">Paris Hidden Gems: Self Guided Secret Spots Tour</a>** <span class="badge">-67%</span>
 
 _Audio Guides_
 
@@ -138,7 +138,7 @@ From **$1**
 
 [![Paris Flea Market Private Tour: Saint-Ouen Antiques Vintage](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ba/14/84/caption.jpg)](https://www.viator.com/tours/Paris/Paris-Flea-Market-Private-Tour-Saint-Ouen-Antiques-Vintage/d479-5594637P13?pid=P00295226&mcid=42383&medium=link)
 
-**[Paris Flea Market Private Tour: Saint-Ouen Antiques Vintage](https://www.viator.com/tours/Paris/Paris-Flea-Market-Private-Tour-Saint-Ouen-Antiques-Vintage/d479-5594637P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-60%</span>
+**<a href="https://www.viator.com/tours/Paris/Paris-Flea-Market-Private-Tour-Saint-Ouen-Antiques-Vintage/d479-5594637P13?pid=P00295226&mcid=42383&medium=link">Paris Flea Market Private Tour: Saint-Ouen Antiques Vintage</a>** <span class="badge">-60%</span>
 
 _City Tours_
 
@@ -150,7 +150,7 @@ From **$85**
 
 [![Paris: Notre-Dame Cathedral Interior & Ile de la Cité Guided Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/41/f4/5f.jpg)](https://www.viator.com/tours/Paris/Paris-Notre-Dame-Cathedral-Interior-and-Ile-de-la-Cit-Guided-Tour/d479-51192P197?pid=P00295226&mcid=42383&medium=link)
 
-**[Paris: Notre-Dame Cathedral Interior & Ile de la Cité Guided Tour](https://www.viator.com/tours/Paris/Paris-Notre-Dame-Cathedral-Interior-and-Ile-de-la-Cit-Guided-Tour/d479-51192P197?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-48%</span>
+**<a href="https://www.viator.com/tours/Paris/Paris-Notre-Dame-Cathedral-Interior-and-Ile-de-la-Cit-Guided-Tour/d479-51192P197?pid=P00295226&mcid=42383&medium=link">Paris: Notre-Dame Cathedral Interior & Ile de la Cité Guided Tour</a>** <span class="badge">-48%</span>
 
 _Private and Luxury_
 
@@ -162,7 +162,7 @@ From **$58**
 
 [![Private tour of the Main Monuments of Paris](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/68/fb/b5.jpg)](https://www.viator.com/tours/Paris/Private-tour-of-the-Main-Monuments-of-Paris/d479-123555P28?pid=P00295226&mcid=42383&medium=link)
 
-**[Private tour of the Main Monuments of Paris](https://www.viator.com/tours/Paris/Private-tour-of-the-Main-Monuments-of-Paris/d479-123555P28?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Paris/Private-tour-of-the-Main-Monuments-of-Paris/d479-123555P28?pid=P00295226&mcid=42383&medium=link">Private tour of the Main Monuments of Paris</a>** <span class="badge">-40%</span>
 
 _Half-day Tours_
 
@@ -174,7 +174,7 @@ From **$540**
 
 [![A special evening in Paris](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/14/46/26.jpg)](https://www.viator.com/tours/Paris/A-special-evening-in-Paris/d479-181888P3?pid=P00295226&mcid=42383&medium=link)
 
-**[A special evening in Paris](https://www.viator.com/tours/Paris/A-special-evening-in-Paris/d479-181888P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Paris/A-special-evening-in-Paris/d479-181888P3?pid=P00295226&mcid=42383&medium=link">A special evening in Paris</a>** <span class="badge">-30%</span>
 
 _Walking Tours_
 

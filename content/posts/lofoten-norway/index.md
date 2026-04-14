@@ -109,7 +109,7 @@ If you’re looking for a more refined dining experience, many restaurants in Lo
 
 [![Gijon Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/e0.jpg)](https://www.viator.com/tours/Gijon/Gijon-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4278-30066P111?pid=P00295226&mcid=42383&medium=link)
 
-**[Gijon Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Gijon/Gijon-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4278-30066P111?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Gijon/Gijon-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4278-30066P111?pid=P00295226&mcid=42383&medium=link">Gijon Self-Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -121,7 +121,7 @@ From **$23**
 
 [![Excursion to Picos de Europa : Bulnes, funicular and cheese Cabrales](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/73/74/f8.jpg)](https://www.viator.com/tours/Gijon/Excursion-to-Picos-de-Europa-Bulnes-funicular-and-cheese-Cabrales/d4278-6877P129?pid=P00295226&mcid=42383&medium=link)
 
-**[Excursion to Picos de Europa : Bulnes, funicular and cheese Cabrales](https://www.viator.com/tours/Gijon/Excursion-to-Picos-de-Europa-Bulnes-funicular-and-cheese-Cabrales/d4278-6877P129?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-6%</span>
+**<a href="https://www.viator.com/tours/Gijon/Excursion-to-Picos-de-Europa-Bulnes-funicular-and-cheese-Cabrales/d4278-6877P129?pid=P00295226&mcid=42383&medium=link">Excursion to Picos de Europa : Bulnes, funicular and cheese Cabrales</a>** <span class="badge">-6%</span>
 
 _Day Trips_
 

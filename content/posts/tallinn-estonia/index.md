@@ -123,7 +123,7 @@ When dining out, you'll find that many restaurants offer reasonably priced lunch
 
 [![Tallinn Jewish Heritage and City Highlights Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a3/51/9b/caption.jpg)](https://www.viator.com/tours/Tallinn/Tallinn-Jewish-Heritage-and-City-Highlights-Tour/d4147-21134P35?pid=P00295226&mcid=42383&medium=link)
 
-**[Tallinn Jewish Heritage and City Highlights Tour](https://www.viator.com/tours/Tallinn/Tallinn-Jewish-Heritage-and-City-Highlights-Tour/d4147-21134P35?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Tallinn/Tallinn-Jewish-Heritage-and-City-Highlights-Tour/d4147-21134P35?pid=P00295226&mcid=42383&medium=link">Tallinn Jewish Heritage and City Highlights Tour</a>** <span class="badge">-20%</span>
 
 _Private and Luxury_
 

@@ -123,7 +123,7 @@ For dining, consider a mix of casual eateries and fine dining spots. Pubs often 
 
 [![Ireland Through the Eyes of the Artist](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c8/6a/5c/caption.jpg)](https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Ireland Through the Eyes of the Artist](https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dublin/Ireland-Through-the-Eyes-of-the-Artist/d503-5646164P1?pid=P00295226&mcid=42383&medium=link">Ireland Through the Eyes of the Artist</a>** <span class="badge">-20%</span>
 
 _Art Tours_
 
@@ -135,7 +135,7 @@ From **$207**
 
 [![4 Hour Private Dublin City Sightseeing Tour ( 1-7 People)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/26/23/06.jpg)](https://www.viator.com/tours/Dublin/4-Hour-Private-Dublin-City-Sightseeing-Tour-1-7-People/d503-317794P2?pid=P00295226&mcid=42383&medium=link)
 
-**[4 Hour Private Dublin City Sightseeing Tour ( 1-7 People)](https://www.viator.com/tours/Dublin/4-Hour-Private-Dublin-City-Sightseeing-Tour-1-7-People/d503-317794P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dublin/4-Hour-Private-Dublin-City-Sightseeing-Tour-1-7-People/d503-317794P2?pid=P00295226&mcid=42383&medium=link">4 Hour Private Dublin City Sightseeing Tour ( 1-7 People)</a>** <span class="badge">-20%</span>
 
 _Ports of Call Tours_
 
@@ -147,7 +147,7 @@ From **$375**
 
 [![Private Tour of Glendalough and Powerscourt Gardens, (1-7 ppl)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/29/6f/3d.jpg)](https://www.viator.com/tours/Dublin/Private-Tour-of-Glendalough-and-Powerscourt-Gardens-1-7-ppl/d503-317794P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Tour of Glendalough and Powerscourt Gardens, (1-7 ppl)](https://www.viator.com/tours/Dublin/Private-Tour-of-Glendalough-and-Powerscourt-Gardens-1-7-ppl/d503-317794P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dublin/Private-Tour-of-Glendalough-and-Powerscourt-Gardens-1-7-ppl/d503-317794P4?pid=P00295226&mcid=42383&medium=link">Private Tour of Glendalough and Powerscourt Gardens, (1-7 ppl)</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -159,7 +159,7 @@ From **$658**
 
 [![Private Tour of Howth & Malahide Villages](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/6e/cd/6b.jpg)](https://www.viator.com/tours/Dublin/Private-Tour-of-Howth-and-Malahide-Villages/d503-317794P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Tour of Howth & Malahide Villages](https://www.viator.com/tours/Dublin/Private-Tour-of-Howth-and-Malahide-Villages/d503-317794P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dublin/Private-Tour-of-Howth-and-Malahide-Villages/d503-317794P6?pid=P00295226&mcid=42383&medium=link">Private Tour of Howth & Malahide Villages</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -171,7 +171,7 @@ From **$658**
 
 [![Newgrange Passage Tomb and Ancient Irish Sites Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/8e/e1/f9.jpg)](https://www.viator.com/tours/Dublin/Newgrange-Passage-Tomb-and-Ancient-Irish-Sites-Tour/d503-317794P8?pid=P00295226&mcid=42383&medium=link)
 
-**[Newgrange Passage Tomb and Ancient Irish Sites Tour](https://www.viator.com/tours/Dublin/Newgrange-Passage-Tomb-and-Ancient-Irish-Sites-Tour/d503-317794P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Dublin/Newgrange-Passage-Tomb-and-Ancient-Irish-Sites-Tour/d503-317794P8?pid=P00295226&mcid=42383&medium=link">Newgrange Passage Tomb and Ancient Irish Sites Tour</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 

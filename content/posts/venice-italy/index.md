@@ -93,7 +93,7 @@ For those seeking a more formal dining experience, the city boasts a number of u
 
 [![Transfer from Venice Airport (VCE) to Trieste](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/7c/e1/38.jpg)](https://www.viator.com/tours/Venice/Transfer-from-Venice-Airport-VCE-to-Trieste/d522-5555850P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Transfer from Venice Airport (VCE) to Trieste](https://www.viator.com/tours/Venice/Transfer-from-Venice-Airport-VCE-to-Trieste/d522-5555850P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-12%</span>
+**<a href="https://www.viator.com/tours/Venice/Transfer-from-Venice-Airport-VCE-to-Trieste/d522-5555850P1?pid=P00295226&mcid=42383&medium=link">Transfer from Venice Airport (VCE) to Trieste</a>** <span class="badge">-12%</span>
 
 _Airport & Hotel Transfers_
 
@@ -105,7 +105,7 @@ From **$186**
 
 [![Private transfer from Venice Airport to Fusina Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/d5/e6/db/caption.jpg)](https://www.viator.com/tours/Venice/Private-transfer-from-Venice-Airport-to-Fusina-Port/d522-5567813P16?pid=P00295226&mcid=42383&medium=link)
 
-**[Private transfer from Venice Airport to Fusina Port](https://www.viator.com/tours/Venice/Private-transfer-from-Venice-Airport-to-Fusina-Port/d522-5567813P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-11%</span>
+**<a href="https://www.viator.com/tours/Venice/Private-transfer-from-Venice-Airport-to-Fusina-Port/d522-5567813P16?pid=P00295226&mcid=42383&medium=link">Private transfer from Venice Airport to Fusina Port</a>** <span class="badge">-11%</span>
 
 _Port Transfers_
 
@@ -117,7 +117,7 @@ From **$141**
 
 [![Venice: Marco Polo Airport Private Transfer to Hotel by Car& Boat](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/46/83/b0.jpg)](https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-Private-Transfer-to-Hotel-by-Car-and-Boat/d522-5550636P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Venice: Marco Polo Airport Private Transfer to Hotel by Car& Boat](https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-Private-Transfer-to-Hotel-by-Car-and-Boat/d522-5550636P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-Private-Transfer-to-Hotel-by-Car-and-Boat/d522-5550636P1?pid=P00295226&mcid=42383&medium=link">Venice: Marco Polo Airport Private Transfer to Hotel by Car& Boat</a>** <span class="badge">-10%</span>
 
 _Water Transfers_
 
@@ -129,7 +129,7 @@ From **$164**
 
 [![Venice Marco Polo Airport to and from Mestre city](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/12/26/53.jpg)](https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-to-and-from-Mestre-city/d522-5627541P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Venice Marco Polo Airport to and from Mestre city](https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-to-and-from-Mestre-city/d522-5627541P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Venice/Venice-Marco-Polo-Airport-to-and-from-Mestre-city/d522-5627541P1?pid=P00295226&mcid=42383&medium=link">Venice Marco Polo Airport to and from Mestre city</a>** <span class="badge">-10%</span>
 
 _Airport & Hotel Transfers_
 
@@ -141,7 +141,7 @@ From **$58**
 
 [![Private Visit to Murano Glass Factory - Master Glassmaker - Unique Pieces](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/70/5e/1d.jpg)](https://www.viator.com/tours/Venice/Private-Visit-to-Murano-Glass-Factory-Master-Glassmaker-Unique-Pieces/d522-409571P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Visit to Murano Glass Factory - Master Glassmaker - Unique Pieces](https://www.viator.com/tours/Venice/Private-Visit-to-Murano-Glass-Factory-Master-Glassmaker-Unique-Pieces/d522-409571P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Venice/Private-Visit-to-Murano-Glass-Factory-Master-Glassmaker-Unique-Pieces/d522-409571P4?pid=P00295226&mcid=42383&medium=link">Private Visit to Murano Glass Factory - Master Glassmaker - Unique Pieces</a>** <span class="badge">-5%</span>
 
 _Jet Boat Rentals_
 

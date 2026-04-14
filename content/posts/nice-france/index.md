@@ -131,7 +131,7 @@ For dining, consider enjoying a meal at local bistros and cafes rather than tour
 
 [![Excursion to the Grande Corniche Natural Park from Nice](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9f/9e/f4/caption.jpg)](https://www.viator.com/tours/Nice/Excursion-to-the-Grande-Corniche-Natural-Park-from-Nice/d478-64914P12?pid=P00295226&mcid=42383&medium=link)
 
-**[Excursion to the Grande Corniche Natural Park from Nice](https://www.viator.com/tours/Nice/Excursion-to-the-Grande-Corniche-Natural-Park-from-Nice/d478-64914P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Nice/Excursion-to-the-Grande-Corniche-Natural-Park-from-Nice/d478-64914P12?pid=P00295226&mcid=42383&medium=link">Excursion to the Grande Corniche Natural Park from Nice</a>** <span class="badge">-20%</span>
 
 _Private and Luxury_
 
@@ -143,7 +143,7 @@ From **$46**
 
 [![Best of the French Riviera city's with your local Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/3a/4a/d6.jpg)](https://www.viator.com/tours/Nice/Best-of-the-French-Riviera-citys-with-your-local-Guide/d478-5573688P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Best of the French Riviera city's with your local Guide](https://www.viator.com/tours/Nice/Best-of-the-French-Riviera-citys-with-your-local-Guide/d478-5573688P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Nice/Best-of-the-French-Riviera-citys-with-your-local-Guide/d478-5573688P1?pid=P00295226&mcid=42383&medium=link">Best of the French Riviera city's with your local Guide</a>** <span class="badge">-20%</span>
 
 _City Tours_
 
@@ -155,7 +155,7 @@ From **$115**
 
 [![One way Private Airport Transfer Nice Côte d'Azur Airport to Hotel in Nice](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/f5/f9/09.jpg)](https://www.viator.com/tours/Nice/One-way-Private-Airport-Transfer-Nice-Cte-dAzur-Airport-to-Hotel-in-Nice/d478-320547P43?pid=P00295226&mcid=42383&medium=link)
 
-**[One way Private Airport Transfer Nice Côte d'Azur Airport to Hotel in Nice](https://www.viator.com/tours/Nice/One-way-Private-Airport-Transfer-Nice-Cte-dAzur-Airport-to-Hotel-in-Nice/d478-320547P43?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Nice/One-way-Private-Airport-Transfer-Nice-Cte-dAzur-Airport-to-Hotel-in-Nice/d478-320547P43?pid=P00295226&mcid=42383&medium=link">One way Private Airport Transfer Nice Côte d'Azur Airport to Hotel in Nice</a>** <span class="badge">-20%</span>
 
 _Airport & Hotel Transfers_
 
@@ -167,7 +167,7 @@ From **$132**
 
 [![One way Private Transfer Nice Hotel to Nice Côte d'Azur Airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/c7/97/0e.jpg)](https://www.viator.com/tours/Nice/One-way-Private-Transfer-Nice-Hotel-to-Nice-Cte-dAzur-Airport/d478-320547P44?pid=P00295226&mcid=42383&medium=link)
 
-**[One way Private Transfer Nice Hotel to Nice Côte d'Azur Airport](https://www.viator.com/tours/Nice/One-way-Private-Transfer-Nice-Hotel-to-Nice-Cte-dAzur-Airport/d478-320547P44?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Nice/One-way-Private-Transfer-Nice-Hotel-to-Nice-Cte-dAzur-Airport/d478-320547P44?pid=P00295226&mcid=42383&medium=link">One way Private Transfer Nice Hotel to Nice Côte d'Azur Airport</a>** <span class="badge">-20%</span>
 
 _Airport & Hotel Transfers_
 
@@ -179,7 +179,7 @@ From **$132**
 
 [![Verdon Gorge and Provence Private Scenic Sightseeing Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/be/54/c8/caption.jpg)](https://www.viator.com/tours/Nice/Verdon-Gorge-and-Provence-Private-Scenic-Sightseeing-Tour/d478-5585237P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Verdon Gorge and Provence Private Scenic Sightseeing Tour](https://www.viator.com/tours/Nice/Verdon-Gorge-and-Provence-Private-Scenic-Sightseeing-Tour/d478-5585237P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Nice/Verdon-Gorge-and-Provence-Private-Scenic-Sightseeing-Tour/d478-5585237P6?pid=P00295226&mcid=42383&medium=link">Verdon Gorge and Provence Private Scenic Sightseeing Tour</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 

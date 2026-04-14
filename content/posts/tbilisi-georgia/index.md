@@ -116,7 +116,7 @@ For dining, you can choose from casual street food stalls to upscale restaurants
 
 [![Full-Day Kazbegi Tour: Caucasus Mountains & Gergeti Church](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/1a/1c/8a.jpg)](https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Full-Day Kazbegi Tour: Caucasus Mountains & Gergeti Church](https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Tbilisi/Full-Day-Kazbegi-Tour-Caucasus-Mountains-and-Gergeti-Church/d22516-409235P2?pid=P00295226&mcid=42383&medium=link">Full-Day Kazbegi Tour: Caucasus Mountains & Gergeti Church</a>** <span class="badge">-50%</span>
 
 _Day Trips_
 
@@ -128,7 +128,7 @@ From **$15**
 
 [![Full-Day Kakheti Tour Wine, Food and Sighnaghi City of Love](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/0c/5b/b7.jpg)](https://www.viator.com/tours/Tbilisi/Full-Day-Kakheti-Tour-Wine-Food-and-Sighnaghi-City-of-Love/d22516-409235P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Full-Day Kakheti Tour Wine, Food and Sighnaghi City of Love](https://www.viator.com/tours/Tbilisi/Full-Day-Kakheti-Tour-Wine-Food-and-Sighnaghi-City-of-Love/d22516-409235P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Tbilisi/Full-Day-Kakheti-Tour-Wine-Food-and-Sighnaghi-City-of-Love/d22516-409235P5?pid=P00295226&mcid=42383&medium=link">Full-Day Kakheti Tour Wine, Food and Sighnaghi City of Love</a>** <span class="badge">-50%</span>
 
 _Day Trips_
 
@@ -140,7 +140,7 @@ From **$17**
 
 [![Mtskheta, Gori and Uplistsikhe Caves Historical Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/23/3a/85.jpg)](https://www.viator.com/tours/Tbilisi/Mtskheta-Gori-and-Uplistsikhe-Caves-Historical-Tour/d22516-409235P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Mtskheta, Gori and Uplistsikhe Caves Historical Tour](https://www.viator.com/tours/Tbilisi/Mtskheta-Gori-and-Uplistsikhe-Caves-Historical-Tour/d22516-409235P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-42%</span>
+**<a href="https://www.viator.com/tours/Tbilisi/Mtskheta-Gori-and-Uplistsikhe-Caves-Historical-Tour/d22516-409235P6?pid=P00295226&mcid=42383&medium=link">Mtskheta, Gori and Uplistsikhe Caves Historical Tour</a>** <span class="badge">-42%</span>
 
 _Day Trips_
 
@@ -152,7 +152,7 @@ From **$21**
 
 [![Day tour to Kakheti wine region Georgia](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/38/21/2e.jpg)](https://www.viator.com/tours/Tbilisi/Day-tour-to-Kakheti-wine-region-Georgia/d22516-38341P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Day tour to Kakheti wine region Georgia](https://www.viator.com/tours/Tbilisi/Day-tour-to-Kakheti-wine-region-Georgia/d22516-38341P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Tbilisi/Day-tour-to-Kakheti-wine-region-Georgia/d22516-38341P5?pid=P00295226&mcid=42383&medium=link">Day tour to Kakheti wine region Georgia</a>** <span class="badge">-30%</span>
 
 _Day Trips_
 
@@ -164,7 +164,7 @@ From **$22**
 
 [![Day tour to Vardzia, Borjomi in Georgia](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/03/28/68.jpg)](https://www.viator.com/tours/Tbilisi/Day-tour-to-Vardzia-Borjomi-in-Georgia/d22516-38341P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Day tour to Vardzia, Borjomi in Georgia](https://www.viator.com/tours/Tbilisi/Day-tour-to-Vardzia-Borjomi-in-Georgia/d22516-38341P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Tbilisi/Day-tour-to-Vardzia-Borjomi-in-Georgia/d22516-38341P9?pid=P00295226&mcid=42383&medium=link">Day tour to Vardzia, Borjomi in Georgia</a>** <span class="badge">-30%</span>
 
 _Day Trips_
 

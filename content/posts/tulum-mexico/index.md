@@ -109,7 +109,7 @@ Tulum also boasts a growing scene of health-conscious eateries that serve organi
 
 [![Private Cancun Airport (CUN) Transportation to/from Tulum](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/5f/17/46.jpg)](https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Cancun Airport (CUN) Transportation to/from Tulum](https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-28%</span>
+**<a href="https://www.viator.com/tours/Tulum/Private-Cancun-Airport-CUN-Transportation-tofrom-Tulum/d23012-279586P119?pid=P00295226&mcid=42383&medium=link">Private Cancun Airport (CUN) Transportation to/from Tulum</a>** <span class="badge">-28%</span>
 
 _Airport & Hotel Transfers_
 
@@ -121,7 +121,7 @@ From **$78**
 
 [![Private Transportation to/from Tulum Airport (TQO)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ad/61/e2.jpg)](https://www.viator.com/tours/Tulum/Private-Transportation-tofrom-Tulum-Airport-TQO/d23012-279586P126?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transportation to/from Tulum Airport (TQO)](https://www.viator.com/tours/Tulum/Private-Transportation-tofrom-Tulum-Airport-TQO/d23012-279586P126?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-23%</span>
+**<a href="https://www.viator.com/tours/Tulum/Private-Transportation-tofrom-Tulum-Airport-TQO/d23012-279586P126?pid=P00295226&mcid=42383&medium=link">Private Transportation to/from Tulum Airport (TQO)</a>** <span class="badge">-23%</span>
 
 _Airport & Hotel Transfers_
 
@@ -133,7 +133,7 @@ From **$69**
 
 [![Cancun Airport: Shuttle to/from Tulum Hotels](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/16/e4/22.jpg)](https://www.viator.com/tours/Tulum/Cancun-Airport-Shuttle-tofrom-Tulum-Hotels/d23012-279586P122?pid=P00295226&mcid=42383&medium=link)
 
-**[Cancun Airport: Shuttle to/from Tulum Hotels](https://www.viator.com/tours/Tulum/Cancun-Airport-Shuttle-tofrom-Tulum-Hotels/d23012-279586P122?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-11%</span>
+**<a href="https://www.viator.com/tours/Tulum/Cancun-Airport-Shuttle-tofrom-Tulum-Hotels/d23012-279586P122?pid=P00295226&mcid=42383&medium=link">Cancun Airport: Shuttle to/from Tulum Hotels</a>** <span class="badge">-11%</span>
 
 _Airport & Hotel Transfers_
 
@@ -145,7 +145,7 @@ From **$69**
 
 [![Tulum Ruins Tour (Private, Half Day)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/f2/60/b0.jpg)](https://www.viator.com/tours/Tulum/Tulum-Ruins-Tour-Private-Half-Day/d23012-91808P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Tulum Ruins Tour (Private, Half Day)](https://www.viator.com/tours/Tulum/Tulum-Ruins-Tour-Private-Half-Day/d23012-91808P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Tulum/Tulum-Ruins-Tour-Private-Half-Day/d23012-91808P9?pid=P00295226&mcid=42383&medium=link">Tulum Ruins Tour (Private, Half Day)</a>** <span class="badge">-10%</span>
 
 _Private and Luxury_
 

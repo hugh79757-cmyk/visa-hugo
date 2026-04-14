@@ -116,7 +116,7 @@ For dining, explore local parrillas (steakhouses) for an authentic asado experie
 
 [![Transfer Van 6 pax Airport Pistarini Buenos Aires to Hotel Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a8/26/1d/caption.jpg)](https://www.viator.com/tours/Buenos-Aires/Transfer-Van-6-pax-Airport-Pistarini-Buenos-Aires-to-Hotel-Port/d901-300145P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Transfer Van 6 pax Airport Pistarini Buenos Aires to Hotel Port](https://www.viator.com/tours/Buenos-Aires/Transfer-Van-6-pax-Airport-Pistarini-Buenos-Aires-to-Hotel-Port/d901-300145P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Buenos-Aires/Transfer-Van-6-pax-Airport-Pistarini-Buenos-Aires-to-Hotel-Port/d901-300145P7?pid=P00295226&mcid=42383&medium=link">Transfer Van 6 pax Airport Pistarini Buenos Aires to Hotel Port</a>** <span class="badge">-20%</span>
 
 _Port Transfers_
 
@@ -128,7 +128,7 @@ From **$136**
 
 [![Private Transfer from Ezeiza EZE Airport to Buenos Aires](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/bb/f2/65/caption.jpg)](https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Ezeiza-EZE-Airport-to-Buenos-Aires/d901-5645732P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transfer from Ezeiza EZE Airport to Buenos Aires](https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Ezeiza-EZE-Airport-to-Buenos-Aires/d901-5645732P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Ezeiza-EZE-Airport-to-Buenos-Aires/d901-5645732P1?pid=P00295226&mcid=42383&medium=link">Private Transfer from Ezeiza EZE Airport to Buenos Aires</a>** <span class="badge">-20%</span>
 
 _Port Transfers_
 
@@ -140,7 +140,7 @@ From **$56**
 
 [![Private Buenos Aires City Tour with Local Guide & Hotel Pickup](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/73/af/03.jpg)](https://www.viator.com/tours/Buenos-Aires/Private-Buenos-Aires-City-Tour-with-Local-Guide-and-Hotel-Pickup/d901-433863P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Buenos Aires City Tour with Local Guide & Hotel Pickup](https://www.viator.com/tours/Buenos-Aires/Private-Buenos-Aires-City-Tour-with-Local-Guide-and-Hotel-Pickup/d901-433863P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-12%</span>
+**<a href="https://www.viator.com/tours/Buenos-Aires/Private-Buenos-Aires-City-Tour-with-Local-Guide-and-Hotel-Pickup/d901-433863P3?pid=P00295226&mcid=42383&medium=link">Private Buenos Aires City Tour with Local Guide & Hotel Pickup</a>** <span class="badge">-12%</span>
 
 _Private and Luxury_
 
@@ -152,7 +152,7 @@ From **$150**
 
 [![Private Transfer from Buenos Aires to Buenos Aires Cruise Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/d0/2e/00.jpg)](https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Buenos-Aires-to-Buenos-Aires-Cruise-Port/d901-435811P11?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transfer from Buenos Aires to Buenos Aires Cruise Port](https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Buenos-Aires-to-Buenos-Aires-Cruise-Port/d901-435811P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Buenos-Aires/Private-Transfer-from-Buenos-Aires-to-Buenos-Aires-Cruise-Port/d901-435811P11?pid=P00295226&mcid=42383&medium=link">Private Transfer from Buenos Aires to Buenos Aires Cruise Port</a>** <span class="badge">-10%</span>
 
 _Port Transfers_
 
@@ -164,7 +164,7 @@ From **$32**
 
 [![Walk through Buenos Aires Premium more Navigation City Postcards](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ac/de/d9/caption.jpg)](https://www.viator.com/tours/Buenos-Aires/Walk-through-Buenos-Aires-Premium-more-Navigation-City-Postcards/d901-206912P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Walk through Buenos Aires Premium more Navigation City Postcards](https://www.viator.com/tours/Buenos-Aires/Walk-through-Buenos-Aires-Premium-more-Navigation-City-Postcards/d901-206912P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Buenos-Aires/Walk-through-Buenos-Aires-Premium-more-Navigation-City-Postcards/d901-206912P3?pid=P00295226&mcid=42383&medium=link">Walk through Buenos Aires Premium more Navigation City Postcards</a>** <span class="badge">-10%</span>
 
 _City Tours_
 

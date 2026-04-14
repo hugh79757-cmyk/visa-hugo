@@ -125,7 +125,7 @@ Restaurants in Tokyo range from casual izakayas (Japanese pubs) to fine dining e
 
 [![Self-Guided Tour of Tokyo's Hidden Alleys](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/ca/dc/a8.jpg)](https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Tour of Tokyo's Hidden Alleys](https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Asakusa/Self-Guided-Tour-of-Tokyos-Hidden-Alleys/d59194-5520738P16?pid=P00295226&mcid=42383&medium=link">Self-Guided Tour of Tokyo's Hidden Alleys</a>** <span class="badge">-67%</span>
 
 _Day Trips_
 
@@ -137,7 +137,7 @@ From **$1**
 
 [![Kanda Myojin Guided Tour – Tokyo’s Historic Guardian Shrine](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/55/2f/10.jpg)](https://www.viator.com/tours/Tokyo/Kanda-Myojin-Guided-Tour-Tokyos-Historic-Guardian-Shrine/d334-174545P114?pid=P00295226&mcid=42383&medium=link)
 
-**[Kanda Myojin Guided Tour – Tokyo’s Historic Guardian Shrine](https://www.viator.com/tours/Tokyo/Kanda-Myojin-Guided-Tour-Tokyos-Historic-Guardian-Shrine/d334-174545P114?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Tokyo/Kanda-Myojin-Guided-Tour-Tokyos-Historic-Guardian-Shrine/d334-174545P114?pid=P00295226&mcid=42383&medium=link">Kanda Myojin Guided Tour – Tokyo’s Historic Guardian Shrine</a>** <span class="badge">-50%</span>
 
 _Private and Luxury_
 
@@ -149,7 +149,7 @@ From **$44**
 
 [![Tokyo Handmade Chopsticks Workshop in Shibuya](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/d3/21/e8/caption.jpg)](https://www.viator.com/tours/Tokyo/Tokyo-Handmade-Chopsticks-Workshop-in-Shibuya/d334-5645102P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Tokyo Handmade Chopsticks Workshop in Shibuya](https://www.viator.com/tours/Tokyo/Tokyo-Handmade-Chopsticks-Workshop-in-Shibuya/d334-5645102P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Tokyo/Tokyo-Handmade-Chopsticks-Workshop-in-Shibuya/d334-5645102P1?pid=P00295226&mcid=42383&medium=link">Tokyo Handmade Chopsticks Workshop in Shibuya</a>** <span class="badge">-50%</span>
 
 _Art Classes_
 
@@ -161,7 +161,7 @@ From **$12**
 
 [![Shinjuku Bar Hopping Tour – Kabukicho & Golden Gai Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ca/10/8c/caption.jpg)](https://www.viator.com/tours/Tokyo/Shinjuku-Bar-Hopping-Tour-Kabukicho-and-Golden-Gai-Experience/d334-174545P120?pid=P00295226&mcid=42383&medium=link)
 
-**[Shinjuku Bar Hopping Tour – Kabukicho & Golden Gai Experience](https://www.viator.com/tours/Tokyo/Shinjuku-Bar-Hopping-Tour-Kabukicho-and-Golden-Gai-Experience/d334-174545P120?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Tokyo/Shinjuku-Bar-Hopping-Tour-Kabukicho-and-Golden-Gai-Experience/d334-174545P120?pid=P00295226&mcid=42383&medium=link">Shinjuku Bar Hopping Tour – Kabukicho & Golden Gai Experience</a>** <span class="badge">-50%</span>
 
 _Street Food Tours_
 
@@ -173,7 +173,7 @@ From **$60**
 
 [![Small Group Tour Mount Fuji and Lake Kawaguchi from Tokyo](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/2b/05/37.jpg)](https://www.viator.com/tours/Tokyo/Small-Group-Tour-Mount-Fuji-and-Lake-Kawaguchi-from-Tokyo/d334-5500660P19?pid=P00295226&mcid=42383&medium=link)
 
-**[Small Group Tour Mount Fuji and Lake Kawaguchi from Tokyo](https://www.viator.com/tours/Tokyo/Small-Group-Tour-Mount-Fuji-and-Lake-Kawaguchi-from-Tokyo/d334-5500660P19?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Tokyo/Small-Group-Tour-Mount-Fuji-and-Lake-Kawaguchi-from-Tokyo/d334-5500660P19?pid=P00295226&mcid=42383&medium=link">Small Group Tour Mount Fuji and Lake Kawaguchi from Tokyo</a>** <span class="badge">-50%</span>
 
 _Day Trips_
 

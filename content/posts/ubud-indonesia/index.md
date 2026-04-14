@@ -108,7 +108,7 @@ For a more upscale dining experience, Ubud boasts several restaurants that focus
 
 [![Mount Batur Sunrise Hike, Breakfast & Hot Spring](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/d3/69/5b.jpg)](https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Mount Batur Sunrise Hike, Breakfast & Hot Spring](https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-41%</span>
+**<a href="https://www.viator.com/tours/Ubud/Mount-Batur-Sunrise-Hike-Breakfast-and-Hot-Spring/d5467-157226P5?pid=P00295226&mcid=42383&medium=link">Mount Batur Sunrise Hike, Breakfast & Hot Spring</a>** <span class="badge">-41%</span>
 
 _Climbing_
 
@@ -120,7 +120,7 @@ From **$14**
 
 [![Discover East Bali Lempuyang Temple and Waterfall Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/93/b8/4d/caption.jpg)](https://www.viator.com/tours/Ubud/Discover-East-Bali-Lempuyang-Temple-and-Waterfall-Tour/d5467-389904P20?pid=P00295226&mcid=42383&medium=link)
 
-**[Discover East Bali Lempuyang Temple and Waterfall Tour](https://www.viator.com/tours/Ubud/Discover-East-Bali-Lempuyang-Temple-and-Waterfall-Tour/d5467-389904P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Ubud/Discover-East-Bali-Lempuyang-Temple-and-Waterfall-Tour/d5467-389904P20?pid=P00295226&mcid=42383&medium=link">Discover East Bali Lempuyang Temple and Waterfall Tour</a>** <span class="badge">-40%</span>
 
 _Nature and Wildlife Tours_
 
@@ -132,7 +132,7 @@ From **$24**
 
 [![Ubud Waterfall Circuit: 5 Iconic Jungle Falls](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/8d/e3.jpg)](https://www.viator.com/tours/Ubud/Ubud-Waterfall-Circuit-5-Iconic-Jungle-Falls/d5467-5607287P12?pid=P00295226&mcid=42383&medium=link)
 
-**[Ubud Waterfall Circuit: 5 Iconic Jungle Falls](https://www.viator.com/tours/Ubud/Ubud-Waterfall-Circuit-5-Iconic-Jungle-Falls/d5467-5607287P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Ubud/Ubud-Waterfall-Circuit-5-Iconic-Jungle-Falls/d5467-5607287P12?pid=P00295226&mcid=42383&medium=link">Ubud Waterfall Circuit: 5 Iconic Jungle Falls</a>** <span class="badge">-40%</span>
 
 _Full-day Tours_
 
@@ -144,7 +144,7 @@ From **$48**
 
 [![Bali Highlights Shore Excursion from Celukan Bawang Port](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/10/63/43.jpg)](https://www.viator.com/tours/Ubud/Bali-Highlights-Shore-Excursion-from-Celukan-Bawang-Port/d5467-5607287P29?pid=P00295226&mcid=42383&medium=link)
 
-**[Bali Highlights Shore Excursion from Celukan Bawang Port](https://www.viator.com/tours/Ubud/Bali-Highlights-Shore-Excursion-from-Celukan-Bawang-Port/d5467-5607287P29?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Ubud/Bali-Highlights-Shore-Excursion-from-Celukan-Bawang-Port/d5467-5607287P29?pid=P00295226&mcid=42383&medium=link">Bali Highlights Shore Excursion from Celukan Bawang Port</a>** <span class="badge">-40%</span>
 
 _Full-day Tours_
 
@@ -156,7 +156,7 @@ From **$54**
 
 [![Tanah Lot Temple & Coastal Sunset Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/e5/9f.jpg)](https://www.viator.com/tours/Ubud/Tanah-Lot-Temple-and-Coastal-Sunset-Tour/d5467-5607287P13?pid=P00295226&mcid=42383&medium=link)
 
-**[Tanah Lot Temple & Coastal Sunset Tour](https://www.viator.com/tours/Ubud/Tanah-Lot-Temple-and-Coastal-Sunset-Tour/d5467-5607287P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-36%</span>
+**<a href="https://www.viator.com/tours/Ubud/Tanah-Lot-Temple-and-Coastal-Sunset-Tour/d5467-5607287P13?pid=P00295226&mcid=42383&medium=link">Tanah Lot Temple & Coastal Sunset Tour</a>** <span class="badge">-36%</span>
 
 _Nature and Wildlife Tours_
 

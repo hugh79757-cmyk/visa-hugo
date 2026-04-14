@@ -101,7 +101,7 @@ For dining, many restaurants in Lombok offer a pleasant ambiance with a mix of l
 
 [![Self Guided Walking City Tour in Madrid](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/02/11/2a.jpg)](https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Self Guided Walking City Tour in Madrid](https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Madrid/Self-Guided-Walking-City-Tour-in-Madrid/d566-5520738P2?pid=P00295226&mcid=42383&medium=link">Self Guided Walking City Tour in Madrid</a>** <span class="badge">-67%</span>
 
 _Audio Guides_
 
@@ -113,7 +113,7 @@ From **$1**
 
 [![Madrid Prado Museum tour - Private](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/57/4d/21.jpg)](https://www.viator.com/tours/Madrid/Madrid-Prado-Museum-tour-Private/d566-461351P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Madrid Prado Museum tour - Private](https://www.viator.com/tours/Madrid/Madrid-Prado-Museum-tour-Private/d566-461351P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-60%</span>
+**<a href="https://www.viator.com/tours/Madrid/Madrid-Prado-Museum-tour-Private/d566-461351P5?pid=P00295226&mcid=42383&medium=link">Madrid Prado Museum tour - Private</a>** <span class="badge">-60%</span>
 
 _Art Tours_
 
@@ -125,7 +125,7 @@ From **$26**
 
 [![Lights of Bohemia the night of Max Star by Madrid](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/15/a0/69.jpg)](https://www.viator.com/tours/Madrid/Lights-of-Bohemia-the-night-of-Max-Star-by-Madrid/d566-247547P13?pid=P00295226&mcid=42383&medium=link)
 
-**[Lights of Bohemia the night of Max Star by Madrid](https://www.viator.com/tours/Madrid/Lights-of-Bohemia-the-night-of-Max-Star-by-Madrid/d566-247547P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-45%</span>
+**<a href="https://www.viator.com/tours/Madrid/Lights-of-Bohemia-the-night-of-Max-Star-by-Madrid/d566-247547P13?pid=P00295226&mcid=42383&medium=link">Lights of Bohemia the night of Max Star by Madrid</a>** <span class="badge">-45%</span>
 
 _Art Tours_
 
@@ -137,7 +137,7 @@ From **$45**
 
 [![Madrid: Paella Sangria and Churro Making Class in the City Center](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/7c/89/11/caption.jpg)](https://www.viator.com/tours/Madrid/Madrid-Paella-Sangria-and-Churro-Making-Class-in-the-City-Center/d566-12438P49?pid=P00295226&mcid=42383&medium=link)
 
-**[Madrid: Paella Sangria and Churro Making Class in the City Center](https://www.viator.com/tours/Madrid/Madrid-Paella-Sangria-and-Churro-Making-Class-in-the-City-Center/d566-12438P49?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Madrid/Madrid-Paella-Sangria-and-Churro-Making-Class-in-the-City-Center/d566-12438P49?pid=P00295226&mcid=42383&medium=link">Madrid: Paella Sangria and Churro Making Class in the City Center</a>** <span class="badge">-30%</span>
 
 _Cooking Classes_
 
@@ -149,7 +149,7 @@ From **$65**
 
 [![Learn Art Appreciation Skills At Prado Museum - Private Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/72/27/f4.jpg)](https://www.viator.com/tours/Madrid/Learn-Art-Appreciation-Skills-At-Prado-Museum-Private-Tour/d566-5632563P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Learn Art Appreciation Skills At Prado Museum - Private Tour](https://www.viator.com/tours/Madrid/Learn-Art-Appreciation-Skills-At-Prado-Museum-Private-Tour/d566-5632563P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Madrid/Learn-Art-Appreciation-Skills-At-Prado-Museum-Private-Tour/d566-5632563P2?pid=P00295226&mcid=42383&medium=link">Learn Art Appreciation Skills At Prado Museum - Private Tour</a>** <span class="badge">-30%</span>
 
 _Art Tours_
 

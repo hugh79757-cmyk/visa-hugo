@@ -112,7 +112,7 @@ For dining, explore local restaurants in El Poblado for more upscale options or 
 
 [![Pablo Escobar Tour between History and Museum in Medellin](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/c2/a0/68.jpg)](https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Pablo Escobar Tour between History and Museum in Medellin](https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-35%</span>
+**<a href="https://www.viator.com/tours/Medelln/Pablo-Escobar-Tour-between-History-and-Museum-in-Medellin/d4563-473336P3?pid=P00295226&mcid=42383&medium=link">Pablo Escobar Tour between History and Museum in Medellin</a>** <span class="badge">-35%</span>
 
 _Half-day Tours_
 
@@ -124,7 +124,7 @@ From **$24**
 
 [![Experience comuna 13 Alleys and local gastronomy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/c9/08/64.jpg)](https://www.viator.com/tours/Medelln/Experience-comuna-13-Alleys-and-local-gastronomy/d4563-5581759P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Experience comuna 13 Alleys and local gastronomy](https://www.viator.com/tours/Medelln/Experience-comuna-13-Alleys-and-local-gastronomy/d4563-5581759P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Medelln/Experience-comuna-13-Alleys-and-local-gastronomy/d4563-5581759P3?pid=P00295226&mcid=42383&medium=link">Experience comuna 13 Alleys and local gastronomy</a>** <span class="badge">-20%</span>
 
 _Art Tours_
 
@@ -136,7 +136,7 @@ From **$13**
 
 [![Guatapé and Pablo Escobar Mansion and Paint Ball and ATV's and Boat Trip](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/95/c6/ae/caption.jpg)](https://www.viator.com/tours/Medelln/Guatap-and-Pablo-Escobar-Mansion-and-Paint-Ball-and-ATVs-and-Boat-Trip/d4563-246502P14?pid=P00295226&mcid=42383&medium=link)
 
-**[Guatapé and Pablo Escobar Mansion and Paint Ball and ATV's and Boat Trip](https://www.viator.com/tours/Medelln/Guatap-and-Pablo-Escobar-Mansion-and-Paint-Ball-and-ATVs-and-Boat-Trip/d4563-246502P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Medelln/Guatap-and-Pablo-Escobar-Mansion-and-Paint-Ball-and-ATVs-and-Boat-Trip/d4563-246502P14?pid=P00295226&mcid=42383&medium=link">Guatapé and Pablo Escobar Mansion and Paint Ball and ATV's and Boat Trip</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -148,7 +148,7 @@ From **$293**
 
 [![Guatapé Coffee Tour Piedra del Peñol Bote](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/95/c3/ed/caption.jpg)](https://www.viator.com/tours/Medelln/Guatap-Coffee-Tour-Piedra-del-Peol-Bote/d4563-246502P12?pid=P00295226&mcid=42383&medium=link)
 
-**[Guatapé Coffee Tour Piedra del Peñol Bote](https://www.viator.com/tours/Medelln/Guatap-Coffee-Tour-Piedra-del-Peol-Bote/d4563-246502P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Medelln/Guatap-Coffee-Tour-Piedra-del-Peol-Bote/d4563-246502P12?pid=P00295226&mcid=42383&medium=link">Guatapé Coffee Tour Piedra del Peñol Bote</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -160,7 +160,7 @@ From **$360**
 
 [![Travel from Medellin to Axis Cafetero](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/95/c7/d1/caption.jpg)](https://www.viator.com/tours/Medelln/Travel-from-Medellin-to-Axis-Cafetero/d4563-246502P16?pid=P00295226&mcid=42383&medium=link)
 
-**[Travel from Medellin to Axis Cafetero](https://www.viator.com/tours/Medelln/Travel-from-Medellin-to-Axis-Cafetero/d4563-246502P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Medelln/Travel-from-Medellin-to-Axis-Cafetero/d4563-246502P16?pid=P00295226&mcid=42383&medium=link">Travel from Medellin to Axis Cafetero</a>** <span class="badge">-20%</span>
 
 _Private Drivers_
 

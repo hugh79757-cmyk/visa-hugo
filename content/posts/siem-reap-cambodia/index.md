@@ -138,7 +138,7 @@ Dining options range from local street food stalls to upscale restaurants, so yo
 
 [![Private Pickup from SAI International Airport to Siem Reap Town](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/18/d6/75.jpg)](https://www.viator.com/tours/Siem-Reap/Private-Pickup-from-SAI-International-Airport-to-Siem-Reap-Town/d5480-159968P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Pickup from SAI International Airport to Siem Reap Town](https://www.viator.com/tours/Siem-Reap/Private-Pickup-from-SAI-International-Airport-to-Siem-Reap-Town/d5480-159968P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Siem-Reap/Private-Pickup-from-SAI-International-Airport-to-Siem-Reap-Town/d5480-159968P3?pid=P00295226&mcid=42383&medium=link">Private Pickup from SAI International Airport to Siem Reap Town</a>** <span class="badge">-25%</span>
 
 _City Tours_
 
@@ -150,7 +150,7 @@ From **$52**
 
 [![Private Banteay Chhmar Temple Full Day Tour from Siem Reap](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/78/04/2d/caption.jpg)](https://www.viator.com/tours/Siem-Reap/Private-Banteay-Chhmar-Temple-Full-Day-Tour-from-Siem-Reap/d5480-67476P56?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Banteay Chhmar Temple Full Day Tour from Siem Reap](https://www.viator.com/tours/Siem-Reap/Private-Banteay-Chhmar-Temple-Full-Day-Tour-from-Siem-Reap/d5480-67476P56?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Siem-Reap/Private-Banteay-Chhmar-Temple-Full-Day-Tour-from-Siem-Reap/d5480-67476P56?pid=P00295226&mcid=42383&medium=link">Private Banteay Chhmar Temple Full Day Tour from Siem Reap</a>** <span class="badge">-25%</span>
 
 _Private and Luxury_
 
@@ -162,7 +162,7 @@ From **$119**
 
 [![Phnom Kulen Awakening: Meditation & Sacred Sound Ritual-Siem Reap](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/11/39/33.jpg)](https://www.viator.com/tours/Siem-Reap/Phnom-Kulen-Awakening-Meditation-and-Sacred-Sound-Ritual-Siem-Reap/d5480-67476P51?pid=P00295226&mcid=42383&medium=link)
 
-**[Phnom Kulen Awakening: Meditation & Sacred Sound Ritual-Siem Reap](https://www.viator.com/tours/Siem-Reap/Phnom-Kulen-Awakening-Meditation-and-Sacred-Sound-Ritual-Siem-Reap/d5480-67476P51?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-23%</span>
+**<a href="https://www.viator.com/tours/Siem-Reap/Phnom-Kulen-Awakening-Meditation-and-Sacred-Sound-Ritual-Siem-Reap/d5480-67476P51?pid=P00295226&mcid=42383&medium=link">Phnom Kulen Awakening: Meditation & Sacred Sound Ritual-Siem Reap</a>** <span class="badge">-23%</span>
 
 _Nature and Wildlife Tours_
 
@@ -174,7 +174,7 @@ From **$45**
 
 [![Angkor Wat Sunrise & Highlight The Most Iconic Temple](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/58/08/e9.jpg)](https://www.viator.com/tours/Siem-Reap/Angkor-Wat-Sunrise-and-Highlight-The-Most-Iconic-Temple/d5480-109953P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Angkor Wat Sunrise & Highlight The Most Iconic Temple](https://www.viator.com/tours/Siem-Reap/Angkor-Wat-Sunrise-and-Highlight-The-Most-Iconic-Temple/d5480-109953P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-22%</span>
+**<a href="https://www.viator.com/tours/Siem-Reap/Angkor-Wat-Sunrise-and-Highlight-The-Most-Iconic-Temple/d5480-109953P5?pid=P00295226&mcid=42383&medium=link">Angkor Wat Sunrise & Highlight The Most Iconic Temple</a>** <span class="badge">-22%</span>
 
 _Full-day Tours_
 
@@ -186,7 +186,7 @@ From **$43**
 
 [![Private Kulen Mountain-Banteay Srei and Kampong Phluk Village](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/06/73/43/2c.jpg)](https://www.viator.com/tours/Siem-Reap/Private-Kulen-Mountain-Banteay-Srei-and-Kampong-Phluk-Village/d5480-67476P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Kulen Mountain-Banteay Srei and Kampong Phluk Village](https://www.viator.com/tours/Siem-Reap/Private-Kulen-Mountain-Banteay-Srei-and-Kampong-Phluk-Village/d5480-67476P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-21%</span>
+**<a href="https://www.viator.com/tours/Siem-Reap/Private-Kulen-Mountain-Banteay-Srei-and-Kampong-Phluk-Village/d5480-67476P7?pid=P00295226&mcid=42383&medium=link">Private Kulen Mountain-Banteay Srei and Kampong Phluk Village</a>** <span class="badge">-21%</span>
 
 _Private and Luxury_
 

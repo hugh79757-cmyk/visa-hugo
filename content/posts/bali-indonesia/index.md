@@ -125,7 +125,7 @@ When it comes to dining, you’ll find a mix of street food vendors and upscale 
 
 [![Explore South Coast Rethymno - mini van safari with Pic-Nic](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b6/ca/b7/caption.jpg)](https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Explore South Coast Rethymno - mini van safari with Pic-Nic](https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Bali/Explore-South-Coast-Rethymno-mini-van-safari-with-Pic-Nic/d50944-5579172P9?pid=P00295226&mcid=42383&medium=link">Explore South Coast Rethymno - mini van safari with Pic-Nic</a>** <span class="badge">-10%</span>
 
 _Day Trips_
 
@@ -137,7 +137,7 @@ From **$93**
 
 [![From Rethymno: Elafonisi Private Tour & Pic-Nic](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b6/d5/28/caption.jpg)](https://www.viator.com/tours/Bali/From-Rethymno-Elafonisi-Private-Tour-and-Pic-Nic/d50944-5579172P11?pid=P00295226&mcid=42383&medium=link)
 
-**[From Rethymno: Elafonisi Private Tour & Pic-Nic](https://www.viator.com/tours/Bali/From-Rethymno-Elafonisi-Private-Tour-and-Pic-Nic/d50944-5579172P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Bali/From-Rethymno-Elafonisi-Private-Tour-and-Pic-Nic/d50944-5579172P11?pid=P00295226&mcid=42383&medium=link">From Rethymno: Elafonisi Private Tour & Pic-Nic</a>** <span class="badge">-10%</span>
 
 _Day Trips_
 

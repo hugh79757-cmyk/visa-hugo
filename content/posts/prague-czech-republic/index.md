@@ -125,7 +125,7 @@ For dining, you can enjoy a mix of local and international cuisine. Street food 
 
 [![Disney's TARZAN Musical](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/73/ad/02.jpg)](https://www.viator.com/tours/Prague/Disneys-TARZAN-Musical/d462-367402P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Disney's TARZAN Musical](https://www.viator.com/tours/Prague/Disneys-TARZAN-Musical/d462-367402P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Prague/Disneys-TARZAN-Musical/d462-367402P1?pid=P00295226&mcid=42383&medium=link">Disney's TARZAN Musical</a>** <span class="badge">-20%</span>
 
 _Family-friendly Shows_
 
@@ -137,7 +137,7 @@ From **$47**
 
 [![Classic Ballet Gala at Hybernia Theatre](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9c/f1/2c/caption.jpg)](https://www.viator.com/tours/Prague/Classic-Ballet-Gala-at-Hybernia-Theatre/d462-367402P11?pid=P00295226&mcid=42383&medium=link)
 
-**[Classic Ballet Gala at Hybernia Theatre](https://www.viator.com/tours/Prague/Classic-Ballet-Gala-at-Hybernia-Theatre/d462-367402P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Prague/Classic-Ballet-Gala-at-Hybernia-Theatre/d462-367402P11?pid=P00295226&mcid=42383&medium=link">Classic Ballet Gala at Hybernia Theatre</a>** <span class="badge">-20%</span>
 
 _Ballet Tickets_
 
@@ -149,7 +149,7 @@ From **$52**
 
 [![Full-Day Semi Private Hike in Czechia and Saxon Switzerland](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/80/23/1d.jpg)](https://www.viator.com/tours/Prague/Full-Day-Semi-Private-Hike-in-Czechia-and-Saxon-Switzerland/d462-343736P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Full-Day Semi Private Hike in Czechia and Saxon Switzerland](https://www.viator.com/tours/Prague/Full-Day-Semi-Private-Hike-in-Czechia-and-Saxon-Switzerland/d462-343736P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Prague/Full-Day-Semi-Private-Hike-in-Czechia-and-Saxon-Switzerland/d462-343736P1?pid=P00295226&mcid=42383&medium=link">Full-Day Semi Private Hike in Czechia and Saxon Switzerland</a>** <span class="badge">-20%</span>
 
 _Hiking Tours_
 
@@ -161,7 +161,7 @@ From **$151**
 
 [![Spiritual Prague: An Exhibition](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/2c/4e/2e.jpg)](https://www.viator.com/tours/Prague/Spiritual-Prague-An-Exhibition/d462-367402P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Spiritual Prague: An Exhibition](https://www.viator.com/tours/Prague/Spiritual-Prague-An-Exhibition/d462-367402P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Prague/Spiritual-Prague-An-Exhibition/d462-367402P6?pid=P00295226&mcid=42383&medium=link">Spiritual Prague: An Exhibition</a>** <span class="badge">-20%</span>
 
 _Attractions & Museums_
 
@@ -173,7 +173,7 @@ From **$11**
 
 [![Prague to Munich Private Trip with 2 hours of Sightseeing](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0e/a7/dd.jpg)](https://www.viator.com/tours/Prague/Prague-to-Munich-Private-Trip-with-2-hours-of-Sightseeing/d462-5634599P14?pid=P00295226&mcid=42383&medium=link)
 
-**[Prague to Munich Private Trip with 2 hours of Sightseeing](https://www.viator.com/tours/Prague/Prague-to-Munich-Private-Trip-with-2-hours-of-Sightseeing/d462-5634599P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Prague/Prague-to-Munich-Private-Trip-with-2-hours-of-Sightseeing/d462-5634599P14?pid=P00295226&mcid=42383&medium=link">Prague to Munich Private Trip with 2 hours of Sightseeing</a>** <span class="badge">-15%</span>
 
 _Day Trips_
 

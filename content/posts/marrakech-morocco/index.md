@@ -113,7 +113,7 @@ When it comes to dining, you can choose between street food stalls in Jemaa el-F
 
 [![Marrakech: Waterfalls & Desert Agafay & Atlas Mountains & Camel](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/9e/11/83.jpg)](https://www.viator.com/tours/Marrakech/Marrakech-Waterfalls-and-Desert-Agafay-and-Atlas-Mountains-and-Camel/d5408-197963P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Marrakech: Waterfalls & Desert Agafay & Atlas Mountains & Camel](https://www.viator.com/tours/Marrakech/Marrakech-Waterfalls-and-Desert-Agafay-and-Atlas-Mountains-and-Camel/d5408-197963P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-70%</span>
+**<a href="https://www.viator.com/tours/Marrakech/Marrakech-Waterfalls-and-Desert-Agafay-and-Atlas-Mountains-and-Camel/d5408-197963P1?pid=P00295226&mcid=42383&medium=link">Marrakech: Waterfalls & Desert Agafay & Atlas Mountains & Camel</a>** <span class="badge">-70%</span>
 
 _Audio Guides_
 
@@ -125,7 +125,7 @@ From **$8**
 
 [![Marrakech: Agafay Desert Quad Bike with Lunch and Pool](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/73/a3/7e.jpg)](https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Bike-with-Lunch-and-Pool/d5408-36697P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Marrakech: Agafay Desert Quad Bike with Lunch and Pool](https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Bike-with-Lunch-and-Pool/d5408-36697P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-70%</span>
+**<a href="https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Bike-with-Lunch-and-Pool/d5408-36697P4?pid=P00295226&mcid=42383&medium=link">Marrakech: Agafay Desert Quad Bike with Lunch and Pool</a>** <span class="badge">-70%</span>
 
 _Day Trips_
 
@@ -137,7 +137,7 @@ From **$8**
 
 [![Atlas Mountains and Berber villages & Waterfalls with Camel ride](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/5b/0b/0b.jpg)](https://www.viator.com/tours/Marrakech/Atlas-Mountains-and-Berber-villages-and-Waterfalls-with-Camel-ride/d5408-197963P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Atlas Mountains and Berber villages & Waterfalls with Camel ride](https://www.viator.com/tours/Marrakech/Atlas-Mountains-and-Berber-villages-and-Waterfalls-with-Camel-ride/d5408-197963P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-60%</span>
+**<a href="https://www.viator.com/tours/Marrakech/Atlas-Mountains-and-Berber-villages-and-Waterfalls-with-Camel-ride/d5408-197963P3?pid=P00295226&mcid=42383&medium=link">Atlas Mountains and Berber villages & Waterfalls with Camel ride</a>** <span class="badge">-60%</span>
 
 _Half-day Tours_
 
@@ -149,7 +149,7 @@ From **$7**
 
 [![Marrakech: Agafay Desert Quad Biking & Camel RIDE & Dinner & Show](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/7b/7d/5a.jpg)](https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Biking-and-Camel-RIDE-and-Dinner-and-Show/d5408-5530176P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Marrakech: Agafay Desert Quad Biking & Camel RIDE & Dinner & Show](https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Biking-and-Camel-RIDE-and-Dinner-and-Show/d5408-5530176P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-55%</span>
+**<a href="https://www.viator.com/tours/Marrakech/Marrakech-Agafay-Desert-Quad-Biking-and-Camel-RIDE-and-Dinner-and-Show/d5408-5530176P2?pid=P00295226&mcid=42383&medium=link">Marrakech: Agafay Desert Quad Biking & Camel RIDE & Dinner & Show</a>** <span class="badge">-55%</span>
 
 _Extreme Sports_
 
@@ -161,7 +161,7 @@ From **$26**
 
 [![Atlas Mountains Full Day Tour : 3 Valleys, Waterfalls and Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/cf/31/fc.jpg)](https://www.viator.com/tours/Marrakech/Atlas-Mountains-Full-Day-Tour-3-Valleys-Waterfalls-and-Lunch/d5408-133056P13?pid=P00295226&mcid=42383&medium=link)
 
-**[Atlas Mountains Full Day Tour : 3 Valleys, Waterfalls and Lunch](https://www.viator.com/tours/Marrakech/Atlas-Mountains-Full-Day-Tour-3-Valleys-Waterfalls-and-Lunch/d5408-133056P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Marrakech/Atlas-Mountains-Full-Day-Tour-3-Valleys-Waterfalls-and-Lunch/d5408-133056P13?pid=P00295226&mcid=42383&medium=link">Atlas Mountains Full Day Tour : 3 Valleys, Waterfalls and Lunch</a>** <span class="badge">-50%</span>
 
 _Day Trips_
 

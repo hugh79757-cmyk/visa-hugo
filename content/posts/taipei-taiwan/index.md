@@ -127,7 +127,7 @@ When it comes to dining, you have a choice between street food and restaurants. 
 
 [![Taipei : Must-See Attractions Walking Tour With A Guide (Private)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/5f/7d/dc.jpg)](https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link)
 
-**[Taipei : Must-See Attractions Walking Tour With A Guide (Private)](https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Taipei/Taipei-Must-See-Attractions-Walking-Tour-With-A-Guide-Private/d5262-104357P379?pid=P00295226&mcid=42383&medium=link">Taipei : Must-See Attractions Walking Tour With A Guide (Private)</a>** <span class="badge">-10%</span>
 
 _Walking Tours_
 

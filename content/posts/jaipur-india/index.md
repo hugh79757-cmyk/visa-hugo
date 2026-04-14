@@ -122,7 +122,7 @@ For dining, you can choose between street food stalls for a casual experience or
 
 [![Half-Day Jaipur Sightseeing Tour with Guide Option](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/9c/c9/4a.jpg)](https://www.viator.com/tours/Jaipur/Half-Day-Jaipur-Sightseeing-Tour-with-Guide-Option/d4627-128120P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Half-Day Jaipur Sightseeing Tour with Guide Option](https://www.viator.com/tours/Jaipur/Half-Day-Jaipur-Sightseeing-Tour-with-Guide-Option/d4627-128120P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Jaipur/Half-Day-Jaipur-Sightseeing-Tour-with-Guide-Option/d4627-128120P7?pid=P00295226&mcid=42383&medium=link">Half-Day Jaipur Sightseeing Tour with Guide Option</a>** <span class="badge">-50%</span>
 
 _Day Trips_
 
@@ -134,7 +134,7 @@ From **$6**
 
 [![Private Full Day Jaipur Tour with Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/7d/37/83.jpg)](https://www.viator.com/tours/Jaipur/Private-Full-Day-Jaipur-Tour-with-Guide/d4627-128120P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Full Day Jaipur Tour with Guide](https://www.viator.com/tours/Jaipur/Private-Full-Day-Jaipur-Tour-with-Guide/d4627-128120P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Jaipur/Private-Full-Day-Jaipur-Tour-with-Guide/d4627-128120P9?pid=P00295226&mcid=42383&medium=link">Private Full Day Jaipur Tour with Guide</a>** <span class="badge">-50%</span>
 
 _City Tours_
 
@@ -146,7 +146,7 @@ From **$6**
 
 [![Jaipur Private All-Inclusive City Tour: Amber Fort, Hawa Mahal.](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b4/d0/fd/caption.jpg)](https://www.viator.com/tours/Jaipur/Jaipur-Private-All-Inclusive-City-Tour-Amber-Fort-Hawa-Mahal/d4627-5515456P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Jaipur Private All-Inclusive City Tour: Amber Fort, Hawa Mahal.](https://www.viator.com/tours/Jaipur/Jaipur-Private-All-Inclusive-City-Tour-Amber-Fort-Hawa-Mahal/d4627-5515456P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Jaipur/Jaipur-Private-All-Inclusive-City-Tour-Amber-Fort-Hawa-Mahal/d4627-5515456P3?pid=P00295226&mcid=42383&medium=link">Jaipur Private All-Inclusive City Tour: Amber Fort, Hawa Mahal.</a>** <span class="badge">-20%</span>
 
 _Private and Luxury_
 
@@ -158,7 +158,7 @@ From **$4**
 
 [![Jaipur City Tour by Women-Driven E-Rickshaw](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/5e/e8/91.jpg)](https://www.viator.com/tours/Jaipur/Jaipur-City-Tour-by-Women-Driven-E-Rickshaw/d4627-128120P12?pid=P00295226&mcid=42383&medium=link)
 
-**[Jaipur City Tour by Women-Driven E-Rickshaw](https://www.viator.com/tours/Jaipur/Jaipur-City-Tour-by-Women-Driven-E-Rickshaw/d4627-128120P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Jaipur/Jaipur-City-Tour-by-Women-Driven-E-Rickshaw/d4627-128120P12?pid=P00295226&mcid=42383&medium=link">Jaipur City Tour by Women-Driven E-Rickshaw</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -170,7 +170,7 @@ From **$24**
 
 [![Private Day Trip from Jaipur Taj Mahal and Fathepur Sikri](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/7d/39/f0.jpg)](https://www.viator.com/tours/Jaipur/Private-Day-Trip-from-Jaipur-Taj-Mahal-and-Fathepur-Sikri/d4627-128120P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Day Trip from Jaipur Taj Mahal and Fathepur Sikri](https://www.viator.com/tours/Jaipur/Private-Day-Trip-from-Jaipur-Taj-Mahal-and-Fathepur-Sikri/d4627-128120P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Jaipur/Private-Day-Trip-from-Jaipur-Taj-Mahal-and-Fathepur-Sikri/d4627-128120P10?pid=P00295226&mcid=42383&medium=link">Private Day Trip from Jaipur Taj Mahal and Fathepur Sikri</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 

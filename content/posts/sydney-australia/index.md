@@ -127,7 +127,7 @@ For a more casual experience, explore Sydney’s vibrant street food scene. The 
 
 [![Sydney Ghost Walking Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/5c/7e/90.jpg)](https://www.viator.com/tours/Sydney/Sydney-Ghost-Walking-Tour/d357-6024SYDNEY?pid=P00295226&mcid=42383&medium=link)
 
-**[Sydney Ghost Walking Tour](https://www.viator.com/tours/Sydney/Sydney-Ghost-Walking-Tour/d357-6024SYDNEY?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Sydney/Sydney-Ghost-Walking-Tour/d357-6024SYDNEY?pid=P00295226&mcid=42383&medium=link">Sydney Ghost Walking Tour</a>** <span class="badge">-25%</span>
 
 _City Tours_
 
@@ -139,7 +139,7 @@ From **$21**
 
 [![Self-Guided The Sydney Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/eb/64/25.jpg)](https://www.viator.com/tours/Sydney/Self-Guided-The-Sydney-Syndicate-City-Escape-Game/d357-30066P452?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided The Sydney Syndicate City Escape Game](https://www.viator.com/tours/Sydney/Self-Guided-The-Sydney-Syndicate-City-Escape-Game/d357-30066P452?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Sydney/Self-Guided-The-Sydney-Syndicate-City-Escape-Game/d357-30066P452?pid=P00295226&mcid=42383&medium=link">Self-Guided The Sydney Syndicate City Escape Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -151,7 +151,7 @@ From **$23**
 
 [![Self-Guided Secrets of Sydney Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/8f/81/90.jpg)](https://www.viator.com/tours/Sydney/Self-Guided-Secrets-of-Sydney-Exploration-Game/d357-30066P453?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Secrets of Sydney Exploration Game](https://www.viator.com/tours/Sydney/Self-Guided-Secrets-of-Sydney-Exploration-Game/d357-30066P453?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Sydney/Self-Guided-Secrets-of-Sydney-Exploration-Game/d357-30066P453?pid=P00295226&mcid=42383&medium=link">Self-Guided Secrets of Sydney Exploration Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -163,7 +163,7 @@ From **$23**
 
 [![Sydney's Haunted Pub Tour & Cellar visit](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/73/56/1c.jpg)](https://www.viator.com/tours/Sydney/Sydneys-Haunted-Pub-Tour-and-Cellar-visit/d357-6024P23?pid=P00295226&mcid=42383&medium=link)
 
-**[Sydney's Haunted Pub Tour & Cellar visit](https://www.viator.com/tours/Sydney/Sydneys-Haunted-Pub-Tour-and-Cellar-visit/d357-6024P23?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Sydney/Sydneys-Haunted-Pub-Tour-and-Cellar-visit/d357-6024P23?pid=P00295226&mcid=42383&medium=link">Sydney's Haunted Pub Tour & Cellar visit</a>** <span class="badge">-25%</span>
 
 _Ghost Tours_
 
@@ -175,7 +175,7 @@ From **$21**
 
 [![Blue Mountains Private Sightseeing Day Tours from Sydney](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/aa/c2/0d/caption.jpg)](https://www.viator.com/tours/Sydney/Blue-Mountains-Private-Sightseeing-Day-Tours-from-Sydney/d357-294441P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Blue Mountains Private Sightseeing Day Tours from Sydney](https://www.viator.com/tours/Sydney/Blue-Mountains-Private-Sightseeing-Day-Tours-from-Sydney/d357-294441P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Sydney/Blue-Mountains-Private-Sightseeing-Day-Tours-from-Sydney/d357-294441P2?pid=P00295226&mcid=42383&medium=link">Blue Mountains Private Sightseeing Day Tours from Sydney</a>** <span class="badge">-25%</span>
 
 _Private Drivers_
 

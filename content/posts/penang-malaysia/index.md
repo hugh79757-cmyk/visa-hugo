@@ -116,7 +116,7 @@ Street food stalls are abundant throughout the island, especially in George Town
 
 [![Self Guided The Antwerp Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ca/89/ff.jpg)](https://www.viator.com/tours/Antwerp/Self-Guided-The-Antwerp-Syndicate-City-Escape-Game/d764-30066P165?pid=P00295226&mcid=42383&medium=link)
 
-**[Self Guided The Antwerp Syndicate City Escape Game](https://www.viator.com/tours/Antwerp/Self-Guided-The-Antwerp-Syndicate-City-Escape-Game/d764-30066P165?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Antwerp/Self-Guided-The-Antwerp-Syndicate-City-Escape-Game/d764-30066P165?pid=P00295226&mcid=42383&medium=link">Self Guided The Antwerp Syndicate City Escape Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -128,7 +128,7 @@ From **$23**
 
 [![Self-Guided Secrets of Antwerp Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/8e/2e/e1.jpg)](https://www.viator.com/tours/Antwerp/Self-Guided-Secrets-of-Antwerp-Exploration-Game/d764-30066P462?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Secrets of Antwerp Exploration Game](https://www.viator.com/tours/Antwerp/Self-Guided-Secrets-of-Antwerp-Exploration-Game/d764-30066P462?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Antwerp/Self-Guided-Secrets-of-Antwerp-Exploration-Game/d764-30066P462?pid=P00295226&mcid=42383&medium=link">Self-Guided Secrets of Antwerp Exploration Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -140,7 +140,7 @@ From **$23**
 
 [![Mechelen Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/e7/6a/11.jpg)](https://www.viator.com/tours/Mechelen/Mechelen-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d50818-30066P557?pid=P00295226&mcid=42383&medium=link)
 
-**[Mechelen Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Mechelen/Mechelen-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d50818-30066P557?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Mechelen/Mechelen-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d50818-30066P557?pid=P00295226&mcid=42383&medium=link">Mechelen Self-Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -152,7 +152,7 @@ From **$23**
 
 [![Antwerp Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Antwerp/Antwerp-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d764-30066P89?pid=P00295226&mcid=42383&medium=link)
 
-**[Antwerp Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Antwerp/Antwerp-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d764-30066P89?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Antwerp/Antwerp-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d764-30066P89?pid=P00295226&mcid=42383&medium=link">Antwerp Self-Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -164,7 +164,7 @@ From **$23**
 
 [![Antwerp: Help the Lost Boy – Self-Guided Mystery Walk](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/e9/40/6c.jpg)](https://www.viator.com/tours/Antwerp/Antwerp-Help-the-Lost-Boy-Self-Guided-Mystery-Walk/d764-107194P444?pid=P00295226&mcid=42383&medium=link)
 
-**[Antwerp: Help the Lost Boy – Self-Guided Mystery Walk](https://www.viator.com/tours/Antwerp/Antwerp-Help-the-Lost-Boy-Self-Guided-Mystery-Walk/d764-107194P444?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Antwerp/Antwerp-Help-the-Lost-Boy-Self-Guided-Mystery-Walk/d764-107194P444?pid=P00295226&mcid=42383&medium=link">Antwerp: Help the Lost Boy – Self-Guided Mystery Walk</a>** <span class="badge">-20%</span>
 
 _Escape Rooms_
 

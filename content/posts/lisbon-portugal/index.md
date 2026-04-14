@@ -123,7 +123,7 @@ When dining, you can choose between inexpensive street food and more upscale res
 
 [![LISBON NIGHT TOUR in a Vintage Jeep with FOOD & DRINK TASTINGS](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b7/bb/87.jpg)](https://www.viator.com/tours/Lisbon/LISBON-NIGHT-TOUR-in-a-Vintage-Jeep-with-FOOD-and-DRINK-TASTINGS/d538-423999P4?pid=P00295226&mcid=42383&medium=link)
 
-**[LISBON NIGHT TOUR in a Vintage Jeep with FOOD & DRINK TASTINGS](https://www.viator.com/tours/Lisbon/LISBON-NIGHT-TOUR-in-a-Vintage-Jeep-with-FOOD-and-DRINK-TASTINGS/d538-423999P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Lisbon/LISBON-NIGHT-TOUR-in-a-Vintage-Jeep-with-FOOD-and-DRINK-TASTINGS/d538-423999P4?pid=P00295226&mcid=42383&medium=link">LISBON NIGHT TOUR in a Vintage Jeep with FOOD & DRINK TASTINGS</a>** <span class="badge">-30%</span>
 
 _Rail Tours_
 
@@ -135,7 +135,7 @@ From **$62**
 
 [![Self-Guided Secrets of Lisbon Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/8e/d4/41.jpg)](https://www.viator.com/tours/Lisbon/Self-Guided-Secrets-of-Lisbon-Exploration-Game/d538-30066P448?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Secrets of Lisbon Exploration Game](https://www.viator.com/tours/Lisbon/Self-Guided-Secrets-of-Lisbon-Exploration-Game/d538-30066P448?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Lisbon/Self-Guided-Secrets-of-Lisbon-Exploration-Game/d538-30066P448?pid=P00295226&mcid=42383&medium=link">Self-Guided Secrets of Lisbon Exploration Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -147,7 +147,7 @@ From **$23**
 
 [![Lisbon Golden Age - Private Tour with Van and Local Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/47/5a/43.jpg)](https://www.viator.com/tours/Lisbon/Lisbon-Golden-Age-Private-Tour-with-Van-and-Local-Guide/d538-33423P35?pid=P00295226&mcid=42383&medium=link)
 
-**[Lisbon Golden Age - Private Tour with Van and Local Guide](https://www.viator.com/tours/Lisbon/Lisbon-Golden-Age-Private-Tour-with-Van-and-Local-Guide/d538-33423P35?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Lisbon/Lisbon-Golden-Age-Private-Tour-with-Van-and-Local-Guide/d538-33423P35?pid=P00295226&mcid=42383&medium=link">Lisbon Golden Age - Private Tour with Van and Local Guide</a>** <span class="badge">-20%</span>
 
 _City Tours_
 
@@ -159,7 +159,7 @@ From **$122**
 
 [![Lisbon Cooking Class in a Local Home: Cook, Eat & Taste Tradition](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/68/7d/caption.jpg)](https://www.viator.com/tours/Lisbon/Lisbon-Cooking-Class-in-a-Local-Home-Cook-Eat-and-Taste-Tradition/d538-5525134P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Lisbon Cooking Class in a Local Home: Cook, Eat & Taste Tradition](https://www.viator.com/tours/Lisbon/Lisbon-Cooking-Class-in-a-Local-Home-Cook-Eat-and-Taste-Tradition/d538-5525134P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Lisbon/Lisbon-Cooking-Class-in-a-Local-Home-Cook-Eat-and-Taste-Tradition/d538-5525134P2?pid=P00295226&mcid=42383&medium=link">Lisbon Cooking Class in a Local Home: Cook, Eat & Taste Tradition</a>** <span class="badge">-20%</span>
 
 _Dining Experiences_
 
@@ -171,7 +171,7 @@ From **$89**
 
 [![Lisbon TukTuk Private Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a3/69/39/caption.jpg)](https://www.viator.com/tours/Lisbon/Lisbon-TukTuk-Private-Tour/d538-5642432P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Lisbon TukTuk Private Tour](https://www.viator.com/tours/Lisbon/Lisbon-TukTuk-Private-Tour/d538-5642432P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Lisbon/Lisbon-TukTuk-Private-Tour/d538-5642432P1?pid=P00295226&mcid=42383&medium=link">Lisbon TukTuk Private Tour</a>** <span class="badge">-20%</span>
 
 _City Tours_
 

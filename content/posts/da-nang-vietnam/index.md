@@ -107,7 +107,7 @@ Finally, don’t miss out on trying **Vietnamese coffee**. The robust flavor and
 
 [![Ba Na Hills & Golden Bridge: Private Return Transfer from Da Nang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/07/7e/de/bb.jpg)](https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Ba Na Hills & Golden Bridge: Private Return Transfer from Da Nang](https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Da-Nang/Ba-Na-Hills-and-Golden-Bridge-Private-Return-Transfer-from-Da-Nang/d4680-137018P2?pid=P00295226&mcid=42383&medium=link">Ba Na Hills & Golden Bridge: Private Return Transfer from Da Nang</a>** <span class="badge">-20%</span>
 
 _Bus Services_
 
@@ -119,7 +119,7 @@ From **$32**
 
 [![Da Nang Scenic and Sunset Private Journey](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b4/68/6e/caption.jpg)](https://www.viator.com/tours/Da-Nang/Da-Nang-Scenic-and-Sunset-Private-Journey/d4680-5645121P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Da Nang Scenic and Sunset Private Journey](https://www.viator.com/tours/Da-Nang/Da-Nang-Scenic-and-Sunset-Private-Journey/d4680-5645121P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Da-Nang/Da-Nang-Scenic-and-Sunset-Private-Journey/d4680-5645121P1?pid=P00295226&mcid=42383&medium=link">Da Nang Scenic and Sunset Private Journey</a>** <span class="badge">-20%</span>
 
 _Private Drivers_
 
@@ -131,7 +131,7 @@ From **$37**
 
 [![Cham Island Double Snorkeling Adventure from Da Nang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c7/cc/d9/caption.jpg)](https://www.viator.com/tours/Da-Nang/Cham-Island-Double-Snorkeling-Adventure-from-Da-Nang/d4680-470375P27?pid=P00295226&mcid=42383&medium=link)
 
-**[Cham Island Double Snorkeling Adventure from Da Nang](https://www.viator.com/tours/Da-Nang/Cham-Island-Double-Snorkeling-Adventure-from-Da-Nang/d4680-470375P27?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-19%</span>
+**<a href="https://www.viator.com/tours/Da-Nang/Cham-Island-Double-Snorkeling-Adventure-from-Da-Nang/d4680-470375P27?pid=P00295226&mcid=42383&medium=link">Cham Island Double Snorkeling Adventure from Da Nang</a>** <span class="badge">-19%</span>
 
 _Snorkeling_
 
@@ -143,7 +143,7 @@ From **$69**
 
 [![Hoi an Coconut Boat & Hoi an Ancient Town(Option Marble Mountain)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/f2/91/f3.jpg)](https://www.viator.com/tours/Da-Nang/Hoi-an-Coconut-Boat-and-Hoi-an-Ancient-TownOption-Marble-Mountain/d4680-428350P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Hoi an Coconut Boat & Hoi an Ancient Town(Option Marble Mountain)](https://www.viator.com/tours/Da-Nang/Hoi-an-Coconut-Boat-and-Hoi-an-Ancient-TownOption-Marble-Mountain/d4680-428350P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Da-Nang/Hoi-an-Coconut-Boat-and-Hoi-an-Ancient-TownOption-Marble-Mountain/d4680-428350P2?pid=P00295226&mcid=42383&medium=link">Hoi an Coconut Boat & Hoi an Ancient Town(Option Marble Mountain)</a>** <span class="badge">-15%</span>
 
 _Private and Luxury_
 
@@ -155,7 +155,7 @@ From **$41**
 
 [![Cham Island Fun Dive Escape from Danang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c8/30/36/caption.jpg)](https://www.viator.com/tours/Da-Nang/Cham-Island-Fun-Dive-Escape-from-Danang/d4680-470375P26?pid=P00295226&mcid=42383&medium=link)
 
-**[Cham Island Fun Dive Escape from Danang](https://www.viator.com/tours/Da-Nang/Cham-Island-Fun-Dive-Escape-from-Danang/d4680-470375P26?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-14%</span>
+**<a href="https://www.viator.com/tours/Da-Nang/Cham-Island-Fun-Dive-Escape-from-Danang/d4680-470375P26?pid=P00295226&mcid=42383&medium=link">Cham Island Fun Dive Escape from Danang</a>** <span class="badge">-14%</span>
 
 _Scuba Diving_
 

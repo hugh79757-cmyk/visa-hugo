@@ -125,7 +125,7 @@ For dining, you can choose between street food stalls, local eateries, and more 
 
 [![Kathmandu: UNESCO Heritage Cultural Sites Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/90/2a/b1.jpg)](https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Kathmandu: UNESCO Heritage Cultural Sites Tour](https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kathmandu/Kathmandu-UNESCO-Heritage-Cultural-Sites-Tour/d5109-5551450P3?pid=P00295226&mcid=42383&medium=link">Kathmandu: UNESCO Heritage Cultural Sites Tour</a>** <span class="badge">-20%</span>
 
 _Private and Luxury_
 
@@ -137,7 +137,7 @@ From **$24**
 
 [![Kathmandu to Pokhara Premium sofa bus ticket](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/8e/91/52.jpg)](https://www.viator.com/tours/Kathmandu/Kathmandu-to-Pokhara-Premium-sofa-bus-ticket/d5109-165552P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Kathmandu to Pokhara Premium sofa bus ticket](https://www.viator.com/tours/Kathmandu/Kathmandu-to-Pokhara-Premium-sofa-bus-ticket/d5109-165552P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kathmandu/Kathmandu-to-Pokhara-Premium-sofa-bus-ticket/d5109-165552P2?pid=P00295226&mcid=42383&medium=link">Kathmandu to Pokhara Premium sofa bus ticket</a>** <span class="badge">-20%</span>
 
 _Bus Services_
 
@@ -149,7 +149,7 @@ From **$9**
 
 [![Discover Kathmandu Valley: History, Temples & Living Traditions](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/8e/3a/d5/caption.jpg)](https://www.viator.com/tours/Kathmandu/Discover-Kathmandu-Valley-History-Temples-and-Living-Traditions/d5109-5628144P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Discover Kathmandu Valley: History, Temples & Living Traditions](https://www.viator.com/tours/Kathmandu/Discover-Kathmandu-Valley-History-Temples-and-Living-Traditions/d5109-5628144P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kathmandu/Discover-Kathmandu-Valley-History-Temples-and-Living-Traditions/d5109-5628144P7?pid=P00295226&mcid=42383&medium=link">Discover Kathmandu Valley: History, Temples & Living Traditions</a>** <span class="badge">-20%</span>
 
 _Multi-day Tours_
 
@@ -161,7 +161,7 @@ From **$328**
 
 [![Best of Nepal: Kathmandu Heritage & Pokhara Lakeside Escape](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/8e/91/56/caption.jpg)](https://www.viator.com/tours/Kathmandu/Best-of-Nepal-Kathmandu-Heritage-and-Pokhara-Lakeside-Escape/d5109-5628144P8?pid=P00295226&mcid=42383&medium=link)
 
-**[Best of Nepal: Kathmandu Heritage & Pokhara Lakeside Escape](https://www.viator.com/tours/Kathmandu/Best-of-Nepal-Kathmandu-Heritage-and-Pokhara-Lakeside-Escape/d5109-5628144P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kathmandu/Best-of-Nepal-Kathmandu-Heritage-and-Pokhara-Lakeside-Escape/d5109-5628144P8?pid=P00295226&mcid=42383&medium=link">Best of Nepal: Kathmandu Heritage & Pokhara Lakeside Escape</a>** <span class="badge">-20%</span>
 
 _Multi-day Tours_
 
@@ -173,7 +173,7 @@ From **$424**
 
 [![Nepal Buddhist Pilgrimage Tour: Lumbini & Kathmandu](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/92/31/f8/caption.jpg)](https://www.viator.com/tours/Kathmandu/Nepal-Buddhist-Pilgrimage-Tour-Lumbini-and-Kathmandu/d5109-5628144P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Nepal Buddhist Pilgrimage Tour: Lumbini & Kathmandu](https://www.viator.com/tours/Kathmandu/Nepal-Buddhist-Pilgrimage-Tour-Lumbini-and-Kathmandu/d5109-5628144P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Kathmandu/Nepal-Buddhist-Pilgrimage-Tour-Lumbini-and-Kathmandu/d5109-5628144P9?pid=P00295226&mcid=42383&medium=link">Nepal Buddhist Pilgrimage Tour: Lumbini & Kathmandu</a>** <span class="badge">-20%</span>
 
 _Multi-day Tours_
 

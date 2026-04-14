@@ -119,7 +119,7 @@ For street food enthusiasts, Lima offers countless stalls and markets where you 
 
 [![Excursion to the historic center and catacombs with Pickup to your Hotel](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/09/82/ce.jpg)](https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link)
 
-**[Excursion to the historic center and catacombs with Pickup to your Hotel](https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-34%</span>
+**<a href="https://www.viator.com/tours/Lima/Excursion-to-the-historic-center-and-catacombs-with-Pickup-to-your-Hotel/d928-5489318P11?pid=P00295226&mcid=42383&medium=link">Excursion to the historic center and catacombs with Pickup to your Hotel</a>** <span class="badge">-34%</span>
 
 _Private and Luxury_
 
@@ -131,7 +131,7 @@ From **$40**
 
 [![Excursion to the Sanctuary of Pachacámac + Museum with Hotel Pickup](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/86/91/13/caption.jpg)](https://www.viator.com/tours/Lima/Excursion-to-the-Sanctuary-of-Pachacmac-Museum-with-Hotel-Pickup/d928-5489318P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Excursion to the Sanctuary of Pachacámac + Museum with Hotel Pickup](https://www.viator.com/tours/Lima/Excursion-to-the-Sanctuary-of-Pachacmac-Museum-with-Hotel-Pickup/d928-5489318P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-33%</span>
+**<a href="https://www.viator.com/tours/Lima/Excursion-to-the-Sanctuary-of-Pachacmac-Museum-with-Hotel-Pickup/d928-5489318P10?pid=P00295226&mcid=42383&medium=link">Excursion to the Sanctuary of Pachacámac + Museum with Hotel Pickup</a>** <span class="badge">-33%</span>
 
 _Archaeology Tours_
 
@@ -143,7 +143,7 @@ From **$40**
 
 [![Miraflores Guided Walking Tour and Surquillo Market Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a8/55/cb/caption.jpg)](https://www.viator.com/tours/Lima/Miraflores-Guided-Walking-Tour-and-Surquillo-Market-Experience/d928-5621697P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Miraflores Guided Walking Tour and Surquillo Market Experience](https://www.viator.com/tours/Lima/Miraflores-Guided-Walking-Tour-and-Surquillo-Market-Experience/d928-5621697P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Lima/Miraflores-Guided-Walking-Tour-and-Surquillo-Market-Experience/d928-5621697P10?pid=P00295226&mcid=42383&medium=link">Miraflores Guided Walking Tour and Surquillo Market Experience</a>** <span class="badge">-30%</span>
 
 _Coffee & Tea Tours_
 
@@ -155,7 +155,7 @@ From **$4**
 
 [![City Tour of the historic center with hotel pickup included](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c4/c5/b4/caption.jpg)](https://www.viator.com/tours/Lima/City-Tour-of-the-historic-center-with-hotel-pickup-included/d928-5489318P2?pid=P00295226&mcid=42383&medium=link)
 
-**[City Tour of the historic center with hotel pickup included](https://www.viator.com/tours/Lima/City-Tour-of-the-historic-center-with-hotel-pickup-included/d928-5489318P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Lima/City-Tour-of-the-historic-center-with-hotel-pickup-included/d928-5489318P2?pid=P00295226&mcid=42383&medium=link">City Tour of the historic center with hotel pickup included</a>** <span class="badge">-30%</span>
 
 _Private and Luxury_
 
@@ -167,7 +167,7 @@ From **$38**
 
 [![Evening Lima Walking Tour Historic Center and Pisco Sour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/9c/39/b2.jpg)](https://www.viator.com/tours/Lima/Evening-Lima-Walking-Tour-Historic-Center-and-Pisco-Sour/d928-243736P8?pid=P00295226&mcid=42383&medium=link)
 
-**[Evening Lima Walking Tour Historic Center and Pisco Sour](https://www.viator.com/tours/Lima/Evening-Lima-Walking-Tour-Historic-Center-and-Pisco-Sour/d928-243736P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Lima/Evening-Lima-Walking-Tour-Historic-Center-and-Pisco-Sour/d928-243736P8?pid=P00295226&mcid=42383&medium=link">Evening Lima Walking Tour Historic Center and Pisco Sour</a>** <span class="badge">-20%</span>
 
 _City Tours_
 

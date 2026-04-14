@@ -129,7 +129,7 @@ When it comes to dining, you can opt for casual street food or sit-down meals at
 
 [![Private Full Day Tour of Sabina Countryside from Rome](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/14/b5/6a.jpg)](https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Full Day Tour of Sabina Countryside from Rome](https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Rome/Private-Full-Day-Tour-of-Sabina-Countryside-from-Rome/d511-5634534P3?pid=P00295226&mcid=42383&medium=link">Private Full Day Tour of Sabina Countryside from Rome</a>** <span class="badge">-30%</span>
 
 _Day Trips_
 
@@ -141,7 +141,7 @@ From **$128**
 
 [![Private daytour medieval castles Umbria and Tuscany](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/7d/06/39.jpg)](https://www.viator.com/tours/Rome/Private-daytour-medieval-castles-Umbria-and-Tuscany/d511-72525P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Private daytour medieval castles Umbria and Tuscany](https://www.viator.com/tours/Rome/Private-daytour-medieval-castles-Umbria-and-Tuscany/d511-72525P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Rome/Private-daytour-medieval-castles-Umbria-and-Tuscany/d511-72525P4?pid=P00295226&mcid=42383&medium=link">Private daytour medieval castles Umbria and Tuscany</a>** <span class="badge">-30%</span>
 
 _Archaeology Tours_
 
@@ -153,7 +153,7 @@ From **$822**
 
 [![Vespa Sidecar Tour In Rome with Pickup, Drop-off, Gelato included](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/e7/5a/ba.jpg)](https://www.viator.com/tours/Rome/Vespa-Sidecar-Tour-In-Rome-with-Pickup-Drop-off-Gelato-included/d511-406567P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Vespa Sidecar Tour In Rome with Pickup, Drop-off, Gelato included](https://www.viator.com/tours/Rome/Vespa-Sidecar-Tour-In-Rome-with-Pickup-Drop-off-Gelato-included/d511-406567P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Rome/Vespa-Sidecar-Tour-In-Rome-with-Pickup-Drop-off-Gelato-included/d511-406567P1?pid=P00295226&mcid=42383&medium=link">Vespa Sidecar Tour In Rome with Pickup, Drop-off, Gelato included</a>** <span class="badge">-25%</span>
 
 _Sidecar Tours_
 
@@ -165,7 +165,7 @@ From **$105**
 
 [![Rome: Pantheon Reserved Entry Ticket](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/33/87/56.jpg)](https://www.viator.com/tours/Rome/Rome-Pantheon-Reserved-Entry-Ticket/d511-155741P30?pid=P00295226&mcid=42383&medium=link)
 
-**[Rome: Pantheon Reserved Entry Ticket](https://www.viator.com/tours/Rome/Rome-Pantheon-Reserved-Entry-Ticket/d511-155741P30?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Rome/Rome-Pantheon-Reserved-Entry-Ticket/d511-155741P30?pid=P00295226&mcid=42383&medium=link">Rome: Pantheon Reserved Entry Ticket</a>** <span class="badge">-20%</span>
 
 _Attractions & Museums_
 
@@ -177,7 +177,7 @@ From **$5**
 
 [![Shuttle from Hotel in Rome to the Airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/76/c0/85/caption.jpg)](https://www.viator.com/tours/Rome/Shuttle-from-Hotel-in-Rome-to-the-Airport/d511-246081P114?pid=P00295226&mcid=42383&medium=link)
 
-**[Shuttle from Hotel in Rome to the Airport](https://www.viator.com/tours/Rome/Shuttle-from-Hotel-in-Rome-to-the-Airport/d511-246081P114?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Rome/Shuttle-from-Hotel-in-Rome-to-the-Airport/d511-246081P114?pid=P00295226&mcid=42383&medium=link">Shuttle from Hotel in Rome to the Airport</a>** <span class="badge">-20%</span>
 
 _Airport & Hotel Transfers_
 

@@ -114,7 +114,7 @@ When it comes to dining, consider visiting local markets for street food or casu
 
 [![Full-Day Tour 4x1 to Tulum, Coba, Cenote and Playa del Carmen with Lunch](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/16/b8/64.jpg)](https://www.viator.com/tours/Cancun/Full-Day-Tour-4x1-to-Tulum-Coba-Cenote-and-Playa-del-Carmen-with-Lunch/d631-265495P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Full-Day Tour 4x1 to Tulum, Coba, Cenote and Playa del Carmen with Lunch](https://www.viator.com/tours/Cancun/Full-Day-Tour-4x1-to-Tulum-Coba-Cenote-and-Playa-del-Carmen-with-Lunch/d631-265495P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Cancun/Full-Day-Tour-4x1-to-Tulum-Coba-Cenote-and-Playa-del-Carmen-with-Lunch/d631-265495P5?pid=P00295226&mcid=42383&medium=link">Full-Day Tour 4x1 to Tulum, Coba, Cenote and Playa del Carmen with Lunch</a>** <span class="badge">-40%</span>
 
 _Full-day Tours_
 
@@ -126,7 +126,7 @@ From **$35**
 
 [![Private Transfer to/from Hotels in Cancun Area](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/2c/9c/bf.jpg)](https://www.viator.com/tours/Cancun/Private-Transfer-tofrom-Hotels-in-Cancun-Area/d631-279586P115?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transfer to/from Hotels in Cancun Area](https://www.viator.com/tours/Cancun/Private-Transfer-tofrom-Hotels-in-Cancun-Area/d631-279586P115?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-26%</span>
+**<a href="https://www.viator.com/tours/Cancun/Private-Transfer-tofrom-Hotels-in-Cancun-Area/d631-279586P115?pid=P00295226&mcid=42383&medium=link">Private Transfer to/from Hotels in Cancun Area</a>** <span class="badge">-26%</span>
 
 _Airport & Hotel Transfers_
 
@@ -138,7 +138,7 @@ From **$29**
 
 [![Private One Way or Roundtrip Transportation to Cancun Hotels](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/2c/33/20.jpg)](https://www.viator.com/tours/Cancun/Private-One-Way-or-Roundtrip-Transportation-to-Cancun-Hotels/d631-279586P9?pid=P00295226&mcid=42383&medium=link)
 
-**[Private One Way or Roundtrip Transportation to Cancun Hotels](https://www.viator.com/tours/Cancun/Private-One-Way-or-Roundtrip-Transportation-to-Cancun-Hotels/d631-279586P9?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-26%</span>
+**<a href="https://www.viator.com/tours/Cancun/Private-One-Way-or-Roundtrip-Transportation-to-Cancun-Hotels/d631-279586P9?pid=P00295226&mcid=42383&medium=link">Private One Way or Roundtrip Transportation to Cancun Hotels</a>** <span class="badge">-26%</span>
 
 _Airport & Hotel Transfers_
 
@@ -150,7 +150,7 @@ From **$29**
 
 [![Cancun: Private Transfer to/from Puerto Juarez Hotels or Ferry](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/2c/38/b0.jpg)](https://www.viator.com/tours/Cancun/Cancun-Private-Transfer-tofrom-Puerto-Juarez-Hotels-or-Ferry/d631-279586P105?pid=P00295226&mcid=42383&medium=link)
 
-**[Cancun: Private Transfer to/from Puerto Juarez Hotels or Ferry](https://www.viator.com/tours/Cancun/Cancun-Private-Transfer-tofrom-Puerto-Juarez-Hotels-or-Ferry/d631-279586P105?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Cancun/Cancun-Private-Transfer-tofrom-Puerto-Juarez-Hotels-or-Ferry/d631-279586P105?pid=P00295226&mcid=42383&medium=link">Cancun: Private Transfer to/from Puerto Juarez Hotels or Ferry</a>** <span class="badge">-25%</span>
 
 _Airport & Hotel Transfers_
 
@@ -162,7 +162,7 @@ From **$37**
 
 [![Private Transportation Cancun Airport - hotel hotel zone Cancun](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/93/9e/4b/caption.jpg)](https://www.viator.com/tours/Cancun/Private-Transportation-Cancun-Airport-hotel-hotel-zone-Cancun/d631-5640561P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transportation Cancun Airport - hotel hotel zone Cancun](https://www.viator.com/tours/Cancun/Private-Transportation-Cancun-Airport-hotel-hotel-zone-Cancun/d631-5640561P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Cancun/Private-Transportation-Cancun-Airport-hotel-hotel-zone-Cancun/d631-5640561P2?pid=P00295226&mcid=42383&medium=link">Private Transportation Cancun Airport - hotel hotel zone Cancun</a>** <span class="badge">-25%</span>
 
 _Port Transfers_
 

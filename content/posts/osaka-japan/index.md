@@ -123,7 +123,7 @@ Osaka is a food lover’s dream, with a plethora of local dishes that you simply
 
 [![Osaka Cinematic Film experience Video + Photo (ONLY ONE BOOKING)](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0c/32/c7.jpg)](https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Osaka Cinematic Film experience Video + Photo (ONLY ONE BOOKING)](https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-64%</span>
+**<a href="https://www.viator.com/tours/Osaka/Osaka-Cinematic-Film-experience-Video-Photo-ONLY-ONE-BOOKING/d333-450799P1?pid=P00295226&mcid=42383&medium=link">Osaka Cinematic Film experience Video + Photo (ONLY ONE BOOKING)</a>** <span class="badge">-64%</span>
 
 _Photography Tours_
 
@@ -135,7 +135,7 @@ From **$90**
 
 [![Kyoto Tango Sea Train, Amanohashidate and Ine Tour from Osaka](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9c/a1/34/caption.jpg)](https://www.viator.com/tours/Osaka/Kyoto-Tango-Sea-Train-Amanohashidate-and-Ine-Tour-from-Osaka/d333-5616973P18?pid=P00295226&mcid=42383&medium=link)
 
-**[Kyoto Tango Sea Train, Amanohashidate and Ine Tour from Osaka](https://www.viator.com/tours/Osaka/Kyoto-Tango-Sea-Train-Amanohashidate-and-Ine-Tour-from-Osaka/d333-5616973P18?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Osaka/Kyoto-Tango-Sea-Train-Amanohashidate-and-Ine-Tour-from-Osaka/d333-5616973P18?pid=P00295226&mcid=42383&medium=link">Kyoto Tango Sea Train, Amanohashidate and Ine Tour from Osaka</a>** <span class="badge">-50%</span>
 
 _Day Trips_
 
@@ -147,7 +147,7 @@ From **$52**
 
 [![Kyoto and Nara Small Group Tour from Osaka](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/79/d0/df.jpg)](https://www.viator.com/tours/Namba/Kyoto-and-Nara-Small-Group-Tour-from-Osaka/d51459-5500660P22?pid=P00295226&mcid=42383&medium=link)
 
-**[Kyoto and Nara Small Group Tour from Osaka](https://www.viator.com/tours/Namba/Kyoto-and-Nara-Small-Group-Tour-from-Osaka/d51459-5500660P22?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Namba/Kyoto-and-Nara-Small-Group-Tour-from-Osaka/d51459-5500660P22?pid=P00295226&mcid=42383&medium=link">Kyoto and Nara Small Group Tour from Osaka</a>** <span class="badge">-50%</span>
 
 _Full-day Tours_
 
@@ -159,7 +159,7 @@ From **$100**
 
 [![Shadows of Osaka: Legends & Folklore Walking Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/14/ac/51.jpg)](https://www.viator.com/tours/Osaka/Shadows-of-Osaka-Legends-and-Folklore-Walking-Tour/d333-5633902P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Shadows of Osaka: Legends & Folklore Walking Tour](https://www.viator.com/tours/Osaka/Shadows-of-Osaka-Legends-and-Folklore-Walking-Tour/d333-5633902P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-48%</span>
+**<a href="https://www.viator.com/tours/Osaka/Shadows-of-Osaka-Legends-and-Folklore-Walking-Tour/d333-5633902P1?pid=P00295226&mcid=42383&medium=link">Shadows of Osaka: Legends & Folklore Walking Tour</a>** <span class="badge">-48%</span>
 
 _City Tours_
 
@@ -171,7 +171,7 @@ From **$20**
 
 [![Osaka Dotonbori CHEVAL Nightclub VIP Package for Foreign](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0d/1e/5c.jpg)](https://www.viator.com/tours/Osaka/Osaka-Dotonbori-CHEVAL-Nightclub-VIP-Package-for-Foreign/d333-467011P42?pid=P00295226&mcid=42383&medium=link)
 
-**[Osaka Dotonbori CHEVAL Nightclub VIP Package for Foreign](https://www.viator.com/tours/Osaka/Osaka-Dotonbori-CHEVAL-Nightclub-VIP-Package-for-Foreign/d333-467011P42?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Osaka/Osaka-Dotonbori-CHEVAL-Nightclub-VIP-Package-for-Foreign/d333-467011P42?pid=P00295226&mcid=42383&medium=link">Osaka Dotonbori CHEVAL Nightclub VIP Package for Foreign</a>** <span class="badge">-40%</span>
 
 _Skip the line Tickets_
 

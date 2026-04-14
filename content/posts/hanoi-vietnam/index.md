@@ -122,7 +122,7 @@ Hanoi is a paradise for food lovers, offering a wide array of delicious dishes t
 
 [![Private Hanoi Street Food Tour with a Local Student Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/ad/ba/f3/caption.jpg)](https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Hanoi Street Food Tour with a Local Student Guide](https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-80%</span>
+**<a href="https://www.viator.com/tours/Hanoi/Private-Hanoi-Street-Food-Tour-with-a-Local-Student-Guide/d351-5585130P4?pid=P00295226&mcid=42383&medium=link">Private Hanoi Street Food Tour with a Local Student Guide</a>** <span class="badge">-80%</span>
 
 _Street Food Tours_
 
@@ -134,7 +134,7 @@ From **$1**
 
 [![Hanoi Cooking Class and Market Tour with Chef Tien](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/57/34/b5.jpg)](https://www.viator.com/tours/Hanoi/Hanoi-Cooking-Class-and-Market-Tour-with-Chef-Tien/d351-75533P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Hanoi Cooking Class and Market Tour with Chef Tien](https://www.viator.com/tours/Hanoi/Hanoi-Cooking-Class-and-Market-Tour-with-Chef-Tien/d351-75533P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Hanoi/Hanoi-Cooking-Class-and-Market-Tour-with-Chef-Tien/d351-75533P4?pid=P00295226&mcid=42383&medium=link">Hanoi Cooking Class and Market Tour with Chef Tien</a>** <span class="badge">-30%</span>
 
 _Cooking Classes_
 
@@ -146,7 +146,7 @@ From **$38**
 
 [![Private Car and Tour Guide Exploring Northern Vietnam](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/b7/eb/77.jpg)](https://www.viator.com/tours/Hanoi/Private-Car-and-Tour-Guide-Exploring-Northern-Vietnam/d351-177359P14?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Car and Tour Guide Exploring Northern Vietnam](https://www.viator.com/tours/Hanoi/Private-Car-and-Tour-Guide-Exploring-Northern-Vietnam/d351-177359P14?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Hanoi/Private-Car-and-Tour-Guide-Exploring-Northern-Vietnam/d351-177359P14?pid=P00295226&mcid=42383&medium=link">Private Car and Tour Guide Exploring Northern Vietnam</a>** <span class="badge">-20%</span>
 
 _Multi-day Tours_
 
@@ -158,7 +158,7 @@ From **$48**
 
 [![Ha Long Bay Cruise from Hanoi Kayaking and Cave Island Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/46/38/e8.jpg)](https://www.viator.com/tours/Hanoi/Ha-Long-Bay-Cruise-from-Hanoi-Kayaking-and-Cave-Island-Adventure/d351-5495292P115?pid=P00295226&mcid=42383&medium=link)
 
-**[Ha Long Bay Cruise from Hanoi Kayaking and Cave Island Adventure](https://www.viator.com/tours/Hanoi/Ha-Long-Bay-Cruise-from-Hanoi-Kayaking-and-Cave-Island-Adventure/d351-5495292P115?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Hanoi/Ha-Long-Bay-Cruise-from-Hanoi-Kayaking-and-Cave-Island-Adventure/d351-5495292P115?pid=P00295226&mcid=42383&medium=link">Ha Long Bay Cruise from Hanoi Kayaking and Cave Island Adventure</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -170,7 +170,7 @@ From **$60**
 
 [![Top Luxury 5-Star Day Cruise: Discover Halong Bay from Hanoi](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/41/42/f1.jpg)](https://www.viator.com/tours/Hanoi/Top-Luxury-5-Star-Day-Cruise-Discover-Halong-Bay-from-Hanoi/d351-5494982P98?pid=P00295226&mcid=42383&medium=link)
 
-**[Top Luxury 5-Star Day Cruise: Discover Halong Bay from Hanoi](https://www.viator.com/tours/Hanoi/Top-Luxury-5-Star-Day-Cruise-Discover-Halong-Bay-from-Hanoi/d351-5494982P98?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Hanoi/Top-Luxury-5-Star-Day-Cruise-Discover-Halong-Bay-from-Hanoi/d351-5494982P98?pid=P00295226&mcid=42383&medium=link">Top Luxury 5-Star Day Cruise: Discover Halong Bay from Hanoi</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 

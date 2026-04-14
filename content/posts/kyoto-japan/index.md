@@ -127,7 +127,7 @@ When dining out, you’ll find a mix of casual eateries and upscale restaurants.
 
 [![Hidden Temples in Kyoto a Self-Guided Zen Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/20/41/81.jpg)](https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link)
 
-**[Hidden Temples in Kyoto a Self-Guided Zen Tour](https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Kyoto/Hidden-Temples-in-Kyoto-a-Self-Guided-Zen-Tour/d332-5520738P17?pid=P00295226&mcid=42383&medium=link">Hidden Temples in Kyoto a Self-Guided Zen Tour</a>** <span class="badge">-67%</span>
 
 _Day Trips_
 
@@ -139,7 +139,7 @@ From **$1**
 
 [![T71D Amazing Views of Amanohashidate & Ine Funaya Bus Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/72/5c/3d/caption.jpg)](https://www.viator.com/tours/Kyoto/T71D-Amazing-Views-of-Amanohashidate-and-Ine-Funaya-Bus-Tour/d332-5615577P22?pid=P00295226&mcid=42383&medium=link)
 
-**[T71D Amazing Views of Amanohashidate & Ine Funaya Bus Tour](https://www.viator.com/tours/Kyoto/T71D-Amazing-Views-of-Amanohashidate-and-Ine-Funaya-Bus-Tour/d332-5615577P22?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-55%</span>
+**<a href="https://www.viator.com/tours/Kyoto/T71D-Amazing-Views-of-Amanohashidate-and-Ine-Funaya-Bus-Tour/d332-5615577P22?pid=P00295226&mcid=42383&medium=link">T71D Amazing Views of Amanohashidate & Ine Funaya Bus Tour</a>** <span class="badge">-55%</span>
 
 _Day Trips_
 
@@ -151,7 +151,7 @@ From **$99**
 
 [![Popular Sushi Making Class in Kyoto【Grand Opening】](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/92/6b/54/caption.jpg)](https://www.viator.com/tours/Kyoto/Popular-Sushi-Making-Class-in-KyotoGrand-Opening/d332-445447P20?pid=P00295226&mcid=42383&medium=link)
 
-**[Popular Sushi Making Class in Kyoto【Grand Opening】](https://www.viator.com/tours/Kyoto/Popular-Sushi-Making-Class-in-KyotoGrand-Opening/d332-445447P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Kyoto/Popular-Sushi-Making-Class-in-KyotoGrand-Opening/d332-445447P20?pid=P00295226&mcid=42383&medium=link">Popular Sushi Making Class in Kyoto【Grand Opening】</a>** <span class="badge">-50%</span>
 
 _Cooking Classes_
 
@@ -163,7 +163,7 @@ From **$42**
 
 [![Kyoto & Nara Small Group Day Tour from Kyoto](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/2e/47/09.jpg)](https://www.viator.com/tours/Kyoto/Kyoto-and-Nara-Small-Group-Day-Tour-from-Kyoto/d332-5500660P20?pid=P00295226&mcid=42383&medium=link)
 
-**[Kyoto & Nara Small Group Day Tour from Kyoto](https://www.viator.com/tours/Kyoto/Kyoto-and-Nara-Small-Group-Day-Tour-from-Kyoto/d332-5500660P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Kyoto/Kyoto-and-Nara-Small-Group-Day-Tour-from-Kyoto/d332-5500660P20?pid=P00295226&mcid=42383&medium=link">Kyoto & Nara Small Group Day Tour from Kyoto</a>** <span class="badge">-50%</span>
 
 _Day Trips_
 
@@ -175,7 +175,7 @@ From **$100**
 
 [![Kyoto Japanese Gold Repair Kintsugi Workshop in Arashiyama](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c9/93/5a/caption.jpg)](https://www.viator.com/tours/Kyoto/Kyoto-Japanese-Gold-Repair-Kintsugi-Workshop-in-Arashiyama/d332-5523026P53?pid=P00295226&mcid=42383&medium=link)
 
-**[Kyoto Japanese Gold Repair Kintsugi Workshop in Arashiyama](https://www.viator.com/tours/Kyoto/Kyoto-Japanese-Gold-Repair-Kintsugi-Workshop-in-Arashiyama/d332-5523026P53?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Kyoto/Kyoto-Japanese-Gold-Repair-Kintsugi-Workshop-in-Arashiyama/d332-5523026P53?pid=P00295226&mcid=42383&medium=link">Kyoto Japanese Gold Repair Kintsugi Workshop in Arashiyama</a>** <span class="badge">-40%</span>
 
 _Art Classes_
 

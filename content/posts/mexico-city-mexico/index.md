@@ -114,7 +114,7 @@ For a sit-down experience, look for restaurants that offer traditional Mexican f
 
 [![Private Electric Transfer Hotel Airport 3 Passengers](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/45/bd/caption.jpg)](https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Electric Transfer Hotel Airport 3 Passengers](https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Mexico-City/Private-Electric-Transfer-Hotel-Airport-3-Passengers/d628-5641368P3?pid=P00295226&mcid=42383&medium=link">Private Electric Transfer Hotel Airport 3 Passengers</a>** <span class="badge">-20%</span>
 
 _Airport & Hotel Transfers_
 
@@ -126,7 +126,7 @@ From **$34**
 
 [![Cdmx Teotihuacan Express personal experience family and friends](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/7d/67/b2/caption.jpg)](https://www.viator.com/tours/Mexico-City/Cdmx-Teotihuacan-Express-personal-experience-family-and-friends/d628-5627438P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Cdmx Teotihuacan Express personal experience family and friends](https://www.viator.com/tours/Mexico-City/Cdmx-Teotihuacan-Express-personal-experience-family-and-friends/d628-5627438P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Mexico-City/Cdmx-Teotihuacan-Express-personal-experience-family-and-friends/d628-5627438P7?pid=P00295226&mcid=42383&medium=link">Cdmx Teotihuacan Express personal experience family and friends</a>** <span class="badge">-20%</span>
 
 _Private Drivers_
 
@@ -138,7 +138,7 @@ From **$96**
 
 [![Frida Kahlo and Diego Rivera’s love through Art](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c7/9b/e9/caption.jpg)](https://www.viator.com/tours/Mexico-City/Frida-Kahlo-and-Diego-Riveras-love-through-Art/d628-5647454P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Frida Kahlo and Diego Rivera’s love through Art](https://www.viator.com/tours/Mexico-City/Frida-Kahlo-and-Diego-Riveras-love-through-Art/d628-5647454P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Mexico-City/Frida-Kahlo-and-Diego-Riveras-love-through-Art/d628-5647454P2?pid=P00295226&mcid=42383&medium=link">Frida Kahlo and Diego Rivera’s love through Art</a>** <span class="badge">-20%</span>
 
 _Full-day Tours_
 
@@ -150,7 +150,7 @@ From **$115**
 
 [![Private Tour in Teotihuacan Pyramids with Buffet and Pick Up](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c4/dc/ab/caption.jpg)](https://www.viator.com/tours/Mexico-City/Private-Tour-in-Teotihuacan-Pyramids-with-Buffet-and-Pick-Up/d628-5581881P25?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Tour in Teotihuacan Pyramids with Buffet and Pick Up](https://www.viator.com/tours/Mexico-City/Private-Tour-in-Teotihuacan-Pyramids-with-Buffet-and-Pick-Up/d628-5581881P25?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Mexico-City/Private-Tour-in-Teotihuacan-Pyramids-with-Buffet-and-Pick-Up/d628-5581881P25?pid=P00295226&mcid=42383&medium=link">Private Tour in Teotihuacan Pyramids with Buffet and Pick Up</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -162,7 +162,7 @@ From **$124**
 
 [![Luxury Executive Transfers in Mexico City](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/96/07/76/caption.jpg)](https://www.viator.com/tours/Mexico-City/Luxury-Executive-Transfers-in-Mexico-City/d628-5641368P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Luxury Executive Transfers in Mexico City](https://www.viator.com/tours/Mexico-City/Luxury-Executive-Transfers-in-Mexico-City/d628-5641368P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Mexico-City/Luxury-Executive-Transfers-in-Mexico-City/d628-5641368P1?pid=P00295226&mcid=42383&medium=link">Luxury Executive Transfers in Mexico City</a>** <span class="badge">-20%</span>
 
 _Airport & Hotel Transfers_
 

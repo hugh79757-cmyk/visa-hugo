@@ -125,7 +125,7 @@ When dining out, you’ll find a mix of casual eateries and more upscale restaur
 
 [![Budapest Self-Guided Danube Discovery Walk](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/06/ed/a7.jpg)](https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link)
 
-**[Budapest Self-Guided Danube Discovery Walk](https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Budapest/Budapest-Self-Guided-Danube-Discovery-Walk/d499-5520738P13?pid=P00295226&mcid=42383&medium=link">Budapest Self-Guided Danube Discovery Walk</a>** <span class="badge">-67%</span>
 
 _Audio Guides_
 
@@ -137,7 +137,7 @@ From **$1**
 
 [![Budapest Pub Crawl & Ruin Bar Tour – Free Shots & VIP Entry](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/39/0f/de.jpg)](https://www.viator.com/tours/Budapest/Budapest-Pub-Crawl-and-Ruin-Bar-Tour-Free-Shots-and-VIP-Entry/d499-5545940P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Budapest Pub Crawl & Ruin Bar Tour – Free Shots & VIP Entry](https://www.viator.com/tours/Budapest/Budapest-Pub-Crawl-and-Ruin-Bar-Tour-Free-Shots-and-VIP-Entry/d499-5545940P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-50%</span>
+**<a href="https://www.viator.com/tours/Budapest/Budapest-Pub-Crawl-and-Ruin-Bar-Tour-Free-Shots-and-VIP-Entry/d499-5545940P1?pid=P00295226&mcid=42383&medium=link">Budapest Pub Crawl & Ruin Bar Tour – Free Shots & VIP Entry</a>** <span class="badge">-50%</span>
 
 _Nightlife_
 
@@ -149,7 +149,7 @@ From **$13**
 
 [![From Budapest: Bratislava and Vienna - Full-Day Guided Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/dc/21/caption.jpg)](https://www.viator.com/tours/Budapest/From-Budapest-Bratislava-and-Vienna-Full-Day-Guided-Tour/d499-5530468P16?pid=P00295226&mcid=42383&medium=link)
 
-**[From Budapest: Bratislava and Vienna - Full-Day Guided Tour](https://www.viator.com/tours/Budapest/From-Budapest-Bratislava-and-Vienna-Full-Day-Guided-Tour/d499-5530468P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Budapest/From-Budapest-Bratislava-and-Vienna-Full-Day-Guided-Tour/d499-5530468P16?pid=P00295226&mcid=42383&medium=link">From Budapest: Bratislava and Vienna - Full-Day Guided Tour</a>** <span class="badge">-40%</span>
 
 _Full-day Tours_
 
@@ -161,7 +161,7 @@ From **$125**
 
 [![Discover the Heart of Budapest A Walking Tour of District V](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/4c/58/89.jpg)](https://www.viator.com/tours/Budapest/Discover-the-Heart-of-Budapest-A-Walking-Tour-of-District-V/d499-7353P16?pid=P00295226&mcid=42383&medium=link)
 
-**[Discover the Heart of Budapest A Walking Tour of District V](https://www.viator.com/tours/Budapest/Discover-the-Heart-of-Budapest-A-Walking-Tour-of-District-V/d499-7353P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Budapest/Discover-the-Heart-of-Budapest-A-Walking-Tour-of-District-V/d499-7353P16?pid=P00295226&mcid=42383&medium=link">Discover the Heart of Budapest A Walking Tour of District V</a>** <span class="badge">-25%</span>
 
 _Walking Tours_
 
@@ -173,7 +173,7 @@ From **$120**
 
 [![Margaret Island Mystery: Self-Guided Puzzle Quest in Budapest](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/1f/c7/c3.jpg)](https://www.viator.com/tours/Budapest/Margaret-Island-Mystery-Self-Guided-Puzzle-Quest-in-Budapest/d499-107194P391?pid=P00295226&mcid=42383&medium=link)
 
-**[Margaret Island Mystery: Self-Guided Puzzle Quest in Budapest](https://www.viator.com/tours/Budapest/Margaret-Island-Mystery-Self-Guided-Puzzle-Quest-in-Budapest/d499-107194P391?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Budapest/Margaret-Island-Mystery-Self-Guided-Puzzle-Quest-in-Budapest/d499-107194P391?pid=P00295226&mcid=42383&medium=link">Margaret Island Mystery: Self-Guided Puzzle Quest in Budapest</a>** <span class="badge">-20%</span>
 
 _Walking Tours_
 

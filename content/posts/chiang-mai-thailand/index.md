@@ -107,7 +107,7 @@ Don’t forget to explore the local coffee culture. Chiang Mai has a growing num
 
 [![Doi Suthep, Wat Suandok, Wat Phalat + Monks chanting & Meditation](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/57/f5/01.jpg)](https://www.viator.com/tours/Chiang-Mai/Doi-Suthep-Wat-Suandok-Wat-Phalat-Monks-chanting-and-Meditation/d5267-226066P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Doi Suthep, Wat Suandok, Wat Phalat + Monks chanting & Meditation](https://www.viator.com/tours/Chiang-Mai/Doi-Suthep-Wat-Suandok-Wat-Phalat-Monks-chanting-and-Meditation/d5267-226066P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Chiang-Mai/Doi-Suthep-Wat-Suandok-Wat-Phalat-Monks-chanting-and-Meditation/d5267-226066P4?pid=P00295226&mcid=42383&medium=link">Doi Suthep, Wat Suandok, Wat Phalat + Monks chanting & Meditation</a>** <span class="badge">-40%</span>
 
 From **$39**
 
@@ -117,7 +117,7 @@ From **$39**
 
 [![4 Hours Private Walking Temples Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9f/08/db/caption.jpg)](https://www.viator.com/tours/Chiang-Mai/4-Hours-Private-Walking-Temples-Tour/d5267-26152P56?pid=P00295226&mcid=42383&medium=link)
 
-**[4 Hours Private Walking Temples Tour](https://www.viator.com/tours/Chiang-Mai/4-Hours-Private-Walking-Temples-Tour/d5267-26152P56?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Chiang-Mai/4-Hours-Private-Walking-Temples-Tour/d5267-26152P56?pid=P00295226&mcid=42383&medium=link">4 Hours Private Walking Temples Tour</a>** <span class="badge">-25%</span>
 
 _Private and Luxury_
 
@@ -129,7 +129,7 @@ From **$97**
 
 [![Siam Dragon Cabaret Show Ticket with Transfer in Chiang Mai](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c3/79/10/caption.jpg)](https://www.viator.com/tours/Chiang-Mai/Siam-Dragon-Cabaret-Show-Ticket-with-Transfer-in-Chiang-Mai/d5267-110534P1241?pid=P00295226&mcid=42383&medium=link)
 
-**[Siam Dragon Cabaret Show Ticket with Transfer in Chiang Mai](https://www.viator.com/tours/Chiang-Mai/Siam-Dragon-Cabaret-Show-Ticket-with-Transfer-in-Chiang-Mai/d5267-110534P1241?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Chiang-Mai/Siam-Dragon-Cabaret-Show-Ticket-with-Transfer-in-Chiang-Mai/d5267-110534P1241?pid=P00295226&mcid=42383&medium=link">Siam Dragon Cabaret Show Ticket with Transfer in Chiang Mai</a>** <span class="badge">-20%</span>
 
 _Cabaret_
 
@@ -141,7 +141,7 @@ From **$21**
 
 [![Chiang Mai Siam Dragon Cabaret Show with Hotel Transfer](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c3/79/16/caption.jpg)](https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-Siam-Dragon-Cabaret-Show-with-Hotel-Transfer/d5267-5567066P535?pid=P00295226&mcid=42383&medium=link)
 
-**[Chiang Mai Siam Dragon Cabaret Show with Hotel Transfer](https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-Siam-Dragon-Cabaret-Show-with-Hotel-Transfer/d5267-5567066P535?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-Siam-Dragon-Cabaret-Show-with-Hotel-Transfer/d5267-5567066P535?pid=P00295226&mcid=42383&medium=link">Chiang Mai Siam Dragon Cabaret Show with Hotel Transfer</a>** <span class="badge">-20%</span>
 
 _Cabaret_
 
@@ -153,7 +153,7 @@ From **$25**
 
 [![Chiang Mai : ATV & White Water Rafting & Trekking to Waterfall](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/89/d2/10.jpg)](https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-ATV-and-White-Water-Rafting-and-Trekking-to-Waterfall/d5267-486281P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Chiang Mai : ATV & White Water Rafting & Trekking to Waterfall](https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-ATV-and-White-Water-Rafting-and-Trekking-to-Waterfall/d5267-486281P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Chiang-Mai/Chiang-Mai-ATV-and-White-Water-Rafting-and-Trekking-to-Waterfall/d5267-486281P10?pid=P00295226&mcid=42383&medium=link">Chiang Mai : ATV & White Water Rafting & Trekking to Waterfall</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 

@@ -123,7 +123,7 @@ For dining, you can choose from casual street food vendors to more upscale resta
 
 [![Half day Fes Walking Tour in the Medina with a Local Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/eb/72/74.jpg)](https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link)
 
-**[Half day Fes Walking Tour in the Medina with a Local Guide](https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-40%</span>
+**<a href="https://www.viator.com/tours/Fez/Half-day-Fes-Walking-Tour-in-the-Medina-with-a-Local-Guide/d22151-133516P21?pid=P00295226&mcid=42383&medium=link">Half day Fes Walking Tour in the Medina with a Local Guide</a>** <span class="badge">-40%</span>
 
 _4WD Tours_
 
@@ -135,7 +135,7 @@ From **$20**
 
 [![Fez Guided Tour of Artisans and Handicrafts Full-Day Private Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/d7/51/4c.jpg)](https://www.viator.com/tours/Fez/Fez-Guided-Tour-of-Artisans-and-Handicrafts-Full-Day-Private-Tour/d22151-133516P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Fez Guided Tour of Artisans and Handicrafts Full-Day Private Tour](https://www.viator.com/tours/Fez/Fez-Guided-Tour-of-Artisans-and-Handicrafts-Full-Day-Private-Tour/d22151-133516P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-35%</span>
+**<a href="https://www.viator.com/tours/Fez/Fez-Guided-Tour-of-Artisans-and-Handicrafts-Full-Day-Private-Tour/d22151-133516P6?pid=P00295226&mcid=42383&medium=link">Fez Guided Tour of Artisans and Handicrafts Full-Day Private Tour</a>** <span class="badge">-35%</span>
 
 _Art Tours_
 
@@ -147,7 +147,7 @@ From **$27**
 
 [![Private Fes Ramparts Tour Panoramic Views and City Gates](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/6e/c4/0d.jpg)](https://www.viator.com/tours/Fez/Private-Fes-Ramparts-Tour-Panoramic-Views-and-City-Gates/d22151-133516P45?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Fes Ramparts Tour Panoramic Views and City Gates](https://www.viator.com/tours/Fez/Private-Fes-Ramparts-Tour-Panoramic-Views-and-City-Gates/d22151-133516P45?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Fez/Private-Fes-Ramparts-Tour-Panoramic-Views-and-City-Gates/d22151-133516P45?pid=P00295226&mcid=42383&medium=link">Private Fes Ramparts Tour Panoramic Views and City Gates</a>** <span class="badge">-30%</span>
 
 _City Tours_
 
@@ -159,7 +159,7 @@ From **$21**
 
 [![FES Half-Day Luxury Private Tour in Fes with a Local Guide](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/e5/c5/1d.jpg)](https://www.viator.com/tours/Fez/FES-Half-Day-Luxury-Private-Tour-in-Fes-with-a-Local-Guide/d22151-133516P27?pid=P00295226&mcid=42383&medium=link)
 
-**[FES Half-Day Luxury Private Tour in Fes with a Local Guide](https://www.viator.com/tours/Fez/FES-Half-Day-Luxury-Private-Tour-in-Fes-with-a-Local-Guide/d22151-133516P27?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Fez/FES-Half-Day-Luxury-Private-Tour-in-Fes-with-a-Local-Guide/d22151-133516P27?pid=P00295226&mcid=42383&medium=link">FES Half-Day Luxury Private Tour in Fes with a Local Guide</a>** <span class="badge">-25%</span>
 
 _City Tours_
 
@@ -171,7 +171,7 @@ From **$17**
 
 [![Mosaic Workshop & Sightseeing Tour /Car](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/3b/3a/c7.jpg)](https://www.viator.com/tours/Fez/Mosaic-Workshop-and-Sightseeing-Tour-Car/d22151-207313P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Mosaic Workshop & Sightseeing Tour /Car](https://www.viator.com/tours/Fez/Mosaic-Workshop-and-Sightseeing-Tour-Car/d22151-207313P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Fez/Mosaic-Workshop-and-Sightseeing-Tour-Car/d22151-207313P10?pid=P00295226&mcid=42383&medium=link">Mosaic Workshop & Sightseeing Tour /Car</a>** <span class="badge">-20%</span>
 
 _Ports of Call Tours_
 

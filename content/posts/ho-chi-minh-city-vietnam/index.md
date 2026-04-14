@@ -110,7 +110,7 @@ While street food is an essential part of the Ho Chi Minh experience, don't miss
 
 [![Escape from the city-center, private street food and sight-seeing tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/9f/bb/31.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/Escape-from-the-city-center-private-street-food-and-sight-seeing-tour/d352-187976P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Escape from the city-center, private street food and sight-seeing tour](https://www.viator.com/tours/Ho-Chi-Minh-City/Escape-from-the-city-center-private-street-food-and-sight-seeing-tour/d352-187976P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Ho-Chi-Minh-City/Escape-from-the-city-center-private-street-food-and-sight-seeing-tour/d352-187976P4?pid=P00295226&mcid=42383&medium=link">Escape from the city-center, private street food and sight-seeing tour</a>** <span class="badge">-20%</span>
 
 _Dining Experiences_
 
@@ -122,7 +122,7 @@ From **$47**
 
 [![Mekong Delta 2-Day Tour: Floating Markets & Cultural Explore](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/0e/7d/56.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/Mekong-Delta-2-Day-Tour-Floating-Markets-and-Cultural-Explore/d352-32652P88?pid=P00295226&mcid=42383&medium=link)
 
-**[Mekong Delta 2-Day Tour: Floating Markets & Cultural Explore](https://www.viator.com/tours/Ho-Chi-Minh-City/Mekong-Delta-2-Day-Tour-Floating-Markets-and-Cultural-Explore/d352-32652P88?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Ho-Chi-Minh-City/Mekong-Delta-2-Day-Tour-Floating-Markets-and-Cultural-Explore/d352-32652P88?pid=P00295226&mcid=42383&medium=link">Mekong Delta 2-Day Tour: Floating Markets & Cultural Explore</a>** <span class="badge">-20%</span>
 
 _Multi-day Tours_
 
@@ -134,7 +134,7 @@ From **$88**
 
 [![“Two wheels. One river. Four days of pure adventure.”](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/e2/cc/81.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-wheels-One-river-Four-days-of-pure-adventure/d352-24110P13?pid=P00295226&mcid=42383&medium=link)
 
-**[“Two wheels. One river. Four days of pure adventure.”](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-wheels-One-river-Four-days-of-pure-adventure/d352-24110P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Ho-Chi-Minh-City/Two-wheels-One-river-Four-days-of-pure-adventure/d352-24110P13?pid=P00295226&mcid=42383&medium=link">“Two wheels. One river. Four days of pure adventure.”</a>** <span class="badge">-20%</span>
 
 _Multi-day Tours_
 
@@ -146,7 +146,7 @@ From **$608**
 
 [![Two Days Off the Beaten Path the Mekong by Bike and Boat.](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0d/c4/36/c6.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-Days-Off-the-Beaten-Path-the-Mekong-by-Bike-and-Boat/d352-24110P20?pid=P00295226&mcid=42383&medium=link)
 
-**[Two Days Off the Beaten Path the Mekong by Bike and Boat.](https://www.viator.com/tours/Ho-Chi-Minh-City/Two-Days-Off-the-Beaten-Path-the-Mekong-by-Bike-and-Boat/d352-24110P20?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Ho-Chi-Minh-City/Two-Days-Off-the-Beaten-Path-the-Mekong-by-Bike-and-Boat/d352-24110P20?pid=P00295226&mcid=42383&medium=link">Two Days Off the Beaten Path the Mekong by Bike and Boat.</a>** <span class="badge">-15%</span>
 
 _Multi-day Tours_
 
@@ -158,7 +158,7 @@ From **$221**
 
 [![3 days, 2 wheels, 1 Epic Delta adventures Awaits.](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/e2/ee/a6.jpg)](https://www.viator.com/tours/Ho-Chi-Minh-City/3-days-2-wheels-1-Epic-Delta-adventures-Awaits/d352-24110P16?pid=P00295226&mcid=42383&medium=link)
 
-**[3 days, 2 wheels, 1 Epic Delta adventures Awaits.](https://www.viator.com/tours/Ho-Chi-Minh-City/3-days-2-wheels-1-Epic-Delta-adventures-Awaits/d352-24110P16?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-15%</span>
+**<a href="https://www.viator.com/tours/Ho-Chi-Minh-City/3-days-2-wheels-1-Epic-Delta-adventures-Awaits/d352-24110P16?pid=P00295226&mcid=42383&medium=link">3 days, 2 wheels, 1 Epic Delta adventures Awaits.</a>** <span class="badge">-15%</span>
 
 _Mountain Bike Tours_
 

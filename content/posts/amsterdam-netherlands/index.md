@@ -123,7 +123,7 @@ For dining options, you’ll find everything from cozy cafes to Michelin-starred
 
 [![Amsterdam off the Beaten Path: A Self Guided Expedition](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/67/2b/97.jpg)](https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Amsterdam off the Beaten Path: A Self Guided Expedition](https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-68%</span>
+**<a href="https://www.viator.com/tours/Amsterdam/Amsterdam-off-the-Beaten-Path-A-Self-Guided-Expedition/d525-5520738P5?pid=P00295226&mcid=42383&medium=link">Amsterdam off the Beaten Path: A Self Guided Expedition</a>** <span class="badge">-68%</span>
 
 _Audio Guides_
 
@@ -135,7 +135,7 @@ From **$1**
 
 [![Amsterdam: Volendam Tour with Cheese, Clogs & Historic Harbour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/11/d7/30.jpg)](https://www.viator.com/tours/Amsterdam/Amsterdam-Volendam-Tour-with-Cheese-Clogs-and-Historic-Harbour/d525-332919P33?pid=P00295226&mcid=42383&medium=link)
 
-**[Amsterdam: Volendam Tour with Cheese, Clogs & Historic Harbour](https://www.viator.com/tours/Amsterdam/Amsterdam-Volendam-Tour-with-Cheese-Clogs-and-Historic-Harbour/d525-332919P33?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Amsterdam/Amsterdam-Volendam-Tour-with-Cheese-Clogs-and-Historic-Harbour/d525-332919P33?pid=P00295226&mcid=42383&medium=link">Amsterdam: Volendam Tour with Cheese, Clogs & Historic Harbour</a>** <span class="badge">-30%</span>
 
 _Day Trips_
 
@@ -147,7 +147,7 @@ From **$21**
 
 [![AMAZE Immersive Audiovisual Experience Amsterdam](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b6/ef/10.jpg)](https://www.viator.com/tours/Amsterdam/AMAZE-Immersive-Audiovisual-Experience-Amsterdam/d525-5504564P4?pid=P00295226&mcid=42383&medium=link)
 
-**[AMAZE Immersive Audiovisual Experience Amsterdam](https://www.viator.com/tours/Amsterdam/AMAZE-Immersive-Audiovisual-Experience-Amsterdam/d525-5504564P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-26%</span>
+**<a href="https://www.viator.com/tours/Amsterdam/AMAZE-Immersive-Audiovisual-Experience-Amsterdam/d525-5504564P4?pid=P00295226&mcid=42383&medium=link">AMAZE Immersive Audiovisual Experience Amsterdam</a>** <span class="badge">-26%</span>
 
 _Attractions & Museums_
 
@@ -159,7 +159,7 @@ From **$23**
 
 [![Self-Guided Canals of Amsterdam Photography Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/e0/6d/55.jpg)](https://www.viator.com/tours/Amsterdam/Self-Guided-Canals-of-Amsterdam-Photography-Tour/d525-30066P12?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Canals of Amsterdam Photography Tour](https://www.viator.com/tours/Amsterdam/Self-Guided-Canals-of-Amsterdam-Photography-Tour/d525-30066P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Amsterdam/Self-Guided-Canals-of-Amsterdam-Photography-Tour/d525-30066P12?pid=P00295226&mcid=42383&medium=link">Self-Guided Canals of Amsterdam Photography Tour</a>** <span class="badge">-25%</span>
 
 _City Tours_
 
@@ -171,7 +171,7 @@ From **$23**
 
 [![Self-Guided Red Light District Amsterdam Photography Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/e0/6d/5e.jpg)](https://www.viator.com/tours/Amsterdam/Self-Guided-Red-Light-District-Amsterdam-Photography-Tour/d525-30066P13?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Red Light District Amsterdam Photography Tour](https://www.viator.com/tours/Amsterdam/Self-Guided-Red-Light-District-Amsterdam-Photography-Tour/d525-30066P13?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Amsterdam/Self-Guided-Red-Light-District-Amsterdam-Photography-Tour/d525-30066P13?pid=P00295226&mcid=42383&medium=link">Self-Guided Red Light District Amsterdam Photography Tour</a>** <span class="badge">-25%</span>
 
 _City Tours_
 

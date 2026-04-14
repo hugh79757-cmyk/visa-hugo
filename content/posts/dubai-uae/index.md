@@ -125,7 +125,7 @@ For street food, head to the Al Dhiyafah Road area or the food stalls at Global 
 
 [![VIP Morning Desert Safari Dune Bashing Sandboarding & Camel Ride](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/02/80/ec.jpg)](https://www.viator.com/tours/Dubai/VIP-Morning-Desert-Safari-Dune-Bashing-Sandboarding-and-Camel-Ride/d828-5581583P11?pid=P00295226&mcid=42383&medium=link)
 
-**[VIP Morning Desert Safari Dune Bashing Sandboarding & Camel Ride](https://www.viator.com/tours/Dubai/VIP-Morning-Desert-Safari-Dune-Bashing-Sandboarding-and-Camel-Ride/d828-5581583P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-52%</span>
+**<a href="https://www.viator.com/tours/Dubai/VIP-Morning-Desert-Safari-Dune-Bashing-Sandboarding-and-Camel-Ride/d828-5581583P11?pid=P00295226&mcid=42383&medium=link">VIP Morning Desert Safari Dune Bashing Sandboarding & Camel Ride</a>** <span class="badge">-52%</span>
 
 _Audio Guides_
 
@@ -137,7 +137,7 @@ From **$38**
 
 [![Dubai: Morning Tour with 4x4 Pick/Drop Red Dunes Camel Sandboard](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/02/80/ef.jpg)](https://www.viator.com/tours/Dubai/Dubai-Morning-Tour-with-4x4-PickDrop-Red-Dunes-Camel-Sandboard/d828-5550312P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Dubai: Morning Tour with 4x4 Pick/Drop Red Dunes Camel Sandboard](https://www.viator.com/tours/Dubai/Dubai-Morning-Tour-with-4x4-PickDrop-Red-Dunes-Camel-Sandboard/d828-5550312P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-46%</span>
+**<a href="https://www.viator.com/tours/Dubai/Dubai-Morning-Tour-with-4x4-PickDrop-Red-Dunes-Camel-Sandboard/d828-5550312P6?pid=P00295226&mcid=42383&medium=link">Dubai: Morning Tour with 4x4 Pick/Drop Red Dunes Camel Sandboard</a>** <span class="badge">-46%</span>
 
 _Mountain Bike Tours_
 
@@ -149,7 +149,7 @@ From **$46**
 
 [![30 Minutes Jet Ski](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a5/8a/4b/caption.jpg)](https://www.viator.com/tours/Dubai/30-Minutes-Jet-Ski/d828-5517776P2?pid=P00295226&mcid=42383&medium=link)
 
-**[30 Minutes Jet Ski](https://www.viator.com/tours/Dubai/30-Minutes-Jet-Ski/d828-5517776P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-35%</span>
+**<a href="https://www.viator.com/tours/Dubai/30-Minutes-Jet-Ski/d828-5517776P2?pid=P00295226&mcid=42383&medium=link">30 Minutes Jet Ski</a>** <span class="badge">-35%</span>
 
 _Boat Rentals_
 
@@ -161,7 +161,7 @@ From **$53**
 
 [![Dubai: VIP Evening Desert Safari, Quad, Camel & Dinner](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/73/ed/5e.jpg)](https://www.viator.com/tours/Dubai/Dubai-VIP-Evening-Desert-Safari-Quad-Camel-and-Dinner/d828-457042P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Dubai: VIP Evening Desert Safari, Quad, Camel & Dinner](https://www.viator.com/tours/Dubai/Dubai-VIP-Evening-Desert-Safari-Quad-Camel-and-Dinner/d828-457042P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-31%</span>
+**<a href="https://www.viator.com/tours/Dubai/Dubai-VIP-Evening-Desert-Safari-Quad-Camel-and-Dinner/d828-457042P3?pid=P00295226&mcid=42383&medium=link">Dubai: VIP Evening Desert Safari, Quad, Camel & Dinner</a>** <span class="badge">-31%</span>
 
 _Audio Guides_
 
@@ -173,7 +173,7 @@ From **$31**
 
 [![Abu Dhabi Tour Grand Mosque Heritage Village Emirates Palace](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/cb/00/90.jpg)](https://www.viator.com/tours/Dubai/Abu-Dhabi-Tour-Grand-Mosque-Heritage-Village-Emirates-Palace/d828-323794P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Abu Dhabi Tour Grand Mosque Heritage Village Emirates Palace](https://www.viator.com/tours/Dubai/Abu-Dhabi-Tour-Grand-Mosque-Heritage-Village-Emirates-Palace/d828-323794P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Dubai/Abu-Dhabi-Tour-Grand-Mosque-Heritage-Village-Emirates-Palace/d828-323794P5?pid=P00295226&mcid=42383&medium=link">Abu Dhabi Tour Grand Mosque Heritage Village Emirates Palace</a>** <span class="badge">-30%</span>
 
 _Day Trips_
 

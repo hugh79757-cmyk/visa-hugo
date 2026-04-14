@@ -121,7 +121,7 @@ For street food, head to Myeongdong or Gwangjang Market, where you can find ever
 
 [![K-Culture Adventure in Seoul Self-Guided Walking Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/30/ba/95.jpg)](https://www.viator.com/tours/Seoul/K-Culture-Adventure-in-Seoul-Self-Guided-Walking-Tour/d973-5520738P29?pid=P00295226&mcid=42383&medium=link)
 
-**[K-Culture Adventure in Seoul Self-Guided Walking Tour](https://www.viator.com/tours/Seoul/K-Culture-Adventure-in-Seoul-Self-Guided-Walking-Tour/d973-5520738P29?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Seoul/K-Culture-Adventure-in-Seoul-Self-Guided-Walking-Tour/d973-5520738P29?pid=P00295226&mcid=42383&medium=link">K-Culture Adventure in Seoul Self-Guided Walking Tour</a>** <span class="badge">-67%</span>
 
 _Audio Guides_
 
@@ -133,7 +133,7 @@ From **$1**
 
 [![Tradition Meets Trendy Seoul: Palace, Ikseondong & Han River Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/d4/f0/1b/caption.jpg)](https://www.viator.com/tours/Seoul/Tradition-Meets-Trendy-Seoul-Palace-Ikseondong-and-Han-River-Tour/d973-5619838P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Tradition Meets Trendy Seoul: Palace, Ikseondong & Han River Tour](https://www.viator.com/tours/Seoul/Tradition-Meets-Trendy-Seoul-Palace-Ikseondong-and-Han-River-Tour/d973-5619838P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Seoul/Tradition-Meets-Trendy-Seoul-Palace-Ikseondong-and-Han-River-Tour/d973-5619838P5?pid=P00295226&mcid=42383&medium=link">Tradition Meets Trendy Seoul: Palace, Ikseondong & Han River Tour</a>** <span class="badge">-30%</span>
 
 _Private and Luxury_
 
@@ -145,7 +145,7 @@ From **$55**
 
 [![Seoul Palace Morning Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/08/42/dc/e6.jpg)](https://www.viator.com/tours/Seoul/Seoul-Palace-Morning-Tour/d973-6780P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Seoul Palace Morning Tour](https://www.viator.com/tours/Seoul/Seoul-Palace-Morning-Tour/d973-6780P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-27%</span>
+**<a href="https://www.viator.com/tours/Seoul/Seoul-Palace-Morning-Tour/d973-6780P4?pid=P00295226&mcid=42383&medium=link">Seoul Palace Morning Tour</a>** <span class="badge">-27%</span>
 
 _Half-day Tours_
 
@@ -157,7 +157,7 @@ From **$29**
 
 [![Seoul Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ef/18/ad.jpg)](https://www.viator.com/tours/Seoul/Seoul-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d973-30066P318?pid=P00295226&mcid=42383&medium=link)
 
-**[Seoul Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Seoul/Seoul-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d973-30066P318?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Seoul/Seoul-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d973-30066P318?pid=P00295226&mcid=42383&medium=link">Seoul Self Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -169,7 +169,7 @@ From **$23**
 
 [![Seoul: Itaewon Premium Pub Crawl with VIP Bottle Service](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/c2/f2/5e.jpg)](https://www.viator.com/tours/Seoul/Seoul-Itaewon-Premium-Pub-Crawl-with-VIP-Bottle-Service/d973-485847P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Seoul: Itaewon Premium Pub Crawl with VIP Bottle Service](https://www.viator.com/tours/Seoul/Seoul-Itaewon-Premium-Pub-Crawl-with-VIP-Bottle-Service/d973-485847P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Seoul/Seoul-Itaewon-Premium-Pub-Crawl-with-VIP-Bottle-Service/d973-485847P2?pid=P00295226&mcid=42383&medium=link">Seoul: Itaewon Premium Pub Crawl with VIP Bottle Service</a>** <span class="badge">-25%</span>
 
 _Nightlife_
 

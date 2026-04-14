@@ -129,7 +129,7 @@ While Havana boasts several fantastic restaurants, don’t overlook the street f
 
 [![Valladolid Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link)
 
-**[Valladolid Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Valladolid/Valladolid-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d36285-30066P109?pid=P00295226&mcid=42383&medium=link">Valladolid Self Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -141,7 +141,7 @@ From **$23**
 
 [![Malpensa Airport To Zermatt (Tasch) One Way Private Transfer](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/4d/b7/bb.jpg)](https://www.viator.com/tours/Ferno/Malpensa-Airport-To-Zermatt-Tasch-One-Way-Private-Transfer/d50509-320547P1066?pid=P00295226&mcid=42383&medium=link)
 
-**[Malpensa Airport To Zermatt (Tasch) One Way Private Transfer](https://www.viator.com/tours/Ferno/Malpensa-Airport-To-Zermatt-Tasch-One-Way-Private-Transfer/d50509-320547P1066?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Ferno/Malpensa-Airport-To-Zermatt-Tasch-One-Way-Private-Transfer/d50509-320547P1066?pid=P00295226&mcid=42383&medium=link">Malpensa Airport To Zermatt (Tasch) One Way Private Transfer</a>** <span class="badge">-10%</span>
 
 _Airport & Hotel Transfers_
 

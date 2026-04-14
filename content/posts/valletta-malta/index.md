@@ -107,7 +107,7 @@ Valletta also boasts a growing number of trendy cafes and eateries where you can
 
 [![Valletta Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link)
 
-**[Valletta Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Malta/Valletta-Sherlock-Holmes-Murder-Mystery-Game/d4141-30066P194?pid=P00295226&mcid=42383&medium=link">Valletta Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -119,7 +119,7 @@ From **$23**
 
 [![Self-Guided Secrets of Valletta Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/4f/02/1d.jpg)](https://www.viator.com/tours/Malta/Self-Guided-Secrets-of-Valletta-Exploration-Game/d4141-30066P534?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Secrets of Valletta Exploration Game](https://www.viator.com/tours/Malta/Self-Guided-Secrets-of-Valletta-Exploration-Game/d4141-30066P534?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Malta/Self-Guided-Secrets-of-Valletta-Exploration-Game/d4141-30066P534?pid=P00295226&mcid=42383&medium=link">Self-Guided Secrets of Valletta Exploration Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -131,7 +131,7 @@ From **$23**
 
 [![Valletta Private Minivan Tour Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/93/30/e1/caption.jpg)](https://www.viator.com/tours/Malta/Valletta-Private-Minivan-Tour-Experience/d4141-5639020P7?pid=P00295226&mcid=42383&medium=link)
 
-**[Valletta Private Minivan Tour Experience](https://www.viator.com/tours/Malta/Valletta-Private-Minivan-Tour-Experience/d4141-5639020P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Malta/Valletta-Private-Minivan-Tour-Experience/d4141-5639020P7?pid=P00295226&mcid=42383&medium=link">Valletta Private Minivan Tour Experience</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 

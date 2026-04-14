@@ -99,7 +99,7 @@ For those who wish to explore more international flavors, the town also offers a
 
 [![Private Transportation to/from Playa del Carmen or Riviera Maya](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0f/2c/33/67.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transportation to/from Playa del Carmen or Riviera Maya](https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-22%</span>
+**<a href="https://www.viator.com/tours/Playa-del-Carmen/Private-Transportation-tofrom-Playa-del-Carmen-or-Riviera-Maya/d5501-279586P10?pid=P00295226&mcid=42383&medium=link">Private Transportation to/from Playa del Carmen or Riviera Maya</a>** <span class="badge">-22%</span>
 
 _Airport & Hotel Transfers_
 
@@ -111,7 +111,7 @@ From **$38**
 
 [![4X1 Enjoy a tour to Tulum, Coba, Cenote and Playa del Carmen](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0b/01/76/ed.jpg)](https://www.viator.com/tours/Playa-del-Carmen/4X1-Enjoy-a-tour-to-Tulum-Coba-Cenote-and-Playa-del-Carmen/d5501-242993P7?pid=P00295226&mcid=42383&medium=link)
 
-**[4X1 Enjoy a tour to Tulum, Coba, Cenote and Playa del Carmen](https://www.viator.com/tours/Playa-del-Carmen/4X1-Enjoy-a-tour-to-Tulum-Coba-Cenote-and-Playa-del-Carmen/d5501-242993P7?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Playa-del-Carmen/4X1-Enjoy-a-tour-to-Tulum-Coba-Cenote-and-Playa-del-Carmen/d5501-242993P7?pid=P00295226&mcid=42383&medium=link">4X1 Enjoy a tour to Tulum, Coba, Cenote and Playa del Carmen</a>** <span class="badge">-20%</span>
 
 _Full-day Tours_
 
@@ -123,7 +123,7 @@ From **$16**
 
 [![Cenote and Swimming with Turtles Private Tour in Akumal](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/3a/c0/0d.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Cenote-and-Swimming-with-Turtles-Private-Tour-in-Akumal/d5501-391831P5?pid=P00295226&mcid=42383&medium=link)
 
-**[Cenote and Swimming with Turtles Private Tour in Akumal](https://www.viator.com/tours/Playa-del-Carmen/Cenote-and-Swimming-with-Turtles-Private-Tour-in-Akumal/d5501-391831P5?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Playa-del-Carmen/Cenote-and-Swimming-with-Turtles-Private-Tour-in-Akumal/d5501-391831P5?pid=P00295226&mcid=42383&medium=link">Cenote and Swimming with Turtles Private Tour in Akumal</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -135,7 +135,7 @@ From **$264**
 
 [![Private Tour to Tulum, Cenote and Swimming with Turtles](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b0/cf/02/caption.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-to-Tulum-Cenote-and-Swimming-with-Turtles/d5501-391831P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Tour to Tulum, Cenote and Swimming with Turtles](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-to-Tulum-Cenote-and-Swimming-with-Turtles/d5501-391831P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-to-Tulum-Cenote-and-Swimming-with-Turtles/d5501-391831P2?pid=P00295226&mcid=42383&medium=link">Private Tour to Tulum, Cenote and Swimming with Turtles</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -147,7 +147,7 @@ From **$328**
 
 [![Private Tour: Chichen Itza, Cenote Oxman and Lunch in Valladolid](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/95/1f/f1.jpg)](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-Chichen-Itza-Cenote-Oxman-and-Lunch-in-Valladolid/d5501-391831P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Tour: Chichen Itza, Cenote Oxman and Lunch in Valladolid](https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-Chichen-Itza-Cenote-Oxman-and-Lunch-in-Valladolid/d5501-391831P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Playa-del-Carmen/Private-Tour-Chichen-Itza-Cenote-Oxman-and-Lunch-in-Valladolid/d5501-391831P1?pid=P00295226&mcid=42383&medium=link">Private Tour: Chichen Itza, Cenote Oxman and Lunch in Valladolid</a>** <span class="badge">-20%</span>
 
 _Full-day Tours_
 

@@ -123,7 +123,7 @@ For street food, head to the markets where you can grab a quick bite while mingl
 
 [![Salzburg Uncovered: Your Self Guided Adventure](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/b9/87/47.jpg)](https://www.viator.com/tours/Salzburg/Salzburg-Uncovered-Your-Self-Guided-Adventure/d451-5520738P153?pid=P00295226&mcid=42383&medium=link)
 
-**[Salzburg Uncovered: Your Self Guided Adventure](https://www.viator.com/tours/Salzburg/Salzburg-Uncovered-Your-Self-Guided-Adventure/d451-5520738P153?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Salzburg/Salzburg-Uncovered-Your-Self-Guided-Adventure/d451-5520738P153?pid=P00295226&mcid=42383&medium=link">Salzburg Uncovered: Your Self Guided Adventure</a>** <span class="badge">-67%</span>
 
 _Audio Guides_
 
@@ -135,7 +135,7 @@ From **$1**
 
 [![Salzburg Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/e5/ff/44.jpg)](https://www.viator.com/tours/Salzburg/Salzburg-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d451-30066P244?pid=P00295226&mcid=42383&medium=link)
 
-**[Salzburg Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Salzburg/Salzburg-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d451-30066P244?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Salzburg/Salzburg-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d451-30066P244?pid=P00295226&mcid=42383&medium=link">Salzburg Self-Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -147,7 +147,7 @@ From **$23**
 
 [![Salzburg City Self-Guided Audio Tour With 100 Captivating Stories](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/b1/6b/24/caption.jpg)](https://www.viator.com/tours/Salzburg/Salzburg-City-Self-Guided-Audio-Tour-With-100-Captivating-Stories/d451-445714P37?pid=P00295226&mcid=42383&medium=link)
 
-**[Salzburg City Self-Guided Audio Tour With 100 Captivating Stories](https://www.viator.com/tours/Salzburg/Salzburg-City-Self-Guided-Audio-Tour-With-100-Captivating-Stories/d451-445714P37?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Salzburg/Salzburg-City-Self-Guided-Audio-Tour-With-100-Captivating-Stories/d451-445714P37?pid=P00295226&mcid=42383&medium=link">Salzburg City Self-Guided Audio Tour With 100 Captivating Stories</a>** <span class="badge">-20%</span>
 
 _Day Trips_
 
@@ -159,7 +159,7 @@ From **$3**
 
 [![Salzburg Audio Guided Walking Tour 1h45 and 24 reviews](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/9c/db/6f/caption.jpg)](https://www.viator.com/tours/Salzburg/Salzburg-Audio-Guided-Walking-Tour-1h45-and-24-reviews/d451-5577016P218?pid=P00295226&mcid=42383&medium=link)
 
-**[Salzburg Audio Guided Walking Tour 1h45 and 24 reviews](https://www.viator.com/tours/Salzburg/Salzburg-Audio-Guided-Walking-Tour-1h45-and-24-reviews/d451-5577016P218?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Salzburg/Salzburg-Audio-Guided-Walking-Tour-1h45-and-24-reviews/d451-5577016P218?pid=P00295226&mcid=42383&medium=link">Salzburg Audio Guided Walking Tour 1h45 and 24 reviews</a>** <span class="badge">-20%</span>
 
 _City Tours_
 
@@ -171,7 +171,7 @@ From **$6**
 
 [![Salzburg The Last Song Quest: Self-Guided Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/80/2a/0e.jpg)](https://www.viator.com/tours/Salzburg/Salzburg-The-Last-Song-Quest-Self-Guided-Escape-Game/d451-107194P39?pid=P00295226&mcid=42383&medium=link)
 
-**[Salzburg The Last Song Quest: Self-Guided Escape Game](https://www.viator.com/tours/Salzburg/Salzburg-The-Last-Song-Quest-Self-Guided-Escape-Game/d451-107194P39?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Salzburg/Salzburg-The-Last-Song-Quest-Self-Guided-Escape-Game/d451-107194P39?pid=P00295226&mcid=42383&medium=link">Salzburg The Last Song Quest: Self-Guided Escape Game</a>** <span class="badge">-20%</span>
 
 _Movie Tours_
 

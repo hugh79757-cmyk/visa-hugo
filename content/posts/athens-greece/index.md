@@ -117,7 +117,7 @@ Street food is widely available in Athens, and trying it is a great way to exper
 
 [![Self Guided Walking Tour in Athens Hidden Gems](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/14/be/40/fc.jpg)](https://www.viator.com/tours/Athens/Self-Guided-Walking-Tour-in-Athens-Hidden-Gems/d496-5520738P26?pid=P00295226&mcid=42383&medium=link)
 
-**[Self Guided Walking Tour in Athens Hidden Gems](https://www.viator.com/tours/Athens/Self-Guided-Walking-Tour-in-Athens-Hidden-Gems/d496-5520738P26?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-34%</span>
+**<a href="https://www.viator.com/tours/Athens/Self-Guided-Walking-Tour-in-Athens-Hidden-Gems/d496-5520738P26?pid=P00295226&mcid=42383&medium=link">Self Guided Walking Tour in Athens Hidden Gems</a>** <span class="badge">-34%</span>
 
 _Audio Guides_
 
@@ -129,7 +129,7 @@ From **$2**
 
 [![Philosophy and Democracy tour of Athens](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/07/a6/3a/d9.jpg)](https://www.viator.com/tours/Athens/Philosophy-and-Democracy-tour-of-Athens/d496-165642P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Philosophy and Democracy tour of Athens](https://www.viator.com/tours/Athens/Philosophy-and-Democracy-tour-of-Athens/d496-165642P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Athens/Philosophy-and-Democracy-tour-of-Athens/d496-165642P1?pid=P00295226&mcid=42383&medium=link">Philosophy and Democracy tour of Athens</a>** <span class="badge">-30%</span>
 
 _Private and Luxury_
 
@@ -141,7 +141,7 @@ From **$35**
 
 [![Athens city private tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0a/e0/b4/be.jpg)](https://www.viator.com/tours/Athens/Athens-city-private-tour/d496-105867P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Athens city private tour](https://www.viator.com/tours/Athens/Athens-city-private-tour/d496-105867P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Athens/Athens-city-private-tour/d496-105867P1?pid=P00295226&mcid=42383&medium=link">Athens city private tour</a>** <span class="badge">-30%</span>
 
 _City Tours_
 
@@ -153,7 +153,7 @@ From **$107**
 
 [![Athens Private Photoshoot Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/77/07/6b/caption.jpg)](https://www.viator.com/tours/Athens/Athens-Private-Photoshoot-Experience/d496-397315P10?pid=P00295226&mcid=42383&medium=link)
 
-**[Athens Private Photoshoot Experience](https://www.viator.com/tours/Athens/Athens-Private-Photoshoot-Experience/d496-397315P10?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-26%</span>
+**<a href="https://www.viator.com/tours/Athens/Athens-Private-Photoshoot-Experience/d496-397315P10?pid=P00295226&mcid=42383&medium=link">Athens Private Photoshoot Experience</a>** <span class="badge">-26%</span>
 
 _Art Classes_
 
@@ -165,7 +165,7 @@ From **$174**
 
 [![Ancient Athens Tour: Philosophy, History, Politics](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/16/ec/f5/69.jpg)](https://www.viator.com/tours/Athens/Ancient-Athens-Tour-Philosophy-History-Politics/d496-5609419P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Ancient Athens Tour: Philosophy, History, Politics](https://www.viator.com/tours/Athens/Ancient-Athens-Tour-Philosophy-History-Politics/d496-5609419P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Athens/Ancient-Athens-Tour-Philosophy-History-Politics/d496-5609419P3?pid=P00295226&mcid=42383&medium=link">Ancient Athens Tour: Philosophy, History, Politics</a>** <span class="badge">-25%</span>
 
 _Private and Luxury_
 

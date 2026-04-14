@@ -114,7 +114,7 @@ Porto’s culinary scene is a delightful blend of traditional Portuguese flavors
 
 [![Porto's Old Town Tour & Ribeira](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/48/b8/44.jpg)](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Porto's Old Town Tour & Ribeira](https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-75%</span>
+**<a href="https://www.viator.com/tours/Porto/Portos-Old-Town-Tour-and-Ribeira/d26879-405817P3?pid=P00295226&mcid=42383&medium=link">Porto's Old Town Tour & Ribeira</a>** <span class="badge">-75%</span>
 
 _Walking Tours_
 
@@ -126,7 +126,7 @@ From **$1**
 
 [![Tour of Vila Nova de Gaia](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/48/c1/a8.jpg)](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Tour of Vila Nova de Gaia](https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-75%</span>
+**<a href="https://www.viator.com/tours/Porto/Tour-of-Vila-Nova-de-Gaia/d26879-405817P4?pid=P00295226&mcid=42383&medium=link">Tour of Vila Nova de Gaia</a>** <span class="badge">-75%</span>
 
 _Walking Tours_
 
@@ -138,7 +138,7 @@ From **$1**
 
 [![Self-Guided Tour Adventure Discovering Porto](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/e7/8a/fe.jpg)](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link)
 
-**[Self-Guided Tour Adventure Discovering Porto](https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Porto/Self-Guided-Tour-Adventure-Discovering-Porto/d26879-466226P6?pid=P00295226&mcid=42383&medium=link">Self-Guided Tour Adventure Discovering Porto</a>** <span class="badge">-67%</span>
 
 _Audio Guides_
 
@@ -150,7 +150,7 @@ From **$1**
 
 [![Fado Show in Porto and Guided Tour](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/13/bb/92/c5.jpg)](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Fado Show in Porto and Guided Tour](https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-30%</span>
+**<a href="https://www.viator.com/tours/Porto/Fado-Show-in-Porto-and-Guided-Tour/d26879-75688P2?pid=P00295226&mcid=42383&medium=link">Fado Show in Porto and Guided Tour</a>** <span class="badge">-30%</span>
 
 _Historical Tours_
 
@@ -162,7 +162,7 @@ From **$21**
 
 [![Porto Self-Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link)
 
-**[Porto Self-Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Porto/Porto-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d26879-30066P121?pid=P00295226&mcid=42383&medium=link">Porto Self-Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 

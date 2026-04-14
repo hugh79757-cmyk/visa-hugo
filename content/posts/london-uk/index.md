@@ -121,7 +121,7 @@ London’s culinary scene is as diverse as its population, offering everything f
 
 [![Thames River Uber Boat Trip](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/17/14/7d/c5.jpg)](https://www.viator.com/tours/London/Thames-River-Uber-Boat-Trip/d737-5616374P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Thames River Uber Boat Trip](https://www.viator.com/tours/London/Thames-River-Uber-Boat-Trip/d737-5616374P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/London/Thames-River-Uber-Boat-Trip/d737-5616374P3?pid=P00295226&mcid=42383&medium=link">Thames River Uber Boat Trip</a>** <span class="badge">-25%</span>
 
 _Light & Sound Shows_
 
@@ -133,7 +133,7 @@ From **$25**
 
 [![London Eye and Madame Tussauds Combo Pass](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a3/a9/ce/caption.jpg)](https://www.viator.com/tours/London/London-Eye-and-Madame-Tussauds-Combo-Pass/d737-5623388P60?pid=P00295226&mcid=42383&medium=link)
 
-**[London Eye and Madame Tussauds Combo Pass](https://www.viator.com/tours/London/London-Eye-and-Madame-Tussauds-Combo-Pass/d737-5623388P60?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/London/London-Eye-and-Madame-Tussauds-Combo-Pass/d737-5623388P60?pid=P00295226&mcid=42383&medium=link">London Eye and Madame Tussauds Combo Pass</a>** <span class="badge">-20%</span>
 
 _Attractions & Museums_
 
@@ -145,7 +145,7 @@ From **$70**
 
 [![London Eye and The London Dungeon Combo](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a3/a9/d2/caption.jpg)](https://www.viator.com/tours/London/London-Eye-and-The-London-Dungeon-Combo/d737-5623388P58?pid=P00295226&mcid=42383&medium=link)
 
-**[London Eye and The London Dungeon Combo](https://www.viator.com/tours/London/London-Eye-and-The-London-Dungeon-Combo/d737-5623388P58?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/London/London-Eye-and-The-London-Dungeon-Combo/d737-5623388P58?pid=P00295226&mcid=42383&medium=link">London Eye and The London Dungeon Combo</a>** <span class="badge">-20%</span>
 
 _Attractions & Museums_
 
@@ -157,7 +157,7 @@ From **$76**
 
 [![London Eye Madame Tussauds and SEA LIFE Aquarium](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a3/91/f9/caption.jpg)](https://www.viator.com/tours/London/London-Eye-Madame-Tussauds-and-SEA-LIFE-Aquarium/d737-5623388P57?pid=P00295226&mcid=42383&medium=link)
 
-**[London Eye Madame Tussauds and SEA LIFE Aquarium](https://www.viator.com/tours/London/London-Eye-Madame-Tussauds-and-SEA-LIFE-Aquarium/d737-5623388P57?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/London/London-Eye-Madame-Tussauds-and-SEA-LIFE-Aquarium/d737-5623388P57?pid=P00295226&mcid=42383&medium=link">London Eye Madame Tussauds and SEA LIFE Aquarium</a>** <span class="badge">-20%</span>
 
 _Attractions & Museums_
 
@@ -169,7 +169,7 @@ From **$83**
 
 [![Private Transfer One-Way London City to Heathrow Airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/0e/f5/f9/7d.jpg)](https://www.viator.com/tours/London/Private-Transfer-One-Way-London-City-to-Heathrow-Airport/d737-320547P54?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transfer One-Way London City to Heathrow Airport](https://www.viator.com/tours/London/Private-Transfer-One-Way-London-City-to-Heathrow-Airport/d737-320547P54?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/London/Private-Transfer-One-Way-London-City-to-Heathrow-Airport/d737-320547P54?pid=P00295226&mcid=42383&medium=link">Private Transfer One-Way London City to Heathrow Airport</a>** <span class="badge">-20%</span>
 
 _Airport & Hotel Transfers_
 

@@ -107,7 +107,7 @@ Hoi An’s culinary scene is a treat for the senses, with a wide array of flavor
 
 [![My Son Sanctuary & Hoi An Ancient Town Full-Day Experience](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/6a/ee/d9.jpg)](https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link)
 
-**[My Son Sanctuary & Hoi An Ancient Town Full-Day Experience](https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Hoi-An/My-Son-Sanctuary-and-Hoi-An-Ancient-Town-Full-Day-Experience/d5229-203862P3?pid=P00295226&mcid=42383&medium=link">My Son Sanctuary & Hoi An Ancient Town Full-Day Experience</a>** <span class="badge">-10%</span>
 
 _Private Drivers_
 
@@ -119,7 +119,7 @@ From **$64**
 
 [![Bana Hills - Golden Bridge Deluxe Small group from Hoian/ Danang](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/44/50/e7.jpg)](https://www.viator.com/tours/Hoi-An/Bana-Hills-Golden-Bridge-Deluxe-Small-group-from-Hoian-Danang/d5229-104142P1?pid=P00295226&mcid=42383&medium=link)
 
-**[Bana Hills - Golden Bridge Deluxe Small group from Hoian/ Danang](https://www.viator.com/tours/Hoi-An/Bana-Hills-Golden-Bridge-Deluxe-Small-group-from-Hoian-Danang/d5229-104142P1?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Hoi-An/Bana-Hills-Golden-Bridge-Deluxe-Small-group-from-Hoian-Danang/d5229-104142P1?pid=P00295226&mcid=42383&medium=link">Bana Hills - Golden Bridge Deluxe Small group from Hoian/ Danang</a>** <span class="badge">-5%</span>
 
 _Full-day Tours_
 
@@ -131,7 +131,7 @@ From **$20**
 
 [![Coconut Jungle Eco & Hoi An City Tour With Boat Ride](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/ff/db/aa.jpg)](https://www.viator.com/tours/Hoi-An/Coconut-Jungle-Eco-and-Hoi-An-City-Tour-With-Boat-Ride/d5229-104142P12?pid=P00295226&mcid=42383&medium=link)
 
-**[Coconut Jungle Eco & Hoi An City Tour With Boat Ride](https://www.viator.com/tours/Hoi-An/Coconut-Jungle-Eco-and-Hoi-An-City-Tour-With-Boat-Ride/d5229-104142P12?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Hoi-An/Coconut-Jungle-Eco-and-Hoi-An-City-Tour-With-Boat-Ride/d5229-104142P12?pid=P00295226&mcid=42383&medium=link">Coconut Jungle Eco & Hoi An City Tour With Boat Ride</a>** <span class="badge">-5%</span>
 
 _Water Tours_
 
@@ -143,7 +143,7 @@ From **$40**
 
 [![Hoi An Countryside - Buffalo Riding - Basket Boat Rowing](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/09/99/2b/2e.jpg)](https://www.viator.com/tours/Hoi-An/Hoi-An-Countryside-Buffalo-Riding-Basket-Boat-Rowing/d5229-104142P8?pid=P00295226&mcid=42383&medium=link)
 
-**[Hoi An Countryside - Buffalo Riding - Basket Boat Rowing](https://www.viator.com/tours/Hoi-An/Hoi-An-Countryside-Buffalo-Riding-Basket-Boat-Rowing/d5229-104142P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Hoi-An/Hoi-An-Countryside-Buffalo-Riding-Basket-Boat-Rowing/d5229-104142P8?pid=P00295226&mcid=42383&medium=link">Hoi An Countryside - Buffalo Riding - Basket Boat Rowing</a>** <span class="badge">-5%</span>
 
 _Mountain Bike Tours_
 
@@ -155,7 +155,7 @@ From **$37**
 
 [![Da Nang: Hoi An Ancient Town, Night Market and Basket Boat](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/7c/f8/9b.jpg)](https://www.viator.com/tours/Hoi-An/Da-Nang-Hoi-An-Ancient-Town-Night-Market-and-Basket-Boat/d5229-382376P48?pid=P00295226&mcid=42383&medium=link)
 
-**[Da Nang: Hoi An Ancient Town, Night Market and Basket Boat](https://www.viator.com/tours/Hoi-An/Da-Nang-Hoi-An-Ancient-Town-Night-Market-and-Basket-Boat/d5229-382376P48?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-5%</span>
+**<a href="https://www.viator.com/tours/Hoi-An/Da-Nang-Hoi-An-Ancient-Town-Night-Market-and-Basket-Boat/d5229-382376P48?pid=P00295226&mcid=42383&medium=link">Da Nang: Hoi An Ancient Town, Night Market and Basket Boat</a>** <span class="badge">-5%</span>
 
 _Full-day Tours_
 

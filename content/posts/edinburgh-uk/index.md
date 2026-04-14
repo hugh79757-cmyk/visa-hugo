@@ -107,7 +107,7 @@ If you’re in the mood for something unique, try a **whisky tasting** at one of
 
 [![Self Guided The Edinburgh Syndicate City Escape Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/eb/64/25.jpg)](https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link)
 
-**[Self Guided The Edinburgh Syndicate City Escape Game](https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Edinburgh/Self-Guided-The-Edinburgh-Syndicate-City-Escape-Game/d739-30066P567?pid=P00295226&mcid=42383&medium=link">Self Guided The Edinburgh Syndicate City Escape Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -119,7 +119,7 @@ From **$23**
 
 [![Edinburgh Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/e7/1b/a7.jpg)](https://www.viator.com/tours/Edinburgh/Edinburgh-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d739-30066P286?pid=P00295226&mcid=42383&medium=link)
 
-**[Edinburgh Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Edinburgh/Edinburgh-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d739-30066P286?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Edinburgh/Edinburgh-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d739-30066P286?pid=P00295226&mcid=42383&medium=link">Edinburgh Self Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -131,7 +131,7 @@ From **$23**
 
 [![Secrets of Edinburgh Self Guided Exploration Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/78/94/2a.jpg)](https://www.viator.com/tours/Edinburgh/Secrets-of-Edinburgh-Self-Guided-Exploration-Game/d739-30066P564?pid=P00295226&mcid=42383&medium=link)
 
-**[Secrets of Edinburgh Self Guided Exploration Game](https://www.viator.com/tours/Edinburgh/Secrets-of-Edinburgh-Self-Guided-Exploration-Game/d739-30066P564?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Edinburgh/Secrets-of-Edinburgh-Self-Guided-Exploration-Game/d739-30066P564?pid=P00295226&mcid=42383&medium=link">Secrets of Edinburgh Self Guided Exploration Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -143,7 +143,7 @@ From **$23**
 
 [![Coastal Kingdoms Day Tour Lindisfarne and Bamburgh Castle](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/7b/3a/ea/caption.jpg)](https://www.viator.com/tours/Edinburgh/Coastal-Kingdoms-Day-Tour-Lindisfarne-and-Bamburgh-Castle/d739-5638360P3?pid=P00295226&mcid=42383&medium=link)
 
-**[Coastal Kingdoms Day Tour Lindisfarne and Bamburgh Castle](https://www.viator.com/tours/Edinburgh/Coastal-Kingdoms-Day-Tour-Lindisfarne-and-Bamburgh-Castle/d739-5638360P3?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Edinburgh/Coastal-Kingdoms-Day-Tour-Lindisfarne-and-Bamburgh-Castle/d739-5638360P3?pid=P00295226&mcid=42383&medium=link">Coastal Kingdoms Day Tour Lindisfarne and Bamburgh Castle</a>** <span class="badge">-25%</span>
 
 _Day Trips_
 
@@ -155,7 +155,7 @@ From **$81**
 
 [![Highland Gems Dunkeld The Hermitage and Blair Atholl Castle](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/7b/39/ae/caption.jpg)](https://www.viator.com/tours/Edinburgh/Highland-Gems-Dunkeld-The-Hermitage-and-Blair-Atholl-Castle/d739-5638360P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Highland Gems Dunkeld The Hermitage and Blair Atholl Castle](https://www.viator.com/tours/Edinburgh/Highland-Gems-Dunkeld-The-Hermitage-and-Blair-Atholl-Castle/d739-5638360P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Edinburgh/Highland-Gems-Dunkeld-The-Hermitage-and-Blair-Atholl-Castle/d739-5638360P4?pid=P00295226&mcid=42383&medium=link">Highland Gems Dunkeld The Hermitage and Blair Atholl Castle</a>** <span class="badge">-25%</span>
 
 _Day Trips_
 

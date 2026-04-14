@@ -112,7 +112,7 @@ When dining out, you’ll find a variety of options, from casual konobas (tavern
 
 [![Split Self Guided Sherlock Holmes Murder Mystery Game](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/e7/0b/84.jpg)](https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link)
 
-**[Split Self Guided Sherlock Holmes Murder Mystery Game](https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Split/Split-Self-Guided-Sherlock-Holmes-Murder-Mystery-Game/d4185-30066P272?pid=P00295226&mcid=42383&medium=link">Split Self Guided Sherlock Holmes Murder Mystery Game</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -124,7 +124,7 @@ From **$23**
 
 [![Private Transfer From or To the Split Airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/54/38/0a.jpg)](https://www.viator.com/tours/Split/Private-Transfer-From-or-To-the-Split-Airport/d4185-346719P11?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transfer From or To the Split Airport](https://www.viator.com/tours/Split/Private-Transfer-From-or-To-the-Split-Airport/d4185-346719P11?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Split/Private-Transfer-From-or-To-the-Split-Airport/d4185-346719P11?pid=P00295226&mcid=42383&medium=link">Private Transfer From or To the Split Airport</a>** <span class="badge">-20%</span>
 
 _Airport & Hotel Transfers_
 
@@ -136,7 +136,7 @@ From **$94**
 
 [![Private Transfer from Split to Dubrovnik with stop options](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/12/4e/d0/91.jpg)](https://www.viator.com/tours/Split/Private-Transfer-from-Split-to-Dubrovnik-with-stop-options/d4185-346719P8?pid=P00295226&mcid=42383&medium=link)
 
-**[Private Transfer from Split to Dubrovnik with stop options](https://www.viator.com/tours/Split/Private-Transfer-from-Split-to-Dubrovnik-with-stop-options/d4185-346719P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Split/Private-Transfer-from-Split-to-Dubrovnik-with-stop-options/d4185-346719P8?pid=P00295226&mcid=42383&medium=link">Private Transfer from Split to Dubrovnik with stop options</a>** <span class="badge">-20%</span>
 
 _Shore Excursions_
 
@@ -148,7 +148,7 @@ From **$518**
 
 [![Luxury private transfer: Split airport to Split](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/61/7f/d4.jpg)](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-airport-to-Split/d4185-68396P2?pid=P00295226&mcid=42383&medium=link)
 
-**[Luxury private transfer: Split airport to Split](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-airport-to-Split/d4185-68396P2?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Split/Luxury-private-transfer-Split-airport-to-Split/d4185-68396P2?pid=P00295226&mcid=42383&medium=link">Luxury private transfer: Split airport to Split</a>** <span class="badge">-10%</span>
 
 _Airport & Hotel Transfers_
 
@@ -160,7 +160,7 @@ From **$41**
 
 [![Luxury private transfer: Split Town to Split airport](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/10/61/7f/93.jpg)](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-Town-to-Split-airport/d4185-68396P8?pid=P00295226&mcid=42383&medium=link)
 
-**[Luxury private transfer: Split Town to Split airport](https://www.viator.com/tours/Split/Luxury-private-transfer-Split-Town-to-Split-airport/d4185-68396P8?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-10%</span>
+**<a href="https://www.viator.com/tours/Split/Luxury-private-transfer-Split-Town-to-Split-airport/d4185-68396P8?pid=P00295226&mcid=42383&medium=link">Luxury private transfer: Split Town to Split airport</a>** <span class="badge">-10%</span>
 
 _Airport & Hotel Transfers_
 

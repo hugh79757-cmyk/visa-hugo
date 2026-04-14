@@ -117,7 +117,7 @@ For dining, you’ll find a mix of casual eateries and upscale restaurants. Whil
 
 [![Puglia Adventure: Self-Guided Treasures of Southern Italy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/15/d8/17/c7.jpg)](https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link)
 
-**[Puglia Adventure: Self-Guided Treasures of Southern Italy](https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-67%</span>
+**<a href="https://www.viator.com/tours/Bari/Puglia-Adventure-Self-Guided-Treasures-of-Southern-Italy/d4226-5520738P136?pid=P00295226&mcid=42383&medium=link">Puglia Adventure: Self-Guided Treasures of Southern Italy</a>** <span class="badge">-67%</span>
 
 _Day Trips_
 
@@ -129,7 +129,7 @@ From **$1**
 
 [![Sherlock Holmes Murder Mystery Game in Bari, Italy](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/11/cc/3f/da.jpg)](https://www.viator.com/tours/Bari/Sherlock-Holmes-Murder-Mystery-Game-in-Bari-Italy/d4226-30066P157?pid=P00295226&mcid=42383&medium=link)
 
-**[Sherlock Holmes Murder Mystery Game in Bari, Italy](https://www.viator.com/tours/Bari/Sherlock-Holmes-Murder-Mystery-Game-in-Bari-Italy/d4226-30066P157?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-25%</span>
+**<a href="https://www.viator.com/tours/Bari/Sherlock-Holmes-Murder-Mystery-Game-in-Bari-Italy/d4226-30066P157?pid=P00295226&mcid=42383&medium=link">Sherlock Holmes Murder Mystery Game in Bari, Italy</a>** <span class="badge">-25%</span>
 
 _Escape Rooms_
 
@@ -141,7 +141,7 @@ From **$23**
 
 [![Culinary tour and walk in the alleys of Barivecchia](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/c4/7d/b2/caption.jpg)](https://www.viator.com/tours/Bari/Culinary-tour-and-walk-in-the-alleys-of-Barivecchia/d4226-5646853P4?pid=P00295226&mcid=42383&medium=link)
 
-**[Culinary tour and walk in the alleys of Barivecchia](https://www.viator.com/tours/Bari/Culinary-tour-and-walk-in-the-alleys-of-Barivecchia/d4226-5646853P4?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Bari/Culinary-tour-and-walk-in-the-alleys-of-Barivecchia/d4226-5646853P4?pid=P00295226&mcid=42383&medium=link">Culinary tour and walk in the alleys of Barivecchia</a>** <span class="badge">-20%</span>
 
 _Street Food Tours_
 
@@ -153,7 +153,7 @@ From **$38**
 
 [![Bari Old Town Ghost & Legends Tour with Tastings](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/a3/59/2f/caption.jpg)](https://www.viator.com/tours/Bari/Bari-Old-Town-Ghost-and-Legends-Tour-with-Tastings/d4226-326991P61?pid=P00295226&mcid=42383&medium=link)
 
-**[Bari Old Town Ghost & Legends Tour with Tastings](https://www.viator.com/tours/Bari/Bari-Old-Town-Ghost-and-Legends-Tour-with-Tastings/d4226-326991P61?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Bari/Bari-Old-Town-Ghost-and-Legends-Tour-with-Tastings/d4226-326991P61?pid=P00295226&mcid=42383&medium=link">Bari Old Town Ghost & Legends Tour with Tastings</a>** <span class="badge">-20%</span>
 
 _Ghost Tours_
 
@@ -165,7 +165,7 @@ From **$46**
 
 [![Mérida Walking Tour 2h40 and 18 audio reviews](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-360x240/r/32/97/4e/19/caption.jpg)](https://www.viator.com/tours/Merida/Mrida-Walking-Tour-2h40-and-18-audio-reviews/d51211-5577016P207?pid=P00295226&mcid=42383&medium=link)
 
-**[Mérida Walking Tour 2h40 and 18 audio reviews](https://www.viator.com/tours/Merida/Mrida-Walking-Tour-2h40-and-18-audio-reviews/d51211-5577016P207?pid=P00295226&mcid=42383&medium=link)** <span class="badge">-20%</span>
+**<a href="https://www.viator.com/tours/Merida/Mrida-Walking-Tour-2h40-and-18-audio-reviews/d51211-5577016P207?pid=P00295226&mcid=42383&medium=link">Mérida Walking Tour 2h40 and 18 audio reviews</a>** <span class="badge">-20%</span>
 
 _City Tours_
 
