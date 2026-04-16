@@ -2,7 +2,6 @@
 title: "Bulgaria Visa Policy Guide"
 date: 2026-04-13T10:15:32+09:00
 description: "Complete visa requirements guide for Bulgaria: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-bulgaria/cover.jpg"
 featureimagecredit: "Photo by [Denitsa Kireva](https://www.pexels.com/@denitsa-kireva-2915302) on [Pexels](https://www.pexels.com)"
 tags:
   - "Bulgaria"

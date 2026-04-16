@@ -2,7 +2,6 @@
 title: "Argentina Visa Policy: Who Needs a Visa to Enter Argentina"
 date: 2026-04-09T10:15:27+09:00
 description: "Complete visa requirements guide for Argentina: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-argentina/cover.jpg"
 featureimagecredit: "Photo by [Rickson Derik](https://www.pexels.com/@rickson-derik-1225713006) on [Pexels](https://www.pexels.com)"
 tags:
   - "Argentina"

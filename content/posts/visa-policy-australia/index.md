@@ -2,7 +2,6 @@
 title: "Australia Visa Policy: Who Needs a Visa to Enter Australia"
 date: 2026-04-09T13:15:50+09:00
 description: "Complete visa requirements guide for Australia: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-australia/cover.jpg"
 featureimagecredit: "Photo by [Bal Jinder](https://www.pexels.com/@bal-jinder-2150660838) on [Pexels](https://www.pexels.com)"
 tags:
   - "Australia"

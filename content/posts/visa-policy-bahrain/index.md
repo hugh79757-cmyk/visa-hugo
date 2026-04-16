@@ -2,7 +2,6 @@
 title: "Bahrain Visa Policy Guide: Who Needs a Visa to Enter Bahrain"
 date: 2026-04-10T19:16:55+09:00
 description: "Complete visa requirements guide for Bahrain: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-bahrain/cover.jpg"
 featureimagecredit: "Photo by [Satheesh Cholakkal](https://www.pexels.com/@satheesh-cholakkal-17628918) on [Pexels](https://www.pexels.com)"
 tags:
   - "Bahrain"

@@ -3,7 +3,6 @@ title: "The Best of Jaipur: Attractions, Food, and Travel Tips You Need"
 date: 2026-04-03T07:30:38+07:00
 description: "Everything you need to know about visiting Jaipur, India — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/jaipur-india/cover.jpg"
 tags:
   - "Jaipur"
   - "India"

@@ -2,7 +2,6 @@
 title: "Chile Visa Policy: Who Needs a Visa to Enter Chile"
 date: 2026-04-14T14:09:38+09:00
 description: "Complete visa requirements guide for Chile: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-chile/cover.jpg"
 featureimagecredit: "Photo by [CamilaIgnacia Anguloğlu](https://www.pexels.com/@camilaignacia) on [Pexels](https://www.pexels.com)"
 tags:
   - "Chile"

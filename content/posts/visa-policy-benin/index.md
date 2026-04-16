@@ -2,7 +2,6 @@
 title: "Benin Visa Policy Guide"
 date: 2026-04-11T13:15:35+09:00
 description: "Complete visa requirements guide for Benin: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-benin/cover.jpg"
 featureimagecredit: "Photo by [David Iloba](https://www.pexels.com/@david-iloba-28486424) on [Pexels](https://www.pexels.com)"
 tags:
   - "Benin"

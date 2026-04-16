@@ -3,7 +3,6 @@ title: "Chiang Mai on a Budget: How to Explore Chiang Mai Without Breaking the B
 date: 2026-04-04T18:57:13+07:00
 description: "Everything you need to know about visiting Chiang Mai, Thailand — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/chiang-mai-thailand/cover.jpg"
 tags:
   - "Chiang Mai"
   - "Thailand"

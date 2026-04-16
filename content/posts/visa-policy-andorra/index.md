@@ -2,7 +2,6 @@
 title: "Andorra Visa Policy Guide"
 date: 2026-04-08T16:14:15+09:00
 description: "Complete visa requirements guide for Andorra: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-andorra/cover.jpg"
 featureimagecredit: "Photo by [Walter Cunha](https://www.pexels.com/@walter-cunha-2158705182) on [Pexels](https://www.pexels.com)"
 tags:
   - "Andorra"

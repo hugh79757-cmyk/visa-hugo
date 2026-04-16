@@ -10,7 +10,6 @@ tags:
 categories:
   - "Travel Guide"
 showTableOfContents: true
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/paris-france/cover.jpg"
 ---
 
 ## Why Visit Paris?

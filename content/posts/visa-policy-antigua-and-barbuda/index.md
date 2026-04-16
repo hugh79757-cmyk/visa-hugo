@@ -2,7 +2,6 @@
 title: "Antigua and Barbuda Visa Policy Guide"
 date: 2026-04-08T19:15:45+09:00
 description: "Complete visa requirements guide for Antigua and Barbuda: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-antigua-and-barbuda/cover.jpg"
 featureimagecredit: "Photo by [Gad Samuel](https://www.pexels.com/@gadsamuel) on [Pexels](https://www.pexels.com)"
 tags:
   - "Antigua and Barbuda"

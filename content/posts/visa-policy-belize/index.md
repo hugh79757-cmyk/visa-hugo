@@ -2,7 +2,6 @@
 title: "Belize Visa Policy Guide"
 date: 2026-04-11T13:13:54+09:00
 description: "Complete visa requirements guide for Belize: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-belize/cover.jpg"
 featureimagecredit: "Photo by [Yogi R](https://www.pexels.com/@yogi-r-894778199) on [Pexels](https://www.pexels.com)"
 tags:
   - "Belize"

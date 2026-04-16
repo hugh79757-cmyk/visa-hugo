@@ -2,7 +2,6 @@
 title: "Armenia Visa Policy Guide"
 date: 2026-04-09T10:22:26+09:00
 description: "Complete visa requirements guide for Armenia: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-armenia/cover.jpg"
 featureimagecredit: "Photo by [Gabriele Niek](https://www.pexels.com/@gabriele-niek-688131453) on [Pexels](https://www.pexels.com)"
 tags:
   - "Armenia"

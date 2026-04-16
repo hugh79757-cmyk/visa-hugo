@@ -3,7 +3,6 @@ title: "Edinburgh Like a Local: Neighborhoods, Food, and Off-the-Beaten-Path Tip
 date: 2026-04-04T18:30:49+07:00
 description: "Everything you need to know about visiting Edinburgh, United Kingdom — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/edinburgh-uk/cover.jpg"
 tags:
   - "Edinburgh"
   - "United Kingdom"

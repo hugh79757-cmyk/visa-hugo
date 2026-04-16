@@ -3,7 +3,6 @@ title: "The Ultimate Bruges Travel Guide for First-Time Visitors"
 date: 2026-04-04T07:38:39+07:00
 description: "Everything you need to know about visiting Bruges, Belgium — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bruges-belgium-2/cover.jpg"
 tags:
   - "Bruges"
   - "Belgium"

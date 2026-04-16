@@ -2,7 +2,6 @@
 title: "Burundi Visa Policy: Who Needs a Visa to Enter Burundi"
 date: 2026-04-13T11:15:33+09:00
 description: "Complete visa requirements guide for Burundi: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-burundi/cover.jpg"
 featureimagecredit: "Photo by [Audy of  Course](https://www.pexels.com/@audy-of-course-306413796) on [Pexels](https://www.pexels.com)"
 tags:
   - "Burundi"

@@ -2,7 +2,6 @@
 title: "Barbados Visa Policy: Who Needs a Visa to Enter Barbados"
 date: 2026-04-10T23:20:11+09:00
 description: "Complete visa requirements guide for Barbados: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-barbados/cover.jpg"
 featureimagecredit: "Photo by [Matteo Parisi](https://www.pexels.com/@matteo-parisi-27261509) on [Pexels](https://www.pexels.com)"
 tags:
   - "Barbados"

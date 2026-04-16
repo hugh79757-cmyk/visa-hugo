@@ -3,7 +3,6 @@ title: "A First-Timer's Guide to Lofoten: Tips, Costs, and Must-See Spots"
 date: 2026-04-05T07:31:16+07:00
 description: "Everything you need to know about visiting Lofoten, Norway — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lofoten-norway/cover.jpg"
 tags:
   - "Lofoten"
   - "Norway"

@@ -2,7 +2,6 @@
 title: "Austria Visa Policy Guide"
 date: 2026-04-09T13:22:12+09:00
 description: "Complete visa requirements guide for Austria: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-austria/cover.jpg"
 featureimagecredit: "Photo by [Wolfgang Weiser](https://www.pexels.com/@wolfgang-weiser-467045605) on [Pexels](https://www.pexels.com)"
 tags:
   - "Austria"

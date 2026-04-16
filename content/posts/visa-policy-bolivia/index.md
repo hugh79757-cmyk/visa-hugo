@@ -2,7 +2,6 @@
 title: "Bolivia Visa Policy: Who Needs a Visa to Enter Bolivia"
 date: 2026-04-12T10:14:31+09:00
 description: "Complete visa requirements guide for Bolivia: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-bolivia/cover.jpg"
 featureimagecredit: "Photo by [Julia Volk](https://www.pexels.com/@julia-volk) on [Pexels](https://www.pexels.com)"
 tags:
   - "Bolivia"

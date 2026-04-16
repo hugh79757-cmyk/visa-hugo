@@ -3,7 +3,6 @@ title: "How to Spend a Week in Seville: Day-by-Day Travel Planner"
 date: 2026-04-03T07:34:38+07:00
 description: "Everything you need to know about visiting Seville, Spain — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/seville-spain/cover.jpg"
 tags:
   - "Seville"
   - "Spain"

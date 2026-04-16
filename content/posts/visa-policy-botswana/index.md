@@ -2,7 +2,6 @@
 title: "Botswana Visa Policy: Who Needs a Visa to Enter Botswana"
 date: 2026-04-12T12:45:29+09:00
 description: "Complete visa requirements guide for Botswana: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-botswana/cover.jpg"
 featureimagecredit: "Photo by [Robert Moss](https://www.pexels.com/@mossapparel) on [Pexels](https://www.pexels.com)"
 tags:
   - "Botswana"

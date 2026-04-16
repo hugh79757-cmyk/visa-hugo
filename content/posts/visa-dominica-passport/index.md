@@ -2,7 +2,6 @@
 title: "Travel with a Dominica Passport: Visa Requirements for 199 Countries"
 date: 2026-04-01T23:15:49+09:00
 description: "Dominica passport visa requirements for 199 countries. 91 visa-free destinations, e-visa options, and application guides."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-dominica-passport/cover.jpg"
 tags:
   - "Dominica"
   - "visa requirements"

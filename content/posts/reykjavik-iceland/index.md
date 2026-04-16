@@ -3,7 +3,6 @@ title: "Your Perfect Reykjavik Trip: When to Go, Where to Stay, What to Eat"
 date: 2026-04-02T07:32:38+07:00
 description: "Everything you need to know about visiting Reykjavik, Iceland — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/reykjavik-iceland/cover.jpg"
 tags:
   - "Reykjavik"
   - "Iceland"

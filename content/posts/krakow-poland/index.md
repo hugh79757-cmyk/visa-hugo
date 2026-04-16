@@ -3,7 +3,6 @@ title: "The Best of Krakow: Attractions, Food, and Travel Tips You Need"
 date: 2026-04-03T07:31:32+07:00
 description: "Everything you need to know about visiting Krakow, Poland — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/krakow-poland/cover.jpg"
 tags:
   - "Krakow"
   - "Poland"

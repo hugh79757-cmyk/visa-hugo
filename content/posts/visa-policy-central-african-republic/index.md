@@ -2,7 +2,6 @@
 title: "Central African Republic Visa Policy Guide"
 date: 2026-04-14T11:12:58+09:00
 description: "Complete visa requirements guide for Central African Republic: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-central-african-republic/cover.jpg"
 featureimagecredit: "Photo by [Abdulrahman Abubakar](https://www.pexels.com/@abdulrahman-abubakar-501847670) on [Pexels](https://www.pexels.com)"
 tags:
   - "Central African Republic"

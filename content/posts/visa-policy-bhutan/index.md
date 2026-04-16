@@ -2,7 +2,6 @@
 title: "Bhutan Visa Policy: Who Needs a Visa to Enter Bhutan"
 date: 2026-04-11T16:09:19+09:00
 description: "Complete visa requirements guide for Bhutan: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-bhutan/cover.jpg"
 featureimagecredit: "Photo by [Harsh Suthar](https://www.pexels.com/@harsh) on [Pexels](https://www.pexels.com)"
 tags:
   - "Bhutan"

@@ -3,7 +3,6 @@ title: "What to Know Before Visiting Dubrovnik: Insider Tips and Travel Advice"
 date: 2026-04-02T10:32:28+07:00
 description: "Everything you need to know about visiting Dubrovnik, Croatia — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/dubrovnik-croatia/cover.jpg"
 tags:
   - "Dubrovnik"
   - "Croatia"

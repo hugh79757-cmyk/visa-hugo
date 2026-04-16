@@ -2,7 +2,6 @@
 title: "Belgium Visa Policy: Who Needs a Visa to Enter Belgium"
 date: 2026-04-11T10:20:18+09:00
 description: "Complete visa requirements guide for Belgium: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-belgium/cover.jpg"
 featureimagecredit: "Photo by [Efrem  Efre](https://www.pexels.com/@efrem-efre-2786187) on [Pexels](https://www.pexels.com)"
 tags:
   - "Belgium"

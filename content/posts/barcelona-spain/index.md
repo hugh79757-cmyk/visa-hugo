@@ -3,7 +3,6 @@ title: "Everything You Need for an Unforgettable Trip to Barcelona"
 date: 2026-03-31T20:30:38+07:00
 description: "Everything you need to know about visiting Barcelona, Spain — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/barcelona-spain/cover.jpg"
 tags:
   - "Barcelona"
   - "Spain"

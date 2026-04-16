@@ -3,7 +3,6 @@ title: "Nara on a Budget: How to Explore Nara Without Breaking the Bank"
 date: 2026-04-04T20:09:12+07:00
 description: "Everything you need to know about visiting Nara, Japan — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/nara-japan/cover.jpg"
 tags:
   - "Nara"
   - "Japan"

@@ -2,7 +2,6 @@
 title: "Canada Visa Policy: Who Needs a Visa to Enter Canada"
 date: 2026-04-14T08:15:41+09:00
 description: "Complete visa requirements guide for Canada: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-canada/cover.jpg"
 featureimagecredit: "Photo by [apertur 2.8](https://www.pexels.com/@aperture) on [Pexels](https://www.pexels.com)"
 tags:
   - "Canada"

@@ -3,7 +3,6 @@ title: "Rome Travel Guide: Best Time to Visit, Where to Stay, and Things to Do"
 date: 2026-03-31T18:39:53+07:00
 description: "Everything you need to know about visiting Rome, Italy — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/rome-italy/cover.jpg"
 tags:
   - "Rome"
   - "Italy"

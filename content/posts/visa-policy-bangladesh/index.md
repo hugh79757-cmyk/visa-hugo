@@ -2,7 +2,6 @@
 title: "Bangladesh Visa Policy: Who Needs a Visa to Enter Bangladesh"
 date: 2026-04-10T23:15:53+09:00
 description: "Complete visa requirements guide for Bangladesh: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-bangladesh/cover.jpg"
 featureimagecredit: "Photo by [Zakaria  Joy](https://www.pexels.com/@zakaria-joy-2157235168) on [Pexels](https://www.pexels.com)"
 tags:
   - "Bangladesh"

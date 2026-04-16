@@ -3,7 +3,6 @@ title: "Everything You Need for an Unforgettable Trip to Lombok"
 date: 2026-04-05T13:34:20+07:00
 description: "Everything you need to know about visiting Lombok, Indonesia — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lombok-indonesia/cover.jpg"
 tags:
   - "Lombok"
   - "Indonesia"

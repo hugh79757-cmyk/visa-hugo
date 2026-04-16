@@ -3,7 +3,6 @@ title: "Planning a Trip to Luang Prabang? Here's Your Complete Itinerary Guide"
 date: 2026-04-03T07:32:25+07:00
 description: "Everything you need to know about visiting Luang Prabang, Laos — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/luang-prabang-laos/cover.jpg"
 tags:
   - "Luang Prabang"
   - "Laos"

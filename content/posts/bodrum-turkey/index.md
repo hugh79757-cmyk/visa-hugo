@@ -3,7 +3,6 @@ title: "The Best of Bodrum: Attractions, Food, and Travel Tips You Need"
 date: 2026-04-04T20:20:16+07:00
 description: "Everything you need to know about visiting Bodrum, Turkey — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/bodrum-turkey/cover.jpg"
 tags:
   - "Bodrum"
   - "Turkey"

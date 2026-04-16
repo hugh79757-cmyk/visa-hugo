@@ -2,7 +2,6 @@
 title: "Cape Verde Visa Policy Guide"
 date: 2026-04-14T08:48:31+09:00
 description: "Complete visa requirements guide for Cape Verde: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-cape-verde/cover.jpg"
 featureimagecredit: "Photo by [damien Saillet](https://www.pexels.com/@damien-saillet-176521893) on [Pexels](https://www.pexels.com)"
 tags:
   - "Cape Verde"

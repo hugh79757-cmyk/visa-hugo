@@ -2,7 +2,6 @@
 title: "Afghanistan Visa Policy: Who Needs a Visa to Enter Afghanistan"
 date: 2026-04-04T23:15:54+09:00
 description: "Complete visa requirements guide for Afghanistan: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-afghanistan/cover.jpg"
 featureimagecaption: "Photo by [Faruk Tokluoğlu](https://www.pexels.com/@faruktokluoglu) on [Pexels](https://www.pexels.com)"
 tags:
   - "Afghanistan"

@@ -3,7 +3,6 @@ title: "Playa del Carmen Revealed: Local Secrets, Best Neighborhoods, and Hidden
 date: 2026-04-04T20:28:31+07:00
 description: "Everything you need to know about visiting Playa del Carmen, Mexico — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/playa-del-carmen-mexico/cover.jpg"
 tags:
   - "Playa del Carmen"
   - "Mexico"

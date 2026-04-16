@@ -3,7 +3,6 @@ title: "Top Things to Do in Porto: A Practical Guide for Every Budget"
 date: 2026-04-03T07:49:04+07:00
 description: "Everything you need to know about visiting Porto, Portugal — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/porto-portugal/cover.jpg"
 tags:
   - "Porto"
   - "Portugal"

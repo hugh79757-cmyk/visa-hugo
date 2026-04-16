@@ -3,7 +3,6 @@ title: "A First-Timer's Guide to Taipei: Tips, Costs, and Must-See Spots"
 date: 2026-04-02T10:33:37+07:00
 description: "Everything you need to know about visiting Taipei, Taiwan — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/taipei-taiwan/cover.jpg"
 tags:
   - "Taipei"
   - "Taiwan"

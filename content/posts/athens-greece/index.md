@@ -3,7 +3,6 @@ title: "The Ultimate Athens Travel Guide for First-Time Visitors"
 date: 2026-04-01T16:32:24+07:00
 description: "Everything you need to know about visiting Athens, Greece — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/athens-greece/cover.jpg"
 tags:
   - "Athens"
   - "Greece"

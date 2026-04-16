@@ -2,7 +2,6 @@
 title: "Burkina Faso Visa Policy Guide"
 date: 2026-04-13T10:45:34+09:00
 description: "Complete visa requirements guide for Burkina Faso: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-burkina-faso/cover.jpg"
 featureimagecredit: "Photo by [Murat Kahraman](https://www.pexels.com/@enkahramanmurat) on [Pexels](https://www.pexels.com)"
 tags:
   - "Burkina Faso"

@@ -3,7 +3,6 @@ title: "The Best of Salzburg: Attractions, Food, and Travel Tips You Need"
 date: 2026-04-03T20:30:43+07:00
 description: "Everything you need to know about visiting Salzburg, Austria — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/salzburg-austria/cover.jpg"
 tags:
   - "Salzburg"
   - "Austria"

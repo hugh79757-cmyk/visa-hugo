@@ -2,7 +2,6 @@
 title: "Brunei Visa Policy Guide"
 date: 2026-04-12T16:09:22+09:00
 description: "Complete visa requirements guide for Brunei: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-brunei/cover.jpg"
 featureimagecredit: "Photo by [Bojána Noémi Molnár](https://www.pexels.com/@bojana-noemi-molnar-3779409) on [Pexels](https://www.pexels.com)"
 tags:
   - "Brunei"

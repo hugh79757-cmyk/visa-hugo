@@ -3,7 +3,6 @@ title: "How to Spend a Week in Tulum: Day-by-Day Travel Planner"
 date: 2026-04-05T20:31:20+07:00
 description: "Everything you need to know about visiting Tulum, Mexico — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/tulum-mexico/cover.jpg"
 tags:
   - "Tulum"
   - "Mexico"

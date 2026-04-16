@@ -3,7 +3,6 @@ title: "Cape Town on a Budget: How to Explore Cape Town Without Breaking the Ban
 date: 2026-04-02T07:34:37+07:00
 description: "Everything you need to know about visiting Cape Town, South Africa — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/cape-town-south-africa/cover.jpg"
 tags:
   - "Cape Town"
   - "South Africa"

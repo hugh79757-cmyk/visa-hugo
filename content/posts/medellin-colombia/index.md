@@ -3,7 +3,6 @@ title: "How to Spend a Week in Medellin: Day-by-Day Travel Planner"
 date: 2026-04-02T20:34:45+07:00
 description: "Everything you need to know about visiting Medellin, Colombia — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/medellin-colombia/cover.jpg"
 tags:
   - "Medellin"
   - "Colombia"

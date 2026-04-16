@@ -3,7 +3,6 @@ title: "Your Perfect Cinque Terre Trip: When to Go, Where to Stay, What to Eat"
 date: 2026-04-03T13:32:54+07:00
 description: "Everything you need to know about visiting Cinque Terre, Italy — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/cinque-terre-italy/cover.jpg"
 tags:
   - "Cinque Terre"
   - "Italy"

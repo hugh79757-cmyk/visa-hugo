@@ -2,7 +2,6 @@
 title: "Brazil Visa Policy: Who Needs a Visa to Enter Brazil"
 date: 2026-04-12T13:15:34+09:00
 description: "Complete visa requirements guide for Brazil: visa-free countries, visa on arrival, e-visa, and more."
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/visa-policy-brazil/cover.jpg"
 featureimagecredit: "Photo by [Kelly](https://www.pexels.com/@kelly) on [Pexels](https://www.pexels.com)"
 tags:
   - "Brazil"

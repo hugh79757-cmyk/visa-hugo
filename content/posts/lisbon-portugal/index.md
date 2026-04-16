@@ -3,7 +3,6 @@ title: "Top Things to Do in Lisbon: A Practical Guide for Every Budget"
 date: 2026-04-01T13:31:56+07:00
 description: "Everything you need to know about visiting Lisbon, Portugal — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/lisbon-portugal/cover.jpg"
 tags:
   - "Lisbon"
   - "Portugal"

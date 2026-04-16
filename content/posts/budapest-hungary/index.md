@@ -3,7 +3,6 @@ title: "Is Budapest Worth Visiting? An Honest Travel Guide with Budget Tips"
 date: 2026-04-01T20:33:08+07:00
 description: "Everything you need to know about visiting Budapest, Hungary — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/budapest-hungary/cover.jpg"
 tags:
   - "Budapest"
   - "Hungary"

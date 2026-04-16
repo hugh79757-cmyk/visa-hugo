@@ -3,7 +3,6 @@ title: "Visiting Mexico City? Everything You Need to Know Before You Go"
 date: 2026-04-01T20:31:57+07:00
 description: "Everything you need to know about visiting Mexico City, Mexico — best time to go, where to stay, top things to do, food guide, and budget tips."
 
-featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/etap/mexico-city-mexico/cover.jpg"
 tags:
   - "Mexico City"
   - "Mexico"
