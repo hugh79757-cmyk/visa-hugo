@@ -1,0 +1,10 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Visa Guide"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  dateFormat = "Jan 2, 2006"
+  description = "Visa Guide - Travel Blog"

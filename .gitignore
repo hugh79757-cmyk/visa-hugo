@@ -1,0 +1,11 @@
+public/
+resources/
+.hugo_build.lock
+.wrangler/
+_images/
+_images_original/
+r2-images/
+all_slugs.txt
+*.bak
+*.wpress
+*.xml
